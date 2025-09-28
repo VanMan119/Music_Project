@@ -2,6 +2,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import sqlite3
 from datetime import datetime
+import os
 
 # Connect to database
 conn = sqlite3.connect('spotify_tracker.db')
@@ -61,9 +62,9 @@ class SongInstance:
 
 # Connection to spotify app
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
-    client_id="852f6556503043e9be0c04666cb9ce0f",
-    client_secret="fd16afb6a5194fd0954059e79705d3a5",
-    redirect_uri="http://127.0.0.1:8888/callback",
+    client_id=os.environ["SPOTIPY_CLIENT_ID"],
+    client_secret=os.environ["SPOTIPY_CLIENT_SECRET"],
+    redirect_uri=os.environ["SPOTIPY_REDIRECT_URI"],
     scope="user-read-recently-played"
 ))
 
