@@ -3,9 +3,43 @@ from spotipy.oauth2 import SpotifyOAuth
 import sqlite3
 from datetime import datetime
 import os
+from pydrive2.auth import GoogleAuth
+from pydrive2.drive import GoogleDrive
+from oauth2client.service_account import ServiceAccountCredentials
+
+# ------ CLOUD CONNECTION ----------
+DB_FILE_NAME = "spotify_tracker.db"
+
+SERVICE_ACCOUNT_JSON_CONTENT = os.getenv("GDRIVE_SERVICE_ACCOUNT_JSON")
+
+if SERVICE_ACCOUNT_JSON_CONTENT:
+    # Running on GitHub: write secret to temp file
+    with open("/tmp/service_account.json", "w") as f:
+        f.write(SERVICE_ACCOUNT_JSON_CONTENT)
+    service_json_path = "/tmp/service_account.json"
+else:
+    # Running locally: use local JSON file
+    service_json_path = "/home/stonee5936/Projects/Test/spotify-tracker-project.json"
+
+
+scope = ['https://www.googleapis.com/auth/drive']
+credentials = ServiceAccountCredentials.from_json_keyfile_name(
+    service_json_path, scopes=scope
+)
+gauth = GoogleAuth()
+gauth.credentials = credentials
+drive = GoogleDrive(gauth)
+
+file_list = drive.ListFile({'q': f"title='{DB_FILE_NAME}' and trashed=false"}).GetList()
+if file_list:
+    file_list[0].GetContentFile(DB_FILE_NAME)
+    print(f"Downloaded '{DB_FILE_NAME}' from Google Drive.")
+else:
+    print(f"No file named '{DB_FILE_NAME}' found on Google Drive. A new local DB will be created.")
+
 
 # Connect to database
-conn = sqlite3.connect('spotify_tracker.db')
+conn = sqlite3.connect(DB_FILE_NAME)
 c = conn.cursor()
 
 # Create instances table
@@ -108,7 +142,7 @@ for item in results['items']:
     artists_recorded = False
     for current_artist in current_artists:
         if artist == current_artist:
-            artist_recorded = True
+            artists_recorded = True
     if artists_recorded:
         artist_genres = ''
     else:
@@ -177,3 +211,16 @@ for instance in instances:
 # Commit changes and close connection
 conn.commit()
 conn.close()
+
+# ------ UPLOADING UPDATED DB BACK TO CLOUD ------
+file_list = drive.ListFile({'q': f"title='{DB_FILE_NAME}' and trashed=false"}).GetList()
+if file_list:
+    file_drive = file_list[0]
+    file_drive.SetContentFile(DB_FILE_NAME)
+    file_drive.Upload()
+    print(f"Uploaded updated '{DB_FILE_NAME}' to Google Drive.")
+else:
+    new_file = drive.CreateFile({'title': DB_FILE_NAME})
+    new_file.SetContentFile(DB_FILE_NAME)
+    new_file.Upload()
+    print(f"Created and uploaded new '{DB_FILE_NAME}' to Google Drive.")
