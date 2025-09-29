@@ -2,7 +2,7 @@ name: Run Spotify Tracker (Every 30 Minutes)
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Runs every 30 minutes
+    - cron: "0 */4 * * *"  # Runs every 30 minutes
   workflow_dispatch:        # Allows manual run from the Actions tab
 
 jobs:
