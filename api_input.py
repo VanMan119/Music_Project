@@ -168,6 +168,7 @@ for row in rows:
 
 for instance in instances:
     c.execute('INSERT INTO instances (song, artist, date_time, unix_time) VALUES (?, ?, ?, ?)', (instance.name, instance.artist, instance.date_time, instance.unix_time))
+    print("Added instance for:", instance.name, "At:", instance.date_time)
 
 for instance in instances:
 
