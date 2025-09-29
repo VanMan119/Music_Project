@@ -33,6 +33,8 @@ drive = GoogleDrive(gauth)
 file_list = drive.ListFile({'q': f"title='{DB_FILE_NAME}' and trashed=false"}).GetList()
 if file_list:
     file_list[0].GetContentFile(DB_FILE_NAME)
+    print(f"File size after download: {os.path.getsize(DB_FILE_NAME)} bytes")
+
     print(f"Downloaded '{DB_FILE_NAME}' from Google Drive.")
 else:
     print(f"No file named '{DB_FILE_NAME}' found on Google Drive. A new local DB will be created.")
@@ -41,6 +43,7 @@ else:
 # Connect to database
 conn = sqlite3.connect(DB_FILE_NAME)
 c = conn.cursor()
+
 
 # Create instances table
 c.execute("""
@@ -75,6 +78,9 @@ CREATE TABLE IF NOT EXISTS artists (
     genres TEXT
 )
 """)
+
+c.execute("SELECT COUNT(*) FROM instances")
+print("Instances currently in DB:", c.fetchone()[0])
 
 # Commit changes to save table creation
 conn.commit()
@@ -209,6 +215,9 @@ for instance in instances:
         # Adding new artists to db
         c.execute('INSERT INTO artists (name, genres) VALUES (?, ?)', (instance.artist, instance.artist_genre))
         print(f"New artist added: {instance.artist}")
+
+c.execute("SELECT COUNT(*) FROM instances")
+print("Instances currently in DB:", c.fetchone()[0])
 
 # Commit changes and close connection
 conn.commit()
