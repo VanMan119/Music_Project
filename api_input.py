@@ -122,6 +122,7 @@ for item in results['items']:
     date_time = item['played_at'][:10]+' '+item['played_at'][11:19]
     date_time = datetime.strptime(date_time, "%Y-%m-%d %H:%M:%S")
     unix_time = date_time.timestamp()
+    date_time = date_time.strftime("%Y-%m-%d %H:%M:%S")
     duration = track['duration_ms']
     album = track['album']['name']
     popularity = track['popularity']
