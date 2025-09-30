@@ -12,6 +12,7 @@ DB_FILE_NAME = "spotify_tracker.db"
 
 SERVICE_ACCOUNT_JSON_CONTENT = os.getenv("GDRIVE_SERVICE_ACCOUNT_JSON")
 
+
 if SERVICE_ACCOUNT_JSON_CONTENT:
     # Running on GitHub: write secret to temp file
     with open("/tmp/service_account.json", "w") as f:
