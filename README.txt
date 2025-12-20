@@ -26,3 +26,5 @@ statsforspotify website, THIS INCLUDES THE HEADER FOR EACH COLOUMN
 Paste the result into the input.txt file, then run the script.
 Feel free to delete the contents of the input.txt file when done,
 or just replace them on your next usage
+
+update
