@@ -1,4 +1,4 @@
-name: Run Spotify Tracker (Every 30 Minutes)
+name: Run Spotify Tracker (Every 2 Hours)
 
 on:
   schedule:
