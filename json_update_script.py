@@ -151,5 +151,5 @@ stats = {
 }
 
 with open("data.json", "w") as f:
-    json.dump("data.json",f,indent=2)
+    json.dump(stats,f,indent=2)
     print("data dumped")
