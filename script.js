@@ -1,5 +1,5 @@
 fetch("data.json")
-    .then(respone => Response.json())
+    .then(respone => response.json())
     .then(data => {
         console.log(data);
     });
