@@ -132,10 +132,13 @@ week_songs = query_songs(c, last_week)
 month_songs = query_songs(c, month_start)
 year_songs = query_songs(c, year_start)
 
+
+readable = now.strftime("%Y-%m-%d %H:%M:%S UTC")
+
 stats = {
     "meta": {
         "generatedAt": now.isoformat(),
-        "lastUpdated": str(now)
+        "lastUpdated": readable
     },
     "artists": {
         "total": total_artists,
