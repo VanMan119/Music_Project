@@ -8,7 +8,7 @@ fetch("../data.json")
         data.artists.total.forEach(artist => {
             const li = document.createElement("li");
 
-            li.textContent = `${artist.name} - ${artist.minutes.toFixed(1)} min (${artist.plays} plays)`;
+            li.textContent = `${artist.name} - ${artist.minutes.toFixed(1)} min (${artist.plays} plays), ${artist.percentageOfMinutes}%`;
 
             list.appendChild(li);
         })
