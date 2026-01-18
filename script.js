@@ -5,7 +5,7 @@ fetch("data.json")
 
         const list = document.getElementById("top-artists-total");
 
-        data.total.artists.forEach(artist => {
+        data.artists.total.forEach(artist => {
             const li = document.createElement("li");
 
             li.textContent = `${artist.name} - ${artist.minutes.toFixed(1)} min (${artist.plays} plays)`;
