@@ -134,7 +134,8 @@ year_songs = query_songs(c, year_start)
 
 stats = {
     "meta": {
-        "generatedAt": now.isoformat()
+        "generatedAt": now.isoformat(),
+        "lastUpdated": now
     },
     "artists": {
         "total": total_artists,
