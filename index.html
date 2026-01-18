@@ -6,12 +6,24 @@
 </head>
 <body>
     <h1>My Spotify Stats</h1>
+    <p>Last Updated: <span id="lastUpdated">Loading...</span></p>
     <nav>
         <a href="pages/artists_all_time">All Time Artists</a>
         <a href="pages/artists_year.html">Top Artists This Year</a>
         <a href="pages/artists_month.html">Top Artists This Month</a>
         <a href="pages/artists_week.html">Top Artists Last 7 Days</a>
     </nav>
+
+    <script>fetch("../data.json")
+    .then(response => response.json())
+    .then(data => {
+        console.log(data);
+
+        const p = document.getElementById("lastUpdated");
+
+        p.textContent = data.meta.lastUpdated;
+    });
+    </script>
 
 
     <style>
