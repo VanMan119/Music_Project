@@ -1,15 +1,20 @@
 fetch("../data.json")
-    .then(response => response.json())
-    .then(data => {
-        console.log(data);
+            .then(response => response.json())
+            .then(data => {
 
-        const list = document.getElementById("top-artists-year");
+                const tbody = document.querySelector("#top-artists-year tbody");
 
-        data.artists.year.forEach(artist => {
-            const li = document.createElement("li");
+                data.artists.year.forEach((song, index) => {
+                    const tr = document.createElement("tr");
 
-            li.textContent = `${artist.name} - ${artist.minutes.toFixed(1)} min (${artist.plays} plays), ${artist.percentageOfMinutes}%`;
+                    tr.innerHTML = `
+                        <td>${index + 1}</td>
+                        <td>${artist.name}</td>
+                        <td>${artist.plays}</td>
+                        <td>${artist.minutes.toFixed(1)}</td>
+                        <td>${artist.percentageOfMinutes}%</td>
+                    `;
 
-            list.appendChild(li);
-        })
-    });
+                    tbody.appendChild(tr);
+                });
+            });
