@@ -42,3 +42,35 @@ body {
             padding: 0.4rem 0.2rem;
             border-bottom: 1px solid white;
         }
+
+        .table-container {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid black;
+            border-radius: 6px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 0.4rem 0.6rem;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+
+        th {
+            position: sticky;
+            top: 0;
+            background: #f7f7f7;
+            font-weight: 600;
+        }
+
+        td:nth-child(1),
+        td:nth-child(4),
+        td:nth-child(5),
+        td:nth-child(6) {
+            text-align: right;
+        }
