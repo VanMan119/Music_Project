@@ -22,24 +22,45 @@
     </nav>
 
     <h2>Top Songs - This Year</h2>
-    <ul id="top-songs-year" class="scroll-list"></ul>
+
+    <div class="table-container">
+        <table id="top-songs-year">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Song</th>
+                    <th>Artist</th>
+                    <th>Plays</th>
+                    <th>Minutes</th>
+                    <th>%</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
 
 
     <script>
         fetch("../data.json")
             .then(response => response.json())
             .then(data => {
-                console.log(data);
 
-                const list = document.getElementById("top-songs-year");
+                const tbody = document.querySelector("#top-songs-year tbody");
 
-                data.songs.year.forEach(song => {
-                    const li = document.createElement("li");
+                data.songs.year.forEach((song, index) => {
+                    const tr = document.createElement("tr");
 
-                    li.textContent = `${song.title} - ${song.artist} - ${song.minutes.toFixed(1)} min (${song.plays} plays), ${song.percentageOfMinutes}%`;
+                    tr.innerHTML = `
+                        <td>${index + 1}</td>
+                        <td>${song.title}</td>
+                        <td>${song.artist}</td>
+                        <td>${song.plays}</td>
+                        <td>${song.minutes.toFixed(1)}</td>
+                        <td>${song.percentageOfMinutes}%</td>
+                    `;
 
-                    list.appendChild(li);
-                })
+                    tbody.appendChild(tr);
+                });
             });
     </script>
 
