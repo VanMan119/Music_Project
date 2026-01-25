@@ -22,7 +22,7 @@
     </nav>
 
     <h2>Top Songs - This Month</h2>
-    
+
     <div class="table-container">
         <table id="top-songs-month">
             <thead>
@@ -40,7 +40,7 @@
     </div>
 
     <script>
-        ffetch("../data.json")
+        fetch("../data.json")
             .then(response => response.json())
             .then(data => {
 
