@@ -4,7 +4,7 @@ fetch("../data.json")
 
                 const tbody = document.querySelector("#top-artists-year tbody");
 
-                data.artists.year.forEach((song, index) => {
+                data.artists.year.forEach((artist, index) => {
                     const tr = document.createElement("tr");
 
                     tr.innerHTML = `
