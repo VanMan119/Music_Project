@@ -14,8 +14,8 @@
         <a href="../index">Home</a>
     </nav>
 
-    <h2>Top Songs - All Time (September 2025)</h2>
-    <ul id="top-songs-total"></ul>
+    <h2>Top Songs - Last Week</h2>
+    <ul id="top-songs-week"></ul>
 
 
     <script>
@@ -24,9 +24,9 @@
             .then(data => {
                 console.log(data);
 
-                const list = document.getElementById("top-songs-total");
+                const list = document.getElementById("top-songs-week");
 
-                data.songs.total.forEach(song => {
+                data.songs.lastWeek.forEach(song => {
                     const li = document.createElement("li");
 
                     li.textContent = `${song.title} - ${song.artist} - ${song.minutes.toFixed(1)} min (${song.plays} plays), ${song.percentageOfMinutes}%`;
