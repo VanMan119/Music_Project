@@ -3,15 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <title>Spotify Stats</title>
+    <link rel="stylesheet" href="style.css">
+
 </head>
 <body>
     <h1>My Spotify Stats</h1>
-    <nav>
-        <a href="artists_all_time">All Time Artists</a>
-        <a href="artists_year.html">Top Artists This Year</a>
-        <a href="artists_month.html">Top Artists This Month</a>
-        <a href="artists_week.html">Top Artists Last 7 Days</a>
-        <a href="../index">Home</a>
+
+    <nav class="nav category-nav">
+        <a href="artists_all_time.html">Artists</a>
+        <a href="songs_all_time.html" class="active">Songs</a>
+    </nav>
+
+    <nav class="nav range-nav">
+        <a href="songs_all_time" class="active">All Time</a>
+        <a href="songs_year.html">This Year</a>
+        <a href="songs_month.html">This Month</a>
+        <a href="songs_week.html">Last 7 Days</a>
     </nav>
 
     <h2>Top Songs - All Time (September 2025)</h2>
