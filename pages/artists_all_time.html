@@ -6,12 +6,17 @@
 </head>
 <body>
     <h1>My Spotify Stats</h1>
-    <nav>
-        <a href="artists_all_time">All Time Artists</a>
-        <a href="artists_year.html">Top Artists This Year</a>
-        <a href="artists_month.html">Top Artists This Month</a>
-        <a href="artists_week.html">Top Artists Last 7 Days</a>
-        <a href="../index">Home</a>
+
+    <nav class="nav category-nav">
+        <a href="artists_year.html" class="active">Artists</a>
+        <a href="songs_year.html">Songs</a>
+    </nav>
+
+    <nav class="nav range-nav">
+        <a href="artists_all_time" class="active">All Time</a>
+        <a href="artists_year.html">This Year</a>
+        <a href="artists_month.html">This Month</a>
+        <a href="artists_week.html">Last 7 Days</a>
     </nav>
 
     <h2>Top Artists - All Time (September 2025)</h2>
@@ -20,33 +25,6 @@
 
     <script src="art_all_time.js"></script>
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: #121212;
-            color: #ffffff;
-            padding: 20px;
-        }
-
-        nav {
-            max-width: 400px;
-        }
-
-        nav a {
-            display: block;
-            padding: 10px;
-            margin-bottom: 8px;
-            text-decoration: non;
-            background: #1db954;
-            color: black;
-            border-radius: 6px;
-            font-weight: bold;
-        }
-
-        nav a:hover {
-            background: #1ed760;
-        }
-
-    </style>
+    <style src="style.css"></style>
 </body>
 </html>
