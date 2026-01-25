@@ -29,3 +29,16 @@ body {
             background: #f0f0f0;
             color: black;
         }
+
+        .scroll-list {
+            max-height: 400px;
+            overflow-y: auto;
+            padding-right: 0.5rem;
+            border: 1px solid black;
+            border-radius: 6px;
+        }
+
+        .scroll-list {
+            padding: 0.4rem 0.2rem;
+            border-bottom: 1px solid white;
+        }
