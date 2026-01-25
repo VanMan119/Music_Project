@@ -134,7 +134,7 @@ year_songs = query_songs(c, year_start)
 
 
 now_cst = datetime.now()
-readable = now_cst.strftime("%B %d, %Y - %I:%M %p CST")
+readable = now_cst.strftime("%B %d, %Y - %I:%M %p UST")
 
 stats = {
     "meta": {
