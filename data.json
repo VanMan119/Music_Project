@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-02-23T01:27:12.680225+00:00",
-    "lastUpdated": "February 23, 2026 - 01:27 AM UST"
+    "generatedAt": "2026-02-24T01:25:48.276765+00:00",
+    "lastUpdated": "February 24, 2026 - 01:25 AM UST"
   },
   "artists": {
     "total": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 3162.67,
-        "plays": 1021,
+        "minutes": 3176.99,
+        "plays": 1026,
         "percentageOfMinutes": 32.2
       },
       {
@@ -25,8 +25,8 @@
       },
       {
         "name": "Masayoshi Takanaka",
-        "minutes": 705.2,
-        "plays": 126,
+        "minutes": 712.15,
+        "plays": 127,
         "percentageOfMinutes": 7.2
       },
       {
@@ -447,15 +447,15 @@
     "lastWeek": [
       {
         "name": "Masayoshi Takanaka",
-        "minutes": 657.8,
-        "plays": 118,
-        "percentageOfMinutes": 77.3
+        "minutes": 664.75,
+        "plays": 119,
+        "percentageOfMinutes": 80.3
       },
       {
         "name": "Arctic Monkeys",
-        "minutes": 189.6,
-        "plays": 63,
-        "percentageOfMinutes": 22.3
+        "minutes": 159.21,
+        "plays": 53,
+        "percentageOfMinutes": 19.2
       },
       {
         "name": "Muse",
@@ -467,21 +467,21 @@
     "month": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 1146.1,
-        "plays": 377,
-        "percentageOfMinutes": 49.7
+        "minutes": 1163.93,
+        "plays": 383,
+        "percentageOfMinutes": 50.0
       },
       {
         "name": "Masayoshi Takanaka",
-        "minutes": 681.67,
-        "plays": 122,
+        "minutes": 688.62,
+        "plays": 123,
         "percentageOfMinutes": 29.6
       },
       {
         "name": "beabadoobee",
         "minutes": 419.98,
         "plays": 135,
-        "percentageOfMinutes": 18.2
+        "percentageOfMinutes": 18.0
       },
       {
         "name": "Tame Impala",
@@ -535,15 +535,15 @@
     "year": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 3136.23,
-        "plays": 1014,
+        "minutes": 3150.54,
+        "plays": 1019,
         "percentageOfMinutes": 63.0
       },
       {
         "name": "Masayoshi Takanaka",
-        "minutes": 693.43,
-        "plays": 124,
-        "percentageOfMinutes": 13.9
+        "minutes": 700.38,
+        "plays": 125,
+        "percentageOfMinutes": 14.0
       },
       {
         "name": "beabadoobee",
@@ -865,8 +865,8 @@
       {
         "title": "Brianstorm",
         "artist": "Arctic Monkeys",
-        "minutes": 178.76565,
-        "plays": 63,
+        "minutes": 181.6032,
+        "plays": 64,
         "percentageOfMinutes": 1.8
       },
       {
@@ -879,9 +879,9 @@
       {
         "title": "505",
         "artist": "Arctic Monkeys",
-        "minutes": 160.60446666666667,
-        "plays": 38,
-        "percentageOfMinutes": 1.6
+        "minutes": 164.8309,
+        "plays": 39,
+        "percentageOfMinutes": 1.7
       },
       {
         "title": "Dangerous Animals",
@@ -919,17 +919,17 @@
         "percentageOfMinutes": 1.4
       },
       {
+        "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
+        "artist": "Arctic Monkeys",
+        "minutes": 132.99321666666665,
+        "plays": 61,
+        "percentageOfMinutes": 1.3
+      },
+      {
         "title": "The View From The Afternoon",
         "artist": "Arctic Monkeys",
         "minutes": 130.05183333333332,
         "plays": 35,
-        "percentageOfMinutes": 1.3
-      },
-      {
-        "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
-        "artist": "Arctic Monkeys",
-        "minutes": 128.63278333333332,
-        "plays": 59,
         "percentageOfMinutes": 1.3
       },
       {
@@ -1084,7 +1084,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 93.5665,
         "plays": 30,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "You\u2019re here that\u2019s the thing",
@@ -1122,6 +1122,13 @@
         "percentageOfMinutes": 0.9
       },
       {
+        "title": "READY TO FLY",
+        "artist": "Masayoshi Takanaka",
+        "minutes": 83.4026,
+        "plays": 12,
+        "percentageOfMinutes": 0.8
+      },
+      {
         "title": "Everything I Want",
         "artist": "beabadoobee",
         "minutes": 82.87066666666666,
@@ -1154,13 +1161,6 @@
         "artist": "beabadoobee",
         "minutes": 76.48036666666667,
         "plays": 23,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "READY TO FLY",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 76.45238333333333,
-        "plays": 11,
         "percentageOfMinutes": 0.8
       },
       {
@@ -1276,6 +1276,13 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "Fluorescent Adolescent",
+        "artist": "Arctic Monkeys",
+        "minutes": 60.72255,
+        "plays": 21,
+        "percentageOfMinutes": 0.6
+      },
+      {
         "title": "Everest",
         "artist": "beabadoobee",
         "minutes": 60.641416666666665,
@@ -1301,13 +1308,6 @@
         "artist": "The Happy Fits",
         "minutes": 58.150933333333334,
         "plays": 16,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Fluorescent Adolescent",
-        "artist": "Arctic Monkeys",
-        "minutes": 57.831,
-        "plays": 20,
         "percentageOfMinutes": 0.6
       },
       {
@@ -3515,63 +3515,63 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 118.25325,
         "plays": 15,
-        "percentageOfMinutes": 13.9
+        "percentageOfMinutes": 14.3
       },
       {
         "title": "READY TO FLY",
         "artist": "Masayoshi Takanaka",
-        "minutes": 76.45238333333333,
-        "plays": 11,
-        "percentageOfMinutes": 9.0
+        "minutes": 83.4026,
+        "plays": 12,
+        "percentageOfMinutes": 10.1
       },
       {
         "title": "BRASILIAN SKIES",
         "artist": "Masayoshi Takanaka",
         "minutes": 58.8355,
         "plays": 10,
-        "percentageOfMinutes": 6.9
+        "percentageOfMinutes": 7.1
       },
       {
         "title": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ec\u30ae\u30fc",
         "artist": "Masayoshi Takanaka",
         "minutes": 47.727716666666666,
         "plays": 11,
-        "percentageOfMinutes": 5.6
+        "percentageOfMinutes": 5.8
       },
       {
         "title": "\u61a7\u308c\u306e\u30bb\u30fc\u30b7\u30a7\u30eb\u8af8\u5cf6",
         "artist": "Masayoshi Takanaka",
         "minutes": 42.93485,
         "plays": 7,
-        "percentageOfMinutes": 5.0
-      },
-      {
-        "title": "Crying Lightning",
-        "artist": "Arctic Monkeys",
-        "minutes": 37.471,
-        "plays": 10,
-        "percentageOfMinutes": 4.4
+        "percentageOfMinutes": 5.2
       },
       {
         "title": "BREEZIN'",
         "artist": "Masayoshi Takanaka",
         "minutes": 35.0,
         "plays": 6,
-        "percentageOfMinutes": 4.1
+        "percentageOfMinutes": 4.2
       },
       {
         "title": "OH! TENGO SUERTE",
         "artist": "Masayoshi Takanaka",
         "minutes": 33.6888,
         "plays": 8,
-        "percentageOfMinutes": 4.0
+        "percentageOfMinutes": 4.1
+      },
+      {
+        "title": "Crying Lightning",
+        "artist": "Arctic Monkeys",
+        "minutes": 29.9768,
+        "plays": 8,
+        "percentageOfMinutes": 3.6
       },
       {
         "title": "505",
         "artist": "Arctic Monkeys",
         "minutes": 25.3586,
         "plays": 6,
-        "percentageOfMinutes": 3.0
+        "percentageOfMinutes": 3.1
       },
       {
         "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
@@ -3592,21 +3592,7 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 14.533333333333333,
         "plays": 4,
-        "percentageOfMinutes": 1.7
-      },
-      {
-        "title": "Still Take You Home",
-        "artist": "Arctic Monkeys",
-        "minutes": 14.472166666666666,
-        "plays": 5,
-        "percentageOfMinutes": 1.7
-      },
-      {
-        "title": "The Bad Thing",
-        "artist": "Arctic Monkeys",
-        "minutes": 14.3213,
-        "plays": 6,
-        "percentageOfMinutes": 1.7
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "Brianstorm",
@@ -3634,13 +3620,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 11.733766666666666,
         "plays": 2,
-        "percentageOfMinutes": 1.4
-      },
-      {
-        "title": "I Bet You Look Good On The Dancefloor",
-        "artist": "Arctic Monkeys",
-        "minutes": 11.578666666666667,
-        "plays": 4,
         "percentageOfMinutes": 1.4
       },
       {
@@ -3679,6 +3658,13 @@
         "percentageOfMinutes": 1.2
       },
       {
+        "title": "The Bad Thing",
+        "artist": "Arctic Monkeys",
+        "minutes": 9.547533333333334,
+        "plays": 4,
+        "percentageOfMinutes": 1.2
+      },
+      {
         "title": "SWEET AGNES",
         "artist": "Masayoshi Takanaka",
         "minutes": 9.333766666666667,
@@ -3697,6 +3683,20 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 8.933333333333334,
         "plays": 2,
+        "percentageOfMinutes": 1.1
+      },
+      {
+        "title": "I Bet You Look Good On The Dancefloor",
+        "artist": "Arctic Monkeys",
+        "minutes": 8.684,
+        "plays": 3,
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "title": "Still Take You Home",
+        "artist": "Arctic Monkeys",
+        "minutes": 8.6833,
+        "plays": 3,
         "percentageOfMinutes": 1.0
       },
       {
@@ -3714,25 +3714,18 @@
         "percentageOfMinutes": 0.9
       },
       {
-        "title": "Dangerous Animals",
-        "artist": "Arctic Monkeys",
-        "minutes": 7.0222,
-        "plays": 2,
-        "percentageOfMinutes": 0.8
-      },
-      {
         "title": "THE NIGHT DELAY",
         "artist": "Masayoshi Takanaka",
         "minutes": 6.3,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "THAT'S THE WAY OF THE WORLD",
         "artist": "Masayoshi Takanaka",
         "minutes": 6.243333333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "SAMBA PATI",
@@ -3760,14 +3753,7 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 5.4711,
         "plays": 1,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Teddy Picker",
-        "artist": "Arctic Monkeys",
-        "minutes": 5.354666666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "SPEED OF LOVE",
@@ -3837,14 +3823,14 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 3.7617666666666665,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "STAR WARS SAMBA",
         "artist": "Masayoshi Takanaka",
         "minutes": 3.7502166666666668,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "GASCON COCKTAIL",
@@ -3882,9 +3868,9 @@
         "percentageOfMinutes": 0.4
       },
       {
-        "title": "Arabella",
+        "title": "Dangerous Animals",
         "artist": "Arctic Monkeys",
-        "minutes": 3.4559333333333333,
+        "minutes": 3.5111,
         "plays": 1,
         "percentageOfMinutes": 0.4
       },
@@ -3903,6 +3889,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "Fluorescent Adolescent",
+        "artist": "Arctic Monkeys",
+        "minutes": 2.89155,
+        "plays": 1,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Balaclava",
         "artist": "Arctic Monkeys",
         "minutes": 2.7906666666666666,
@@ -3910,9 +3903,9 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Why'd You Only Call Me When You're High?",
+        "title": "Teddy Picker",
         "artist": "Arctic Monkeys",
-        "minutes": 2.6853833333333332,
+        "minutes": 2.6773333333333333,
         "plays": 1,
         "percentageOfMinutes": 0.3
       }
@@ -3923,28 +3916,35 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 126.1368,
         "plays": 16,
-        "percentageOfMinutes": 5.5
+        "percentageOfMinutes": 5.4
       },
       {
         "title": "Crying Lightning",
         "artist": "Arctic Monkeys",
         "minutes": 104.9188,
         "plays": 28,
-        "percentageOfMinutes": 4.6
+        "percentageOfMinutes": 4.5
       },
       {
         "title": "505",
         "artist": "Arctic Monkeys",
-        "minutes": 84.52866666666667,
-        "plays": 20,
-        "percentageOfMinutes": 3.7
+        "minutes": 88.7551,
+        "plays": 21,
+        "percentageOfMinutes": 3.8
       },
       {
         "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
         "artist": "Arctic Monkeys",
-        "minutes": 80.66801666666667,
-        "plays": 37,
-        "percentageOfMinutes": 3.5
+        "minutes": 85.02845,
+        "plays": 39,
+        "percentageOfMinutes": 3.7
+      },
+      {
+        "title": "READY TO FLY",
+        "artist": "Masayoshi Takanaka",
+        "minutes": 83.4026,
+        "plays": 12,
+        "percentageOfMinutes": 3.6
       },
       {
         "title": "The Bad Thing",
@@ -3954,24 +3954,17 @@
         "percentageOfMinutes": 3.4
       },
       {
-        "title": "READY TO FLY",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 76.45238333333333,
-        "plays": 11,
-        "percentageOfMinutes": 3.3
+        "title": "Brianstorm",
+        "artist": "Arctic Monkeys",
+        "minutes": 70.93875,
+        "plays": 25,
+        "percentageOfMinutes": 3.0
       },
       {
         "title": "BRASILIAN SKIES",
         "artist": "Masayoshi Takanaka",
         "minutes": 70.6026,
         "plays": 12,
-        "percentageOfMinutes": 3.1
-      },
-      {
-        "title": "Brianstorm",
-        "artist": "Arctic Monkeys",
-        "minutes": 68.1012,
-        "plays": 24,
         "percentageOfMinutes": 3.0
       },
       {
@@ -3979,14 +3972,14 @@
         "artist": "Arctic Monkeys",
         "minutes": 63.677533333333336,
         "plays": 22,
-        "percentageOfMinutes": 2.8
+        "percentageOfMinutes": 2.7
       },
       {
         "title": "Dangerous Animals",
         "artist": "Arctic Monkeys",
-        "minutes": 59.6887,
-        "plays": 17,
-        "percentageOfMinutes": 2.6
+        "minutes": 63.1998,
+        "plays": 18,
+        "percentageOfMinutes": 2.7
       },
       {
         "title": "The View From The Afternoon",
@@ -4007,7 +4000,7 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 47.727716666666666,
         "plays": 11,
-        "percentageOfMinutes": 2.1
+        "percentageOfMinutes": 2.0
       },
       {
         "title": "When The Sun Goes Down",
@@ -4028,7 +4021,7 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 42.93485,
         "plays": 7,
-        "percentageOfMinutes": 1.9
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "Beaches",
@@ -4098,7 +4091,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 31.1034,
         "plays": 9,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Knee Socks",
@@ -4283,6 +4276,13 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "Fluorescent Adolescent",
+        "artist": "Arctic Monkeys",
+        "minutes": 11.5662,
+        "plays": 4,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "California",
         "artist": "beabadoobee",
         "minutes": 11.4862,
@@ -4363,13 +4363,6 @@
         "title": "Wanna Start A Band?",
         "artist": "Sleigh Bells",
         "minutes": 8.6893,
-        "plays": 3,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Fluorescent Adolescent",
-        "artist": "Arctic Monkeys",
-        "minutes": 8.67465,
         "plays": 3,
         "percentageOfMinutes": 0.4
       },
@@ -4707,16 +4700,16 @@
       {
         "title": "Brianstorm",
         "artist": "Arctic Monkeys",
-        "minutes": 178.76565,
-        "plays": 63,
+        "minutes": 181.6032,
+        "plays": 64,
         "percentageOfMinutes": 3.6
       },
       {
         "title": "505",
         "artist": "Arctic Monkeys",
-        "minutes": 160.60446666666667,
-        "plays": 38,
-        "percentageOfMinutes": 3.2
+        "minutes": 164.8309,
+        "plays": 39,
+        "percentageOfMinutes": 3.3
       },
       {
         "title": "Dangerous Animals",
@@ -4747,6 +4740,13 @@
         "percentageOfMinutes": 2.7
       },
       {
+        "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
+        "artist": "Arctic Monkeys",
+        "minutes": 132.99321666666665,
+        "plays": 61,
+        "percentageOfMinutes": 2.7
+      },
+      {
         "title": "The View From The Afternoon",
         "artist": "Arctic Monkeys",
         "minutes": 130.05183333333332,
@@ -4754,18 +4754,11 @@
         "percentageOfMinutes": 2.6
       },
       {
-        "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
-        "artist": "Arctic Monkeys",
-        "minutes": 128.63278333333332,
-        "plays": 59,
-        "percentageOfMinutes": 2.6
-      },
-      {
         "title": "Still Take You Home",
         "artist": "Arctic Monkeys",
         "minutes": 127.35506666666667,
         "plays": 44,
-        "percentageOfMinutes": 2.6
+        "percentageOfMinutes": 2.5
       },
       {
         "title": "BELEZA PULA",
@@ -4838,18 +4831,18 @@
         "percentageOfMinutes": 1.9
       },
       {
+        "title": "READY TO FLY",
+        "artist": "Masayoshi Takanaka",
+        "minutes": 83.4026,
+        "plays": 12,
+        "percentageOfMinutes": 1.7
+      },
+      {
         "title": "BRASILIAN SKIES",
         "artist": "Masayoshi Takanaka",
         "minutes": 82.3697,
         "plays": 14,
-        "percentageOfMinutes": 1.7
-      },
-      {
-        "title": "READY TO FLY",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 76.45238333333333,
-        "plays": 11,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.6
       },
       {
         "title": "Dancing Shoes",
@@ -4877,7 +4870,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 62.23793333333333,
         "plays": 26,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Why'd You Only Call Me When You're High?",
@@ -4896,9 +4889,9 @@
       {
         "title": "Fluorescent Adolescent",
         "artist": "Arctic Monkeys",
-        "minutes": 54.93945,
-        "plays": 19,
-        "percentageOfMinutes": 1.1
+        "minutes": 57.831,
+        "plays": 20,
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Sunny day",
@@ -4975,7 +4968,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 27.42,
         "plays": 6,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Ever Seen",
