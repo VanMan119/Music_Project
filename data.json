@@ -1,33 +1,33 @@
 {
   "meta": {
-    "generatedAt": "2026-03-14T01:22:46.598131+00:00",
-    "lastUpdated": "March 14, 2026 - 01:22 AM UST"
+    "generatedAt": "2026-03-15T01:48:14.737333+00:00",
+    "lastUpdated": "March 15, 2026 - 01:48 AM UST"
   },
   "artists": {
     "total": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 3412.91,
-        "plays": 1104,
-        "percentageOfMinutes": 26.0
+        "minutes": 3419.05,
+        "plays": 1106,
+        "percentageOfMinutes": 25.9
       },
       {
         "name": "beabadoobee",
         "minutes": 2455.9,
         "plays": 779,
-        "percentageOfMinutes": 18.7
+        "percentageOfMinutes": 18.6
       },
       {
         "name": "The Happy Fits",
-        "minutes": 1701.09,
-        "plays": 516,
-        "percentageOfMinutes": 12.9
+        "minutes": 1721.9,
+        "plays": 522,
+        "percentageOfMinutes": 13.0
       },
       {
         "name": "Masayoshi Takanaka",
         "minutes": 1114.58,
         "plays": 204,
-        "percentageOfMinutes": 8.5
+        "percentageOfMinutes": 8.4
       },
       {
         "name": "The Fratellis",
@@ -45,7 +45,7 @@
         "name": "Tame Impala",
         "minutes": 375.33,
         "plays": 101,
-        "percentageOfMinutes": 2.9
+        "percentageOfMinutes": 2.8
       },
       {
         "name": "Royal Blood",
@@ -61,9 +61,9 @@
       },
       {
         "name": "Bo Burnham",
-        "minutes": 99.62,
-        "plays": 22,
-        "percentageOfMinutes": 0.8
+        "minutes": 112.3,
+        "plays": 25,
+        "percentageOfMinutes": 0.9
       },
       {
         "name": "Miki Matsubara",
@@ -159,7 +159,7 @@
         "name": "The Living Tombstone",
         "minutes": 32.91,
         "plays": 10,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "name": "Queen",
@@ -177,6 +177,18 @@
         "name": "Emily Osment",
         "minutes": 30.16,
         "plays": 10,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "name": "Melanie Martinez",
+        "minutes": 30.09,
+        "plays": 8,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "name": "Eminem",
+        "minutes": 30.06,
+        "plays": 7,
         "percentageOfMinutes": 0.2
       },
       {
@@ -198,6 +210,12 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "name": "King Gnu",
+        "minutes": 28.78,
+        "plays": 8,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "name": "Caravan Palace",
         "minutes": 26.81,
         "plays": 7,
@@ -216,27 +234,9 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "name": "Melanie Martinez",
-        "minutes": 26.32,
-        "plays": 7,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "name": "MARINA",
         "minutes": 25.78,
         "plays": 10,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "name": "Eminem",
-        "minutes": 25.32,
-        "plays": 6,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "name": "King Gnu",
-        "minutes": 25.18,
-        "plays": 7,
         "percentageOfMinutes": 0.2
       },
       {
@@ -255,6 +255,12 @@
         "name": "Fleetwood Mac",
         "minutes": 22.1,
         "plays": 5,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "name": "1nonly",
+        "minutes": 22.02,
+        "plays": 9,
         "percentageOfMinutes": 0.2
       },
       {
@@ -286,12 +292,6 @@
         "minutes": 20.43,
         "plays": 9,
         "percentageOfMinutes": 0.2
-      },
-      {
-        "name": "1nonly",
-        "minutes": 19.69,
-        "plays": 8,
-        "percentageOfMinutes": 0.1
       },
       {
         "name": "Boys Town Gang",
@@ -414,6 +414,12 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "name": "George Barnett",
+        "minutes": 13.04,
+        "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "name": "Styx",
         "minutes": 12.86,
         "plays": 3,
@@ -477,12 +483,6 @@
         "name": "JAWNY",
         "minutes": 9.99,
         "plays": 4,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "name": "George Barnett",
-        "minutes": 9.78,
-        "plays": 3,
         "percentageOfMinutes": 0.1
       },
       {
@@ -720,6 +720,12 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "name": "Will Paquin",
+        "minutes": 6.17,
+        "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "name": "Elton John",
         "minutes": 6.11,
         "plays": 2,
@@ -843,12 +849,6 @@
         "name": "Young MC",
         "minutes": 4.4,
         "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "name": "Will Paquin",
-        "minutes": 4.15,
-        "plays": 2,
         "percentageOfMinutes": 0.0
       },
       {
@@ -1173,57 +1173,39 @@
     "lastWeek": [
       {
         "name": "Bo Burnham",
-        "minutes": 99.62,
-        "plays": 22,
-        "percentageOfMinutes": 8.0
+        "minutes": 108.29,
+        "plays": 24,
+        "percentageOfMinutes": 9.0
       },
       {
         "name": "The Happy Fits",
-        "minutes": 65.01,
-        "plays": 19,
-        "percentageOfMinutes": 5.2
-      },
-      {
-        "name": "Arctic Monkeys",
-        "minutes": 56.76,
-        "plays": 19,
-        "percentageOfMinutes": 4.5
-      },
-      {
-        "name": "Rex Orange County",
-        "minutes": 39.38,
-        "plays": 9,
-        "percentageOfMinutes": 3.1
+        "minutes": 85.82,
+        "plays": 25,
+        "percentageOfMinutes": 7.1
       },
       {
         "name": "beabadoobee",
         "minutes": 38.12,
         "plays": 13,
-        "percentageOfMinutes": 3.0
+        "percentageOfMinutes": 3.2
       },
       {
         "name": "The Stupendium",
         "minutes": 36.57,
         "plays": 8,
+        "percentageOfMinutes": 3.0
+      },
+      {
+        "name": "Arctic Monkeys",
+        "minutes": 35.5,
+        "plays": 12,
+        "percentageOfMinutes": 3.0
+      },
+      {
+        "name": "Rex Orange County",
+        "minutes": 35.01,
+        "plays": 8,
         "percentageOfMinutes": 2.9
-      },
-      {
-        "name": "The Living Tombstone",
-        "minutes": 26.46,
-        "plays": 8,
-        "percentageOfMinutes": 2.1
-      },
-      {
-        "name": "Lizz Robinett",
-        "minutes": 25.22,
-        "plays": 6,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "name": "Kesha",
-        "minutes": 25.16,
-        "plays": 8,
-        "percentageOfMinutes": 2.0
       },
       {
         "name": "Softwilly",
@@ -1232,64 +1214,52 @@
         "percentageOfMinutes": 2.0
       },
       {
+        "name": "The Living Tombstone",
+        "minutes": 23.23,
+        "plays": 7,
+        "percentageOfMinutes": 1.9
+      },
+      {
         "name": "Gorillaz",
         "minutes": 23.02,
         "plays": 6,
-        "percentageOfMinutes": 1.8
+        "percentageOfMinutes": 1.9
       },
       {
-        "name": "Tame Impala",
-        "minutes": 21.17,
-        "plays": 5,
-        "percentageOfMinutes": 1.7
+        "name": "Kesha",
+        "minutes": 22.05,
+        "plays": 7,
+        "percentageOfMinutes": 1.8
       },
       {
         "name": "Emily Osment",
         "minutes": 21.11,
         "plays": 7,
+        "percentageOfMinutes": 1.8
+      },
+      {
+        "name": "Lizz Robinett",
+        "minutes": 21.02,
+        "plays": 5,
         "percentageOfMinutes": 1.7
       },
       {
-        "name": "The Fratellis",
-        "minutes": 20.45,
-        "plays": 6,
-        "percentageOfMinutes": 1.6
-      },
-      {
-        "name": "Kate Bush",
-        "minutes": 19.92,
-        "plays": 6,
-        "percentageOfMinutes": 1.6
-      },
-      {
-        "name": "JT Music",
-        "minutes": 19.71,
-        "plays": 5,
+        "name": "1nonly",
+        "minutes": 19.52,
+        "plays": 8,
         "percentageOfMinutes": 1.6
       },
       {
         "name": "Melanie Martinez",
         "minutes": 18.8,
         "plays": 5,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.6
       },
       {
         "name": "Eminem",
-        "minutes": 18.3,
+        "minutes": 18.46,
         "plays": 4,
         "percentageOfMinutes": 1.5
-      },
-      {
-        "name": "Awkward Marina",
-        "minutes": 17.57,
-        "plays": 5,
-        "percentageOfMinutes": 1.4
-      },
-      {
-        "name": "1nonly",
-        "minutes": 17.2,
-        "plays": 7,
-        "percentageOfMinutes": 1.4
       },
       {
         "name": "bbno$",
@@ -1304,6 +1274,18 @@
         "percentageOfMinutes": 1.4
       },
       {
+        "name": "Kate Bush",
+        "minutes": 16.6,
+        "plays": 5,
+        "percentageOfMinutes": 1.4
+      },
+      {
+        "name": "JT Music",
+        "minutes": 15.77,
+        "plays": 4,
+        "percentageOfMinutes": 1.3
+      },
+      {
         "name": "LPB Poody",
         "minutes": 15.64,
         "plays": 6,
@@ -1313,19 +1295,25 @@
         "name": "Franz Ferdinand",
         "minutes": 15.17,
         "plays": 4,
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "name": "Awkward Marina",
+        "minutes": 14.06,
+        "plays": 4,
         "percentageOfMinutes": 1.2
       },
       {
-        "name": "Will Joseph Cook",
-        "minutes": 15.11,
-        "plays": 5,
+        "name": "Tame Impala",
+        "minutes": 14.03,
+        "plays": 3,
         "percentageOfMinutes": 1.2
       },
       {
-        "name": "MARINA",
-        "minutes": 12.89,
-        "plays": 5,
-        "percentageOfMinutes": 1.0
+        "name": "The Fratellis",
+        "minutes": 13.82,
+        "plays": 4,
+        "percentageOfMinutes": 1.2
       },
       {
         "name": "Queen",
@@ -1334,8 +1322,8 @@
         "percentageOfMinutes": 1.0
       },
       {
-        "name": "Sleigh Bells",
-        "minutes": 11.96,
+        "name": "Will Joseph Cook",
+        "minutes": 12.08,
         "plays": 4,
         "percentageOfMinutes": 1.0
       },
@@ -1346,34 +1334,34 @@
         "percentageOfMinutes": 0.9
       },
       {
+        "name": "King Gnu",
+        "minutes": 10.79,
+        "plays": 3,
+        "percentageOfMinutes": 0.9
+      },
+      {
         "name": "Miniature Tigers",
         "minutes": 10.58,
         "plays": 4,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.9
       },
       {
         "name": "Marcos Valle",
         "minutes": 10.45,
         "plays": 2,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.9
       },
       {
         "name": "Miki Matsubara",
         "minutes": 10.39,
         "plays": 2,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.9
       },
       {
-        "name": "The Strokes",
-        "minutes": 10.3,
-        "plays": 2,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "name": "WILLOW",
-        "minutes": 9.83,
-        "plays": 3,
-        "percentageOfMinutes": 0.8
+        "name": "MARINA",
+        "minutes": 10.31,
+        "plays": 4,
+        "percentageOfMinutes": 0.9
       },
       {
         "name": "Boys Town Gang",
@@ -1403,19 +1391,19 @@
         "name": "Feni",
         "minutes": 9.33,
         "plays": 3,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "name": "Tion Wayne",
         "minutes": 9.27,
         "plays": 2,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "name": "Cochise",
         "minutes": 9.02,
         "plays": 3,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "name": "Anri",
@@ -1445,19 +1433,19 @@
         "name": "Led Zeppelin",
         "minutes": 8.08,
         "plays": 1,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "name": "Kikuo",
         "minutes": 8.03,
         "plays": 1,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "name": "Flight Facilities",
         "minutes": 7.83,
         "plays": 2,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "name": "Caravan Palace",
@@ -1478,12 +1466,6 @@
         "percentageOfMinutes": 0.6
       },
       {
-        "name": "King Gnu",
-        "minutes": 7.2,
-        "plays": 2,
-        "percentageOfMinutes": 0.6
-      },
-      {
         "name": "JAWNY",
         "minutes": 7.15,
         "plays": 3,
@@ -1499,19 +1481,19 @@
         "name": "girl in red",
         "minutes": 6.87,
         "plays": 2,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.6
       },
       {
         "name": "Hollywood Undead",
         "minutes": 6.8,
         "plays": 2,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.6
       },
       {
         "name": "Saint Motel",
         "minutes": 6.74,
         "plays": 2,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.6
       },
       {
         "name": "Labi Siffre",
@@ -1520,8 +1502,14 @@
         "percentageOfMinutes": 0.5
       },
       {
-        "name": "Dayglow",
-        "minutes": 6.49,
+        "name": "WILLOW",
+        "minutes": 6.55,
+        "plays": 2,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "name": "George Barnett",
+        "minutes": 6.52,
         "plays": 2,
         "percentageOfMinutes": 0.5
       },
@@ -1529,6 +1517,12 @@
         "name": "Two Door Cinema Club",
         "minutes": 6.38,
         "plays": 2,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "name": "Will Paquin",
+        "minutes": 6.17,
+        "plays": 3,
         "percentageOfMinutes": 0.5
       },
       {
@@ -1541,7 +1535,7 @@
         "name": "ALI",
         "minutes": 5.47,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "name": "Brooksie",
@@ -1553,6 +1547,12 @@
         "name": "Kevin Creel",
         "minutes": 5.17,
         "plays": 2,
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "name": "The Strokes",
+        "minutes": 5.15,
+        "plays": 1,
         "percentageOfMinutes": 0.4
       },
       {
@@ -1631,19 +1631,13 @@
         "name": "Sade",
         "minutes": 4.31,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "name": "Styx",
         "minutes": 4.29,
         "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "name": "Will Paquin",
-        "minutes": 4.15,
-        "plays": 2,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "name": "Bee Gees",
@@ -1736,8 +1730,8 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "name": "George Barnett",
-        "minutes": 3.26,
+        "name": "Dayglow",
+        "minutes": 3.24,
         "plays": 1,
         "percentageOfMinutes": 0.3
       },
@@ -1763,31 +1757,31 @@
         "name": "Azumi Takahashi",
         "minutes": 3.1,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "name": "Le Tigre",
         "minutes": 3.08,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "name": "Poor Man's Poison",
         "minutes": 3.06,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "name": "Sadfriendd",
         "minutes": 3.05,
         "plays": 2,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "name": "King Harvest",
         "minutes": 3.02,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "name": "Hippo Campus",
@@ -1816,12 +1810,6 @@
       {
         "name": "TV Girl",
         "minutes": 2.8,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "name": "Mid River",
-        "minutes": 2.79,
         "plays": 1,
         "percentageOfMinutes": 0.2
       },
@@ -1880,6 +1868,12 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "name": "Sleigh Bells",
+        "minutes": 2.52,
+        "plays": 1,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "name": "Tiny Meat Gang",
         "minutes": 2.44,
         "plays": 1,
@@ -1921,25 +1915,25 @@
         "name": "The Fratellis",
         "minutes": 195.15,
         "plays": 55,
-        "percentageOfMinutes": 8.9
+        "percentageOfMinutes": 8.6
       },
       {
         "name": "Arctic Monkeys",
-        "minutes": 123.62,
-        "plays": 41,
-        "percentageOfMinutes": 5.6
+        "minutes": 129.75,
+        "plays": 43,
+        "percentageOfMinutes": 5.7
       },
       {
         "name": "Bo Burnham",
-        "minutes": 99.62,
-        "plays": 22,
-        "percentageOfMinutes": 4.5
+        "minutes": 112.3,
+        "plays": 25,
+        "percentageOfMinutes": 5.0
       },
       {
         "name": "The Happy Fits",
-        "minutes": 65.01,
-        "plays": 19,
-        "percentageOfMinutes": 3.0
+        "minutes": 85.82,
+        "plays": 25,
+        "percentageOfMinutes": 3.8
       },
       {
         "name": "Masayoshi Takanaka",
@@ -1957,13 +1951,13 @@
         "name": "Kesha",
         "minutes": 50.32,
         "plays": 16,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.2
       },
       {
         "name": "The Stupendium",
         "minutes": 50.29,
         "plays": 11,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.2
       },
       {
         "name": "beabadoobee",
@@ -1975,13 +1969,13 @@
         "name": "Miki Matsubara",
         "minutes": 41.56,
         "plays": 8,
-        "percentageOfMinutes": 1.9
+        "percentageOfMinutes": 1.8
       },
       {
         "name": "Rex Orange County",
         "minutes": 39.38,
         "plays": 9,
-        "percentageOfMinutes": 1.8
+        "percentageOfMinutes": 1.7
       },
       {
         "name": "Tame Impala",
@@ -1993,7 +1987,7 @@
         "name": "Monsieur Perin\u00e9",
         "minutes": 34.68,
         "plays": 8,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.5
       },
       {
         "name": "Lizz Robinett",
@@ -2011,24 +2005,36 @@
         "name": "Gorillaz",
         "minutes": 30.17,
         "plays": 8,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "name": "Emily Osment",
         "minutes": 30.16,
         "plays": 10,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "name": "Melanie Martinez",
+        "minutes": 30.09,
+        "plays": 8,
+        "percentageOfMinutes": 1.3
       },
       {
         "name": "Kate Bush",
         "minutes": 29.88,
         "plays": 9,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "name": "Softwilly",
         "minutes": 29.3,
         "plays": 12,
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "name": "King Gnu",
+        "minutes": 28.78,
+        "plays": 8,
         "percentageOfMinutes": 1.3
       },
       {
@@ -2044,27 +2050,21 @@
         "percentageOfMinutes": 1.2
       },
       {
+        "name": "Eminem",
+        "minutes": 26.55,
+        "plays": 6,
+        "percentageOfMinutes": 1.2
+      },
+      {
         "name": "bbno$",
         "minutes": 26.41,
         "plays": 11,
         "percentageOfMinutes": 1.2
       },
       {
-        "name": "Melanie Martinez",
-        "minutes": 26.32,
-        "plays": 7,
-        "percentageOfMinutes": 1.2
-      },
-      {
         "name": "MARINA",
         "minutes": 25.78,
         "plays": 10,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "name": "King Gnu",
-        "minutes": 25.18,
-        "plays": 7,
         "percentageOfMinutes": 1.1
       },
       {
@@ -2077,12 +2077,18 @@
         "name": "JT Music",
         "minutes": 23.65,
         "plays": 6,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
         "name": "Franz Ferdinand",
         "minutes": 22.76,
         "plays": 6,
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "name": "1nonly",
+        "minutes": 22.02,
+        "plays": 9,
         "percentageOfMinutes": 1.0
       },
       {
@@ -2092,40 +2098,28 @@
         "percentageOfMinutes": 1.0
       },
       {
-        "name": "Eminem",
-        "minutes": 21.81,
-        "plays": 5,
-        "percentageOfMinutes": 1.0
-      },
-      {
         "name": "Christopher Fitzgerald",
         "minutes": 20.43,
         "plays": 9,
         "percentageOfMinutes": 0.9
       },
       {
-        "name": "1nonly",
-        "minutes": 19.69,
-        "plays": 8,
-        "percentageOfMinutes": 0.9
-      },
-      {
         "name": "half\u2022alive",
         "minutes": 19.2,
         "plays": 6,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "name": "The Strokes",
         "minutes": 19.12,
         "plays": 4,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "name": "PinkPantheress",
         "minutes": 18.89,
         "plays": 8,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "name": "Fleetwood Mac",
@@ -2179,7 +2173,7 @@
         "name": "Fukkit",
         "minutes": 14.4,
         "plays": 8,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "name": "Ninja Sex Party",
@@ -2221,13 +2215,13 @@
         "name": "Feni",
         "minutes": 12.44,
         "plays": 4,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
         "name": "ThxSoMch",
         "minutes": 12.32,
         "plays": 5,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
         "name": "ian",
@@ -2245,13 +2239,13 @@
         "name": "girl in red",
         "minutes": 10.08,
         "plays": 3,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.4
       },
       {
         "name": "JAWNY",
         "minutes": 9.99,
         "plays": 4,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.4
       },
       {
         "name": "Boys Town Gang",
@@ -2329,7 +2323,7 @@
         "name": "Brooksie",
         "minutes": 7.89,
         "plays": 3,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "name": "ABBA",
@@ -2392,6 +2386,12 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "name": "George Barnett",
+        "minutes": 6.52,
+        "plays": 2,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "name": "Dayglow",
         "minutes": 6.49,
         "plays": 2,
@@ -2413,6 +2413,12 @@
         "name": "Friday Pilots Club",
         "minutes": 6.36,
         "plays": 2,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "name": "Will Paquin",
+        "minutes": 6.17,
+        "plays": 3,
         "percentageOfMinutes": 0.3
       },
       {
@@ -2542,12 +2548,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "name": "Will Paquin",
-        "minutes": 4.15,
-        "plays": 2,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "name": "Eyedress",
         "minutes": 4.08,
         "plays": 2,
@@ -2641,13 +2641,13 @@
         "name": "Weathers",
         "minutes": 3.38,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "name": "Follies & Vices",
         "minutes": 3.37,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "name": "Peter McPoland",
@@ -2657,12 +2657,6 @@
       },
       {
         "name": "Regina Spektor",
-        "minutes": 3.26,
-        "plays": 1,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "name": "George Barnett",
         "minutes": 3.26,
         "plays": 1,
         "percentageOfMinutes": 0.1
@@ -2827,27 +2821,27 @@
     "year": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 3386.47,
-        "plays": 1097,
-        "percentageOfMinutes": 40.9
+        "minutes": 3392.6,
+        "plays": 1099,
+        "percentageOfMinutes": 40.7
       },
       {
         "name": "Masayoshi Takanaka",
         "minutes": 1102.81,
         "plays": 202,
-        "percentageOfMinutes": 13.3
+        "percentageOfMinutes": 13.2
       },
       {
         "name": "beabadoobee",
         "minutes": 677.5,
         "plays": 217,
-        "percentageOfMinutes": 8.2
+        "percentageOfMinutes": 8.1
       },
       {
         "name": "The Fratellis",
         "minutes": 544.71,
         "plays": 155,
-        "percentageOfMinutes": 6.6
+        "percentageOfMinutes": 6.5
       },
       {
         "name": "Sleigh Bells",
@@ -2857,15 +2851,15 @@
       },
       {
         "name": "The Happy Fits",
-        "minutes": 116.98,
-        "plays": 35,
-        "percentageOfMinutes": 1.4
+        "minutes": 137.79,
+        "plays": 41,
+        "percentageOfMinutes": 1.7
       },
       {
         "name": "Bo Burnham",
-        "minutes": 99.62,
-        "plays": 22,
-        "percentageOfMinutes": 1.2
+        "minutes": 112.3,
+        "plays": 25,
+        "percentageOfMinutes": 1.3
       },
       {
         "name": "Tame Impala",
@@ -2883,7 +2877,7 @@
         "name": "Saint Motel",
         "minutes": 62.33,
         "plays": 19,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "name": "Royal Blood",
@@ -2958,6 +2952,18 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "name": "Melanie Martinez",
+        "minutes": 30.09,
+        "plays": 8,
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "name": "Eminem",
+        "minutes": 30.06,
+        "plays": 7,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "name": "Kate Bush",
         "minutes": 29.88,
         "plays": 9,
@@ -2974,6 +2980,12 @@
         "minutes": 29.3,
         "plays": 12,
         "percentageOfMinutes": 0.4
+      },
+      {
+        "name": "King Gnu",
+        "minutes": 28.78,
+        "plays": 8,
+        "percentageOfMinutes": 0.3
       },
       {
         "name": "Queen",
@@ -3000,27 +3012,9 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "name": "Melanie Martinez",
-        "minutes": 26.32,
-        "plays": 7,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "name": "MARINA",
         "minutes": 25.78,
         "plays": 10,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "name": "Eminem",
-        "minutes": 25.32,
-        "plays": 6,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "name": "King Gnu",
-        "minutes": 25.18,
-        "plays": 7,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3042,6 +3036,12 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "name": "1nonly",
+        "minutes": 22.02,
+        "plays": 9,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "name": "ALI",
         "minutes": 21.86,
         "plays": 4,
@@ -3051,12 +3051,6 @@
         "name": "Christopher Fitzgerald",
         "minutes": 20.43,
         "plays": 9,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "name": "1nonly",
-        "minutes": 19.69,
-        "plays": 8,
         "percentageOfMinutes": 0.2
       },
       {
@@ -3219,7 +3213,7 @@
         "name": "Feni",
         "minutes": 12.44,
         "plays": 4,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "name": "ThxSoMch",
@@ -3261,6 +3255,12 @@
         "name": "JAWNY",
         "minutes": 9.99,
         "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "name": "George Barnett",
+        "minutes": 9.78,
+        "plays": 3,
         "percentageOfMinutes": 0.1
       },
       {
@@ -3444,12 +3444,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "name": "George Barnett",
-        "minutes": 6.52,
-        "plays": 2,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "name": "Dayglow",
         "minutes": 6.49,
         "plays": 2,
@@ -3471,6 +3465,12 @@
         "name": "TV Girl",
         "minutes": 6.36,
         "plays": 2,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "name": "Will Paquin",
+        "minutes": 6.17,
+        "plays": 3,
         "percentageOfMinutes": 0.1
       },
       {
@@ -3579,12 +3579,6 @@
         "name": "The Rah Band",
         "minutes": 4.23,
         "plays": 1,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "name": "Will Paquin",
-        "minutes": 4.15,
-        "plays": 2,
         "percentageOfMinutes": 0.1
       },
       {
@@ -3912,8 +3906,8 @@
       {
         "title": "Crying Lightning",
         "artist": "Arctic Monkeys",
-        "minutes": 266.0441,
-        "plays": 71,
+        "minutes": 269.7912,
+        "plays": 72,
         "percentageOfMinutes": 2.0
       },
       {
@@ -3935,13 +3929,13 @@
         "artist": "Tame Impala",
         "minutes": 177.9336,
         "plays": 52,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "The Bad Thing",
         "artist": "Arctic Monkeys",
-        "minutes": 171.8556,
-        "plays": 72,
+        "minutes": 174.24248333333333,
+        "plays": 73,
         "percentageOfMinutes": 1.3
       },
       {
@@ -4003,8 +3997,8 @@
       {
         "title": "Lovesick #1 (Misery)",
         "artist": "The Happy Fits",
-        "minutes": 129.99,
-        "plays": 35,
+        "minutes": 133.704,
+        "plays": 36,
         "percentageOfMinutes": 1.0
       },
       {
@@ -4033,7 +4027,7 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 125.1039,
         "plays": 18,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "I Bet You Look Good On The Dancefloor",
@@ -4043,24 +4037,24 @@
         "percentageOfMinutes": 0.9
       },
       {
-        "title": "Pretty Visitors",
-        "artist": "Arctic Monkeys",
-        "minutes": 113.9281,
-        "plays": 31,
-        "percentageOfMinutes": 0.9
-      },
-      {
         "title": "While You Fade Away",
         "artist": "The Happy Fits",
-        "minutes": 113.52665,
-        "plays": 31,
+        "minutes": 117.1888,
+        "plays": 32,
         "percentageOfMinutes": 0.9
       },
       {
         "title": "Cruel Power",
         "artist": "The Happy Fits",
-        "minutes": 112.8743,
-        "plays": 33,
+        "minutes": 116.29473333333334,
+        "plays": 34,
+        "percentageOfMinutes": 0.9
+      },
+      {
+        "title": "Pretty Visitors",
+        "artist": "Arctic Monkeys",
+        "minutes": 113.9281,
+        "plays": 31,
         "percentageOfMinutes": 0.9
       },
       {
@@ -4092,6 +4086,13 @@
         "percentageOfMinutes": 0.8
       },
       {
+        "title": "Everything You Do",
+        "artist": "The Happy Fits",
+        "minutes": 106.38,
+        "plays": 30,
+        "percentageOfMinutes": 0.8
+      },
+      {
         "title": "the perfect pair",
         "artist": "beabadoobee",
         "minutes": 103.56091666666667,
@@ -4103,13 +4104,6 @@
         "artist": "Arctic Monkeys",
         "minutes": 103.0252,
         "plays": 24,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Everything You Do",
-        "artist": "The Happy Fits",
-        "minutes": 102.834,
-        "plays": 29,
         "percentageOfMinutes": 0.8
       },
       {
@@ -4232,6 +4226,13 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "The Nerve",
+        "artist": "The Happy Fits",
+        "minutes": 78.5775,
+        "plays": 25,
+        "percentageOfMinutes": 0.6
+      },
+      {
         "title": "Last Day On Earth",
         "artist": "beabadoobee",
         "minutes": 77.82495,
@@ -4250,13 +4251,6 @@
         "artist": "Laufey",
         "minutes": 76.30785,
         "plays": 27,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "The Nerve",
-        "artist": "The Happy Fits",
-        "minutes": 75.4344,
-        "plays": 24,
         "percentageOfMinutes": 0.6
       },
       {
@@ -4285,7 +4279,7 @@
         "artist": "beabadoobee",
         "minutes": 72.27,
         "plays": 27,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "the way things go",
@@ -4530,7 +4524,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 45.989,
         "plays": 15,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "California",
@@ -4624,6 +4618,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Words, Words, Words (Studio)",
+        "artist": "Bo Burnham",
+        "minutes": 36.1119,
+        "plays": 9,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Chelsea Dagger",
         "artist": "The Fratellis",
         "minutes": 35.86216666666667,
@@ -4664,13 +4665,6 @@
         "minutes": 33.632,
         "plays": 8,
         "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Words, Words, Words (Studio)",
-        "artist": "Bo Burnham",
-        "minutes": 32.099466666666665,
-        "plays": 8,
-        "percentageOfMinutes": 0.2
       },
       {
         "title": "The Man Who Left Too Soon",
@@ -4722,6 +4716,20 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Drama Club",
+        "artist": "Melanie Martinez",
+        "minutes": 30.085333333333335,
+        "plays": 8,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "She Wants Me (To Be Loved)",
+        "artist": "The Happy Fits",
+        "minutes": 29.91195,
+        "plays": 9,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Babooshka - 2018 Remaster",
         "artist": "Kate Bush",
         "minutes": 29.8839,
@@ -4747,6 +4755,13 @@
         "artist": "Chris Christodoulou",
         "minutes": 28.9553,
         "plays": 6,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "AIZO",
+        "artist": "King Gnu",
+        "minutes": 28.781066666666668,
+        "plays": 8,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4792,24 +4807,10 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "She Wants Me (To Be Loved)",
-        "artist": "The Happy Fits",
-        "minutes": 26.5884,
-        "plays": 8,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "How Did We Get So Dark?",
         "artist": "Royal Blood",
         "minutes": 26.391066666666667,
         "plays": 8,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Drama Club",
-        "artist": "Melanie Martinez",
-        "minutes": 26.324666666666666,
-        "plays": 7,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4824,13 +4825,6 @@
         "artist": "beabadoobee",
         "minutes": 25.542,
         "plays": 9,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "AIZO",
-        "artist": "King Gnu",
-        "minutes": 25.183433333333333,
-        "plays": 7,
         "percentageOfMinutes": 0.2
       },
       {
@@ -5191,6 +5185,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Oh Bo (Studio)",
+        "artist": "Bo Burnham",
+        "minutes": 15.1993,
+        "plays": 3,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Trouble",
         "artist": "Cage The Elephant",
         "minutes": 15.064866666666667,
@@ -5341,6 +5342,13 @@
         "title": "Wait a Minute!",
         "artist": "WILLOW",
         "minutes": 13.101333333333333,
+        "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "stone cold classic",
+        "artist": "George Barnett",
+        "minutes": 13.043466666666667,
         "plays": 4,
         "percentageOfMinutes": 0.1
       },
@@ -5534,6 +5542,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Rant",
+        "artist": "Bo Burnham",
+        "minutes": 10.8133,
+        "plays": 3,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "robert patekson",
         "artist": "bbno$",
         "minutes": 10.796666666666667,
@@ -5695,13 +5710,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Oh Bo (Studio)",
-        "artist": "Bo Burnham",
-        "minutes": 10.132866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "I Still Think I Love You",
         "artist": "The Happy Fits",
         "minutes": 10.096,
@@ -5741,13 +5749,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 9.800433333333334,
         "plays": 2,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "stone cold classic",
-        "artist": "George Barnett",
-        "minutes": 9.7826,
-        "plays": 3,
         "percentageOfMinutes": 0.1
       },
       {
@@ -6157,13 +6158,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Rant",
-        "artist": "Bo Burnham",
-        "minutes": 7.208866666666666,
-        "plays": 2,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "Cash In Cash Out",
         "artist": "Pharrell Williams",
         "minutes": 7.2045,
@@ -6308,7 +6302,7 @@
         "artist": "half\u2022alive",
         "minutes": 6.597333333333333,
         "plays": 2,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Get Over It",
@@ -6689,6 +6683,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "The Real Slim Shady",
+        "artist": "Eminem",
+        "minutes": 4.736666666666666,
+        "plays": 1,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Disappointment (feat. Rxseboy)",
         "artist": "Sarcastic Sounds",
         "minutes": 4.7364,
@@ -6938,6 +6939,13 @@
         "artist": "Arctic Monkeys",
         "minutes": 4.052183333333334,
         "plays": 1,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Now You Know",
+        "artist": "Will Paquin",
+        "minutes": 4.0468,
+        "plays": 2,
         "percentageOfMinutes": 0.0
       },
       {
@@ -7907,6 +7915,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "GHOSTKILLA",
+        "artist": "1nonly",
+        "minutes": 2.3244833333333332,
+        "plays": 1,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Honeypie",
         "artist": "JAWNY",
         "minutes": 2.2596833333333333,
@@ -7956,13 +7971,6 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Now You Know",
-        "artist": "Will Paquin",
-        "minutes": 2.0234,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "WILLYPACK",
         "artist": "Softwilly",
         "minutes": 1.9692166666666666,
@@ -7983,55 +7991,41 @@
         "artist": "The Stupendium",
         "minutes": 36.571333333333335,
         "plays": 8,
-        "percentageOfMinutes": 2.9
-      },
-      {
-        "title": "Television / So Far So Good",
-        "artist": "Rex Orange County",
-        "minutes": 35.013333333333335,
-        "plays": 8,
-        "percentageOfMinutes": 2.8
+        "percentageOfMinutes": 3.0
       },
       {
         "title": "Words, Words, Words (Studio)",
         "artist": "Bo Burnham",
         "minutes": 32.099466666666665,
         "plays": 8,
-        "percentageOfMinutes": 2.6
+        "percentageOfMinutes": 2.7
       },
       {
-        "title": "Renai Circulation (English Cover) [Full Version]",
-        "artist": "Lizz Robinett",
-        "minutes": 25.224,
-        "plays": 6,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "title": "Discord",
-        "artist": "The Living Tombstone",
-        "minutes": 22.6072,
+        "title": "Television / So Far So Good",
+        "artist": "Rex Orange County",
+        "minutes": 30.636666666666667,
         "plays": 7,
-        "percentageOfMinutes": 1.8
+        "percentageOfMinutes": 2.6
       },
       {
         "title": "Let's Be Friends",
         "artist": "Emily Osment",
         "minutes": 21.10885,
         "plays": 7,
+        "percentageOfMinutes": 1.8
+      },
+      {
+        "title": "Renai Circulation (English Cover) [Full Version]",
+        "artist": "Lizz Robinett",
+        "minutes": 21.02,
+        "plays": 5,
         "percentageOfMinutes": 1.7
       },
       {
-        "title": "Babooshka - 2018 Remaster",
-        "artist": "Kate Bush",
-        "minutes": 19.9226,
+        "title": "Discord",
+        "artist": "The Living Tombstone",
+        "minutes": 19.3776,
         "plays": 6,
-        "percentageOfMinutes": 1.6
-      },
-      {
-        "title": "Join Us for a Bite",
-        "artist": "JT Music",
-        "minutes": 19.70925,
-        "plays": 5,
         "percentageOfMinutes": 1.6
       },
       {
@@ -8039,28 +8033,28 @@
         "artist": "Melanie Martinez",
         "minutes": 18.803333333333335,
         "plays": 5,
+        "percentageOfMinutes": 1.6
+      },
+      {
+        "title": "Lovesick #1 (Misery)",
+        "artist": "The Happy Fits",
+        "minutes": 18.57,
+        "plays": 5,
         "percentageOfMinutes": 1.5
       },
       {
-        "title": "Backstabber",
-        "artist": "Kesha",
-        "minutes": 18.684,
-        "plays": 6,
-        "percentageOfMinutes": 1.5
-      },
-      {
-        "title": "Shake That",
-        "artist": "Eminem",
-        "minutes": 18.296,
-        "plays": 4,
-        "percentageOfMinutes": 1.5
-      },
-      {
-        "title": "Entropy (2014 Original)",
-        "artist": "Awkward Marina",
-        "minutes": 17.573833333333333,
+        "title": "Babooshka - 2018 Remaster",
+        "artist": "Kate Bush",
+        "minutes": 16.602166666666665,
         "plays": 5,
         "percentageOfMinutes": 1.4
+      },
+      {
+        "title": "Join Us for a Bite",
+        "artist": "JT Music",
+        "minutes": 15.7674,
+        "plays": 4,
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Batman",
@@ -8070,16 +8064,23 @@
         "percentageOfMinutes": 1.3
       },
       {
-        "title": "Be Around Me",
-        "artist": "Will Joseph Cook",
-        "minutes": 15.105,
+        "title": "Backstabber",
+        "artist": "Kesha",
+        "minutes": 15.57,
         "plays": 5,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.3
       },
       {
-        "title": "Lovesick #1 (Misery)",
-        "artist": "The Happy Fits",
-        "minutes": 14.856,
+        "title": "Oh Bo (Studio)",
+        "artist": "Bo Burnham",
+        "minutes": 15.1993,
+        "plays": 3,
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "Entropy (2014 Original)",
+        "artist": "Awkward Marina",
+        "minutes": 14.059066666666666,
         "plays": 4,
         "percentageOfMinutes": 1.2
       },
@@ -8098,10 +8099,17 @@
         "percentageOfMinutes": 1.1
       },
       {
-        "title": "Bubblegum Bitch",
-        "artist": "MARINA",
-        "minutes": 12.888833333333332,
-        "plays": 5,
+        "title": "Shake That",
+        "artist": "Eminem",
+        "minutes": 13.722,
+        "plays": 3,
+        "percentageOfMinutes": 1.1
+      },
+      {
+        "title": "Be Around Me",
+        "artist": "Will Joseph Cook",
+        "minutes": 12.084,
+        "plays": 4,
         "percentageOfMinutes": 1.0
       },
       {
@@ -8112,6 +8120,20 @@
         "percentageOfMinutes": 0.9
       },
       {
+        "title": "Rant",
+        "artist": "Bo Burnham",
+        "minutes": 10.8133,
+        "plays": 3,
+        "percentageOfMinutes": 0.9
+      },
+      {
+        "title": "AIZO",
+        "artist": "King Gnu",
+        "minutes": 10.7929,
+        "plays": 3,
+        "percentageOfMinutes": 0.9
+      },
+      {
         "title": "Repeat Stuff",
         "artist": "Bo Burnham",
         "minutes": 10.701933333333333,
@@ -8119,46 +8141,39 @@
         "percentageOfMinutes": 0.9
       },
       {
+        "title": "Everything You Do",
+        "artist": "The Happy Fits",
+        "minutes": 10.638,
+        "plays": 3,
+        "percentageOfMinutes": 0.9
+      },
+      {
         "title": "Like or Like Like",
         "artist": "Miniature Tigers",
         "minutes": 10.576866666666668,
         "plays": 4,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Estrelar",
         "artist": "Marcos Valle",
         "minutes": 10.449766666666667,
         "plays": 2,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Mayonaka no Door~stay with me",
         "artist": "Miki Matsubara",
         "minutes": 10.390666666666666,
         "plays": 2,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.9
       },
       {
-        "title": "The Adults Are Talking",
-        "artist": "The Strokes",
-        "minutes": 10.301766666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Oh Bo (Studio)",
-        "artist": "Bo Burnham",
-        "minutes": 10.132866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Wait a Minute!",
-        "artist": "WILLOW",
-        "minutes": 9.826,
-        "plays": 3,
-        "percentageOfMinutes": 0.8
+        "title": "Bubblegum Bitch",
+        "artist": "MARINA",
+        "minutes": 10.311066666666667,
+        "plays": 4,
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Can't Take My Eyes Off You - Original Extended Version",
@@ -8179,28 +8194,28 @@
         "artist": "Feni",
         "minutes": 9.332,
         "plays": 3,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
         "artist": "Tion Wayne",
         "minutes": 9.2695,
         "plays": 2,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Stateside + Zara Larsson",
         "artist": "PinkPantheress",
         "minutes": 9.23805,
         "plays": 3,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Tell Em",
         "artist": "Cochise",
         "minutes": 9.01895,
         "plays": 3,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044\u3000I CAN'T STOP THE LONELINESS",
@@ -8224,13 +8239,6 @@
         "percentageOfMinutes": 0.7
       },
       {
-        "title": "505",
-        "artist": "Arctic Monkeys",
-        "minutes": 8.452866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.7
-      },
-      {
         "title": "Mansion Party",
         "artist": "Ninja Sex Party",
         "minutes": 8.2507,
@@ -8242,28 +8250,28 @@
         "artist": "Led Zeppelin",
         "minutes": 8.08355,
         "plays": 1,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "\u30ab\u30e9\u30ab\u30e9\u30ab\u30e9\u306e\u30ab\u30e9",
         "artist": "Kikuo",
         "minutes": 8.027783333333334,
         "plays": 1,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Take Me Out",
         "artist": "Franz Ferdinand",
         "minutes": 7.9008666666666665,
         "plays": 2,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Crave You",
         "artist": "Flight Facilities",
         "minutes": 7.8262,
         "plays": 2,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Just for Me",
@@ -8294,13 +8302,6 @@
         "percentageOfMinutes": 0.6
       },
       {
-        "title": "Loser",
-        "artist": "Tame Impala",
-        "minutes": 7.4356333333333335,
-        "plays": 2,
-        "percentageOfMinutes": 0.6
-      },
-      {
         "title": "SPIT IN MY FACE!",
         "artist": "ThxSoMch",
         "minutes": 7.3937,
@@ -8322,30 +8323,9 @@
         "percentageOfMinutes": 0.6
       },
       {
-        "title": "Rant",
-        "artist": "Bo Burnham",
-        "minutes": 7.208866666666666,
-        "plays": 2,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "AIZO",
-        "artist": "King Gnu",
-        "minutes": 7.195266666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.6
-      },
-      {
         "title": "New Gold (feat. Tame Impala and Bootie Brown)",
         "artist": "Gorillaz",
         "minutes": 7.171633333333333,
-        "plays": 2,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Everything You Do",
-        "artist": "The Happy Fits",
-        "minutes": 7.092,
         "plays": 2,
         "percentageOfMinutes": 0.6
       },
@@ -8357,9 +8337,16 @@
         "percentageOfMinutes": 0.6
       },
       {
-        "title": "Henrietta",
-        "artist": "The Fratellis",
-        "minutes": 7.0542,
+        "title": "Cruel Power",
+        "artist": "The Happy Fits",
+        "minutes": 6.840866666666667,
+        "plays": 2,
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "She Wants Me (To Be Loved)",
+        "artist": "The Happy Fits",
+        "minutes": 6.6471,
         "plays": 2,
         "percentageOfMinutes": 0.6
       },
@@ -8371,9 +8358,16 @@
         "percentageOfMinutes": 0.5
       },
       {
-        "title": "Close To You",
-        "artist": "Dayglow",
-        "minutes": 6.489766666666666,
+        "title": "Wait a Minute!",
+        "artist": "WILLOW",
+        "minutes": 6.550666666666666,
+        "plays": 2,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "stone cold classic",
+        "artist": "George Barnett",
+        "minutes": 6.521733333333334,
         "plays": 2,
         "percentageOfMinutes": 0.5
       },
@@ -8406,9 +8400,9 @@
         "percentageOfMinutes": 0.5
       },
       {
-        "title": "Creepin Up The Backstairs",
-        "artist": "The Fratellis",
-        "minutes": 6.208866666666666,
+        "title": "The Nerve",
+        "artist": "The Happy Fits",
+        "minutes": 6.2862,
         "plays": 2,
         "percentageOfMinutes": 0.5
       },
@@ -8417,13 +8411,6 @@
         "artist": "Tame Impala",
         "minutes": 6.054,
         "plays": 1,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Still Take You Home",
-        "artist": "Arctic Monkeys",
-        "minutes": 5.788866666666666,
-        "plays": 2,
         "percentageOfMinutes": 0.5
       },
       {
@@ -8445,7 +8432,7 @@
         "artist": "ALI",
         "minutes": 5.4661,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Sunny day",
@@ -8483,6 +8470,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "The Adults Are Talking",
+        "artist": "The Strokes",
+        "minutes": 5.150883333333334,
+        "plays": 1,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "Greek Tragedy - Oliver Nelson TikTok Remix",
         "artist": "The Wombats",
         "minutes": 5.1071333333333335,
@@ -8493,13 +8487,6 @@
         "title": "IRIS OUT",
         "artist": "Kenshi Yonezu",
         "minutes": 5.052433333333333,
-        "plays": 2,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Locust Laced",
-        "artist": "Sleigh Bells",
-        "minutes": 5.031533333333333,
         "plays": 2,
         "percentageOfMinutes": 0.4
       },
@@ -8536,6 +8523,13 @@
         "artist": "Arctic Monkeys",
         "minutes": 4.773766666666667,
         "plays": 2,
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "title": "The Real Slim Shady",
+        "artist": "Eminem",
+        "minutes": 4.736666666666666,
+        "plays": 1,
         "percentageOfMinutes": 0.4
       },
       {
@@ -8613,56 +8607,56 @@
         "artist": "Rex Orange County",
         "minutes": 4.370516666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
-        "artist": "Arctic Monkeys",
-        "minutes": 4.360433333333333,
-        "plays": 2,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "From God's Perspective",
         "artist": "Bo Burnham",
         "minutes": 4.353683333333334,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Psycho Killer",
         "artist": "Talking Heads",
         "minutes": 4.3417666666666666,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Smooth Operator - Single Version",
         "artist": "Sade",
         "minutes": 4.31155,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "XXXMETAKNIGHT",
         "artist": "Softwilly",
         "minutes": 4.3,
         "plays": 2,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Renegade",
         "artist": "Styx",
         "minutes": 4.2871,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "The Moment",
         "artist": "Tame Impala",
         "minutes": 4.256883333333334,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "title": "505",
+        "artist": "Arctic Monkeys",
+        "minutes": 4.2264333333333335,
+        "plays": 1,
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "How Deep Is Your Love",
@@ -8686,16 +8680,16 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Burning Down the House",
-        "artist": "Talking Heads",
-        "minutes": 4.032,
-        "plays": 1,
+        "title": "Now You Know",
+        "artist": "Will Paquin",
+        "minutes": 4.0468,
+        "plays": 2,
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "I Can't Stand You Anymore",
-        "artist": "Sleigh Bells",
-        "minutes": 4.028,
+        "title": "Burning Down the House",
+        "artist": "Talking Heads",
+        "minutes": 4.032,
         "plays": 1,
         "percentageOfMinutes": 0.3
       },
@@ -8763,9 +8757,23 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Loser",
+        "artist": "Tame Impala",
+        "minutes": 3.7178166666666668,
+        "plays": 1,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Do You See Me?",
         "artist": "The Happy Fits",
         "minutes": 3.6984333333333335,
+        "plays": 1,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "While You Fade Away",
+        "artist": "The Happy Fits",
+        "minutes": 3.66215,
         "plays": 1,
         "percentageOfMinutes": 0.3
       },
@@ -8840,6 +8848,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Henrietta",
+        "artist": "The Fratellis",
+        "minutes": 3.5271,
+        "plays": 1,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Changes",
         "artist": "The Happy Fits",
         "minutes": 3.5204333333333335,
@@ -8868,20 +8883,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Dracula",
-        "artist": "Tame Impala",
-        "minutes": 3.4218,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Cruel Power",
-        "artist": "The Happy Fits",
-        "minutes": 3.4204333333333334,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "For Elise",
         "artist": "Saint Motel",
         "minutes": 3.3888833333333332,
@@ -8892,13 +8893,6 @@
         "title": "Poser",
         "artist": "Weathers",
         "minutes": 3.378433333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "When The Sun Goes Down",
-        "artist": "Arctic Monkeys",
-        "minutes": 3.3688833333333332,
         "plays": 1,
         "percentageOfMinutes": 0.3
       },
@@ -8917,13 +8911,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "R U Mine?",
-        "artist": "Arctic Monkeys",
-        "minutes": 3.3621,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "Everyone\u2019s A Guru Now",
         "artist": "Saint Motel",
         "minutes": 3.351766666666667,
@@ -8934,13 +8921,6 @@
         "title": "All Star",
         "artist": "Smash Mouth",
         "minutes": 3.33955,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "She Wants Me (To Be Loved)",
-        "artist": "The Happy Fits",
-        "minutes": 3.32355,
         "plays": 1,
         "percentageOfMinutes": 0.3
       },
@@ -8973,13 +8953,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "stone cold classic",
-        "artist": "George Barnett",
-        "minutes": 3.260866666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "10:36",
         "artist": "beabadoobee",
         "minutes": 3.2511,
@@ -8990,6 +8963,13 @@
         "title": "Tip Toes",
         "artist": "half\u2022alive",
         "minutes": 3.250783333333333,
+        "plays": 1,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Close To You",
+        "artist": "Dayglow",
+        "minutes": 3.244883333333333,
         "plays": 1,
         "percentageOfMinutes": 0.3
       },
@@ -9043,67 +9023,67 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "The Nerve",
-        "artist": "The Happy Fits",
-        "minutes": 3.1431,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "The Fall",
         "artist": "half\u2022alive",
         "minutes": 3.11575,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Creepin Up The Backstairs",
+        "artist": "The Fratellis",
+        "minutes": 3.104433333333333,
+        "plays": 1,
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "It's Going Down Now",
         "artist": "Azumi Takahashi",
         "minutes": 3.10155,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Deceptacon",
         "artist": "Le Tigre",
         "minutes": 3.0771,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Feed the Machine",
         "artist": "Poor Man's Poison",
         "minutes": 3.0554666666666668,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "hearts!",
         "artist": "Sadfriendd",
         "minutes": 3.046133333333333,
         "plays": 2,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Shake Me",
         "artist": "The Happy Fits",
         "minutes": 3.0344333333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Kiwi",
         "artist": "Fukkit",
         "minutes": 3.0342,
         "plays": 2,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Dancing in the Moonlight",
         "artist": "King Harvest",
         "minutes": 3.018883333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "still",
@@ -9134,16 +9114,16 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Wanna Start A Band?",
-        "artist": "Sleigh Bells",
-        "minutes": 2.8964333333333334,
+        "title": "I Bet You Look Good On The Dancefloor",
+        "artist": "Arctic Monkeys",
+        "minutes": 2.8946666666666667,
         "plays": 1,
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "I Bet You Look Good On The Dancefloor",
+        "title": "Still Take You Home",
         "artist": "Arctic Monkeys",
-        "minutes": 2.8946666666666667,
+        "minutes": 2.894433333333333,
         "plays": 1,
         "percentageOfMinutes": 0.2
       },
@@ -9183,13 +9163,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Brianstorm",
-        "artist": "Arctic Monkeys",
-        "minutes": 2.83755,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "Trigger Of Love",
         "artist": "JAWNY",
         "minutes": 2.8337166666666667,
@@ -9207,13 +9180,6 @@
         "title": "Not Allowed",
         "artist": "TV Girl",
         "minutes": 2.7977333333333334,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "The Dog",
-        "artist": "Mid River",
-        "minutes": 2.7875,
         "plays": 1,
         "percentageOfMinutes": 0.2
       },
@@ -9323,6 +9289,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Locust Laced",
+        "artist": "Sleigh Bells",
+        "minutes": 2.5157666666666665,
+        "plays": 1,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Broke Bitch",
         "artist": "Tiny Meat Gang",
         "minutes": 2.4367666666666667,
@@ -9337,13 +9310,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Red Light Indicates Doors Are Secured",
-        "artist": "Arctic Monkeys",
-        "minutes": 2.3937666666666666,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "OLIVIA",
         "artist": "Softwilly",
         "minutes": 2.393116666666667,
@@ -9354,6 +9320,13 @@
         "title": "top gun",
         "artist": "bbno$",
         "minutes": 2.3522166666666666,
+        "plays": 1,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "GHOSTKILLA",
+        "artist": "1nonly",
+        "minutes": 2.3244833333333332,
         "plays": 1,
         "percentageOfMinutes": 0.2
       },
@@ -9393,6 +9366,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
+        "artist": "Arctic Monkeys",
+        "minutes": 2.1802166666666665,
+        "plays": 1,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Chandelier",
         "artist": "Will Paquin",
         "minutes": 2.1244,
@@ -9410,13 +9390,6 @@
         "title": "Anything You Want",
         "artist": "JAWNY",
         "minutes": 2.059266666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Now You Know",
-        "artist": "Will Paquin",
-        "minutes": 2.0234,
         "plays": 1,
         "percentageOfMinutes": 0.2
       },
@@ -9439,7 +9412,7 @@
         "artist": "beabadoobee",
         "minutes": 1.8206666666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.2
       }
     ],
     "month": [
@@ -9448,21 +9421,21 @@
         "artist": "The Stupendium",
         "minutes": 50.285583333333335,
         "plays": 11,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "Mayonaka no Door~stay with me",
         "artist": "Miki Matsubara",
         "minutes": 41.562666666666665,
         "plays": 8,
-        "percentageOfMinutes": 1.9
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "Henrietta",
         "artist": "The Fratellis",
         "minutes": 38.7981,
         "plays": 11,
-        "percentageOfMinutes": 1.8
+        "percentageOfMinutes": 1.7
       },
       {
         "title": "Backstabber",
@@ -9472,32 +9445,39 @@
         "percentageOfMinutes": 1.7
       },
       {
+        "title": "Words, Words, Words (Studio)",
+        "artist": "Bo Burnham",
+        "minutes": 36.1119,
+        "plays": 9,
+        "percentageOfMinutes": 1.6
+      },
+      {
         "title": "Television / So Far So Good",
         "artist": "Rex Orange County",
         "minutes": 35.013333333333335,
         "plays": 8,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "Nuestra Canci\u00f3n",
         "artist": "Monsieur Perin\u00e9",
         "minutes": 34.6772,
         "plays": 8,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "She's Not Gone Yet but She's Leaving",
         "artist": "The Fratellis",
         "minutes": 34.53,
         "plays": 9,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "Creepin Up The Backstairs",
         "artist": "The Fratellis",
         "minutes": 34.14876666666667,
         "plays": 11,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "Renai Circulation (English Cover) [Full Version]",
@@ -9507,31 +9487,38 @@
         "percentageOfMinutes": 1.5
       },
       {
-        "title": "Words, Words, Words (Studio)",
-        "artist": "Bo Burnham",
-        "minutes": 32.099466666666665,
-        "plays": 8,
-        "percentageOfMinutes": 1.5
-      },
-      {
         "title": "Let's Be Friends",
         "artist": "Emily Osment",
         "minutes": 30.1555,
         "plays": 10,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "Drama Club",
+        "artist": "Melanie Martinez",
+        "minutes": 30.085333333333335,
+        "plays": 8,
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Babooshka - 2018 Remaster",
         "artist": "Kate Bush",
         "minutes": 29.8839,
         "plays": 9,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Discord",
         "artist": "The Living Tombstone",
         "minutes": 29.0664,
         "plays": 9,
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "AIZO",
+        "artist": "King Gnu",
+        "minutes": 28.781066666666668,
+        "plays": 8,
         "percentageOfMinutes": 1.3
       },
       {
@@ -9549,24 +9536,10 @@
         "percentageOfMinutes": 1.2
       },
       {
-        "title": "Drama Club",
-        "artist": "Melanie Martinez",
-        "minutes": 26.324666666666666,
-        "plays": 7,
-        "percentageOfMinutes": 1.2
-      },
-      {
         "title": "Bubblegum Bitch",
         "artist": "MARINA",
         "minutes": 25.777666666666665,
         "plays": 10,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "AIZO",
-        "artist": "King Gnu",
-        "minutes": 25.183433333333333,
-        "plays": 7,
         "percentageOfMinutes": 1.1
       },
       {
@@ -9595,7 +9568,14 @@
         "artist": "JT Music",
         "minutes": 23.6511,
         "plays": 6,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "title": "Crying Lightning",
+        "artist": "Arctic Monkeys",
+        "minutes": 22.4826,
+        "plays": 6,
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "LOST IN PARADISE",
@@ -9609,7 +9589,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 21.132166666666667,
         "plays": 5,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Never Ever Getting Rid of Me",
@@ -9619,11 +9599,11 @@
         "percentageOfMinutes": 0.9
       },
       {
-        "title": "Crying Lightning",
-        "artist": "Arctic Monkeys",
-        "minutes": 18.7355,
+        "title": "Lovesick #1 (Misery)",
+        "artist": "The Happy Fits",
+        "minutes": 18.57,
         "plays": 5,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Shake That",
@@ -9689,6 +9669,13 @@
         "percentageOfMinutes": 0.7
       },
       {
+        "title": "Oh Bo (Studio)",
+        "artist": "Bo Burnham",
+        "minutes": 15.1993,
+        "plays": 3,
+        "percentageOfMinutes": 0.7
+      },
+      {
         "title": "Locust Laced",
         "artist": "Sleigh Bells",
         "minutes": 15.0946,
@@ -9696,18 +9683,18 @@
         "percentageOfMinutes": 0.7
       },
       {
-        "title": "Lovesick #1 (Misery)",
-        "artist": "The Happy Fits",
-        "minutes": 14.856,
-        "plays": 4,
-        "percentageOfMinutes": 0.7
-      },
-      {
         "title": "Wanna Start A Band?",
         "artist": "Sleigh Bells",
         "minutes": 14.482166666666666,
         "plays": 5,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "The Bad Thing",
+        "artist": "Arctic Monkeys",
+        "minutes": 14.3213,
+        "plays": 6,
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Welcome to The Internet",
@@ -9784,13 +9771,6 @@
         "artist": "ThxSoMch",
         "minutes": 12.322833333333334,
         "plays": 5,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "The Bad Thing",
-        "artist": "Arctic Monkeys",
-        "minutes": 11.934416666666667,
-        "plays": 5,
         "percentageOfMinutes": 0.5
       },
       {
@@ -9843,6 +9823,13 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "Rant",
+        "artist": "Bo Burnham",
+        "minutes": 10.8133,
+        "plays": 3,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "robert patekson",
         "artist": "bbno$",
         "minutes": 10.796666666666667,
@@ -9878,6 +9865,13 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "Everything You Do",
+        "artist": "The Happy Fits",
+        "minutes": 10.638,
+        "plays": 3,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "Purple Turtleneck",
         "artist": "Kevin Creel",
         "minutes": 10.3384,
@@ -9889,21 +9883,14 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 10.150216666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Oh Bo (Studio)",
-        "artist": "Bo Burnham",
-        "minutes": 10.132866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "When The Sun Goes Down",
         "artist": "Arctic Monkeys",
         "minutes": 10.10665,
         "plays": 3,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Can't Take My Eyes Off You - Original Extended Version",
@@ -10029,14 +10016,14 @@
         "artist": "Brooksie",
         "minutes": 7.89,
         "plays": 3,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Let It Happen",
         "artist": "Tame Impala",
         "minutes": 7.7931,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Dancing Queen",
@@ -10088,13 +10075,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Rant",
-        "artist": "Bo Burnham",
-        "minutes": 7.208866666666666,
-        "plays": 2,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "Cash In Cash Out",
         "artist": "Pharrell Williams",
         "minutes": 7.2045,
@@ -10105,13 +10085,6 @@
         "title": "Cracker Island (feat. Thundercat)",
         "artist": "Gorillaz",
         "minutes": 7.125,
-        "plays": 2,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Everything You Do",
-        "artist": "The Happy Fits",
-        "minutes": 7.092,
         "plays": 2,
         "percentageOfMinutes": 0.3
       },
@@ -10130,6 +10103,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Cruel Power",
+        "artist": "The Happy Fits",
+        "minutes": 6.840866666666667,
+        "plays": 2,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "All Star",
         "artist": "Smash Mouth",
         "minutes": 6.6791,
@@ -10144,9 +10124,23 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "She Wants Me (To Be Loved)",
+        "artist": "The Happy Fits",
+        "minutes": 6.6471,
+        "plays": 2,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Everything Machine",
         "artist": "half\u2022alive",
         "minutes": 6.597333333333333,
+        "plays": 2,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "stone cold classic",
+        "artist": "George Barnett",
+        "minutes": 6.521733333333334,
         "plays": 2,
         "percentageOfMinutes": 0.3
       },
@@ -10211,6 +10205,13 @@
         "artist": "Fukkit",
         "minutes": 6.3,
         "plays": 3,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "The Nerve",
+        "artist": "The Happy Fits",
+        "minutes": 6.2862,
+        "plays": 2,
         "percentageOfMinutes": 0.3
       },
       {
@@ -10309,7 +10310,7 @@
         "artist": "The Fratellis",
         "minutes": 5.5711,
         "plays": 2,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "title": "2 time zones",
@@ -10400,6 +10401,13 @@
         "artist": "Portugal. The Man",
         "minutes": 4.836433333333333,
         "plays": 2,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "The Real Slim Shady",
+        "artist": "Eminem",
+        "minutes": 4.736666666666666,
+        "plays": 1,
         "percentageOfMinutes": 0.2
       },
       {
@@ -10585,6 +10593,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Now You Know",
+        "artist": "Will Paquin",
+        "minutes": 4.0468,
+        "plays": 2,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Burning Down the House",
         "artist": "Talking Heads",
         "minutes": 4.032,
@@ -10704,6 +10719,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "While You Fade Away",
+        "artist": "The Happy Fits",
+        "minutes": 3.66215,
+        "plays": 1,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "bad idea!",
         "artist": "girl in red",
         "minutes": 3.660633333333333,
@@ -10816,67 +10838,53 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Cruel Power",
-        "artist": "The Happy Fits",
-        "minutes": 3.4204333333333334,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "For Elise",
         "artist": "Saint Motel",
         "minutes": 3.3888833333333332,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Poser",
         "artist": "Weathers",
         "minutes": 3.378433333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Red Wine",
         "artist": "Follies & Vices",
         "minutes": 3.3660666666666668,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Achey Bones",
         "artist": "The Happy Fits",
         "minutes": 3.3651,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "R U Mine?",
         "artist": "Arctic Monkeys",
         "minutes": 3.3621,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Everyone\u2019s A Guru Now",
         "artist": "Saint Motel",
         "minutes": 3.351766666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Tired",
         "artist": "beabadoobee",
         "minutes": 3.3252333333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "She Wants Me (To Be Loved)",
-        "artist": "The Happy Fits",
-        "minutes": 3.32355,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Digital Silence",
@@ -10903,13 +10911,6 @@
         "title": "Two Birds",
         "artist": "Regina Spektor",
         "minutes": 3.264,
-        "plays": 1,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "stone cold classic",
-        "artist": "George Barnett",
-        "minutes": 3.260866666666667,
         "plays": 1,
         "percentageOfMinutes": 0.1
       },
@@ -10945,13 +10946,6 @@
         "title": "Ironic",
         "artist": "Bo Burnham",
         "minutes": 3.1477666666666666,
-        "plays": 1,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "The Nerve",
-        "artist": "The Happy Fits",
-        "minutes": 3.1431,
         "plays": 1,
         "percentageOfMinutes": 0.1
       },
@@ -11201,6 +11195,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "GHOSTKILLA",
+        "artist": "1nonly",
+        "minutes": 2.3244833333333332,
+        "plays": 1,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Drop It Like It's Hot!",
         "artist": "HAARPER",
         "minutes": 2.2664666666666666,
@@ -11243,13 +11244,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Now You Know",
-        "artist": "Will Paquin",
-        "minutes": 2.0234,
-        "plays": 1,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "WILLYPACK",
         "artist": "Softwilly",
         "minutes": 1.9692166666666666,
@@ -11275,8 +11269,8 @@
       {
         "title": "Crying Lightning",
         "artist": "Arctic Monkeys",
-        "minutes": 262.297,
-        "plays": 70,
+        "minutes": 266.0441,
+        "plays": 71,
         "percentageOfMinutes": 3.2
       },
       {
@@ -11296,8 +11290,8 @@
       {
         "title": "The Bad Thing",
         "artist": "Arctic Monkeys",
-        "minutes": 171.8556,
-        "plays": 72,
+        "minutes": 174.24248333333333,
+        "plays": 73,
         "percentageOfMinutes": 2.1
       },
       {
@@ -11389,7 +11383,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 112.2775,
         "plays": 50,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Potion Approaching",
@@ -11627,14 +11621,21 @@
         "artist": "The Fratellis",
         "minutes": 37.49666666666667,
         "plays": 7,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Backstabber",
         "artist": "Kesha",
         "minutes": 37.368,
         "plays": 12,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "title": "Words, Words, Words (Studio)",
+        "artist": "Bo Burnham",
+        "minutes": 36.1119,
+        "plays": 9,
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Ole Black 'n' Blue Eyes",
@@ -11672,13 +11673,6 @@
         "percentageOfMinutes": 0.4
       },
       {
-        "title": "Words, Words, Words (Studio)",
-        "artist": "Bo Burnham",
-        "minutes": 32.099466666666665,
-        "plays": 8,
-        "percentageOfMinutes": 0.4
-      },
-      {
         "title": "For The Girl",
         "artist": "The Fratellis",
         "minutes": 30.64105,
@@ -11690,6 +11684,13 @@
         "artist": "Emily Osment",
         "minutes": 30.1555,
         "plays": 10,
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "title": "Drama Club",
+        "artist": "Melanie Martinez",
+        "minutes": 30.085333333333335,
+        "plays": 8,
         "percentageOfMinutes": 0.4
       },
       {
@@ -11711,13 +11712,20 @@
         "artist": "The Living Tombstone",
         "minutes": 29.0664,
         "plays": 9,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "\u2026con lentitud poderosa",
         "artist": "Chris Christodoulou",
         "minutes": 28.9553,
         "plays": 6,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "AIZO",
+        "artist": "King Gnu",
+        "minutes": 28.781066666666668,
+        "plays": 8,
         "percentageOfMinutes": 0.3
       },
       {
@@ -11763,13 +11771,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Drama Club",
-        "artist": "Melanie Martinez",
-        "minutes": 26.324666666666666,
-        "plays": 7,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "Bubblegum Bitch",
         "artist": "MARINA",
         "minutes": 25.777666666666665,
@@ -11781,13 +11782,6 @@
         "artist": "beabadoobee",
         "minutes": 25.542,
         "plays": 9,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "AIZO",
-        "artist": "King Gnu",
-        "minutes": 25.183433333333333,
-        "plays": 7,
         "percentageOfMinutes": 0.3
       },
       {
@@ -11931,6 +11925,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Lovesick #1 (Misery)",
+        "artist": "The Happy Fits",
+        "minutes": 18.57,
+        "plays": 5,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Shake That",
         "artist": "Eminem",
         "minutes": 18.296,
@@ -11948,6 +11949,13 @@
         "title": "Chelsea Dagger",
         "artist": "The Fratellis",
         "minutes": 17.931083333333333,
+        "plays": 5,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Everything You Do",
+        "artist": "The Happy Fits",
+        "minutes": 17.73,
         "plays": 5,
         "percentageOfMinutes": 0.2
       },
@@ -12099,16 +12107,16 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "If You Want To",
-        "artist": "beabadoobee",
-        "minutes": 14.9092,
-        "plays": 4,
+        "title": "Oh Bo (Studio)",
+        "artist": "Bo Burnham",
+        "minutes": 15.1993,
+        "plays": 3,
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Lovesick #1 (Misery)",
-        "artist": "The Happy Fits",
-        "minutes": 14.856,
+        "title": "If You Want To",
+        "artist": "beabadoobee",
+        "minutes": 14.9092,
         "plays": 4,
         "percentageOfMinutes": 0.2
       },
@@ -12131,13 +12139,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 14.70065,
         "plays": 3,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Everything You Do",
-        "artist": "The Happy Fits",
-        "minutes": 14.184,
-        "plays": 4,
         "percentageOfMinutes": 0.2
       },
       {
@@ -12173,6 +12174,13 @@
         "artist": "Ninja Sex Party",
         "minutes": 13.751166666666666,
         "plays": 5,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Cruel Power",
+        "artist": "The Happy Fits",
+        "minutes": 13.681733333333334,
+        "plays": 4,
         "percentageOfMinutes": 0.2
       },
       {
@@ -12257,28 +12265,28 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 12.5,
         "plays": 2,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "THAT'S THE WAY OF THE WORLD",
         "artist": "Masayoshi Takanaka",
         "minutes": 12.486666666666666,
         "plays": 2,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "The Fall",
         "artist": "half\u2022alive",
         "minutes": 12.463,
         "plays": 4,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Dumb Enough",
         "artist": "Feni",
         "minutes": 12.442666666666666,
         "plays": 4,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "SPIT IN MY FACE!",
@@ -12365,6 +12373,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Rant",
+        "artist": "Bo Burnham",
+        "minutes": 10.8133,
+        "plays": 3,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "robert patekson",
         "artist": "bbno$",
         "minutes": 10.796666666666667,
@@ -12442,13 +12457,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Cruel Power",
-        "artist": "The Happy Fits",
-        "minutes": 10.2613,
-        "plays": 3,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "My Type",
         "artist": "Saint Motel",
         "minutes": 10.24055,
@@ -12467,13 +12475,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 10.150216666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Oh Bo (Studio)",
-        "artist": "Bo Burnham",
-        "minutes": 10.132866666666667,
-        "plays": 2,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12498,6 +12499,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "stone cold classic",
+        "artist": "George Barnett",
+        "minutes": 9.7826,
+        "plays": 3,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Just for Me",
         "artist": "PinkPantheress",
         "minutes": 9.65,
@@ -12508,6 +12516,13 @@
         "title": "What You Know",
         "artist": "Two Door Cinema Club",
         "minutes": 9.57,
+        "plays": 3,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "The Nerve",
+        "artist": "The Happy Fits",
+        "minutes": 9.4293,
         "plays": 3,
         "percentageOfMinutes": 0.1
       },
@@ -12827,6 +12842,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "While You Fade Away",
+        "artist": "The Happy Fits",
+        "minutes": 7.3243,
+        "plays": 2,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Prom Night",
         "artist": "Riovaz",
         "minutes": 7.29495,
@@ -12844,13 +12866,6 @@
         "title": "The Less I Know The Better",
         "artist": "Tame Impala",
         "minutes": 7.210666666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Rant",
-        "artist": "Bo Burnham",
-        "minutes": 7.208866666666666,
         "plays": 2,
         "percentageOfMinutes": 0.1
       },
@@ -12946,6 +12961,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "She Wants Me (To Be Loved)",
+        "artist": "The Happy Fits",
+        "minutes": 6.6471,
+        "plays": 2,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Everything Machine",
         "artist": "half\u2022alive",
         "minutes": 6.597333333333333,
@@ -12956,13 +12978,6 @@
         "title": "Dance Alone",
         "artist": "The Happy Fits",
         "minutes": 6.533333333333333,
-        "plays": 2,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "stone cold classic",
-        "artist": "George Barnett",
-        "minutes": 6.521733333333334,
         "plays": 2,
         "percentageOfMinutes": 0.1
       },
@@ -13006,13 +13021,6 @@
         "artist": "Fukkit",
         "minutes": 6.3,
         "plays": 3,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "The Nerve",
-        "artist": "The Happy Fits",
-        "minutes": 6.2862,
-        "plays": 2,
         "percentageOfMinutes": 0.1
       },
       {
@@ -13194,6 +13202,13 @@
         "title": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
         "artist": "Bee Gees",
         "minutes": 4.756216666666667,
+        "plays": 1,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "The Real Slim Shady",
+        "artist": "Eminem",
+        "minutes": 4.736666666666666,
         "plays": 1,
         "percentageOfMinutes": 0.1
       },
@@ -13401,6 +13416,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Now You Know",
+        "artist": "Will Paquin",
+        "minutes": 4.0468,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Burning Down the House",
         "artist": "Talking Heads",
         "minutes": 4.032,
@@ -13565,13 +13587,6 @@
         "title": "Reptilia",
         "artist": "The Strokes",
         "minutes": 3.6637666666666666,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "While You Fade Away",
-        "artist": "The Happy Fits",
-        "minutes": 3.66215,
         "plays": 1,
         "percentageOfMinutes": 0.0
       },
@@ -13831,13 +13846,6 @@
         "title": "Freaking Out",
         "artist": "The Wrecks",
         "minutes": 3.3306666666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "She Wants Me (To Be Loved)",
-        "artist": "The Happy Fits",
-        "minutes": 3.32355,
         "plays": 1,
         "percentageOfMinutes": 0.0
       },
@@ -14304,6 +14312,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "GHOSTKILLA",
+        "artist": "1nonly",
+        "minutes": 2.3244833333333332,
+        "plays": 1,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Honeypie",
         "artist": "JAWNY",
         "minutes": 2.2596833333333333,
@@ -14335,13 +14350,6 @@
         "title": "Repeat",
         "artist": "Fukkit",
         "minutes": 2.034666666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Now You Know",
-        "artist": "Will Paquin",
-        "minutes": 2.0234,
         "plays": 1,
         "percentageOfMinutes": 0.0
       },
