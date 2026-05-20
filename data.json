@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-05-19T02:38:25.867760+00:00",
-    "lastUpdated": "May 19, 2026 - 02:38 AM UST"
+    "generatedAt": "2026-05-20T02:38:38.229168+00:00",
+    "lastUpdated": "May 20, 2026 - 02:38 AM UST"
   },
   "artists": {
     "total": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 5583.31,
-        "plays": 1751,
+        "minutes": 5620.93,
+        "plays": 1762,
         "percentageOfMinutes": 26.5
       },
       {
@@ -21,13 +21,13 @@
         "name": "TV Girl",
         "minutes": 2440.69,
         "plays": 713,
-        "percentageOfMinutes": 11.6
+        "percentageOfMinutes": 11.5
       },
       {
         "name": "The Happy Fits",
         "minutes": 1919.91,
         "plays": 583,
-        "percentageOfMinutes": 9.1
+        "percentageOfMinutes": 9.0
       },
       {
         "name": "The Fratellis",
@@ -84,6 +84,12 @@
         "percentageOfMinutes": 0.8
       },
       {
+        "name": "Gwen Stefani",
+        "minutes": 163.0,
+        "plays": 44,
+        "percentageOfMinutes": 0.8
+      },
+      {
         "name": "King Gnu",
         "minutes": 151.1,
         "plays": 42,
@@ -99,12 +105,6 @@
         "name": "Saint Motel",
         "minutes": 115.95,
         "plays": 35,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "name": "Gwen Stefani",
-        "minutes": 112.07,
-        "plays": 30,
         "percentageOfMinutes": 0.5
       },
       {
@@ -150,6 +150,12 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "name": "Friday Pilots Club",
+        "minutes": 71.47,
+        "plays": 24,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "name": "The Rills",
         "minutes": 67.56,
         "plays": 23,
@@ -168,8 +174,8 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "name": "Friday Pilots Club",
-        "minutes": 60.82,
+        "name": "LE SSERAFIM",
+        "minutes": 57.44,
         "plays": 20,
         "percentageOfMinutes": 0.3
       },
@@ -189,12 +195,6 @@
         "name": "The Stupendium",
         "minutes": 54.86,
         "plays": 12,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "name": "LE SSERAFIM",
-        "minutes": 54.57,
-        "plays": 19,
         "percentageOfMinutes": 0.3
       },
       {
@@ -300,6 +300,12 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "name": "PinkPantheress",
+        "minutes": 31.21,
+        "plays": 12,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "name": "Feni",
         "minutes": 31.11,
         "plays": 10,
@@ -348,9 +354,9 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "name": "PinkPantheress",
-        "minutes": 28.13,
-        "plays": 11,
+        "name": "Dead Poet Society",
+        "minutes": 27.16,
+        "plays": 8,
         "percentageOfMinutes": 0.1
       },
       {
@@ -459,12 +465,6 @@
         "name": "Fukkit",
         "minutes": 20.47,
         "plays": 11,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "name": "Dead Poet Society",
-        "minutes": 20.45,
-        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
@@ -1455,75 +1455,75 @@
     "lastWeek": [
       {
         "name": "TV Girl",
-        "minutes": 907.53,
-        "plays": 267,
-        "percentageOfMinutes": 65.6
-      },
-      {
-        "name": "Arctic Monkeys",
-        "minutes": 129.29,
-        "plays": 41,
-        "percentageOfMinutes": 9.4
+        "minutes": 620.03,
+        "plays": 182,
+        "percentageOfMinutes": 56.4
       },
       {
         "name": "Gwen Stefani",
-        "minutes": 112.07,
-        "plays": 30,
-        "percentageOfMinutes": 8.1
+        "minutes": 163.0,
+        "plays": 44,
+        "percentageOfMinutes": 14.8
+      },
+      {
+        "name": "Arctic Monkeys",
+        "minutes": 129.02,
+        "plays": 40,
+        "percentageOfMinutes": 11.7
       },
       {
         "name": "Jordana",
-        "minutes": 94.35,
-        "plays": 32,
-        "percentageOfMinutes": 6.8
-      },
-      {
-        "name": "beabadoobee",
-        "minutes": 32.99,
-        "plays": 10,
-        "percentageOfMinutes": 2.4
-      },
-      {
-        "name": "Dead Poet Society",
-        "minutes": 20.45,
-        "plays": 6,
-        "percentageOfMinutes": 1.5
+        "minutes": 59.37,
+        "plays": 20,
+        "percentageOfMinutes": 5.4
       },
       {
         "name": "Friday Pilots Club",
-        "minutes": 19.1,
-        "plays": 7,
-        "percentageOfMinutes": 1.4
+        "minutes": 29.75,
+        "plays": 11,
+        "percentageOfMinutes": 2.7
+      },
+      {
+        "name": "Dead Poet Society",
+        "minutes": 27.16,
+        "plays": 8,
+        "percentageOfMinutes": 2.5
       },
       {
         "name": "The Fratellis",
         "minutes": 16.85,
         "plays": 5,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "name": "Monster Rally",
-        "minutes": 12.07,
-        "plays": 5,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 1.5
       },
       {
         "name": "LE SSERAFIM",
-        "minutes": 11.49,
-        "plays": 4,
-        "percentageOfMinutes": 0.8
+        "minutes": 14.36,
+        "plays": 5,
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "name": "Monster Rally",
+        "minutes": 7.24,
+        "plays": 3,
+        "percentageOfMinutes": 0.7
+      },
+      {
+        "name": "PinkPantheress",
+        "minutes": 6.16,
+        "plays": 2,
+        "percentageOfMinutes": 0.6
       },
       {
         "name": "Masayoshi Takanaka",
         "minutes": 5.88,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "name": "Sleigh Bells",
         "minutes": 4.03,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "name": "Clairo",
@@ -1544,10 +1544,10 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "name": "PinkPantheress",
-        "minutes": 3.08,
+        "name": "beabadoobee",
+        "minutes": 2.98,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "name": "Malcolm Todd",
@@ -1561,37 +1561,49 @@
         "name": "TV Girl",
         "minutes": 2070.26,
         "plays": 605,
-        "percentageOfMinutes": 70.2
+        "percentageOfMinutes": 67.7
       },
       {
         "name": "Arctic Monkeys",
-        "minutes": 299.83,
-        "plays": 95,
-        "percentageOfMinutes": 10.2
+        "minutes": 337.45,
+        "plays": 106,
+        "percentageOfMinutes": 11.0
       },
       {
         "name": "Jordana",
         "minutes": 206.74,
         "plays": 70,
-        "percentageOfMinutes": 7.0
+        "percentageOfMinutes": 6.8
       },
       {
         "name": "Gwen Stefani",
-        "minutes": 112.07,
-        "plays": 30,
-        "percentageOfMinutes": 3.8
+        "minutes": 163.0,
+        "plays": 44,
+        "percentageOfMinutes": 5.3
       },
       {
         "name": "beabadoobee",
         "minutes": 104.57,
         "plays": 34,
-        "percentageOfMinutes": 3.5
+        "percentageOfMinutes": 3.4
+      },
+      {
+        "name": "Friday Pilots Club",
+        "minutes": 29.75,
+        "plays": 11,
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "name": "Dead Poet Society",
+        "minutes": 27.16,
+        "plays": 8,
+        "percentageOfMinutes": 0.9
       },
       {
         "name": "Bloodbath64",
         "minutes": 25.66,
         "plays": 9,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "name": "Monster Rally",
@@ -1600,22 +1612,16 @@
         "percentageOfMinutes": 0.7
       },
       {
-        "name": "Dead Poet Society",
-        "minutes": 20.45,
-        "plays": 6,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "name": "Friday Pilots Club",
-        "minutes": 19.1,
-        "plays": 7,
-        "percentageOfMinutes": 0.6
-      },
-      {
         "name": "The Fratellis",
         "minutes": 16.85,
         "plays": 5,
         "percentageOfMinutes": 0.6
+      },
+      {
+        "name": "LE SSERAFIM",
+        "minutes": 14.36,
+        "plays": 5,
+        "percentageOfMinutes": 0.5
       },
       {
         "name": "The Long Faces",
@@ -1624,10 +1630,10 @@
         "percentageOfMinutes": 0.4
       },
       {
-        "name": "LE SSERAFIM",
-        "minutes": 11.49,
-        "plays": 4,
-        "percentageOfMinutes": 0.4
+        "name": "PinkPantheress",
+        "minutes": 6.16,
+        "plays": 2,
+        "percentageOfMinutes": 0.2
       },
       {
         "name": "Masayoshi Takanaka",
@@ -1660,12 +1666,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "name": "PinkPantheress",
-        "minutes": 3.08,
-        "plays": 1,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "name": "Malcolm Todd",
         "minutes": 2.52,
         "plays": 1,
@@ -1675,21 +1675,21 @@
     "year": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 5556.87,
-        "plays": 1744,
+        "minutes": 5594.48,
+        "plays": 1755,
         "percentageOfMinutes": 34.2
       },
       {
         "name": "TV Girl",
         "minutes": 2440.69,
         "plays": 713,
-        "percentageOfMinutes": 15.0
+        "percentageOfMinutes": 14.9
       },
       {
         "name": "The Fratellis",
         "minutes": 1232.57,
         "plays": 354,
-        "percentageOfMinutes": 7.6
+        "percentageOfMinutes": 7.5
       },
       {
         "name": "Masayoshi Takanaka",
@@ -1713,7 +1713,7 @@
         "name": "Bo Burnham",
         "minutes": 220.24,
         "plays": 48,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "name": "Jordana",
@@ -1725,12 +1725,18 @@
         "name": "The Long Faces",
         "minutes": 171.4,
         "plays": 55,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
         "name": "Sleigh Bells",
         "minutes": 169.57,
         "plays": 55,
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "name": "Gwen Stefani",
+        "minutes": 163.0,
+        "plays": 44,
         "percentageOfMinutes": 1.0
       },
       {
@@ -1750,12 +1756,6 @@
         "minutes": 124.18,
         "plays": 53,
         "percentageOfMinutes": 0.8
-      },
-      {
-        "name": "Gwen Stefani",
-        "minutes": 112.07,
-        "plays": 30,
-        "percentageOfMinutes": 0.7
       },
       {
         "name": "Miki Matsubara",
@@ -1806,15 +1806,27 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "name": "LE SSERAFIM",
+        "minutes": 57.44,
+        "plays": 20,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "name": "Her's",
         "minutes": 57.04,
         "plays": 16,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "name": "Rex Orange County",
         "minutes": 56.46,
         "plays": 13,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "name": "Friday Pilots Club",
+        "minutes": 55.82,
+        "plays": 19,
         "percentageOfMinutes": 0.3
       },
       {
@@ -1827,12 +1839,6 @@
         "name": "Royal Blood",
         "minutes": 54.72,
         "plays": 15,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "name": "LE SSERAFIM",
-        "minutes": 54.57,
-        "plays": 19,
         "percentageOfMinutes": 0.3
       },
       {
@@ -1869,12 +1875,6 @@
         "name": "Softwilly",
         "minutes": 46.27,
         "plays": 19,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "name": "Friday Pilots Club",
-        "minutes": 45.17,
-        "plays": 15,
         "percentageOfMinutes": 0.3
       },
       {
@@ -1923,6 +1923,12 @@
         "name": "The Living Tombstone",
         "minutes": 32.91,
         "plays": 10,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "name": "PinkPantheress",
+        "minutes": 31.21,
+        "plays": 12,
         "percentageOfMinutes": 0.2
       },
       {
@@ -1980,14 +1986,14 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "name": "PinkPantheress",
-        "minutes": 28.13,
-        "plays": 11,
+        "name": "Cage The Elephant",
+        "minutes": 28.0,
+        "plays": 8,
         "percentageOfMinutes": 0.2
       },
       {
-        "name": "Cage The Elephant",
-        "minutes": 28.0,
+        "name": "Dead Poet Society",
+        "minutes": 27.16,
         "plays": 8,
         "percentageOfMinutes": 0.2
       },
@@ -2073,12 +2079,6 @@
         "name": "Fukkit",
         "minutes": 20.47,
         "plays": 11,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "name": "Dead Poet Society",
-        "minutes": 20.45,
-        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
@@ -3074,7 +3074,7 @@
         "artist": "TV Girl",
         "minutes": 476.4225,
         "plays": 139,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "Crying Lightning",
@@ -3091,6 +3091,13 @@
         "percentageOfMinutes": 1.4
       },
       {
+        "title": "Arabella",
+        "artist": "Arctic Monkeys",
+        "minutes": 262.65093333333334,
+        "plays": 76,
+        "percentageOfMinutes": 1.2
+      },
+      {
         "title": "Brianstorm",
         "artist": "Arctic Monkeys",
         "minutes": 258.21705,
@@ -3098,17 +3105,10 @@
         "percentageOfMinutes": 1.2
       },
       {
-        "title": "Arabella",
-        "artist": "Arctic Monkeys",
-        "minutes": 255.73906666666667,
-        "plays": 74,
-        "percentageOfMinutes": 1.2
-      },
-      {
         "title": "Still Take You Home",
         "artist": "Arctic Monkeys",
-        "minutes": 234.4491,
-        "plays": 81,
+        "minutes": 237.34353333333334,
+        "plays": 82,
         "percentageOfMinutes": 1.1
       },
       {
@@ -3119,6 +3119,20 @@
         "percentageOfMinutes": 1.1
       },
       {
+        "title": "Snap Out Of It",
+        "artist": "Arctic Monkeys",
+        "minutes": 205.89866666666666,
+        "plays": 64,
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "title": "When The Sun Goes Down",
+        "artist": "Arctic Monkeys",
+        "minutes": 205.50188333333332,
+        "plays": 61,
+        "percentageOfMinutes": 1.0
+      },
+      {
         "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
         "artist": "Arctic Monkeys",
         "minutes": 204.94036666666668,
@@ -3126,31 +3140,17 @@
         "percentageOfMinutes": 1.0
       },
       {
-        "title": "Snap Out Of It",
+        "title": "Teddy Picker",
         "artist": "Arctic Monkeys",
-        "minutes": 202.6815,
-        "plays": 63,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "When The Sun Goes Down",
-        "artist": "Arctic Monkeys",
-        "minutes": 202.133,
-        "plays": 60,
-        "percentageOfMinutes": 1.0
+        "minutes": 195.44533333333334,
+        "plays": 73,
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Dangerous Animals",
         "artist": "Arctic Monkeys",
         "minutes": 193.1105,
         "plays": 55,
-        "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "Teddy Picker",
-        "artist": "Arctic Monkeys",
-        "minutes": 192.768,
-        "plays": 72,
         "percentageOfMinutes": 0.9
       },
       {
@@ -3165,13 +3165,13 @@
         "artist": "The Fratellis",
         "minutes": 180.32333333333332,
         "plays": 47,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Mardy Bum",
         "artist": "Arctic Monkeys",
-        "minutes": 175.44,
-        "plays": 60,
+        "minutes": 178.364,
+        "plays": 61,
         "percentageOfMinutes": 0.8
       },
       {
@@ -3247,8 +3247,8 @@
       {
         "title": "Knee Socks",
         "artist": "Arctic Monkeys",
-        "minutes": 145.95236666666668,
-        "plays": 34,
+        "minutes": 150.24508333333333,
+        "plays": 35,
         "percentageOfMinutes": 0.7
       },
       {
@@ -3336,17 +3336,17 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "Do I Wanna Know?",
+        "artist": "Arctic Monkeys",
+        "minutes": 122.5773,
+        "plays": 27,
+        "percentageOfMinutes": 0.6
+      },
+      {
         "title": "Fluorescent Adolescent",
         "artist": "Arctic Monkeys",
         "minutes": 121.4451,
         "plays": 42,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Do I Wanna Know?",
-        "artist": "Arctic Monkeys",
-        "minutes": 118.0374,
-        "plays": 26,
         "percentageOfMinutes": 0.6
       },
       {
@@ -3361,7 +3361,7 @@
         "artist": "beabadoobee",
         "minutes": 116.694,
         "plays": 30,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Old Yellow Bricks",
@@ -3371,16 +3371,16 @@
         "percentageOfMinutes": 0.5
       },
       {
-        "title": "Henrietta",
-        "artist": "The Fratellis",
-        "minutes": 112.8672,
-        "plays": 32,
+        "title": "My Propeller",
+        "artist": "Arctic Monkeys",
+        "minutes": 113.1603,
+        "plays": 33,
         "percentageOfMinutes": 0.5
       },
       {
-        "title": "My Propeller",
-        "artist": "Arctic Monkeys",
-        "minutes": 109.7312,
+        "title": "Henrietta",
+        "artist": "The Fratellis",
+        "minutes": 112.8672,
         "plays": 32,
         "percentageOfMinutes": 0.5
       },
@@ -3455,18 +3455,18 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "R U Mine?",
+        "artist": "Arctic Monkeys",
+        "minutes": 97.5009,
+        "plays": 29,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "If You Want To",
         "artist": "beabadoobee",
         "minutes": 96.9098,
         "plays": 26,
         "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "R U Mine?",
-        "artist": "Arctic Monkeys",
-        "minutes": 94.1388,
-        "plays": 28,
-        "percentageOfMinutes": 0.4
       },
       {
         "title": "Puppy Princess",
@@ -3494,6 +3494,13 @@
         "artist": "Arctic Monkeys",
         "minutes": 88.973,
         "plays": 30,
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "title": "Bubble Pop Electric",
+        "artist": "Gwen Stefani",
+        "minutes": 88.944,
+        "plays": 24,
         "percentageOfMinutes": 0.4
       },
       {
@@ -3641,14 +3648,14 @@
         "artist": "Arctic Monkeys",
         "minutes": 74.20676666666667,
         "plays": 31,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "From The Ritz To The Rubble",
         "artist": "Arctic Monkeys",
         "minutes": 74.14663333333333,
         "plays": 23,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Real Man",
@@ -3683,13 +3690,6 @@
         "artist": "beabadoobee",
         "minutes": 70.952,
         "plays": 28,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Bubble Pop Electric",
-        "artist": "Gwen Stefani",
-        "minutes": 70.414,
-        "plays": 19,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3819,6 +3819,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "SPAGHETTI",
+        "artist": "LE SSERAFIM",
+        "minutes": 57.437666666666665,
+        "plays": 20,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Song About Me",
         "artist": "TV Girl",
         "minutes": 56.86963333333333,
@@ -3844,13 +3851,6 @@
         "artist": "The Stupendium",
         "minutes": 54.857,
         "plays": 12,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "SPAGHETTI",
-        "artist": "LE SSERAFIM",
-        "minutes": 54.565783333333336,
-        "plays": 19,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3886,7 +3886,7 @@
         "artist": "Her's",
         "minutes": 52.79125,
         "plays": 15,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "title": "Mary",
@@ -4019,6 +4019,13 @@
         "artist": "TV Girl",
         "minutes": 43.828,
         "plays": 15,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Rich Girl",
+        "artist": "Gwen Stefani",
+        "minutes": 43.30571666666667,
+        "plays": 11,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4435,13 +4442,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Rich Girl",
-        "artist": "Gwen Stefani",
-        "minutes": 27.558183333333332,
-        "plays": 7,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "My Type",
         "artist": "Saint Motel",
         "minutes": 27.308133333333334,
@@ -4484,10 +4484,24 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Hollaback Girl",
+        "artist": "Gwen Stefani",
+        "minutes": 26.647066666666667,
+        "plays": 8,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Back Against the Wall",
         "artist": "Cage The Elephant",
         "minutes": 26.637333333333334,
         "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "We Don't Wanna Talk",
+        "artist": "Friday Pilots Club",
+        "minutes": 26.633333333333333,
+        "plays": 10,
         "percentageOfMinutes": 0.1
       },
       {
@@ -4603,6 +4617,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Hard To Be God",
+        "artist": "Dead Poet Society",
+        "minutes": 23.4927,
+        "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Let It Happen",
         "artist": "Tame Impala",
         "minutes": 23.3793,
@@ -4705,6 +4726,13 @@
         "artist": "Pharrell Williams",
         "minutes": 21.6135,
         "plays": 6,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Stateside + Zara Larsson",
+        "artist": "PinkPantheress",
+        "minutes": 21.55545,
+        "plays": 7,
         "percentageOfMinutes": 0.1
       },
       {
@@ -4855,13 +4883,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Stateside + Zara Larsson",
-        "artist": "PinkPantheress",
-        "minutes": 18.4761,
-        "plays": 6,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "Shake That",
         "artist": "Eminem",
         "minutes": 18.296,
@@ -4925,13 +4946,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Hard To Be God",
-        "artist": "Dead Poet Society",
-        "minutes": 16.7805,
-        "plays": 5,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "BLUE CURACAO",
         "artist": "Masayoshi Takanaka",
         "minutes": 16.4133,
@@ -4971,13 +4985,6 @@
         "artist": "ian",
         "minutes": 16.001766666666665,
         "plays": 7,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "We Don't Wanna Talk",
-        "artist": "Friday Pilots Club",
-        "minutes": 15.98,
-        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
@@ -5517,14 +5524,14 @@
         "artist": "Softwilly",
         "minutes": 10.580666666666668,
         "plays": 4,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Shake Me Down",
         "artist": "Cage The Elephant",
         "minutes": 10.56865,
         "plays": 3,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Godzilla (feat. Juice WRLD)",
@@ -5663,13 +5670,6 @@
         "title": "A Good Song Never Dies",
         "artist": "Saint Motel",
         "minutes": 10.05065,
-        "plays": 3,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Hollaback Girl",
-        "artist": "Gwen Stefani",
-        "minutes": 9.99265,
         "plays": 3,
         "percentageOfMinutes": 0.0
       },
@@ -8476,464 +8476,436 @@
     ],
     "lastWeek": [
       {
-        "title": "Hate Yourself",
-        "artist": "TV Girl",
-        "minutes": 71.25333333333333,
-        "plays": 20,
-        "percentageOfMinutes": 5.2
-      },
-      {
         "title": "Bubble Pop Electric",
         "artist": "Gwen Stefani",
-        "minutes": 70.414,
-        "plays": 19,
-        "percentageOfMinutes": 5.1
+        "minutes": 88.944,
+        "plays": 24,
+        "percentageOfMinutes": 8.1
+      },
+      {
+        "title": "Hate Yourself",
+        "artist": "TV Girl",
+        "minutes": 53.44,
+        "plays": 15,
+        "percentageOfMinutes": 4.9
+      },
+      {
+        "title": "Rich Girl",
+        "artist": "Gwen Stefani",
+        "minutes": 43.30571666666667,
+        "plays": 11,
+        "percentageOfMinutes": 3.9
       },
       {
         "title": "My Girlfriend",
         "artist": "TV Girl",
-        "minutes": 37.2333,
-        "plays": 9,
-        "percentageOfMinutes": 2.7
+        "minutes": 28.959233333333334,
+        "plays": 7,
+        "percentageOfMinutes": 2.6
       },
       {
-        "title": "Messy Hair",
-        "artist": "TV Girl",
-        "minutes": 29.0,
-        "plays": 15,
+        "title": "Hollaback Girl",
+        "artist": "Gwen Stefani",
+        "minutes": 26.647066666666667,
+        "plays": 8,
+        "percentageOfMinutes": 2.4
+      },
+      {
+        "title": "We Don't Wanna Talk",
+        "artist": "Friday Pilots Club",
+        "minutes": 26.633333333333333,
+        "plays": 10,
+        "percentageOfMinutes": 2.4
+      },
+      {
+        "title": "Hard To Be God",
+        "artist": "Dead Poet Society",
+        "minutes": 23.4927,
+        "plays": 7,
         "percentageOfMinutes": 2.1
       },
       {
         "title": "Safeword",
         "artist": "TV Girl",
-        "minutes": 28.9016,
-        "plays": 8,
-        "percentageOfMinutes": 2.1
+        "minutes": 21.6762,
+        "plays": 6,
+        "percentageOfMinutes": 2.0
+      },
+      {
+        "title": "Messy Hair",
+        "artist": "TV Girl",
+        "minutes": 21.266666666666666,
+        "plays": 11,
+        "percentageOfMinutes": 1.9
       },
       {
         "title": "King of Echo Park",
         "artist": "TV Girl",
-        "minutes": 28.665933333333335,
-        "plays": 7,
-        "percentageOfMinutes": 2.1
+        "minutes": 20.475666666666665,
+        "plays": 5,
+        "percentageOfMinutes": 1.9
       },
       {
         "title": "Song About Me",
         "artist": "TV Girl",
-        "minutes": 28.434816666666666,
-        "plays": 7,
-        "percentageOfMinutes": 2.1
-      },
-      {
-        "title": "Valerie",
-        "artist": "TV Girl",
-        "minutes": 28.25,
-        "plays": 6,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "title": "Rich Girl",
-        "artist": "Gwen Stefani",
-        "minutes": 27.558183333333332,
-        "plays": 7,
-        "percentageOfMinutes": 2.0
+        "minutes": 20.310583333333334,
+        "plays": 5,
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "I'll Be Faithful",
         "artist": "TV Girl",
-        "minutes": 27.533333333333335,
-        "plays": 7,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "title": "Taking What's Not Yours",
-        "artist": "TV Girl",
-        "minutes": 27.42,
-        "plays": 8,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "title": "Laura",
-        "artist": "TV Girl",
-        "minutes": 25.1293,
-        "plays": 7,
+        "minutes": 19.666666666666668,
+        "plays": 5,
         "percentageOfMinutes": 1.8
       },
       {
-        "title": "Shame",
+        "title": "Valerie",
         "artist": "TV Girl",
-        "minutes": 24.65,
-        "plays": 6,
-        "percentageOfMinutes": 1.8
-      },
-      {
-        "title": "Natalie Wood",
-        "artist": "TV Girl",
-        "minutes": 24.0123,
-        "plays": 6,
-        "percentageOfMinutes": 1.7
-      },
-      {
-        "title": "She Smokes in Bed",
-        "artist": "TV Girl",
-        "minutes": 23.853783333333332,
-        "plays": 7,
-        "percentageOfMinutes": 1.7
-      },
-      {
-        "title": "All The Way Through",
-        "artist": "TV Girl",
-        "minutes": 23.521066666666666,
-        "plays": 8,
+        "minutes": 18.833333333333332,
+        "plays": 4,
         "percentageOfMinutes": 1.7
       },
       {
         "title": "Stay Away (It's Like That)",
         "artist": "TV Girl",
-        "minutes": 23.375,
-        "plays": 5,
+        "minutes": 18.7,
+        "plays": 4,
         "percentageOfMinutes": 1.7
-      },
-      {
-        "title": "The Blonde",
-        "artist": "TV Girl",
-        "minutes": 22.776,
-        "plays": 6,
-        "percentageOfMinutes": 1.6
-      },
-      {
-        "title": "Loving Machine",
-        "artist": "TV Girl",
-        "minutes": 22.7,
-        "plays": 6,
-        "percentageOfMinutes": 1.6
-      },
-      {
-        "title": "Jump the Turnstile",
-        "artist": "Jordana",
-        "minutes": 22.275,
-        "plays": 6,
-        "percentageOfMinutes": 1.6
       },
       {
         "title": "Blue Hair",
         "artist": "TV Girl",
-        "minutes": 21.7,
+        "minutes": 18.083333333333332,
+        "plays": 5,
+        "percentageOfMinutes": 1.6
+      },
+      {
+        "title": "Laura",
+        "artist": "TV Girl",
+        "minutes": 17.9495,
+        "plays": 5,
+        "percentageOfMinutes": 1.6
+      },
+      {
+        "title": "All The Way Through",
+        "artist": "TV Girl",
+        "minutes": 17.6408,
         "plays": 6,
         "percentageOfMinutes": 1.6
       },
       {
-        "title": "7 Days Til Sunday",
-        "artist": "TV Girl",
-        "minutes": 21.5,
-        "plays": 6,
+        "title": "Arabella",
+        "artist": "Arctic Monkeys",
+        "minutes": 17.279666666666667,
+        "plays": 5,
         "percentageOfMinutes": 1.6
       },
       {
-        "title": "99.5",
+        "title": "Taking What's Not Yours",
         "artist": "TV Girl",
-        "minutes": 20.45306666666667,
-        "plays": 7,
+        "minutes": 17.1375,
+        "plays": 5,
+        "percentageOfMinutes": 1.6
+      },
+      {
+        "title": "She Smokes in Bed",
+        "artist": "TV Girl",
+        "minutes": 17.038416666666667,
+        "plays": 5,
+        "percentageOfMinutes": 1.6
+      },
+      {
+        "title": "Shame",
+        "artist": "TV Girl",
+        "minutes": 16.433333333333334,
+        "plays": 4,
         "percentageOfMinutes": 1.5
-      },
-      {
-        "title": "Pretty Boy",
-        "artist": "TV Girl",
-        "minutes": 19.366666666666667,
-        "plays": 7,
-        "percentageOfMinutes": 1.4
-      },
-      {
-        "title": "Melanie",
-        "artist": "TV Girl",
-        "minutes": 18.548533333333335,
-        "plays": 4,
-        "percentageOfMinutes": 1.3
-      },
-      {
-        "title": "Better in the Dark",
-        "artist": "Jordana",
-        "minutes": 18.141666666666666,
-        "plays": 7,
-        "percentageOfMinutes": 1.3
-      },
-      {
-        "title": "Lonely Girls",
-        "artist": "TV Girl",
-        "minutes": 17.55,
-        "plays": 6,
-        "percentageOfMinutes": 1.3
-      },
-      {
-        "title": "The Night in Question",
-        "artist": "TV Girl",
-        "minutes": 17.525,
-        "plays": 6,
-        "percentageOfMinutes": 1.3
-      },
-      {
-        "title": "Birds Dont Sing",
-        "artist": "TV Girl",
-        "minutes": 17.4455,
-        "plays": 5,
-        "percentageOfMinutes": 1.3
-      },
-      {
-        "title": "Summer's Over",
-        "artist": "Jordana",
-        "minutes": 17.3,
-        "plays": 6,
-        "percentageOfMinutes": 1.3
-      },
-      {
-        "title": "Hard To Be God",
-        "artist": "Dead Poet Society",
-        "minutes": 16.7805,
-        "plays": 5,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Cigarettes out the Window",
-        "artist": "TV Girl",
-        "minutes": 16.58,
-        "plays": 5,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Louise",
-        "artist": "TV Girl",
-        "minutes": 16.204416666666667,
-        "plays": 5,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Summer 2000 Baby",
-        "artist": "TV Girl",
-        "minutes": 16.160666666666668,
-        "plays": 4,
-        "percentageOfMinutes": 1.2
       },
       {
         "title": "Snap Out Of It",
         "artist": "Arctic Monkeys",
         "minutes": 16.085833333333333,
         "plays": 5,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.5
       },
       {
-        "title": "We Don't Wanna Talk",
-        "artist": "Friday Pilots Club",
-        "minutes": 15.98,
-        "plays": 6,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Grapes Upon the Vine",
+        "title": "Natalie Wood",
         "artist": "TV Girl",
-        "minutes": 15.666666666666666,
-        "plays": 5,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "Daughter of a Cop",
-        "artist": "TV Girl",
-        "minutes": 15.344,
-        "plays": 6,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "Average Guy (Blame)",
-        "artist": "TV Girl",
-        "minutes": 15.082833333333333,
-        "plays": 5,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "Lovers Rock",
-        "artist": "TV Girl",
-        "minutes": 14.261333333333333,
+        "minutes": 16.0082,
         "plays": 4,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 1.5
       },
       {
-        "title": "Monday, Monday",
+        "title": "The Blonde",
         "artist": "TV Girl",
-        "minutes": 14.2,
+        "minutes": 15.184,
         "plays": 4,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 1.4
       },
       {
-        "title": "Not Allowed",
+        "title": "Loving Machine",
         "artist": "TV Girl",
-        "minutes": 13.988666666666667,
+        "minutes": 15.133333333333333,
+        "plays": 4,
+        "percentageOfMinutes": 1.4
+      },
+      {
+        "title": "Jump the Turnstile",
+        "artist": "Jordana",
+        "minutes": 14.85,
+        "plays": 4,
+        "percentageOfMinutes": 1.4
+      },
+      {
+        "title": "SPAGHETTI",
+        "artist": "LE SSERAFIM",
+        "minutes": 14.359416666666666,
         "plays": 5,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 1.3
       },
       {
-        "title": "Arabella",
-        "artist": "Arctic Monkeys",
-        "minutes": 13.823733333333333,
+        "title": "7 Days Til Sunday",
+        "artist": "TV Girl",
+        "minutes": 14.333333333333334,
         "plays": 4,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "Pretty Boy",
+        "artist": "TV Girl",
+        "minutes": 13.833333333333334,
+        "plays": 5,
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "My Propeller",
         "artist": "Arctic Monkeys",
         "minutes": 13.7164,
         "plays": 4,
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "title": "Better in the Dark",
+        "artist": "Jordana",
+        "minutes": 12.958333333333334,
+        "plays": 5,
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "title": "Summer 2000 Baby",
+        "artist": "TV Girl",
+        "minutes": 12.1205,
+        "plays": 3,
+        "percentageOfMinutes": 1.1
+      },
+      {
+        "title": "Lonely Girls",
+        "artist": "TV Girl",
+        "minutes": 11.7,
+        "plays": 4,
+        "percentageOfMinutes": 1.1
+      },
+      {
+        "title": "The Night in Question",
+        "artist": "TV Girl",
+        "minutes": 11.683333333333334,
+        "plays": 4,
+        "percentageOfMinutes": 1.1
+      },
+      {
+        "title": "Summer's Over",
+        "artist": "Jordana",
+        "minutes": 11.533333333333333,
+        "plays": 4,
         "percentageOfMinutes": 1.0
       },
       {
-        "title": "Easier to Cry",
+        "title": "Lovers Rock",
         "artist": "TV Girl",
-        "minutes": 12.994,
+        "minutes": 10.696,
+        "plays": 3,
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "title": "Birds Dont Sing",
+        "artist": "TV Girl",
+        "minutes": 10.4673,
+        "plays": 3,
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "title": "Daughter of a Cop",
+        "artist": "TV Girl",
+        "minutes": 10.229333333333333,
         "plays": 4,
         "percentageOfMinutes": 0.9
       },
       {
-        "title": "It Almost Worked",
+        "title": "Cigarettes out the Window",
         "artist": "TV Girl",
-        "minutes": 12.666666666666666,
-        "plays": 5,
+        "minutes": 9.948,
+        "plays": 3,
         "percentageOfMinutes": 0.9
       },
       {
-        "title": "Ordinary Day",
-        "artist": "Jordana",
-        "minutes": 12.1,
-        "plays": 4,
-        "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "The Desolation Tango",
+        "title": "Louise",
         "artist": "TV Girl",
-        "minutes": 12.077733333333333,
-        "plays": 4,
+        "minutes": 9.72265,
+        "plays": 3,
         "percentageOfMinutes": 0.9
       },
       {
-        "title": "Incredibly Blind (feat. X-Cetra)",
-        "artist": "Monster Rally",
-        "minutes": 12.069083333333333,
-        "plays": 5,
+        "title": "Grapes Upon the Vine",
+        "artist": "TV Girl",
+        "minutes": 9.4,
+        "plays": 3,
         "percentageOfMinutes": 0.9
       },
       {
-        "title": "Lo on the Hi-Way",
-        "artist": "Jordana",
-        "minutes": 11.8125,
-        "plays": 5,
-        "percentageOfMinutes": 0.9
+        "title": "Melanie",
+        "artist": "TV Girl",
+        "minutes": 9.274266666666668,
+        "plays": 2,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "Average Guy (Blame)",
+        "artist": "TV Girl",
+        "minutes": 9.0497,
+        "plays": 3,
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Mardy Bum",
         "artist": "Arctic Monkeys",
-        "minutes": 11.696,
-        "plays": 4,
+        "minutes": 8.772,
+        "plays": 3,
         "percentageOfMinutes": 0.8
       },
       {
-        "title": "SPAGHETTI",
-        "artist": "LE SSERAFIM",
-        "minutes": 11.487533333333333,
-        "plays": 4,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Sleeping with the Enemy",
+        "title": "99.5",
         "artist": "TV Girl",
-        "minutes": 11.246,
-        "plays": 5,
+        "minutes": 8.7656,
+        "plays": 3,
         "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "Knee Socks",
+        "artist": "Arctic Monkeys",
+        "minutes": 8.585433333333333,
+        "plays": 2,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "Not Allowed",
+        "artist": "TV Girl",
+        "minutes": 8.3932,
+        "plays": 3,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "It Almost Worked",
+        "artist": "TV Girl",
+        "minutes": 7.6,
+        "plays": 3,
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Crying Lightning",
         "artist": "Arctic Monkeys",
-        "minutes": 11.2413,
-        "plays": 3,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Cynical One",
-        "artist": "TV Girl",
-        "minutes": 10.1427,
-        "plays": 3,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Hollaback Girl",
-        "artist": "Gwen Stefani",
-        "minutes": 9.99265,
-        "plays": 3,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Fauxllennium",
-        "artist": "TV Girl",
-        "minutes": 9.42665,
-        "plays": 3,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Sweet to Dream",
-        "artist": "Jordana",
-        "minutes": 8.75,
-        "plays": 3,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Brianstorm",
-        "artist": "Arctic Monkeys",
-        "minutes": 8.51265,
-        "plays": 3,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Why'd You Only Call Me When You're High?",
-        "artist": "Arctic Monkeys",
-        "minutes": 8.05615,
-        "plays": 3,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Everything Blue",
-        "artist": "TV Girl",
-        "minutes": 7.417333333333334,
+        "minutes": 7.4942,
         "plays": 2,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.7
       },
       {
-        "title": "The Bad Thing",
-        "artist": "Arctic Monkeys",
-        "minutes": 7.16065,
+        "title": "Incredibly Blind (feat. X-Cetra)",
+        "artist": "Monster Rally",
+        "minutes": 7.24145,
         "plays": 3,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.7
+      },
+      {
+        "title": "Monday, Monday",
+        "artist": "TV Girl",
+        "minutes": 7.1,
+        "plays": 2,
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "Lo on the Hi-Way",
+        "artist": "Jordana",
+        "minutes": 7.0875,
+        "plays": 3,
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Her and Her Friend",
         "artist": "TV Girl",
         "minutes": 6.9711,
         "plays": 2,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "Cynical One",
+        "artist": "TV Girl",
+        "minutes": 6.7618,
+        "plays": 2,
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "Sleeping with the Enemy",
+        "artist": "TV Girl",
+        "minutes": 6.7476,
+        "plays": 3,
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Flathead",
         "artist": "The Fratellis",
         "minutes": 6.581333333333333,
         "plays": 2,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "Easier to Cry",
+        "artist": "TV Girl",
+        "minutes": 6.497,
+        "plays": 2,
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "This House Is a Circus",
         "artist": "Arctic Monkeys",
         "minutes": 6.322666666666667,
         "plays": 2,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.6
       },
       {
-        "title": "Ketamine Girl",
+        "title": "Fauxllennium",
         "artist": "TV Girl",
-        "minutes": 6.266666666666667,
+        "minutes": 6.284433333333333,
+        "plays": 2,
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "Stateside + Zara Larsson",
+        "artist": "PinkPantheress",
+        "minutes": 6.1587,
+        "plays": 2,
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "Ordinary Day",
+        "artist": "Jordana",
+        "minutes": 6.05,
+        "plays": 2,
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "The Desolation Tango",
+        "artist": "TV Girl",
+        "minutes": 6.038866666666666,
         "plays": 2,
         "percentageOfMinutes": 0.5
       },
@@ -8942,33 +8914,61 @@
         "artist": "TV Girl",
         "minutes": 5.9231,
         "plays": 2,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Pantyhose",
         "artist": "TV Girl",
         "minutes": 5.900433333333333,
         "plays": 2,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "BRASILIAN SKIES",
         "artist": "Masayoshi Takanaka",
         "minutes": 5.88355,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "Still Take You Home",
+        "artist": "Arctic Monkeys",
+        "minutes": 5.788866666666666,
+        "plays": 2,
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Fluorescent Adolescent",
         "artist": "Arctic Monkeys",
         "minutes": 5.7831,
         "plays": 2,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "Brianstorm",
+        "artist": "Arctic Monkeys",
+        "minutes": 5.6751,
+        "plays": 2,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "Why'd You Only Call Me When You're High?",
+        "artist": "Arctic Monkeys",
+        "minutes": 5.3707666666666665,
+        "plays": 2,
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Teddy Picker",
         "artist": "Arctic Monkeys",
         "minutes": 5.354666666666667,
+        "plays": 2,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "The Bad Thing",
+        "artist": "Arctic Monkeys",
+        "minutes": 4.773766666666667,
         "plays": 2,
         "percentageOfMinutes": 0.4
       },
@@ -8977,70 +8977,42 @@
         "artist": "Arctic Monkeys",
         "minutes": 4.57,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
-        "title": "Poison Ooze",
-        "artist": "TV Girl",
-        "minutes": 4.4,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Knee Socks",
+        "title": "Do I Wanna Know?",
         "artist": "Arctic Monkeys",
-        "minutes": 4.292716666666666,
+        "minutes": 4.5399,
         "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "505",
-        "artist": "Arctic Monkeys",
-        "minutes": 4.2264333333333335,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "The Sweet Escape",
         "artist": "Gwen Stefani",
         "minutes": 4.107766666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "I Can't Stand You Anymore",
         "artist": "Sleigh Bells",
         "minutes": 4.028,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "The Party's Not Over",
         "artist": "Jordana",
         "minutes": 3.975,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Baby Fratelli",
         "artist": "The Fratellis",
         "minutes": 3.951766666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "I Wish I Was Stephen Malkmus",
-        "artist": "beabadoobee",
-        "minutes": 3.864333333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Beaches",
-        "artist": "beabadoobee",
-        "minutes": 3.834216666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Amoeba",
@@ -9057,9 +9029,9 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "All I Did Was Dream of You (feat. The Mar\u00edas)",
-        "artist": "beabadoobee",
-        "minutes": 3.7298,
+        "title": "Everything Blue",
+        "artist": "TV Girl",
+        "minutes": 3.708666666666667,
         "plays": 1,
         "percentageOfMinutes": 0.3
       },
@@ -9103,98 +9075,63 @@
         "artist": "TV Girl",
         "minutes": 3.4437166666666665,
         "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Ever Seen",
-        "artist": "beabadoobee",
-        "minutes": 3.396,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "When The Sun Goes Down",
         "artist": "Arctic Monkeys",
         "minutes": 3.3688833333333332,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
-        "title": "10:36",
-        "artist": "beabadoobee",
-        "minutes": 3.2511,
+        "title": "R U Mine?",
+        "artist": "Arctic Monkeys",
+        "minutes": 3.3621,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
-        "title": "Everything I Want",
-        "artist": "beabadoobee",
-        "minutes": 3.187333333333333,
+        "title": "Ketamine Girl",
+        "artist": "TV Girl",
+        "minutes": 3.1333333333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Ripples",
-        "artist": "beabadoobee",
-        "minutes": 3.1302166666666666,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Vampire Disco",
         "artist": "Friday Pilots Club",
         "minutes": 3.12,
         "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Stateside + Zara Larsson",
-        "artist": "PinkPantheress",
-        "minutes": 3.07935,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Your Friends Are Calling Your Name",
         "artist": "TV Girl",
         "minutes": 3.0481666666666665,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Apple Cider",
         "artist": "beabadoobee",
         "minutes": 2.9819666666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
-        "title": "Still Take You Home",
-        "artist": "Arctic Monkeys",
-        "minutes": 2.894433333333333,
+        "title": "Sweet to Dream",
+        "artist": "Jordana",
+        "minutes": 2.9166666666666665,
         "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "California",
-        "artist": "beabadoobee",
-        "minutes": 2.87155,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "For The Girl",
         "artist": "The Fratellis",
         "minutes": 2.78555,
         "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Cologne",
-        "artist": "beabadoobee",
-        "minutes": 2.7448333333333332,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Earrings",
@@ -9217,63 +9154,63 @@
         "artist": "TV Girl",
         "minutes": 153.19466666666668,
         "plays": 43,
-        "percentageOfMinutes": 5.2
+        "percentageOfMinutes": 5.0
       },
       {
         "title": "Taking What's Not Yours",
         "artist": "TV Girl",
         "minutes": 126.8175,
         "plays": 37,
-        "percentageOfMinutes": 4.3
+        "percentageOfMinutes": 4.1
+      },
+      {
+        "title": "Bubble Pop Electric",
+        "artist": "Gwen Stefani",
+        "minutes": 88.944,
+        "plays": 24,
+        "percentageOfMinutes": 2.9
       },
       {
         "title": "Loving Machine",
         "artist": "TV Girl",
         "minutes": 75.66666666666667,
         "plays": 20,
-        "percentageOfMinutes": 2.6
-      },
-      {
-        "title": "Bubble Pop Electric",
-        "artist": "Gwen Stefani",
-        "minutes": 70.414,
-        "plays": 19,
-        "percentageOfMinutes": 2.4
+        "percentageOfMinutes": 2.5
       },
       {
         "title": "My Girlfriend",
         "artist": "TV Girl",
         "minutes": 70.32956666666666,
         "plays": 17,
-        "percentageOfMinutes": 2.4
+        "percentageOfMinutes": 2.3
       },
       {
         "title": "The Blonde",
         "artist": "TV Girl",
         "minutes": 68.328,
         "plays": 18,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "Lovers Rock",
         "artist": "TV Girl",
         "minutes": 67.74133333333333,
         "plays": 19,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "Blue Hair",
         "artist": "TV Girl",
         "minutes": 65.1,
         "plays": 18,
-        "percentageOfMinutes": 2.2
+        "percentageOfMinutes": 2.1
       },
       {
         "title": "Not Allowed",
         "artist": "TV Girl",
         "minutes": 64.34786666666666,
         "plays": 23,
-        "percentageOfMinutes": 2.2
+        "percentageOfMinutes": 2.1
       },
       {
         "title": "Song About Me",
@@ -9287,7 +9224,7 @@
         "artist": "TV Girl",
         "minutes": 49.74,
         "plays": 15,
-        "percentageOfMinutes": 1.7
+        "percentageOfMinutes": 1.6
       },
       {
         "title": "Summer 2000 Baby",
@@ -9301,14 +9238,28 @@
         "artist": "TV Girl",
         "minutes": 46.9651,
         "plays": 13,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.5
+      },
+      {
+        "title": "Mardy Bum",
+        "artist": "Arctic Monkeys",
+        "minutes": 46.784,
+        "plays": 16,
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "Stay Away (It's Like That)",
         "artist": "TV Girl",
         "minutes": 46.75,
         "plays": 10,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.5
+      },
+      {
+        "title": "Snap Out Of It",
+        "artist": "Arctic Monkeys",
+        "minutes": 45.040333333333336,
+        "plays": 14,
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "Jump the Turnstile",
@@ -9322,28 +9273,28 @@
         "artist": "TV Girl",
         "minutes": 44.266666666666666,
         "plays": 16,
-        "percentageOfMinutes": 1.5
-      },
-      {
-        "title": "Mardy Bum",
-        "artist": "Arctic Monkeys",
-        "minutes": 43.86,
-        "plays": 15,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.4
       },
       {
         "title": "99.5",
         "artist": "TV Girl",
         "minutes": 43.828,
         "plays": 15,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.4
+      },
+      {
+        "title": "Rich Girl",
+        "artist": "Gwen Stefani",
+        "minutes": 43.30571666666667,
+        "plays": 11,
+        "percentageOfMinutes": 1.4
       },
       {
         "title": "7 Days Til Sunday",
         "artist": "TV Girl",
         "minutes": 43.0,
         "plays": 12,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.4
       },
       {
         "title": "Valerie",
@@ -9360,17 +9311,17 @@
         "percentageOfMinutes": 1.4
       },
       {
-        "title": "Snap Out Of It",
-        "artist": "Arctic Monkeys",
-        "minutes": 41.823166666666665,
-        "plays": 13,
-        "percentageOfMinutes": 1.4
-      },
-      {
         "title": "Melanie",
         "artist": "TV Girl",
         "minutes": 41.7342,
         "plays": 9,
+        "percentageOfMinutes": 1.4
+      },
+      {
+        "title": "Arabella",
+        "artist": "Arctic Monkeys",
+        "minutes": 41.4712,
+        "plays": 12,
         "percentageOfMinutes": 1.4
       },
       {
@@ -9385,21 +9336,21 @@
         "artist": "TV Girl",
         "minutes": 41.083333333333336,
         "plays": 10,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "King of Echo Park",
         "artist": "TV Girl",
         "minutes": 40.95133333333333,
         "plays": 10,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "It Almost Worked",
         "artist": "TV Girl",
         "minutes": 40.53333333333333,
         "plays": 16,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "I'll Be Faithful",
@@ -9420,21 +9371,21 @@
         "artist": "TV Girl",
         "minutes": 38.025,
         "plays": 13,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "She Smokes in Bed",
         "artist": "TV Girl",
         "minutes": 37.484516666666664,
         "plays": 11,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Summer's Over",
         "artist": "Jordana",
         "minutes": 37.483333333333334,
         "plays": 13,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Natalie Wood",
@@ -9462,14 +9413,7 @@
         "artist": "TV Girl",
         "minutes": 34.8,
         "plays": 18,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Arabella",
-        "artist": "Arctic Monkeys",
-        "minutes": 34.559333333333335,
-        "plays": 10,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Crying Lightning",
@@ -9497,20 +9441,13 @@
         "artist": "TV Girl",
         "minutes": 28.2,
         "plays": 9,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Daughter of a Cop",
         "artist": "TV Girl",
         "minutes": 28.130666666666666,
         "plays": 11,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Rich Girl",
-        "artist": "Gwen Stefani",
-        "minutes": 27.558183333333332,
-        "plays": 7,
         "percentageOfMinutes": 0.9
       },
       {
@@ -9535,18 +9472,32 @@
         "percentageOfMinutes": 0.9
       },
       {
+        "title": "Hollaback Girl",
+        "artist": "Gwen Stefani",
+        "minutes": 26.647066666666667,
+        "plays": 8,
+        "percentageOfMinutes": 0.9
+      },
+      {
+        "title": "We Don't Wanna Talk",
+        "artist": "Friday Pilots Club",
+        "minutes": 26.633333333333333,
+        "plays": 10,
+        "percentageOfMinutes": 0.9
+      },
+      {
         "title": "Easier to Cry",
         "artist": "TV Girl",
         "minutes": 25.988,
         "plays": 8,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Fauxllennium",
         "artist": "TV Girl",
         "minutes": 25.137733333333333,
         "plays": 8,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Monday, Monday",
@@ -9570,17 +9521,24 @@
         "percentageOfMinutes": 0.8
       },
       {
+        "title": "My Propeller",
+        "artist": "Arctic Monkeys",
+        "minutes": 24.0037,
+        "plays": 7,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "Hard To Be God",
+        "artist": "Dead Poet Society",
+        "minutes": 23.4927,
+        "plays": 7,
+        "percentageOfMinutes": 0.8
+      },
+      {
         "title": "Incredibly Blind (feat. X-Cetra)",
         "artist": "Monster Rally",
         "minutes": 21.72435,
         "plays": 9,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "My Propeller",
-        "artist": "Arctic Monkeys",
-        "minutes": 20.5746,
-        "plays": 6,
         "percentageOfMinutes": 0.7
       },
       {
@@ -9591,25 +9549,18 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "Still Take You Home",
+        "artist": "Arctic Monkeys",
+        "minutes": 17.3666,
+        "plays": 6,
+        "percentageOfMinutes": 0.6
+      },
+      {
         "title": "Fluorescent Adolescent",
         "artist": "Arctic Monkeys",
         "minutes": 17.3493,
         "plays": 6,
         "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Hard To Be God",
-        "artist": "Dead Poet Society",
-        "minutes": 16.7805,
-        "plays": 5,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "We Don't Wanna Talk",
-        "artist": "Friday Pilots Club",
-        "minutes": 15.98,
-        "plays": 6,
-        "percentageOfMinutes": 0.5
       },
       {
         "title": "Everything Blue",
@@ -9626,9 +9577,9 @@
         "percentageOfMinutes": 0.5
       },
       {
-        "title": "Still Take You Home",
-        "artist": "Arctic Monkeys",
-        "minutes": 14.472166666666666,
+        "title": "SPAGHETTI",
+        "artist": "LE SSERAFIM",
+        "minutes": 14.359416666666666,
         "plays": 5,
         "percentageOfMinutes": 0.5
       },
@@ -9650,6 +9601,13 @@
         "title": "Poison Ooze",
         "artist": "TV Girl",
         "minutes": 13.2,
+        "plays": 3,
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "title": "Knee Socks",
+        "artist": "Arctic Monkeys",
+        "minutes": 12.87815,
         "plays": 3,
         "percentageOfMinutes": 0.4
       },
@@ -9689,13 +9647,6 @@
         "percentageOfMinutes": 0.4
       },
       {
-        "title": "SPAGHETTI",
-        "artist": "LE SSERAFIM",
-        "minutes": 11.487533333333333,
-        "plays": 4,
-        "percentageOfMinutes": 0.4
-      },
-      {
         "title": "The Getaway",
         "artist": "TV Girl",
         "minutes": 11.2033,
@@ -9717,9 +9668,9 @@
         "percentageOfMinutes": 0.4
       },
       {
-        "title": "Hollaback Girl",
-        "artist": "Gwen Stefani",
-        "minutes": 9.99265,
+        "title": "When The Sun Goes Down",
+        "artist": "Arctic Monkeys",
+        "minutes": 10.10665,
         "plays": 3,
         "percentageOfMinutes": 0.3
       },
@@ -9738,17 +9689,17 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Do I Wanna Know?",
+        "artist": "Arctic Monkeys",
+        "minutes": 9.0798,
+        "plays": 2,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
         "artist": "Arctic Monkeys",
         "minutes": 8.720866666666666,
         "plays": 4,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Knee Socks",
-        "artist": "Arctic Monkeys",
-        "minutes": 8.585433333333333,
-        "plays": 2,
         "percentageOfMinutes": 0.3
       },
       {
@@ -9763,6 +9714,13 @@
         "artist": "TV Girl",
         "minutes": 8.220433333333334,
         "plays": 2,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Teddy Picker",
+        "artist": "Arctic Monkeys",
+        "minutes": 8.032,
+        "plays": 3,
         "percentageOfMinutes": 0.3
       },
       {
@@ -9791,14 +9749,14 @@
         "artist": "beabadoobee",
         "minutes": 7.602,
         "plays": 3,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "title": "All I Did Was Dream of You (feat. The Mar\u00edas)",
         "artist": "beabadoobee",
         "minutes": 7.4596,
         "plays": 2,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "title": "Come When You Call",
@@ -9836,13 +9794,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "When The Sun Goes Down",
-        "artist": "Arctic Monkeys",
-        "minutes": 6.7377666666666665,
-        "plays": 2,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "Flathead",
         "artist": "The Fratellis",
         "minutes": 6.581333333333333,
@@ -9853,6 +9804,13 @@
         "title": "This House Is a Circus",
         "artist": "Arctic Monkeys",
         "minutes": 6.322666666666667,
+        "plays": 2,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Stateside + Zara Larsson",
+        "artist": "PinkPantheress",
+        "minutes": 6.1587,
         "plays": 2,
         "percentageOfMinutes": 0.2
       },
@@ -9868,13 +9826,6 @@
         "artist": "TV Girl",
         "minutes": 5.762316666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Teddy Picker",
-        "artist": "Arctic Monkeys",
-        "minutes": 5.354666666666667,
-        "plays": 2,
         "percentageOfMinutes": 0.2
       },
       {
@@ -9903,14 +9854,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 4.57,
         "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Do I Wanna Know?",
-        "artist": "Arctic Monkeys",
-        "minutes": 4.5399,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "(Do The) Act Like You Never Met Me",
@@ -10081,6 +10025,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "R U Mine?",
+        "artist": "Arctic Monkeys",
+        "minutes": 3.3621,
+        "plays": 1,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Magazines",
         "artist": "Bloodbath64",
         "minutes": 3.3583333333333334,
@@ -10119,13 +10070,6 @@
         "title": "Higher Ground",
         "artist": "TV Girl",
         "minutes": 3.1062333333333334,
-        "plays": 1,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Stateside + Zara Larsson",
-        "artist": "PinkPantheress",
-        "minutes": 3.07935,
         "plays": 1,
         "percentageOfMinutes": 0.1
       },
@@ -10206,7 +10150,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 382.2042,
         "plays": 102,
-        "percentageOfMinutes": 2.4
+        "percentageOfMinutes": 2.3
       },
       {
         "title": "505",
@@ -10216,6 +10160,13 @@
         "percentageOfMinutes": 1.8
       },
       {
+        "title": "Arabella",
+        "artist": "Arctic Monkeys",
+        "minutes": 262.65093333333334,
+        "plays": 76,
+        "percentageOfMinutes": 1.6
+      },
+      {
         "title": "Brianstorm",
         "artist": "Arctic Monkeys",
         "minutes": 258.21705,
@@ -10223,18 +10174,11 @@
         "percentageOfMinutes": 1.6
       },
       {
-        "title": "Arabella",
-        "artist": "Arctic Monkeys",
-        "minutes": 255.73906666666667,
-        "plays": 74,
-        "percentageOfMinutes": 1.6
-      },
-      {
         "title": "Still Take You Home",
         "artist": "Arctic Monkeys",
-        "minutes": 234.4491,
-        "plays": 81,
-        "percentageOfMinutes": 1.4
+        "minutes": 237.34353333333334,
+        "plays": 82,
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "The Bad Thing",
@@ -10244,6 +10188,13 @@
         "percentageOfMinutes": 1.4
       },
       {
+        "title": "When The Sun Goes Down",
+        "artist": "Arctic Monkeys",
+        "minutes": 205.50188333333332,
+        "plays": 61,
+        "percentageOfMinutes": 1.3
+      },
+      {
         "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
         "artist": "Arctic Monkeys",
         "minutes": 204.94036666666668,
@@ -10251,17 +10202,17 @@
         "percentageOfMinutes": 1.3
       },
       {
-        "title": "When The Sun Goes Down",
+        "title": "Snap Out Of It",
         "artist": "Arctic Monkeys",
-        "minutes": 202.133,
-        "plays": 60,
+        "minutes": 199.46433333333334,
+        "plays": 62,
         "percentageOfMinutes": 1.2
       },
       {
-        "title": "Snap Out Of It",
+        "title": "Teddy Picker",
         "artist": "Arctic Monkeys",
-        "minutes": 196.24716666666666,
-        "plays": 61,
+        "minutes": 195.44533333333334,
+        "plays": 73,
         "percentageOfMinutes": 1.2
       },
       {
@@ -10269,13 +10220,6 @@
         "artist": "Arctic Monkeys",
         "minutes": 193.1105,
         "plays": 55,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Teddy Picker",
-        "artist": "Arctic Monkeys",
-        "minutes": 192.768,
-        "plays": 72,
         "percentageOfMinutes": 1.2
       },
       {
@@ -10288,8 +10232,8 @@
       {
         "title": "Mardy Bum",
         "artist": "Arctic Monkeys",
-        "minutes": 175.44,
-        "plays": 60,
+        "minutes": 178.364,
+        "plays": 61,
         "percentageOfMinutes": 1.1
       },
       {
@@ -10297,14 +10241,14 @@
         "artist": "The Long Faces",
         "minutes": 171.40383333333332,
         "plays": 55,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "I Bet You Look Good On The Dancefloor",
         "artist": "Arctic Monkeys",
         "minutes": 170.78533333333334,
         "plays": 59,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "Creepin Up The Backstairs",
@@ -10349,6 +10293,13 @@
         "percentageOfMinutes": 0.9
       },
       {
+        "title": "Knee Socks",
+        "artist": "Arctic Monkeys",
+        "minutes": 145.95236666666668,
+        "plays": 34,
+        "percentageOfMinutes": 0.9
+      },
+      {
         "title": "Potion Approaching",
         "artist": "Arctic Monkeys",
         "minutes": 144.95755,
@@ -10367,13 +10318,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 141.9039,
         "plays": 18,
-        "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "Knee Socks",
-        "artist": "Arctic Monkeys",
-        "minutes": 141.65965,
-        "plays": 33,
         "percentageOfMinutes": 0.9
       },
       {
@@ -10433,17 +10377,17 @@
         "percentageOfMinutes": 0.7
       },
       {
-        "title": "My Propeller",
+        "title": "Do I Wanna Know?",
         "artist": "Arctic Monkeys",
-        "minutes": 109.7312,
-        "plays": 32,
+        "minutes": 113.4975,
+        "plays": 25,
         "percentageOfMinutes": 0.7
       },
       {
-        "title": "Do I Wanna Know?",
+        "title": "My Propeller",
         "artist": "Arctic Monkeys",
-        "minutes": 108.9576,
-        "plays": 24,
+        "minutes": 113.1603,
+        "plays": 33,
         "percentageOfMinutes": 0.7
       },
       {
@@ -10491,8 +10435,8 @@
       {
         "title": "R U Mine?",
         "artist": "Arctic Monkeys",
-        "minutes": 94.1388,
-        "plays": 28,
+        "minutes": 97.5009,
+        "plays": 29,
         "percentageOfMinutes": 0.6
       },
       {
@@ -10507,6 +10451,13 @@
         "artist": "Arctic Monkeys",
         "minutes": 88.973,
         "plays": 30,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "Bubble Pop Electric",
+        "artist": "Gwen Stefani",
+        "minutes": 88.944,
+        "plays": 24,
         "percentageOfMinutes": 0.5
       },
       {
@@ -10583,13 +10534,6 @@
         "title": "The Blonde",
         "artist": "TV Girl",
         "minutes": 72.124,
-        "plays": 19,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Bubble Pop Electric",
-        "artist": "Gwen Stefani",
-        "minutes": 70.414,
         "plays": 19,
         "percentageOfMinutes": 0.4
       },
@@ -10671,6 +10615,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "SPAGHETTI",
+        "artist": "LE SSERAFIM",
+        "minutes": 57.437666666666665,
+        "plays": 20,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "Song About Me",
         "artist": "TV Girl",
         "minutes": 56.86963333333333,
@@ -10689,13 +10640,6 @@
         "artist": "The Stupendium",
         "minutes": 54.857,
         "plays": 12,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "SPAGHETTI",
-        "artist": "LE SSERAFIM",
-        "minutes": 54.565783333333336,
-        "plays": 19,
         "percentageOfMinutes": 0.3
       },
       {
@@ -10829,6 +10773,13 @@
         "artist": "TV Girl",
         "minutes": 43.828,
         "plays": 15,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Rich Girl",
+        "artist": "Gwen Stefani",
+        "minutes": 43.30571666666667,
+        "plays": 11,
         "percentageOfMinutes": 0.3
       },
       {
@@ -11189,13 +11140,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Rich Girl",
-        "artist": "Gwen Stefani",
-        "minutes": 27.558183333333332,
-        "plays": 7,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "Dracula",
         "artist": "Tame Impala",
         "minutes": 27.3744,
@@ -11252,10 +11196,24 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Hollaback Girl",
+        "artist": "Gwen Stefani",
+        "minutes": 26.647066666666667,
+        "plays": 8,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Trouble\u2019s Coming",
         "artist": "Royal Blood",
         "minutes": 26.64666666666667,
         "plays": 7,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "We Don't Wanna Talk",
+        "artist": "Friday Pilots Club",
+        "minutes": 26.633333333333333,
+        "plays": 10,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11357,6 +11315,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Hard To Be God",
+        "artist": "Dead Poet Society",
+        "minutes": 23.4927,
+        "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Dance with Me",
         "artist": "beabadoobee",
         "minutes": 23.4282,
@@ -11431,6 +11396,13 @@
         "artist": "Pharrell Williams",
         "minutes": 21.6135,
         "plays": 6,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Stateside + Zara Larsson",
+        "artist": "PinkPantheress",
+        "minutes": 21.55545,
+        "plays": 7,
         "percentageOfMinutes": 0.1
       },
       {
@@ -11588,13 +11560,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Stateside + Zara Larsson",
-        "artist": "PinkPantheress",
-        "minutes": 18.4761,
-        "plays": 6,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "While You Fade Away",
         "artist": "The Happy Fits",
         "minutes": 18.31075,
@@ -11672,13 +11637,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Hard To Be God",
-        "artist": "Dead Poet Society",
-        "minutes": 16.7805,
-        "plays": 5,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "Rhinestone Eyes",
         "artist": "Gorillaz",
         "minutes": 16.681083333333333,
@@ -11725,13 +11683,6 @@
         "artist": "ian",
         "minutes": 16.001766666666665,
         "plays": 7,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "We Don't Wanna Talk",
-        "artist": "Friday Pilots Club",
-        "minutes": 15.98,
-        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12292,13 +12243,6 @@
         "artist": "George Michael",
         "minutes": 10.003533333333333,
         "plays": 2,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Hollaback Girl",
-        "artist": "Gwen Stefani",
-        "minutes": 9.99265,
-        "plays": 3,
         "percentageOfMinutes": 0.1
       },
       {
