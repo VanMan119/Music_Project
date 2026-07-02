@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T02:47:31.446017+00:00",
-    "lastUpdated": "July 01, 2026 - 02:47 AM UST"
+    "generatedAt": "2026-07-02T02:37:13.822301+00:00",
+    "lastUpdated": "July 02, 2026 - 02:37 AM UST"
   },
   "artists": {
     "total": [
@@ -1467,27 +1467,21 @@
     "lastWeek": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 64.67,
-        "plays": 20,
-        "percentageOfMinutes": 65.6
+        "minutes": 25.34,
+        "plays": 8,
+        "percentageOfMinutes": 66.0
       },
       {
         "name": "TV Girl",
-        "minutes": 20.85,
-        "plays": 6,
-        "percentageOfMinutes": 21.1
-      },
-      {
-        "name": "The Fratellis",
-        "minutes": 10.52,
+        "minutes": 10.48,
         "plays": 3,
-        "percentageOfMinutes": 10.7
+        "percentageOfMinutes": 27.3
       },
       {
         "name": "Jordana",
         "minutes": 2.59,
         "plays": 1,
-        "percentageOfMinutes": 2.6
+        "percentageOfMinutes": 6.7
       }
     ],
     "month": [],
@@ -8328,144 +8322,88 @@
     ],
     "lastWeek": [
       {
-        "title": "Snap Out Of It",
-        "artist": "Arctic Monkeys",
-        "minutes": 9.6515,
-        "plays": 3,
-        "percentageOfMinutes": 9.8
-      },
-      {
-        "title": "Mardy Bum",
-        "artist": "Arctic Monkeys",
-        "minutes": 8.772,
-        "plays": 3,
-        "percentageOfMinutes": 8.9
-      },
-      {
-        "title": "Fluorescent Adolescent",
-        "artist": "Arctic Monkeys",
-        "minutes": 8.67465,
-        "plays": 3,
-        "percentageOfMinutes": 8.8
-      },
-      {
         "title": "Hate Yourself",
         "artist": "TV Girl",
-        "minutes": 7.125333333333334,
-        "plays": 2,
-        "percentageOfMinutes": 7.2
-      },
-      {
-        "title": "Arabella",
-        "artist": "Arctic Monkeys",
-        "minutes": 6.911866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 7.0
-      },
-      {
-        "title": "My Propeller",
-        "artist": "Arctic Monkeys",
-        "minutes": 6.8582,
-        "plays": 2,
-        "percentageOfMinutes": 7.0
-      },
-      {
-        "title": "Taking What's Not Yours",
-        "artist": "TV Girl",
-        "minutes": 6.855,
-        "plays": 2,
-        "percentageOfMinutes": 7.0
-      },
-      {
-        "title": "505",
-        "artist": "Arctic Monkeys",
-        "minutes": 4.2264333333333335,
+        "minutes": 3.562666666666667,
         "plays": 1,
-        "percentageOfMinutes": 4.3
-      },
-      {
-        "title": "Baby Fratelli",
-        "artist": "The Fratellis",
-        "minutes": 3.951766666666667,
-        "plays": 1,
-        "percentageOfMinutes": 4.0
-      },
-      {
-        "title": "Crying Lightning",
-        "artist": "Arctic Monkeys",
-        "minutes": 3.7471,
-        "plays": 1,
-        "percentageOfMinutes": 3.8
-      },
-      {
-        "title": "The View From The Afternoon",
-        "artist": "Arctic Monkeys",
-        "minutes": 3.7157666666666667,
-        "plays": 1,
-        "percentageOfMinutes": 3.8
-      },
-      {
-        "title": "Henrietta",
-        "artist": "The Fratellis",
-        "minutes": 3.5271,
-        "plays": 1,
-        "percentageOfMinutes": 3.6
+        "percentageOfMinutes": 9.3
       },
       {
         "title": "Birds Dont Sing",
         "artist": "TV Girl",
         "minutes": 3.4891,
         "plays": 1,
-        "percentageOfMinutes": 3.5
+        "percentageOfMinutes": 9.1
       },
       {
-        "title": "Cynical One",
-        "artist": "TV Girl",
-        "minutes": 3.3809,
+        "title": "Arabella",
+        "artist": "Arctic Monkeys",
+        "minutes": 3.4559333333333333,
         "plays": 1,
-        "percentageOfMinutes": 3.4
+        "percentageOfMinutes": 9.0
+      },
+      {
+        "title": "My Propeller",
+        "artist": "Arctic Monkeys",
+        "minutes": 3.4291,
+        "plays": 1,
+        "percentageOfMinutes": 8.9
+      },
+      {
+        "title": "Taking What's Not Yours",
+        "artist": "TV Girl",
+        "minutes": 3.4275,
+        "plays": 1,
+        "percentageOfMinutes": 8.9
       },
       {
         "title": "R U Mine?",
         "artist": "Arctic Monkeys",
         "minutes": 3.3621,
         "plays": 1,
-        "percentageOfMinutes": 3.4
+        "percentageOfMinutes": 8.8
       },
       {
         "title": "From The Ritz To The Rubble",
         "artist": "Arctic Monkeys",
         "minutes": 3.2237666666666667,
         "plays": 1,
-        "percentageOfMinutes": 3.3
+        "percentageOfMinutes": 8.4
       },
       {
-        "title": "My Friend John",
-        "artist": "The Fratellis",
-        "minutes": 3.03955,
+        "title": "Snap Out Of It",
+        "artist": "Arctic Monkeys",
+        "minutes": 3.2171666666666665,
         "plays": 1,
-        "percentageOfMinutes": 3.1
+        "percentageOfMinutes": 8.4
+      },
+      {
+        "title": "Mardy Bum",
+        "artist": "Arctic Monkeys",
+        "minutes": 2.924,
+        "plays": 1,
+        "percentageOfMinutes": 7.6
+      },
+      {
+        "title": "Fluorescent Adolescent",
+        "artist": "Arctic Monkeys",
+        "minutes": 2.89155,
+        "plays": 1,
+        "percentageOfMinutes": 7.5
       },
       {
         "title": "Brianstorm",
         "artist": "Arctic Monkeys",
         "minutes": 2.83755,
         "plays": 1,
-        "percentageOfMinutes": 2.9
-      },
-      {
-        "title": "Why'd You Only Call Me When You're High?",
-        "artist": "Arctic Monkeys",
-        "minutes": 2.6853833333333332,
-        "plays": 1,
-        "percentageOfMinutes": 2.7
+        "percentageOfMinutes": 7.4
       },
       {
         "title": "Better in the Dark",
         "artist": "Jordana",
         "minutes": 2.591666666666667,
         "plays": 1,
-        "percentageOfMinutes": 2.6
+        "percentageOfMinutes": 6.7
       }
     ],
     "month": [],
