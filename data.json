@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-07-05T02:26:49.195536+00:00",
-    "lastUpdated": "July 05, 2026 - 02:26 AM UST"
+    "generatedAt": "2026-07-06T02:31:14.227591+00:00",
+    "lastUpdated": "July 06, 2026 - 02:31 AM UST"
   },
   "artists": {
     "total": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 6401.97,
-        "plays": 2002,
-        "percentageOfMinutes": 28.2
+        "minutes": 6444.29,
+        "plays": 2015,
+        "percentageOfMinutes": 28.3
       },
       {
         "name": "TV Girl",
@@ -27,7 +27,7 @@
         "name": "The Happy Fits",
         "minutes": 1919.91,
         "plays": 583,
-        "percentageOfMinutes": 8.5
+        "percentageOfMinutes": 8.4
       },
       {
         "name": "The Fratellis",
@@ -103,8 +103,8 @@
       },
       {
         "name": "Hot Freaks",
-        "minutes": 119.34,
-        "plays": 28,
+        "minutes": 123.6,
+        "plays": 29,
         "percentageOfMinutes": 0.5
       },
       {
@@ -115,8 +115,8 @@
       },
       {
         "name": "Mars Argo",
-        "minutes": 107.66,
-        "plays": 31,
+        "minutes": 111.13,
+        "plays": 32,
         "percentageOfMinutes": 0.5
       },
       {
@@ -228,6 +228,12 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "name": "The Cardigans",
+        "minutes": 48.49,
+        "plays": 15,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "name": "1nonly",
         "minutes": 47.28,
         "plays": 19,
@@ -237,12 +243,6 @@
         "name": "Softwilly",
         "minutes": 46.27,
         "plays": 19,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "name": "The Cardigans",
-        "minutes": 45.26,
-        "plays": 14,
         "percentageOfMinutes": 0.2
       },
       {
@@ -1224,6 +1224,12 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "name": "Jake Kulak",
+        "minutes": 3.49,
+        "plays": 1,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "name": "Sixpence None The Richer",
         "minutes": 3.48,
         "plays": 1,
@@ -1467,55 +1473,103 @@
     "lastWeek": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 73.85,
-        "plays": 23,
-        "percentageOfMinutes": 83.1
+        "minutes": 116.18,
+        "plays": 36,
+        "percentageOfMinutes": 79.8
       },
       {
         "name": "TV Girl",
         "minutes": 12.41,
         "plays": 4,
-        "percentageOfMinutes": 14.0
+        "percentageOfMinutes": 8.5
+      },
+      {
+        "name": "Hot Freaks",
+        "minutes": 4.26,
+        "plays": 1,
+        "percentageOfMinutes": 2.9
+      },
+      {
+        "name": "Jake Kulak",
+        "minutes": 3.49,
+        "plays": 1,
+        "percentageOfMinutes": 2.4
+      },
+      {
+        "name": "Mars Argo",
+        "minutes": 3.47,
+        "plays": 1,
+        "percentageOfMinutes": 2.4
+      },
+      {
+        "name": "The Cardigans",
+        "minutes": 3.23,
+        "plays": 1,
+        "percentageOfMinutes": 2.2
       },
       {
         "name": "Jordana",
         "minutes": 2.59,
         "plays": 1,
-        "percentageOfMinutes": 2.9
+        "percentageOfMinutes": 1.8
       }
     ],
     "month": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 48.51,
-        "plays": 15,
-        "percentageOfMinutes": 96.2
+        "minutes": 90.84,
+        "plays": 28,
+        "percentageOfMinutes": 84.7
+      },
+      {
+        "name": "Hot Freaks",
+        "minutes": 4.26,
+        "plays": 1,
+        "percentageOfMinutes": 4.0
+      },
+      {
+        "name": "Jake Kulak",
+        "minutes": 3.49,
+        "plays": 1,
+        "percentageOfMinutes": 3.3
+      },
+      {
+        "name": "Mars Argo",
+        "minutes": 3.47,
+        "plays": 1,
+        "percentageOfMinutes": 3.2
+      },
+      {
+        "name": "The Cardigans",
+        "minutes": 3.23,
+        "plays": 1,
+        "percentageOfMinutes": 3.0
       },
       {
         "name": "TV Girl",
         "minutes": 1.93,
         "plays": 1,
-        "percentageOfMinutes": 3.8
+        "percentageOfMinutes": 1.8
       }
     ],
     "year": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 6375.52,
-        "plays": 1995,
-        "percentageOfMinutes": 35.7
+        "minutes": 6417.85,
+        "plays": 2008,
+        "percentageOfMinutes": 35.8
       },
       {
         "name": "TV Girl",
         "minutes": 2801.34,
         "plays": 820,
-        "percentageOfMinutes": 15.7
+        "percentageOfMinutes": 15.6
       },
       {
         "name": "The Fratellis",
         "minutes": 1243.09,
         "plays": 357,
-        "percentageOfMinutes": 7.0
+        "percentageOfMinutes": 6.9
       },
       {
         "name": "Masayoshi Takanaka",
@@ -1545,7 +1599,7 @@
         "name": "Jordana",
         "minutes": 241.33,
         "plays": 82,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "name": "Bo Burnham",
@@ -1585,14 +1639,14 @@
       },
       {
         "name": "Hot Freaks",
-        "minutes": 119.34,
-        "plays": 28,
+        "minutes": 123.6,
+        "plays": 29,
         "percentageOfMinutes": 0.7
       },
       {
         "name": "Mars Argo",
-        "minutes": 107.66,
-        "plays": 31,
+        "minutes": 111.13,
+        "plays": 32,
         "percentageOfMinutes": 0.6
       },
       {
@@ -1704,6 +1758,12 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "name": "The Cardigans",
+        "minutes": 48.49,
+        "plays": 15,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "name": "1nonly",
         "minutes": 47.28,
         "plays": 19,
@@ -1713,12 +1773,6 @@
         "name": "Softwilly",
         "minutes": 46.27,
         "plays": 19,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "name": "The Cardigans",
-        "minutes": 45.26,
-        "plays": 14,
         "percentageOfMinutes": 0.3
       },
       {
@@ -2670,6 +2724,12 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "name": "Jake Kulak",
+        "minutes": 3.49,
+        "plays": 1,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "name": "Sixpence None The Richer",
         "minutes": 3.48,
         "plays": 1,
@@ -2912,27 +2972,27 @@
         "artist": "TV Girl",
         "minutes": 534.69,
         "plays": 156,
-        "percentageOfMinutes": 2.4
+        "percentageOfMinutes": 2.3
       },
       {
         "title": "Crying Lightning",
         "artist": "Arctic Monkeys",
-        "minutes": 442.1578,
-        "plays": 118,
-        "percentageOfMinutes": 1.9
+        "minutes": 445.9049,
+        "plays": 119,
+        "percentageOfMinutes": 2.0
       },
       {
         "title": "Arabella",
         "artist": "Arctic Monkeys",
-        "minutes": 342.1374,
-        "plays": 99,
+        "minutes": 345.5933333333333,
+        "plays": 100,
         "percentageOfMinutes": 1.5
       },
       {
         "title": "505",
         "artist": "Arctic Monkeys",
-        "minutes": 312.75606666666664,
-        "plays": 74,
+        "minutes": 316.9825,
+        "plays": 75,
         "percentageOfMinutes": 1.4
       },
       {
@@ -2945,9 +3005,9 @@
       {
         "title": "Snap Out Of It",
         "artist": "Arctic Monkeys",
-        "minutes": 283.11066666666665,
-        "plays": 88,
-        "percentageOfMinutes": 1.2
+        "minutes": 286.32783333333333,
+        "plays": 89,
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Mardy Bum",
@@ -2966,8 +3026,8 @@
       {
         "title": "The Bad Thing",
         "artist": "Arctic Monkeys",
-        "minutes": 236.30145,
-        "plays": 99,
+        "minutes": 238.68833333333333,
+        "plays": 100,
         "percentageOfMinutes": 1.0
       },
       {
@@ -2987,21 +3047,21 @@
       {
         "title": "Teddy Picker",
         "artist": "Arctic Monkeys",
-        "minutes": 206.15466666666666,
-        "plays": 77,
+        "minutes": 208.832,
+        "plays": 78,
+        "percentageOfMinutes": 0.9
+      },
+      {
+        "title": "Dangerous Animals",
+        "artist": "Arctic Monkeys",
+        "minutes": 207.1549,
+        "plays": 59,
         "percentageOfMinutes": 0.9
       },
       {
         "title": "Hate Yourself",
         "artist": "TV Girl",
         "minutes": 203.072,
-        "plays": 57,
-        "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "Dangerous Animals",
-        "artist": "Arctic Monkeys",
-        "minutes": 200.1327,
         "plays": 57,
         "percentageOfMinutes": 0.9
       },
@@ -3027,6 +3087,13 @@
         "percentageOfMinutes": 0.8
       },
       {
+        "title": "Fluorescent Adolescent",
+        "artist": "Arctic Monkeys",
+        "minutes": 176.38455,
+        "plays": 61,
+        "percentageOfMinutes": 0.8
+      },
+      {
         "title": "Jane!",
         "artist": "The Long Faces",
         "minutes": 174.52026666666666,
@@ -3034,10 +3101,10 @@
         "percentageOfMinutes": 0.8
       },
       {
-        "title": "Fluorescent Adolescent",
+        "title": "My Propeller",
         "artist": "Arctic Monkeys",
-        "minutes": 173.493,
-        "plays": 60,
+        "minutes": 171.455,
+        "plays": 50,
         "percentageOfMinutes": 0.8
       },
       {
@@ -3045,13 +3112,6 @@
         "artist": "beabadoobee",
         "minutes": 168.70553333333334,
         "plays": 44,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "My Propeller",
-        "artist": "Arctic Monkeys",
-        "minutes": 168.0259,
-        "plays": 49,
         "percentageOfMinutes": 0.7
       },
       {
@@ -3097,6 +3157,13 @@
         "percentageOfMinutes": 0.7
       },
       {
+        "title": "Why'd You Only Call Me When You're High?",
+        "artist": "Arctic Monkeys",
+        "minutes": 153.06685,
+        "plays": 57,
+        "percentageOfMinutes": 0.7
+      },
+      {
         "title": "AIZO",
         "artist": "King Gnu",
         "minutes": 151.1006,
@@ -3108,13 +3175,6 @@
         "artist": "The Fratellis",
         "minutes": 151.0971,
         "plays": 42,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Why'd You Only Call Me When You're High?",
-        "artist": "Arctic Monkeys",
-        "minutes": 150.38146666666665,
-        "plays": 56,
         "percentageOfMinutes": 0.7
       },
       {
@@ -3132,6 +3192,13 @@
         "percentageOfMinutes": 0.7
       },
       {
+        "title": "From The Ritz To The Rubble",
+        "artist": "Arctic Monkeys",
+        "minutes": 148.29326666666665,
+        "plays": 46,
+        "percentageOfMinutes": 0.7
+      },
+      {
         "title": "Pretty Visitors",
         "artist": "Arctic Monkeys",
         "minutes": 147.004,
@@ -3139,10 +3206,10 @@
         "percentageOfMinutes": 0.6
       },
       {
-        "title": "From The Ritz To The Rubble",
+        "title": "R U Mine?",
         "artist": "Arctic Monkeys",
-        "minutes": 145.0695,
-        "plays": 45,
+        "minutes": 144.5703,
+        "plays": 43,
         "percentageOfMinutes": 0.6
       },
       {
@@ -3150,13 +3217,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 141.9039,
         "plays": 18,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "R U Mine?",
-        "artist": "Arctic Monkeys",
-        "minutes": 141.2082,
-        "plays": 42,
         "percentageOfMinutes": 0.6
       },
       {
@@ -3213,20 +3273,20 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 125.1039,
         "plays": 18,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Flathead",
         "artist": "The Fratellis",
         "minutes": 125.04533333333333,
         "plays": 38,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Puppy Princess",
         "artist": "Hot Freaks",
-        "minutes": 119.34206666666667,
-        "plays": 28,
+        "minutes": 123.60428333333333,
+        "plays": 29,
         "percentageOfMinutes": 0.5
       },
       {
@@ -3265,17 +3325,17 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "Using You",
+        "artist": "Mars Argo",
+        "minutes": 111.13173333333333,
+        "plays": 32,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "A Certain Romance",
         "artist": "Arctic Monkeys",
         "minutes": 110.4,
         "plays": 20,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Using You",
-        "artist": "Mars Argo",
-        "minutes": 107.65886666666667,
-        "plays": 31,
         "percentageOfMinutes": 0.5
       },
       {
@@ -3881,6 +3941,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Lovefool",
+        "artist": "The Cardigans",
+        "minutes": 48.48825,
+        "plays": 15,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Television / So Far So Good",
         "artist": "Rex Orange County",
         "minutes": 48.14333333333333,
@@ -3941,13 +4008,6 @@
         "artist": "The Happy Fits",
         "minutes": 45.4689,
         "plays": 19,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Lovefool",
-        "artist": "The Cardigans",
-        "minutes": 45.2557,
-        "plays": 14,
         "percentageOfMinutes": 0.2
       },
       {
@@ -5264,7 +5324,7 @@
         "artist": "The Happy Fits",
         "minutes": 11.354666666666667,
         "plays": 2,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Drop It Like It's Hot!",
@@ -7444,6 +7504,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Not The Only One",
+        "artist": "Jake Kulak",
+        "minutes": 3.486266666666667,
+        "plays": 1,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Ooh La",
         "artist": "The Kooks",
         "minutes": 3.4828833333333336,
@@ -8335,223 +8402,307 @@
     ],
     "lastWeek": [
       {
+        "title": "Dangerous Animals",
+        "artist": "Arctic Monkeys",
+        "minutes": 14.0444,
+        "plays": 4,
+        "percentageOfMinutes": 9.6
+      },
+      {
         "title": "From The Ritz To The Rubble",
         "artist": "Arctic Monkeys",
-        "minutes": 9.6713,
+        "minutes": 12.895066666666667,
+        "plays": 4,
+        "percentageOfMinutes": 8.9
+      },
+      {
+        "title": "Arabella",
+        "artist": "Arctic Monkeys",
+        "minutes": 10.3678,
         "plays": 3,
-        "percentageOfMinutes": 10.9
+        "percentageOfMinutes": 7.1
+      },
+      {
+        "title": "My Propeller",
+        "artist": "Arctic Monkeys",
+        "minutes": 10.2873,
+        "plays": 3,
+        "percentageOfMinutes": 7.1
+      },
+      {
+        "title": "R U Mine?",
+        "artist": "Arctic Monkeys",
+        "minutes": 10.0863,
+        "plays": 3,
+        "percentageOfMinutes": 6.9
+      },
+      {
+        "title": "Snap Out Of It",
+        "artist": "Arctic Monkeys",
+        "minutes": 9.6515,
+        "plays": 3,
+        "percentageOfMinutes": 6.6
       },
       {
         "title": "Mardy Bum",
         "artist": "Arctic Monkeys",
         "minutes": 8.772,
         "plays": 3,
-        "percentageOfMinutes": 9.9
-      },
-      {
-        "title": "Dangerous Animals",
-        "artist": "Arctic Monkeys",
-        "minutes": 7.0222,
-        "plays": 2,
-        "percentageOfMinutes": 7.9
-      },
-      {
-        "title": "Arabella",
-        "artist": "Arctic Monkeys",
-        "minutes": 6.911866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 7.8
-      },
-      {
-        "title": "My Propeller",
-        "artist": "Arctic Monkeys",
-        "minutes": 6.8582,
-        "plays": 2,
-        "percentageOfMinutes": 7.7
-      },
-      {
-        "title": "R U Mine?",
-        "artist": "Arctic Monkeys",
-        "minutes": 6.7242,
-        "plays": 2,
-        "percentageOfMinutes": 7.6
-      },
-      {
-        "title": "Snap Out Of It",
-        "artist": "Arctic Monkeys",
-        "minutes": 6.434333333333333,
-        "plays": 2,
-        "percentageOfMinutes": 7.2
+        "percentageOfMinutes": 6.0
       },
       {
         "title": "Fluorescent Adolescent",
         "artist": "Arctic Monkeys",
-        "minutes": 5.7831,
-        "plays": 2,
-        "percentageOfMinutes": 6.5
+        "minutes": 8.67465,
+        "plays": 3,
+        "percentageOfMinutes": 6.0
       },
       {
         "title": "505",
         "artist": "Arctic Monkeys",
-        "minutes": 4.2264333333333335,
-        "plays": 1,
-        "percentageOfMinutes": 4.8
+        "minutes": 8.452866666666667,
+        "plays": 2,
+        "percentageOfMinutes": 5.8
       },
       {
         "title": "Crying Lightning",
         "artist": "Arctic Monkeys",
-        "minutes": 3.7471,
+        "minutes": 7.4942,
+        "plays": 2,
+        "percentageOfMinutes": 5.1
+      },
+      {
+        "title": "Why'd You Only Call Me When You're High?",
+        "artist": "Arctic Monkeys",
+        "minutes": 5.3707666666666665,
+        "plays": 2,
+        "percentageOfMinutes": 3.7
+      },
+      {
+        "title": "Puppy Princess",
+        "artist": "Hot Freaks",
+        "minutes": 4.262216666666666,
         "plays": 1,
-        "percentageOfMinutes": 4.2
+        "percentageOfMinutes": 2.9
       },
       {
         "title": "Hate Yourself",
         "artist": "TV Girl",
         "minutes": 3.562666666666667,
         "plays": 1,
-        "percentageOfMinutes": 4.0
+        "percentageOfMinutes": 2.4
       },
       {
         "title": "Birds Dont Sing",
         "artist": "TV Girl",
         "minutes": 3.4891,
         "plays": 1,
-        "percentageOfMinutes": 3.9
+        "percentageOfMinutes": 2.4
+      },
+      {
+        "title": "Not The Only One",
+        "artist": "Jake Kulak",
+        "minutes": 3.486266666666667,
+        "plays": 1,
+        "percentageOfMinutes": 2.4
+      },
+      {
+        "title": "Using You",
+        "artist": "Mars Argo",
+        "minutes": 3.4728666666666665,
+        "plays": 1,
+        "percentageOfMinutes": 2.4
       },
       {
         "title": "Taking What's Not Yours",
         "artist": "TV Girl",
         "minutes": 3.4275,
         "plays": 1,
-        "percentageOfMinutes": 3.9
+        "percentageOfMinutes": 2.4
+      },
+      {
+        "title": "Lovefool",
+        "artist": "The Cardigans",
+        "minutes": 3.23255,
+        "plays": 1,
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "Brianstorm",
         "artist": "Arctic Monkeys",
         "minutes": 2.83755,
         "plays": 1,
-        "percentageOfMinutes": 3.2
+        "percentageOfMinutes": 1.9
       },
       {
-        "title": "Why'd You Only Call Me When You're High?",
+        "title": "Teddy Picker",
         "artist": "Arctic Monkeys",
-        "minutes": 2.6853833333333332,
+        "minutes": 2.6773333333333333,
         "plays": 1,
-        "percentageOfMinutes": 3.0
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "Better in the Dark",
         "artist": "Jordana",
         "minutes": 2.591666666666667,
         "plays": 1,
-        "percentageOfMinutes": 2.9
+        "percentageOfMinutes": 1.8
+      },
+      {
+        "title": "The Bad Thing",
+        "artist": "Arctic Monkeys",
+        "minutes": 2.3868833333333335,
+        "plays": 1,
+        "percentageOfMinutes": 1.6
       },
       {
         "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
         "artist": "Arctic Monkeys",
         "minutes": 2.1802166666666665,
         "plays": 1,
-        "percentageOfMinutes": 2.5
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "Messy Hair",
         "artist": "TV Girl",
         "minutes": 1.9333333333333333,
         "plays": 1,
-        "percentageOfMinutes": 2.2
+        "percentageOfMinutes": 1.3
       }
     ],
     "month": [
       {
         "title": "Dangerous Animals",
         "artist": "Arctic Monkeys",
-        "minutes": 7.0222,
-        "plays": 2,
-        "percentageOfMinutes": 13.9
+        "minutes": 14.0444,
+        "plays": 4,
+        "percentageOfMinutes": 13.1
       },
       {
         "title": "From The Ritz To The Rubble",
         "artist": "Arctic Monkeys",
-        "minutes": 6.447533333333333,
+        "minutes": 9.6713,
+        "plays": 3,
+        "percentageOfMinutes": 9.0
+      },
+      {
+        "title": "505",
+        "artist": "Arctic Monkeys",
+        "minutes": 8.452866666666667,
         "plays": 2,
-        "percentageOfMinutes": 12.8
+        "percentageOfMinutes": 7.9
+      },
+      {
+        "title": "Crying Lightning",
+        "artist": "Arctic Monkeys",
+        "minutes": 7.4942,
+        "plays": 2,
+        "percentageOfMinutes": 7.0
+      },
+      {
+        "title": "Arabella",
+        "artist": "Arctic Monkeys",
+        "minutes": 6.911866666666667,
+        "plays": 2,
+        "percentageOfMinutes": 6.4
+      },
+      {
+        "title": "My Propeller",
+        "artist": "Arctic Monkeys",
+        "minutes": 6.8582,
+        "plays": 2,
+        "percentageOfMinutes": 6.4
+      },
+      {
+        "title": "R U Mine?",
+        "artist": "Arctic Monkeys",
+        "minutes": 6.7242,
+        "plays": 2,
+        "percentageOfMinutes": 6.3
+      },
+      {
+        "title": "Snap Out Of It",
+        "artist": "Arctic Monkeys",
+        "minutes": 6.434333333333333,
+        "plays": 2,
+        "percentageOfMinutes": 6.0
       },
       {
         "title": "Mardy Bum",
         "artist": "Arctic Monkeys",
         "minutes": 5.848,
         "plays": 2,
-        "percentageOfMinutes": 11.6
-      },
-      {
-        "title": "505",
-        "artist": "Arctic Monkeys",
-        "minutes": 4.2264333333333335,
-        "plays": 1,
-        "percentageOfMinutes": 8.4
-      },
-      {
-        "title": "Crying Lightning",
-        "artist": "Arctic Monkeys",
-        "minutes": 3.7471,
-        "plays": 1,
-        "percentageOfMinutes": 7.4
-      },
-      {
-        "title": "Arabella",
-        "artist": "Arctic Monkeys",
-        "minutes": 3.4559333333333333,
-        "plays": 1,
-        "percentageOfMinutes": 6.9
-      },
-      {
-        "title": "My Propeller",
-        "artist": "Arctic Monkeys",
-        "minutes": 3.4291,
-        "plays": 1,
-        "percentageOfMinutes": 6.8
-      },
-      {
-        "title": "R U Mine?",
-        "artist": "Arctic Monkeys",
-        "minutes": 3.3621,
-        "plays": 1,
-        "percentageOfMinutes": 6.7
-      },
-      {
-        "title": "Snap Out Of It",
-        "artist": "Arctic Monkeys",
-        "minutes": 3.2171666666666665,
-        "plays": 1,
-        "percentageOfMinutes": 6.4
+        "percentageOfMinutes": 5.5
       },
       {
         "title": "Fluorescent Adolescent",
         "artist": "Arctic Monkeys",
-        "minutes": 2.89155,
-        "plays": 1,
-        "percentageOfMinutes": 5.7
+        "minutes": 5.7831,
+        "plays": 2,
+        "percentageOfMinutes": 5.4
       },
       {
         "title": "Why'd You Only Call Me When You're High?",
         "artist": "Arctic Monkeys",
-        "minutes": 2.6853833333333332,
+        "minutes": 5.3707666666666665,
+        "plays": 2,
+        "percentageOfMinutes": 5.0
+      },
+      {
+        "title": "Puppy Princess",
+        "artist": "Hot Freaks",
+        "minutes": 4.262216666666666,
         "plays": 1,
-        "percentageOfMinutes": 5.3
+        "percentageOfMinutes": 4.0
+      },
+      {
+        "title": "Not The Only One",
+        "artist": "Jake Kulak",
+        "minutes": 3.486266666666667,
+        "plays": 1,
+        "percentageOfMinutes": 3.3
+      },
+      {
+        "title": "Using You",
+        "artist": "Mars Argo",
+        "minutes": 3.4728666666666665,
+        "plays": 1,
+        "percentageOfMinutes": 3.2
+      },
+      {
+        "title": "Lovefool",
+        "artist": "The Cardigans",
+        "minutes": 3.23255,
+        "plays": 1,
+        "percentageOfMinutes": 3.0
+      },
+      {
+        "title": "Teddy Picker",
+        "artist": "Arctic Monkeys",
+        "minutes": 2.6773333333333333,
+        "plays": 1,
+        "percentageOfMinutes": 2.5
+      },
+      {
+        "title": "The Bad Thing",
+        "artist": "Arctic Monkeys",
+        "minutes": 2.3868833333333335,
+        "plays": 1,
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
         "artist": "Arctic Monkeys",
         "minutes": 2.1802166666666665,
         "plays": 1,
-        "percentageOfMinutes": 4.3
+        "percentageOfMinutes": 2.0
       },
       {
         "title": "Messy Hair",
         "artist": "TV Girl",
         "minutes": 1.9333333333333333,
         "plays": 1,
-        "percentageOfMinutes": 3.8
+        "percentageOfMinutes": 1.8
       }
     ],
     "year": [
@@ -8565,22 +8716,22 @@
       {
         "title": "Crying Lightning",
         "artist": "Arctic Monkeys",
-        "minutes": 438.4107,
-        "plays": 117,
+        "minutes": 442.1578,
+        "plays": 118,
         "percentageOfMinutes": 2.5
       },
       {
         "title": "Arabella",
         "artist": "Arctic Monkeys",
-        "minutes": 342.1374,
-        "plays": 99,
+        "minutes": 345.5933333333333,
+        "plays": 100,
         "percentageOfMinutes": 1.9
       },
       {
         "title": "505",
         "artist": "Arctic Monkeys",
-        "minutes": 312.75606666666664,
-        "plays": 74,
+        "minutes": 316.9825,
+        "plays": 75,
         "percentageOfMinutes": 1.8
       },
       {
@@ -8593,8 +8744,8 @@
       {
         "title": "Snap Out Of It",
         "artist": "Arctic Monkeys",
-        "minutes": 276.67633333333333,
-        "plays": 86,
+        "minutes": 279.8935,
+        "plays": 87,
         "percentageOfMinutes": 1.6
       },
       {
@@ -8614,8 +8765,8 @@
       {
         "title": "The Bad Thing",
         "artist": "Arctic Monkeys",
-        "minutes": 236.30145,
-        "plays": 99,
+        "minutes": 238.68833333333333,
+        "plays": 100,
         "percentageOfMinutes": 1.3
       },
       {
@@ -8635,21 +8786,21 @@
       {
         "title": "Teddy Picker",
         "artist": "Arctic Monkeys",
-        "minutes": 206.15466666666666,
-        "plays": 77,
+        "minutes": 208.832,
+        "plays": 78,
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "title": "Dangerous Animals",
+        "artist": "Arctic Monkeys",
+        "minutes": 207.1549,
+        "plays": 59,
         "percentageOfMinutes": 1.2
       },
       {
         "title": "Hate Yourself",
         "artist": "TV Girl",
         "minutes": 203.072,
-        "plays": 57,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "Dangerous Animals",
-        "artist": "Arctic Monkeys",
-        "minutes": 200.1327,
         "plays": 57,
         "percentageOfMinutes": 1.1
       },
@@ -8677,16 +8828,16 @@
       {
         "title": "Fluorescent Adolescent",
         "artist": "Arctic Monkeys",
-        "minutes": 170.60145,
-        "plays": 59,
+        "minutes": 173.493,
+        "plays": 60,
         "percentageOfMinutes": 1.0
       },
       {
         "title": "My Propeller",
         "artist": "Arctic Monkeys",
-        "minutes": 168.0259,
-        "plays": 49,
-        "percentageOfMinutes": 0.9
+        "minutes": 171.455,
+        "plays": 50,
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "The View From The Afternoon",
@@ -8717,6 +8868,13 @@
         "percentageOfMinutes": 0.9
       },
       {
+        "title": "Why'd You Only Call Me When You're High?",
+        "artist": "Arctic Monkeys",
+        "minutes": 153.06685,
+        "plays": 57,
+        "percentageOfMinutes": 0.9
+      },
+      {
         "title": "AIZO",
         "artist": "King Gnu",
         "minutes": 151.1006,
@@ -8731,17 +8889,17 @@
         "percentageOfMinutes": 0.8
       },
       {
-        "title": "Why'd You Only Call Me When You're High?",
-        "artist": "Arctic Monkeys",
-        "minutes": 150.38146666666665,
-        "plays": 56,
-        "percentageOfMinutes": 0.8
-      },
-      {
         "title": "Potion Approaching",
         "artist": "Arctic Monkeys",
         "minutes": 148.4931,
         "plays": 42,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "From The Ritz To The Rubble",
+        "artist": "Arctic Monkeys",
+        "minutes": 148.29326666666665,
+        "plays": 46,
         "percentageOfMinutes": 0.8
       },
       {
@@ -8766,10 +8924,10 @@
         "percentageOfMinutes": 0.8
       },
       {
-        "title": "From The Ritz To The Rubble",
+        "title": "R U Mine?",
         "artist": "Arctic Monkeys",
-        "minutes": 145.0695,
-        "plays": 45,
+        "minutes": 144.5703,
+        "plays": 43,
         "percentageOfMinutes": 0.8
       },
       {
@@ -8777,13 +8935,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 141.9039,
         "plays": 18,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "R U Mine?",
-        "artist": "Arctic Monkeys",
-        "minutes": 141.2082,
-        "plays": 42,
         "percentageOfMinutes": 0.8
       },
       {
@@ -8822,17 +8973,17 @@
         "percentageOfMinutes": 0.7
       },
       {
+        "title": "Puppy Princess",
+        "artist": "Hot Freaks",
+        "minutes": 123.60428333333333,
+        "plays": 29,
+        "percentageOfMinutes": 0.7
+      },
+      {
         "title": "BRASILIAN SKIES",
         "artist": "Masayoshi Takanaka",
         "minutes": 123.55455,
         "plays": 21,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Puppy Princess",
-        "artist": "Hot Freaks",
-        "minutes": 119.34206666666667,
-        "plays": 28,
         "percentageOfMinutes": 0.7
       },
       {
@@ -8850,17 +9001,17 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "Using You",
+        "artist": "Mars Argo",
+        "minutes": 111.13173333333333,
+        "plays": 32,
+        "percentageOfMinutes": 0.6
+      },
+      {
         "title": "A Certain Romance",
         "artist": "Arctic Monkeys",
         "minutes": 110.4,
         "plays": 20,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Using You",
-        "artist": "Mars Argo",
-        "minutes": 107.65886666666667,
-        "plays": 31,
         "percentageOfMinutes": 0.6
       },
       {
@@ -8924,7 +9075,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 80.32301666666666,
         "plays": 17,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Lovers Rock",
@@ -9221,6 +9372,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Lovefool",
+        "artist": "The Cardigans",
+        "minutes": 48.48825,
+        "plays": 15,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Television / So Far So Good",
         "artist": "Rex Orange County",
         "minutes": 48.14333333333333,
@@ -9267,13 +9425,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 46.3221,
         "plays": 11,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Lovefool",
-        "artist": "The Cardigans",
-        "minutes": 45.2557,
-        "plays": 14,
         "percentageOfMinutes": 0.3
       },
       {
@@ -9652,14 +9803,14 @@
         "artist": "Dead Poet Society",
         "minutes": 26.8488,
         "plays": 8,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Everyone\u2019s A Guru Now",
         "artist": "Saint Motel",
         "minutes": 26.814133333333334,
         "plays": 8,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Repeat Stuff",
@@ -10807,7 +10958,7 @@
         "artist": "Portugal. The Man",
         "minutes": 8.9473,
         "plays": 3,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Verde Pastel",
@@ -12227,6 +12378,13 @@
         "title": "Out of My League",
         "artist": "Fitz and The Tantrums",
         "minutes": 3.4897666666666667,
+        "plays": 1,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Not The Only One",
+        "artist": "Jake Kulak",
+        "minutes": 3.486266666666667,
         "plays": 1,
         "percentageOfMinutes": 0.0
       },
