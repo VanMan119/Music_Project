@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-07-25T02:00:05.161385+00:00",
-    "lastUpdated": "July 25, 2026 - 02:00 AM UST"
+    "generatedAt": "2026-07-26T02:04:38.197028+00:00",
+    "lastUpdated": "July 26, 2026 - 02:04 AM UST"
   },
   "artists": {
     "total": [
@@ -49,8 +49,8 @@
       },
       {
         "name": "Clairo",
-        "minutes": 512.96,
-        "plays": 147,
+        "minutes": 515.81,
+        "plays": 148,
         "percentageOfMinutes": 2.1
       },
       {
@@ -1491,63 +1491,33 @@
     "lastWeek": [
       {
         "name": "Clairo",
-        "minutes": 399.48,
-        "plays": 114,
-        "percentageOfMinutes": 37.9
+        "minutes": 381.5,
+        "plays": 109,
+        "percentageOfMinutes": 38.8
       },
       {
         "name": "Arctic Monkeys",
         "minutes": 246.68,
         "plays": 76,
-        "percentageOfMinutes": 23.4
-      },
-      {
-        "name": "beabadoobee",
-        "minutes": 188.6,
-        "plays": 58,
-        "percentageOfMinutes": 17.9
+        "percentageOfMinutes": 25.1
       },
       {
         "name": "Portugal. The Man",
         "minutes": 157.96,
         "plays": 40,
-        "percentageOfMinutes": 15.0
+        "percentageOfMinutes": 16.1
+      },
+      {
+        "name": "beabadoobee",
+        "minutes": 155.58,
+        "plays": 47,
+        "percentageOfMinutes": 15.8
       },
       {
         "name": "Cage The Elephant",
-        "minutes": 43.58,
-        "plays": 13,
+        "minutes": 40.31,
+        "plays": 12,
         "percentageOfMinutes": 4.1
-      },
-      {
-        "name": "Hot Freaks",
-        "minutes": 4.26,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "name": "Her's",
-        "minutes": 3.52,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "name": "Mars Argo",
-        "minutes": 3.47,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "name": "The Cardigans",
-        "minutes": 3.23,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "name": "Laufey",
-        "minutes": 2.83,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
       }
     ],
     "month": [
@@ -1559,9 +1529,9 @@
       },
       {
         "name": "Clairo",
-        "minutes": 509.15,
-        "plays": 146,
-        "percentageOfMinutes": 28.4
+        "minutes": 511.99,
+        "plays": 147,
+        "percentageOfMinutes": 28.5
       },
       {
         "name": "beabadoobee",
@@ -1671,7 +1641,7 @@
         "name": "Arctic Monkeys",
         "minutes": 6848.03,
         "plays": 2138,
-        "percentageOfMinutes": 35.0
+        "percentageOfMinutes": 34.9
       },
       {
         "name": "TV Girl",
@@ -1699,8 +1669,8 @@
       },
       {
         "name": "Clairo",
-        "minutes": 512.96,
-        "plays": 147,
+        "minutes": 515.81,
+        "plays": 148,
         "percentageOfMinutes": 2.6
       },
       {
@@ -4969,6 +4939,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Glory of the Snow",
+        "artist": "Clairo",
+        "minutes": 19.9304,
+        "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Borderline",
         "artist": "Tame Impala",
         "minutes": 19.816666666666666,
@@ -5134,13 +5111,6 @@
         "artist": "Styx",
         "minutes": 17.1484,
         "plays": 4,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Glory of the Snow",
-        "artist": "Clairo",
-        "minutes": 17.0832,
-        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
@@ -8823,140 +8793,133 @@
       {
         "title": "Amoeba",
         "artist": "Clairo",
-        "minutes": 91.5688,
-        "plays": 24,
-        "percentageOfMinutes": 8.7
+        "minutes": 87.75343333333333,
+        "plays": 23,
+        "percentageOfMinutes": 8.9
       },
       {
         "title": "Thank You",
         "artist": "Clairo",
-        "minutes": 54.685066666666664,
-        "plays": 16,
+        "minutes": 51.26725,
+        "plays": 15,
         "percentageOfMinutes": 5.2
       },
       {
         "title": "Add Up My Love",
         "artist": "Clairo",
-        "minutes": 44.47365,
-        "plays": 13,
+        "minutes": 41.0526,
+        "plays": 12,
         "percentageOfMinutes": 4.2
-      },
-      {
-        "title": "Juna",
-        "artist": "Clairo",
-        "minutes": 32.518166666666666,
-        "plays": 10,
-        "percentageOfMinutes": 3.1
       },
       {
         "title": "Echo",
         "artist": "Clairo",
         "minutes": 30.647066666666667,
         "plays": 8,
-        "percentageOfMinutes": 2.9
+        "percentageOfMinutes": 3.1
+      },
+      {
+        "title": "Juna",
+        "artist": "Clairo",
+        "minutes": 29.26635,
+        "plays": 9,
+        "percentageOfMinutes": 3.0
       },
       {
         "title": "Terrapin",
         "artist": "Clairo",
-        "minutes": 30.048166666666667,
-        "plays": 10,
-        "percentageOfMinutes": 2.9
+        "minutes": 27.04335,
+        "plays": 9,
+        "percentageOfMinutes": 2.8
       },
       {
         "title": "Soren",
         "artist": "beabadoobee",
         "minutes": 24.1944,
         "plays": 6,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.5
       },
       {
         "title": "Nomad",
         "artist": "Clairo",
         "minutes": 22.5572,
         "plays": 6,
-        "percentageOfMinutes": 2.1
+        "percentageOfMinutes": 2.3
       },
       {
         "title": "Sexy to Someone",
         "artist": "Clairo",
         "minutes": 20.7795,
         "plays": 6,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 2.1
       },
       {
         "title": "One For The Road",
         "artist": "Arctic Monkeys",
         "minutes": 20.6051,
         "plays": 6,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 2.1
       },
       {
         "title": "Pier 4",
         "artist": "Clairo",
         "minutes": 20.5072,
         "plays": 6,
-        "percentageOfMinutes": 1.9
+        "percentageOfMinutes": 2.1
+      },
+      {
+        "title": "Glory of the Snow",
+        "artist": "Clairo",
+        "minutes": 19.9304,
+        "plays": 7,
+        "percentageOfMinutes": 2.0
       },
       {
         "title": "Second Nature",
         "artist": "Clairo",
         "minutes": 18.95075,
         "plays": 5,
-        "percentageOfMinutes": 1.8
-      },
-      {
-        "title": "All I Did Was Dream of You (feat. The Mar\u00edas)",
-        "artist": "beabadoobee",
-        "minutes": 18.649,
-        "plays": 5,
-        "percentageOfMinutes": 1.8
-      },
-      {
-        "title": "Glory of the Snow",
-        "artist": "Clairo",
-        "minutes": 17.0832,
-        "plays": 6,
-        "percentageOfMinutes": 1.6
-      },
-      {
-        "title": "Slow Dance",
-        "artist": "Clairo",
-        "minutes": 15.656866666666666,
-        "plays": 4,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.9
       },
       {
         "title": "I Want It All",
         "artist": "Arctic Monkeys",
         "minutes": 15.4505,
         "plays": 5,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.6
       },
       {
         "title": "Plastic Soldiers",
         "artist": "Portugal. The Man",
         "minutes": 15.2,
         "plays": 3,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "Waves",
         "artist": "Portugal. The Man",
         "minutes": 14.55,
         "plays": 3,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "Sea of Air",
         "artist": "Portugal. The Man",
         "minutes": 13.106,
         "plays": 3,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "505",
         "artist": "Arctic Monkeys",
         "minutes": 12.6793,
+        "plays": 3,
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "Slow Dance",
+        "artist": "Clairo",
+        "minutes": 11.74265,
         "plays": 3,
         "percentageOfMinutes": 1.2
       },
@@ -8965,28 +8928,28 @@
         "artist": "Portugal. The Man",
         "minutes": 11.6573,
         "plays": 3,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Fluorescent Adolescent",
         "artist": "Arctic Monkeys",
         "minutes": 11.5662,
         "plays": 4,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Atomic Man",
         "artist": "Portugal. The Man",
         "minutes": 11.36265,
         "plays": 3,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Brianstorm",
         "artist": "Arctic Monkeys",
         "minutes": 11.3502,
         "plays": 4,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Crying Lightning",
@@ -8996,32 +8959,39 @@
         "percentageOfMinutes": 1.1
       },
       {
+        "title": "All I Did Was Dream of You (feat. The Mar\u00edas)",
+        "artist": "beabadoobee",
+        "minutes": 11.1894,
+        "plays": 3,
+        "percentageOfMinutes": 1.1
+      },
+      {
         "title": "Evil Friends",
         "artist": "Portugal. The Man",
         "minutes": 10.89205,
         "plays": 3,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Dangerous Animals",
         "artist": "Arctic Monkeys",
         "minutes": 10.5333,
         "plays": 3,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Hip Hop Kids",
         "artist": "Portugal. The Man",
         "minutes": 10.3893,
         "plays": 3,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Arabella",
         "artist": "Arctic Monkeys",
         "minutes": 10.3678,
         "plays": 3,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Holy Roller (Hallelujah)",
@@ -9035,28 +9005,21 @@
         "artist": "Portugal. The Man",
         "minutes": 9.70265,
         "plays": 3,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "Snap Out Of It",
         "artist": "Arctic Monkeys",
         "minutes": 9.6515,
         "plays": 3,
-        "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "Everything I Want",
-        "artist": "beabadoobee",
-        "minutes": 9.562,
-        "plays": 3,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "Old Yellow Bricks",
         "artist": "Arctic Monkeys",
         "minutes": 9.35665,
         "plays": 3,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "Do I Wanna Know?",
@@ -9070,14 +9033,14 @@
         "artist": "Arctic Monkeys",
         "minutes": 8.585433333333333,
         "plays": 2,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Balaclava",
         "artist": "Arctic Monkeys",
         "minutes": 8.372,
         "plays": 3,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Purple Yellow Red and Blue",
@@ -9119,28 +9082,21 @@
         "artist": "beabadoobee",
         "minutes": 7.8094,
         "plays": 2,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Someday Believers",
         "artist": "Portugal. The Man",
         "minutes": 7.781766666666667,
         "plays": 2,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "A Night To Remember",
         "artist": "beabadoobee",
         "minutes": 7.7796,
         "plays": 2,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Beaches",
-        "artist": "beabadoobee",
-        "minutes": 7.668433333333334,
-        "plays": 2,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Mad Sounds",
@@ -9161,40 +9117,47 @@
         "artist": "Arctic Monkeys",
         "minutes": 6.841333333333333,
         "plays": 2,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Ever Seen",
         "artist": "beabadoobee",
         "minutes": 6.792,
         "plays": 2,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "D Is for Dangerous",
         "artist": "Arctic Monkeys",
         "minutes": 6.73665,
         "plays": 3,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "R U Mine?",
         "artist": "Arctic Monkeys",
         "minutes": 6.7242,
         "plays": 2,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Tired",
         "artist": "beabadoobee",
         "minutes": 6.6504666666666665,
         "plays": 2,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "From The Ritz To The Rubble",
         "artist": "Arctic Monkeys",
         "minutes": 6.447533333333333,
+        "plays": 2,
+        "percentageOfMinutes": 0.7
+      },
+      {
+        "title": "Everything I Want",
+        "artist": "beabadoobee",
+        "minutes": 6.374666666666666,
         "plays": 2,
         "percentageOfMinutes": 0.6
       },
@@ -9217,7 +9180,7 @@
         "artist": "beabadoobee",
         "minutes": 5.676,
         "plays": 2,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Number One (feat. Richie Havens & Son Little)",
@@ -9227,65 +9190,44 @@
         "percentageOfMinutes": 0.5
       },
       {
-        "title": "Sunny day",
-        "artist": "beabadoobee",
-        "minutes": 5.349766666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "A Cruel Affair",
-        "artist": "beabadoobee",
-        "minutes": 5.068,
-        "plays": 2,
-        "percentageOfMinutes": 0.5
-      },
-      {
         "title": "Dance Little Liar",
         "artist": "Arctic Monkeys",
         "minutes": 4.7248833333333335,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Home Alone",
         "artist": "beabadoobee",
         "minutes": 4.677833333333333,
         "plays": 2,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Pictures of Us",
         "artist": "beabadoobee",
         "minutes": 4.6551,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "If You Were There, Beware",
         "artist": "Arctic Monkeys",
         "minutes": 4.57,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Glue Song",
         "artist": "beabadoobee",
         "minutes": 4.5022,
         "plays": 2,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Mr Lonely (feat. Fat Lip)",
         "artist": "Portugal. The Man",
         "minutes": 4.3788833333333335,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Puppy Princess",
-        "artist": "Hot Freaks",
-        "minutes": 4.262216666666666,
         "plays": 1,
         "percentageOfMinutes": 0.4
       },
@@ -9332,6 +9274,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "Beaches",
+        "artist": "beabadoobee",
+        "minutes": 3.834216666666667,
+        "plays": 1,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "What I'm Becoming",
         "artist": "Cage The Elephant",
         "minutes": 3.83415,
@@ -9364,49 +9313,35 @@
         "artist": "Cage The Elephant",
         "minutes": 3.6508833333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Easy Tiger",
         "artist": "Portugal. The Man",
         "minutes": 3.624433333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Potion Approaching",
         "artist": "Arctic Monkeys",
         "minutes": 3.53555,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Tidal Wave",
         "artist": "Portugal. The Man",
         "minutes": 3.5286666666666666,
         "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Harvey",
-        "artist": "Her's",
-        "minutes": 3.519416666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Using You",
-        "artist": "Mars Argo",
-        "minutes": 3.4728666666666665,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Night Running",
         "artist": "Cage The Elephant",
         "minutes": 3.4688833333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Tokyo Smoke",
@@ -9430,20 +9365,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "You\u2019re here that\u2019s the thing",
-        "artist": "beabadoobee",
-        "minutes": 3.31,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Beaches In Tennessee",
-        "artist": "Cage The Elephant",
-        "minutes": 3.274,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "Skin and Bones",
         "artist": "Cage The Elephant",
         "minutes": 3.26955,
@@ -9461,13 +9382,6 @@
         "title": "10:36",
         "artist": "beabadoobee",
         "minutes": 3.2511,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Lovefool",
-        "artist": "The Cardigans",
-        "minutes": 3.23255,
         "plays": 1,
         "percentageOfMinutes": 0.3
       },
@@ -9542,20 +9456,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "California",
-        "artist": "beabadoobee",
-        "minutes": 2.87155,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "From The Start",
-        "artist": "Laufey",
-        "minutes": 2.826216666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "Feel It Still",
         "artist": "Portugal. The Man",
         "minutes": 2.7208833333333335,
@@ -9570,16 +9470,9 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Real Man",
+        "title": "Sunny day",
         "artist": "beabadoobee",
-        "minutes": 2.6766666666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Take A Bite",
-        "artist": "beabadoobee",
-        "minutes": 2.6477666666666666,
+        "minutes": 2.6748833333333333,
         "plays": 1,
         "percentageOfMinutes": 0.3
       },
@@ -9588,7 +9481,14 @@
         "artist": "Cage The Elephant",
         "minutes": 2.5813166666666665,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "A Cruel Affair",
+        "artist": "beabadoobee",
+        "minutes": 2.534,
+        "plays": 1,
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Sun Has Set",
@@ -9615,13 +9515,6 @@
         "title": "Coffee",
         "artist": "beabadoobee",
         "minutes": 2.1137333333333332,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "The Man Who Left Too Soon",
-        "artist": "beabadoobee",
-        "minutes": 1.8206666666666667,
         "plays": 1,
         "percentageOfMinutes": 0.2
       }
@@ -9817,6 +9710,13 @@
         "percentageOfMinutes": 1.1
       },
       {
+        "title": "Glory of the Snow",
+        "artist": "Clairo",
+        "minutes": 19.9304,
+        "plays": 7,
+        "percentageOfMinutes": 1.1
+      },
+      {
         "title": "Slow Dance",
         "artist": "Clairo",
         "minutes": 19.571083333333334,
@@ -9835,13 +9735,6 @@
         "artist": "Arctic Monkeys",
         "minutes": 17.1455,
         "plays": 5,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Glory of the Snow",
-        "artist": "Clairo",
-        "minutes": 17.0832,
-        "plays": 6,
         "percentageOfMinutes": 1.0
       },
       {
@@ -12185,6 +12078,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Glory of the Snow",
+        "artist": "Clairo",
+        "minutes": 19.9304,
+        "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "From The Start",
         "artist": "Laufey",
         "minutes": 19.783516666666667,
@@ -12364,13 +12264,6 @@
         "artist": "Styx",
         "minutes": 17.1484,
         "plays": 4,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Glory of the Snow",
-        "artist": "Clairo",
-        "minutes": 17.0832,
-        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
