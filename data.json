@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-08-01T02:07:04.313112+00:00",
-    "lastUpdated": "August 01, 2026 - 02:07 AM UTC"
+    "generatedAt": "2026-08-02T02:03:48.173751+00:00",
+    "lastUpdated": "August 02, 2026 - 02:03 AM UTC"
   },
   "artists": {
     "total": [
@@ -84,15 +84,15 @@
         "percentageOfMinutes": 1.0
       },
       {
-        "name": "Bo Burnham",
-        "minutes": 220.24,
-        "plays": 48,
+        "name": "King Gnu",
+        "minutes": 221.56,
+        "plays": 61,
         "percentageOfMinutes": 0.9
       },
       {
-        "name": "King Gnu",
-        "minutes": 214.06,
-        "plays": 59,
+        "name": "Bo Burnham",
+        "minutes": 220.24,
+        "plays": 48,
         "percentageOfMinutes": 0.9
       },
       {
@@ -138,21 +138,21 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "name": "Kenshi Yonezu",
+        "minutes": 103.85,
+        "plays": 36,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "name": "Masatoshi Ono",
-        "minutes": 98.72,
-        "plays": 23,
+        "minutes": 103.01,
+        "plays": 24,
         "percentageOfMinutes": 0.4
       },
       {
         "name": "Miki Matsubara",
         "minutes": 98.71,
         "plays": 19,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "name": "Kenshi Yonezu",
-        "minutes": 97.4,
-        "plays": 34,
         "percentageOfMinutes": 0.4
       },
       {
@@ -174,6 +174,12 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "name": "MOB CHOIR",
+        "minutes": 82.25,
+        "plays": 21,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "name": "Friday Pilots Club",
         "minutes": 82.12,
         "plays": 28,
@@ -183,12 +189,6 @@
         "name": "Her's",
         "minutes": 81.68,
         "plays": 23,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "name": "MOB CHOIR",
-        "minutes": 78.3,
-        "plays": 20,
         "percentageOfMinutes": 0.3
       },
       {
@@ -1497,51 +1497,51 @@
     "lastWeek": [
       {
         "name": "Kenshi Yonezu",
-        "minutes": 81.54,
-        "plays": 28,
-        "percentageOfMinutes": 20.6
+        "minutes": 87.99,
+        "plays": 30,
+        "percentageOfMinutes": 21.1
       },
       {
         "name": "MOB CHOIR",
-        "minutes": 78.3,
-        "plays": 20,
-        "percentageOfMinutes": 19.8
+        "minutes": 82.25,
+        "plays": 21,
+        "percentageOfMinutes": 19.7
+      },
+      {
+        "name": "King Gnu",
+        "minutes": 56.06,
+        "plays": 15,
+        "percentageOfMinutes": 13.4
       },
       {
         "name": "ALI",
         "minutes": 54.66,
         "plays": 10,
-        "percentageOfMinutes": 13.8
-      },
-      {
-        "name": "King Gnu",
-        "minutes": 48.57,
-        "plays": 13,
-        "percentageOfMinutes": 12.3
+        "percentageOfMinutes": 13.1
       },
       {
         "name": "Clairo",
         "minutes": 47.45,
         "plays": 14,
-        "percentageOfMinutes": 12.0
+        "percentageOfMinutes": 11.4
+      },
+      {
+        "name": "Masatoshi Ono",
+        "minutes": 34.34,
+        "plays": 8,
+        "percentageOfMinutes": 8.2
       },
       {
         "name": "Arctic Monkeys",
         "minutes": 30.67,
         "plays": 9,
-        "percentageOfMinutes": 7.7
-      },
-      {
-        "name": "Masatoshi Ono",
-        "minutes": 30.04,
-        "plays": 7,
-        "percentageOfMinutes": 7.6
+        "percentageOfMinutes": 7.3
       },
       {
         "name": "Portugal. The Man",
         "minutes": 6.86,
         "plays": 2,
-        "percentageOfMinutes": 1.7
+        "percentageOfMinutes": 1.6
       },
       {
         "name": "The Happy Fits",
@@ -1559,22 +1559,47 @@
         "name": "Eminem",
         "minutes": 3.51,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "name": "Maroon 5",
         "minutes": 3.44,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "name": "Cage The Elephant",
         "minutes": 3.43,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       }
     ],
-    "month": [],
+    "month": [
+      {
+        "name": "King Gnu",
+        "minutes": 7.5,
+        "plays": 2,
+        "percentageOfMinutes": 33.8
+      },
+      {
+        "name": "Kenshi Yonezu",
+        "minutes": 6.45,
+        "plays": 2,
+        "percentageOfMinutes": 29.1
+      },
+      {
+        "name": "Masatoshi Ono",
+        "minutes": 4.29,
+        "plays": 1,
+        "percentageOfMinutes": 19.3
+      },
+      {
+        "name": "MOB CHOIR",
+        "minutes": 3.96,
+        "plays": 1,
+        "percentageOfMinutes": 17.8
+      }
+    ],
     "year": [
       {
         "name": "Arctic Monkeys",
@@ -1586,7 +1611,7 @@
         "name": "TV Girl",
         "minutes": 2850.48,
         "plays": 834,
-        "percentageOfMinutes": 14.3
+        "percentageOfMinutes": 14.2
       },
       {
         "name": "The Fratellis",
@@ -1631,6 +1656,12 @@
         "percentageOfMinutes": 1.2
       },
       {
+        "name": "King Gnu",
+        "minutes": 221.56,
+        "plays": 61,
+        "percentageOfMinutes": 1.1
+      },
+      {
         "name": "Bo Burnham",
         "minutes": 220.24,
         "plays": 48,
@@ -1640,12 +1671,6 @@
         "name": "Portugal. The Man",
         "minutes": 218.8,
         "plays": 58,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "name": "King Gnu",
-        "minutes": 214.06,
-        "plays": 59,
         "percentageOfMinutes": 1.1
       },
       {
@@ -1697,9 +1722,15 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "name": "Kenshi Yonezu",
+        "minutes": 103.85,
+        "plays": 36,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "name": "Masatoshi Ono",
-        "minutes": 98.72,
-        "plays": 23,
+        "minutes": 103.01,
+        "plays": 24,
         "percentageOfMinutes": 0.5
       },
       {
@@ -1709,27 +1740,21 @@
         "percentageOfMinutes": 0.5
       },
       {
-        "name": "Kenshi Yonezu",
-        "minutes": 97.4,
-        "plays": 34,
-        "percentageOfMinutes": 0.5
-      },
-      {
         "name": "Saint Motel",
         "minutes": 95.92,
         "plays": 29,
         "percentageOfMinutes": 0.5
       },
       {
-        "name": "Her's",
-        "minutes": 81.68,
-        "plays": 23,
+        "name": "MOB CHOIR",
+        "minutes": 82.25,
+        "plays": 21,
         "percentageOfMinutes": 0.4
       },
       {
-        "name": "MOB CHOIR",
-        "minutes": 78.3,
-        "plays": 20,
+        "name": "Her's",
+        "minutes": 81.68,
+        "plays": 23,
         "percentageOfMinutes": 0.4
       },
       {
@@ -2294,7 +2319,7 @@
         "name": "George Michael",
         "minutes": 10.0,
         "plays": 2,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "name": "Riovaz",
@@ -3122,8 +3147,8 @@
       {
         "title": "AIZO",
         "artist": "King Gnu",
-        "minutes": 190.67456666666666,
-        "plays": 53,
+        "minutes": 194.2722,
+        "plays": 54,
         "percentageOfMinutes": 0.8
       },
       {
@@ -3449,17 +3474,17 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "departure!",
+        "artist": "Masatoshi Ono",
+        "minutes": 103.0076,
+        "plays": 24,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "If You Want To",
         "artist": "beabadoobee",
         "minutes": 100.6371,
         "plays": 27,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "departure!",
-        "artist": "Masatoshi Ono",
-        "minutes": 98.71561666666666,
-        "plays": 23,
         "percentageOfMinutes": 0.4
       },
       {
@@ -3582,6 +3607,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "99",
+        "artist": "MOB CHOIR",
+        "minutes": 79.12866666666666,
+        "plays": 20,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Lovers Rock",
         "artist": "TV Girl",
         "minutes": 78.43733333333333,
@@ -3649,13 +3681,6 @@
         "artist": "TV Girl",
         "minutes": 75.92,
         "plays": 20,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "99",
-        "artist": "MOB CHOIR",
-        "minutes": 75.17223333333334,
-        "plays": 19,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3747,6 +3772,13 @@
         "artist": "beabadoobee",
         "minutes": 64.61,
         "plays": 21,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "KICK BACK",
+        "artist": "Kenshi Yonezu",
+        "minutes": 64.49833333333333,
+        "plays": 20,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3866,13 +3898,6 @@
         "artist": "The Happy Fits",
         "minutes": 58.150933333333334,
         "plays": 16,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "KICK BACK",
-        "artist": "Kenshi Yonezu",
-        "minutes": 58.0485,
-        "plays": 18,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4300,7 +4325,7 @@
         "artist": "Friday Pilots Club",
         "minutes": 37.28666666666667,
         "plays": 14,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Cynical One",
@@ -4597,6 +4622,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "SPECIALZ",
+        "artist": "King Gnu",
+        "minutes": 27.283316666666668,
+        "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "I REMEMBER YOU",
         "artist": "Masayoshi Takanaka",
         "minutes": 27.251083333333334,
@@ -4747,13 +4779,6 @@
         "title": "Slow Dance",
         "artist": "Clairo",
         "minutes": 23.4853,
-        "plays": 6,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "SPECIALZ",
-        "artist": "King Gnu",
-        "minutes": 23.3857,
         "plays": 6,
         "percentageOfMinutes": 0.1
       },
@@ -8773,65 +8798,65 @@
       {
         "title": "99",
         "artist": "MOB CHOIR",
-        "minutes": 75.17223333333334,
-        "plays": 19,
-        "percentageOfMinutes": 19.0
+        "minutes": 79.12866666666666,
+        "plays": 20,
+        "percentageOfMinutes": 18.9
       },
       {
         "title": "KICK BACK",
         "artist": "Kenshi Yonezu",
-        "minutes": 54.82358333333333,
-        "plays": 17,
-        "percentageOfMinutes": 13.9
+        "minutes": 61.27341666666667,
+        "plays": 19,
+        "percentageOfMinutes": 14.7
       },
       {
         "title": "LOST IN PARADISE",
         "artist": "ALI",
         "minutes": 54.661,
         "plays": 10,
-        "percentageOfMinutes": 13.8
+        "percentageOfMinutes": 13.1
       },
       {
         "title": "departure!",
         "artist": "Masatoshi Ono",
-        "minutes": 30.043883333333333,
+        "minutes": 34.33586666666667,
+        "plays": 8,
+        "percentageOfMinutes": 8.2
+      },
+      {
+        "title": "AIZO",
+        "artist": "King Gnu",
+        "minutes": 28.781066666666668,
+        "plays": 8,
+        "percentageOfMinutes": 6.9
+      },
+      {
+        "title": "SPECIALZ",
+        "artist": "King Gnu",
+        "minutes": 27.283316666666668,
         "plays": 7,
-        "percentageOfMinutes": 7.6
+        "percentageOfMinutes": 6.5
       },
       {
         "title": "IRIS OUT",
         "artist": "Kenshi Yonezu",
         "minutes": 25.262166666666666,
         "plays": 10,
-        "percentageOfMinutes": 6.4
-      },
-      {
-        "title": "AIZO",
-        "artist": "King Gnu",
-        "minutes": 25.183433333333333,
-        "plays": 7,
-        "percentageOfMinutes": 6.4
-      },
-      {
-        "title": "SPECIALZ",
-        "artist": "King Gnu",
-        "minutes": 23.3857,
-        "plays": 6,
-        "percentageOfMinutes": 5.9
+        "percentageOfMinutes": 6.0
       },
       {
         "title": "Add Up My Love",
         "artist": "Clairo",
         "minutes": 6.8421,
         "plays": 2,
-        "percentageOfMinutes": 1.7
+        "percentageOfMinutes": 1.6
       },
       {
         "title": "Thank You",
         "artist": "Clairo",
         "minutes": 6.835633333333333,
         "plays": 2,
-        "percentageOfMinutes": 1.7
+        "percentageOfMinutes": 1.6
       },
       {
         "title": "Juna",
@@ -8845,7 +8870,7 @@
         "artist": "Clairo",
         "minutes": 6.009633333333333,
         "plays": 2,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.4
       },
       {
         "title": "Do I Wanna Know?",
@@ -8859,21 +8884,21 @@
         "artist": "Clairo",
         "minutes": 3.9142166666666665,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Echo",
         "artist": "Clairo",
         "minutes": 3.8308833333333334,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Second Nature",
         "artist": "Clairo",
         "minutes": 3.79015,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Crying Lightning",
@@ -8908,49 +8933,49 @@
         "artist": "Eminem",
         "minutes": 3.513333333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Dangerous Animals",
         "artist": "Arctic Monkeys",
         "minutes": 3.5111,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Sexy to Someone",
         "artist": "Clairo",
         "minutes": 3.46325,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Arabella",
         "artist": "Arctic Monkeys",
         "minutes": 3.4559333333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "This Love",
         "artist": "Maroon 5",
         "minutes": 3.4366666666666665,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Whole Wide World - Unpeeled",
         "artist": "Cage The Elephant",
         "minutes": 3.4284333333333334,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Pier 4",
         "artist": "Clairo",
         "minutes": 3.417866666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "R U Mine?",
@@ -8985,7 +9010,7 @@
         "artist": "MOB CHOIR",
         "minutes": 3.125766666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Mardy Bum",
@@ -9006,17 +9031,53 @@
         "artist": "Arctic Monkeys",
         "minutes": 2.6853833333333332,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "KICK BACK -ANIME edit",
         "artist": "Kenshi Yonezu",
         "minutes": 1.4556166666666666,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       }
     ],
-    "month": [],
+    "month": [
+      {
+        "title": "KICK BACK",
+        "artist": "Kenshi Yonezu",
+        "minutes": 6.449833333333333,
+        "plays": 2,
+        "percentageOfMinutes": 29.1
+      },
+      {
+        "title": "departure!",
+        "artist": "Masatoshi Ono",
+        "minutes": 4.2919833333333335,
+        "plays": 1,
+        "percentageOfMinutes": 19.3
+      },
+      {
+        "title": "99",
+        "artist": "MOB CHOIR",
+        "minutes": 3.9564333333333335,
+        "plays": 1,
+        "percentageOfMinutes": 17.8
+      },
+      {
+        "title": "SPECIALZ",
+        "artist": "King Gnu",
+        "minutes": 3.8976166666666665,
+        "plays": 1,
+        "percentageOfMinutes": 17.6
+      },
+      {
+        "title": "AIZO",
+        "artist": "King Gnu",
+        "minutes": 3.5976333333333335,
+        "plays": 1,
+        "percentageOfMinutes": 16.2
+      }
+    ],
     "year": [
       {
         "title": "Taking What's Not Yours",
@@ -9126,8 +9187,8 @@
       {
         "title": "AIZO",
         "artist": "King Gnu",
-        "minutes": 190.67456666666666,
-        "plays": 53,
+        "minutes": 194.2722,
+        "plays": 54,
         "percentageOfMinutes": 1.0
       },
       {
@@ -9348,17 +9409,17 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "departure!",
+        "artist": "Masatoshi Ono",
+        "minutes": 103.0076,
+        "plays": 24,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "Henrietta",
         "artist": "The Fratellis",
         "minutes": 102.2859,
         "plays": 29,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "departure!",
-        "artist": "Masatoshi Ono",
-        "minutes": 98.71561666666666,
-        "plays": 23,
         "percentageOfMinutes": 0.5
       },
       {
@@ -9425,6 +9486,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "99",
+        "artist": "MOB CHOIR",
+        "minutes": 79.12866666666666,
+        "plays": 20,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "Lovers Rock",
         "artist": "TV Girl",
         "minutes": 78.43733333333333,
@@ -9464,13 +9532,6 @@
         "artist": "TV Girl",
         "minutes": 75.92,
         "plays": 20,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "99",
-        "artist": "MOB CHOIR",
-        "minutes": 75.17223333333334,
-        "plays": 19,
         "percentageOfMinutes": 0.4
       },
       {
@@ -9520,6 +9581,13 @@
         "artist": "Clairo",
         "minutes": 64.93851666666667,
         "plays": 19,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "KICK BACK",
+        "artist": "Kenshi Yonezu",
+        "minutes": 64.49833333333333,
+        "plays": 20,
         "percentageOfMinutes": 0.3
       },
       {
@@ -9590,13 +9658,6 @@
         "artist": "TV Girl",
         "minutes": 59.3147,
         "plays": 17,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "KICK BACK",
-        "artist": "Kenshi Yonezu",
-        "minutes": 58.0485,
-        "plays": 18,
         "percentageOfMinutes": 0.3
       },
       {
@@ -10258,6 +10319,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "SPECIALZ",
+        "artist": "King Gnu",
+        "minutes": 27.283316666666668,
+        "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "I REMEMBER YOU",
         "artist": "Masayoshi Takanaka",
         "minutes": 27.251083333333334,
@@ -10401,13 +10469,6 @@
         "title": "Slow Dance",
         "artist": "Clairo",
         "minutes": 23.4853,
-        "plays": 6,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "SPECIALZ",
-        "artist": "King Gnu",
-        "minutes": 23.3857,
         "plays": 6,
         "percentageOfMinutes": 0.1
       },
@@ -11410,7 +11471,7 @@
         "artist": "George Michael",
         "minutes": 10.003533333333333,
         "plays": 2,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Cornerstone",
