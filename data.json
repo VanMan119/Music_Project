@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-08-06T01:53:49.970927+00:00",
-    "lastUpdated": "August 06, 2026 - 01:53 AM UTC"
+    "generatedAt": "2026-08-07T02:16:24.942925+00:00",
+    "lastUpdated": "August 07, 2026 - 02:16 AM UTC"
   },
   "artists": {
     "total": [
@@ -9,43 +9,43 @@
         "name": "Arctic Monkeys",
         "minutes": 6905.14,
         "plays": 2154,
-        "percentageOfMinutes": 27.3
+        "percentageOfMinutes": 27.1
       },
       {
         "name": "beabadoobee",
         "minutes": 2884.94,
         "plays": 918,
-        "percentageOfMinutes": 11.4
+        "percentageOfMinutes": 11.3
       },
       {
         "name": "TV Girl",
         "minutes": 2850.48,
         "plays": 834,
-        "percentageOfMinutes": 11.3
+        "percentageOfMinutes": 11.2
       },
       {
         "name": "The Happy Fits",
         "minutes": 1923.63,
         "plays": 584,
-        "percentageOfMinutes": 7.6
+        "percentageOfMinutes": 7.5
       },
       {
         "name": "The Fratellis",
         "minutes": 1285.66,
         "plays": 369,
-        "percentageOfMinutes": 5.1
+        "percentageOfMinutes": 5.0
+      },
+      {
+        "name": "Clairo",
+        "minutes": 1127.75,
+        "plays": 317,
+        "percentageOfMinutes": 4.4
       },
       {
         "name": "Masayoshi Takanaka",
         "minutes": 1120.46,
         "plays": 205,
         "percentageOfMinutes": 4.4
-      },
-      {
-        "name": "Clairo",
-        "minutes": 879.47,
-        "plays": 249,
-        "percentageOfMinutes": 3.5
       },
       {
         "name": "Cage The Elephant",
@@ -75,7 +75,7 @@
         "name": "Jordana",
         "minutes": 241.33,
         "plays": 82,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "name": "King Gnu",
@@ -207,7 +207,7 @@
         "name": "Sidney Gish",
         "minutes": 63.76,
         "plays": 13,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "name": "Lady Gaga",
@@ -1497,77 +1497,77 @@
     "lastWeek": [
       {
         "name": "Clairo",
-        "minutes": 316.2,
-        "plays": 87,
-        "percentageOfMinutes": 47.9
+        "minutes": 564.49,
+        "plays": 155,
+        "percentageOfMinutes": 80.8
       },
       {
         "name": "Kenshi Yonezu",
-        "minutes": 90.19,
-        "plays": 31,
-        "percentageOfMinutes": 13.7
-      },
-      {
-        "name": "MOB CHOIR",
-        "minutes": 83.09,
-        "plays": 21,
-        "percentageOfMinutes": 12.6
-      },
-      {
-        "name": "King Gnu",
-        "minutes": 66.86,
-        "plays": 18,
-        "percentageOfMinutes": 10.1
-      },
-      {
-        "name": "ALI",
-        "minutes": 65.59,
-        "plays": 12,
-        "percentageOfMinutes": 9.9
-      },
-      {
-        "name": "Masatoshi Ono",
-        "minutes": 38.63,
-        "plays": 9,
-        "percentageOfMinutes": 5.8
-      }
-    ],
-    "month": [
-      {
-        "name": "Clairo",
-        "minutes": 316.2,
-        "plays": 87,
-        "percentageOfMinutes": 73.3
-      },
-      {
-        "name": "Kenshi Yonezu",
-        "minutes": 40.26,
-        "plays": 14,
-        "percentageOfMinutes": 9.3
+        "minutes": 49.23,
+        "plays": 17,
+        "percentageOfMinutes": 7.0
       },
       {
         "name": "King Gnu",
         "minutes": 25.78,
         "plays": 7,
-        "percentageOfMinutes": 6.0
+        "percentageOfMinutes": 3.7
+      },
+      {
+        "name": "ALI",
+        "minutes": 21.86,
+        "plays": 4,
+        "percentageOfMinutes": 3.1
+      },
+      {
+        "name": "MOB CHOIR",
+        "minutes": 19.78,
+        "plays": 5,
+        "percentageOfMinutes": 2.8
       },
       {
         "name": "Masatoshi Ono",
         "minutes": 17.17,
         "plays": 4,
-        "percentageOfMinutes": 4.0
+        "percentageOfMinutes": 2.5
+      }
+    ],
+    "month": [
+      {
+        "name": "Clairo",
+        "minutes": 564.49,
+        "plays": 155,
+        "percentageOfMinutes": 83.0
+      },
+      {
+        "name": "Kenshi Yonezu",
+        "minutes": 40.26,
+        "plays": 14,
+        "percentageOfMinutes": 5.9
+      },
+      {
+        "name": "King Gnu",
+        "minutes": 25.78,
+        "plays": 7,
+        "percentageOfMinutes": 3.8
+      },
+      {
+        "name": "Masatoshi Ono",
+        "minutes": 17.17,
+        "plays": 4,
+        "percentageOfMinutes": 2.5
       },
       {
         "name": "ALI",
         "minutes": 16.4,
         "plays": 3,
-        "percentageOfMinutes": 3.8
+        "percentageOfMinutes": 2.4
       },
       {
         "name": "MOB CHOIR",
         "minutes": 15.83,
         "plays": 4,
-        "percentageOfMinutes": 3.7
+        "percentageOfMinutes": 2.3
       }
     ],
     "year": [
@@ -1575,19 +1575,25 @@
         "name": "Arctic Monkeys",
         "minutes": 6878.7,
         "plays": 2147,
-        "percentageOfMinutes": 33.7
+        "percentageOfMinutes": 33.3
       },
       {
         "name": "TV Girl",
         "minutes": 2850.48,
         "plays": 834,
-        "percentageOfMinutes": 14.0
+        "percentageOfMinutes": 13.8
       },
       {
         "name": "The Fratellis",
         "minutes": 1253.62,
         "plays": 360,
         "percentageOfMinutes": 6.1
+      },
+      {
+        "name": "Clairo",
+        "minutes": 1127.75,
+        "plays": 317,
+        "percentageOfMinutes": 5.5
       },
       {
         "name": "Masayoshi Takanaka",
@@ -1602,16 +1608,10 @@
         "percentageOfMinutes": 5.4
       },
       {
-        "name": "Clairo",
-        "minutes": 879.47,
-        "plays": 249,
-        "percentageOfMinutes": 4.3
-      },
-      {
         "name": "The Happy Fits",
         "minutes": 339.51,
         "plays": 103,
-        "percentageOfMinutes": 1.7
+        "percentageOfMinutes": 1.6
       },
       {
         "name": "Gwen Stefani",
@@ -1647,13 +1647,13 @@
         "name": "The Long Faces",
         "minutes": 174.52,
         "plays": 56,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "name": "Sleigh Bells",
         "minutes": 173.59,
         "plays": 56,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "name": "Kenshi Yonezu",
@@ -1881,7 +1881,7 @@
         "name": "Caravan Palace",
         "minutes": 30.64,
         "plays": 8,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "name": "Dead Poet Society",
@@ -2259,25 +2259,25 @@
         "name": "Will Paquin",
         "minutes": 10.32,
         "plays": 5,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "name": "Dayglow",
         "minutes": 10.31,
         "plays": 3,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "name": "Redbone",
         "minutes": 10.3,
         "plays": 3,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "name": "Toadies",
         "minutes": 10.28,
         "plays": 2,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "name": "Follies & Vices",
@@ -3021,14 +3021,14 @@
         "artist": "Arctic Monkeys",
         "minutes": 468.3875,
         "plays": 125,
-        "percentageOfMinutes": 1.9
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "Arabella",
         "artist": "Arctic Monkeys",
         "minutes": 369.7848666666667,
         "plays": 107,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.4
       },
       {
         "title": "505",
@@ -3042,7 +3042,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 318.4995,
         "plays": 99,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Brianstorm",
@@ -3077,7 +3077,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 242.2659,
         "plays": 69,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "When The Sun Goes Down",
@@ -3087,11 +3087,18 @@
         "percentageOfMinutes": 0.9
       },
       {
+        "title": "Amoeba",
+        "artist": "Clairo",
+        "minutes": 221.29126666666667,
+        "plays": 58,
+        "percentageOfMinutes": 0.9
+      },
+      {
         "title": "Teddy Picker",
         "artist": "Arctic Monkeys",
         "minutes": 216.864,
         "plays": 81,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
@@ -3210,7 +3217,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 164.64933333333335,
         "plays": 59,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "R U Mine?",
@@ -3248,13 +3255,6 @@
         "percentageOfMinutes": 0.6
       },
       {
-        "title": "Amoeba",
-        "artist": "Clairo",
-        "minutes": 148.7993,
-        "plays": 39,
-        "percentageOfMinutes": 0.6
-      },
-      {
         "title": "Pretty Visitors",
         "artist": "Arctic Monkeys",
         "minutes": 147.004,
@@ -3280,7 +3280,7 @@
         "artist": "The Happy Fits",
         "minutes": 140.23776666666666,
         "plays": 41,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "This House Is a Circus",
@@ -3301,6 +3301,13 @@
         "artist": "The Fratellis",
         "minutes": 134.36006666666665,
         "plays": 34,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "Add Up My Love",
+        "artist": "Clairo",
+        "minutes": 133.42095,
+        "plays": 39,
         "percentageOfMinutes": 0.5
       },
       {
@@ -3364,13 +3371,6 @@
         "artist": "ALI",
         "minutes": 120.2542,
         "plays": 22,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Add Up My Love",
-        "artist": "Clairo",
-        "minutes": 119.73675,
-        "plays": 35,
         "percentageOfMinutes": 0.5
       },
       {
@@ -3500,6 +3500,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "Thank You",
+        "artist": "Clairo",
+        "minutes": 92.28105,
+        "plays": 27,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "99",
         "artist": "MOB CHOIR",
         "minutes": 90.99796666666667,
@@ -3525,7 +3532,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 88.973,
         "plays": 30,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "The Nerve",
@@ -3567,13 +3574,6 @@
         "artist": "beabadoobee",
         "minutes": 84.9,
         "plays": 25,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Thank You",
-        "artist": "Clairo",
-        "minutes": 82.0276,
-        "plays": 24,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3682,6 +3682,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Juna",
+        "artist": "Clairo",
+        "minutes": 74.79178333333333,
+        "plays": 23,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Care",
         "artist": "beabadoobee",
         "minutes": 74.7477,
@@ -3745,10 +3752,10 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Juna",
+        "title": "Echo",
         "artist": "Clairo",
-        "minutes": 65.03633333333333,
-        "plays": 20,
+        "minutes": 65.12501666666667,
+        "plays": 17,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3784,27 +3791,34 @@
         "artist": "Sidney Gish",
         "minutes": 63.75633333333333,
         "plays": 13,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "title": "Coming Home",
         "artist": "beabadoobee",
         "minutes": 63.392,
         "plays": 28,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "title": "Secret Door",
         "artist": "Arctic Monkeys",
         "minutes": 63.20203333333333,
         "plays": 17,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "title": "She Wants Me (To Be Loved)",
         "artist": "The Happy Fits",
         "minutes": 63.14745,
         "plays": 19,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Terrapin",
+        "artist": "Clairo",
+        "minutes": 63.10115,
+        "plays": 21,
         "percentageOfMinutes": 0.2
       },
       {
@@ -3892,6 +3906,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Second Nature",
+        "artist": "Clairo",
+        "minutes": 56.85225,
+        "plays": 15,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "How Was Your Day?",
         "artist": "beabadoobee",
         "minutes": 56.33853333333333,
@@ -3934,6 +3955,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Sexy to Someone",
+        "artist": "Clairo",
+        "minutes": 55.412,
+        "plays": 16,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "The Fine Print",
         "artist": "The Stupendium",
         "minutes": 54.857,
@@ -3948,20 +3976,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Terrapin",
-        "artist": "Clairo",
-        "minutes": 54.0867,
-        "plays": 18,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Echo",
-        "artist": "Clairo",
-        "minutes": 53.63236666666667,
-        "plays": 14,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "Rock n Roll Will Break Your Heart",
         "artist": "The Fratellis",
         "minutes": 53.56666666666667,
@@ -3973,6 +3987,13 @@
         "artist": "TV Girl",
         "minutes": 53.23673333333333,
         "plays": 13,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Nomad",
+        "artist": "Clairo",
+        "minutes": 52.63346666666666,
+        "plays": 14,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4022,6 +4043,20 @@
         "artist": "beabadoobee",
         "minutes": 51.6879,
         "plays": 18,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Slow Dance",
+        "artist": "Clairo",
+        "minutes": 50.884816666666666,
+        "plays": 13,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Bambi",
+        "artist": "Clairo",
+        "minutes": 50.85666666666667,
+        "plays": 11,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4151,10 +4186,10 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Second Nature",
+        "title": "Glory of the Snow",
         "artist": "Clairo",
-        "minutes": 45.4818,
-        "plays": 12,
+        "minutes": 45.5552,
+        "plays": 16,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4165,9 +4200,9 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Sexy to Someone",
+        "title": "Pier 4",
         "artist": "Clairo",
-        "minutes": 45.02225,
+        "minutes": 44.43226666666666,
         "plays": 13,
         "percentageOfMinutes": 0.2
       },
@@ -4214,13 +4249,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Nomad",
-        "artist": "Clairo",
-        "minutes": 41.354866666666666,
-        "plays": 11,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "Cologne",
         "artist": "beabadoobee",
         "minutes": 41.1725,
@@ -4263,13 +4291,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Slow Dance",
-        "artist": "Clairo",
-        "minutes": 39.14216666666667,
-        "plays": 10,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "Moving",
         "artist": "The Happy Fits",
         "minutes": 38.790933333333335,
@@ -4288,14 +4309,14 @@
         "artist": "TV Girl",
         "minutes": 38.22173333333333,
         "plays": 13,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Trouble\u2019s Coming",
         "artist": "Royal Blood",
         "minutes": 38.06666666666667,
         "plays": 10,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Sun Has Set",
@@ -4309,13 +4330,6 @@
         "artist": "TV Girl",
         "minutes": 37.6,
         "plays": 12,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Pier 4",
-        "artist": "Clairo",
-        "minutes": 37.59653333333333,
-        "plays": 11,
         "percentageOfMinutes": 0.1
       },
       {
@@ -4375,13 +4389,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Glory of the Snow",
-        "artist": "Clairo",
-        "minutes": 34.1664,
-        "plays": 12,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "broken cd",
         "artist": "beabadoobee",
         "minutes": 34.056,
@@ -4414,13 +4421,6 @@
         "artist": "TV Girl",
         "minutes": 33.213766666666665,
         "plays": 11,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Bambi",
-        "artist": "Clairo",
-        "minutes": 32.36333333333334,
-        "plays": 7,
         "percentageOfMinutes": 0.1
       },
       {
@@ -4970,6 +4970,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Blouse",
+        "artist": "Clairo",
+        "minutes": 19.5376,
+        "plays": 6,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Where Are You Now?",
         "artist": "Royal Blood",
         "minutes": 19.46,
@@ -5320,6 +5327,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Wade",
+        "artist": "Clairo",
+        "minutes": 14.34895,
+        "plays": 3,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "New Gold (feat. Tame Impala and Bootie Brown)",
         "artist": "Gorillaz",
         "minutes": 14.343266666666667,
@@ -5492,14 +5506,14 @@
         "artist": "Two Door Cinema Club",
         "minutes": 12.76,
         "plays": 4,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Too Late To Say Goodbye",
         "artist": "Cage The Elephant",
         "minutes": 12.6393,
         "plays": 3,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Ketamine Girl",
@@ -5621,6 +5635,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Management",
+        "artist": "Clairo",
+        "minutes": 11.4364,
+        "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Telescope",
         "artist": "Cage The Elephant",
         "minutes": 11.41465,
@@ -5701,6 +5722,13 @@
         "title": "Assumptions",
         "artist": "Sam Gellaitry",
         "minutes": 11.0419,
+        "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Just For Today",
+        "artist": "Clairo",
+        "minutes": 10.85325,
         "plays": 3,
         "percentageOfMinutes": 0.0
       },
@@ -5943,13 +5971,6 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Blouse",
-        "artist": "Clairo",
-        "minutes": 9.7688,
-        "plays": 3,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "Prom Night",
         "artist": "Riovaz",
         "minutes": 9.7266,
@@ -5960,6 +5981,13 @@
         "title": "Wrecking Ball",
         "artist": "Mother Mother",
         "minutes": 9.716,
+        "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Partridge",
+        "artist": "Clairo",
+        "minutes": 9.68385,
         "plays": 3,
         "percentageOfMinutes": 0.0
       },
@@ -5975,6 +6003,13 @@
         "artist": "girl in red",
         "minutes": 9.6306,
         "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Joanie",
+        "artist": "Clairo",
+        "minutes": 9.523233333333334,
+        "plays": 2,
         "percentageOfMinutes": 0.0
       },
       {
@@ -6384,13 +6419,6 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Management",
-        "artist": "Clairo",
-        "minutes": 7.624266666666666,
-        "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "Breezeblocks",
         "artist": "alt-J",
         "minutes": 7.569333333333334,
@@ -6458,13 +6486,6 @@
         "artist": "Portugal. The Man",
         "minutes": 7.25465,
         "plays": 3,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Just For Today",
-        "artist": "Clairo",
-        "minutes": 7.2355,
-        "plays": 2,
         "percentageOfMinutes": 0.0
       },
       {
@@ -6688,13 +6709,6 @@
         "title": "Close To You",
         "artist": "Dayglow",
         "minutes": 6.489766666666666,
-        "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Partridge",
-        "artist": "Clairo",
-        "minutes": 6.4559,
         "plays": 2,
         "percentageOfMinutes": 0.0
       },
@@ -6986,9 +7000,23 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Little Changes",
+        "artist": "Clairo",
+        "minutes": 5.3515,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Out Of Style",
         "artist": "The Wrecks",
         "minutes": 5.336,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Reaper",
+        "artist": "Clairo",
+        "minutes": 5.328033333333333,
         "plays": 2,
         "percentageOfMinutes": 0.0
       },
@@ -7109,20 +7137,6 @@
         "artist": "Softwilly",
         "minutes": 4.786233333333334,
         "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Wade",
-        "artist": "Clairo",
-        "minutes": 4.782983333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Joanie",
-        "artist": "Clairo",
-        "minutes": 4.761616666666667,
-        "plays": 1,
         "percentageOfMinutes": 0.0
       },
       {
@@ -8540,20 +8554,6 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Little Changes",
-        "artist": "Clairo",
-        "minutes": 2.67575,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Reaper",
-        "artist": "Clairo",
-        "minutes": 2.6640166666666665,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "4EVER",
         "artist": "Clairo",
         "minutes": 2.6599166666666667,
@@ -8843,129 +8843,150 @@
     ],
     "lastWeek": [
       {
-        "title": "99",
-        "artist": "MOB CHOIR",
-        "minutes": 83.0851,
-        "plays": 21,
-        "percentageOfMinutes": 12.6
-      },
-      {
-        "title": "LOST IN PARADISE",
-        "artist": "ALI",
-        "minutes": 65.5932,
-        "plays": 12,
-        "percentageOfMinutes": 9.9
-      },
-      {
-        "title": "KICK BACK",
-        "artist": "Kenshi Yonezu",
-        "minutes": 54.82358333333333,
-        "plays": 17,
-        "percentageOfMinutes": 8.3
-      },
-      {
         "title": "Amoeba",
         "artist": "Clairo",
-        "minutes": 53.41513333333333,
-        "plays": 14,
-        "percentageOfMinutes": 8.1
-      },
-      {
-        "title": "AIZO",
-        "artist": "King Gnu",
-        "minutes": 39.573966666666664,
-        "plays": 11,
-        "percentageOfMinutes": 6.0
-      },
-      {
-        "title": "departure!",
-        "artist": "Masatoshi Ono",
-        "minutes": 38.62785,
-        "plays": 9,
-        "percentageOfMinutes": 5.8
-      },
-      {
-        "title": "IRIS OUT",
-        "artist": "Kenshi Yonezu",
-        "minutes": 35.36703333333333,
-        "plays": 14,
-        "percentageOfMinutes": 5.4
+        "minutes": 125.9071,
+        "plays": 33,
+        "percentageOfMinutes": 18.0
       },
       {
         "title": "Bambi",
         "artist": "Clairo",
-        "minutes": 32.36333333333334,
-        "plays": 7,
-        "percentageOfMinutes": 4.9
-      },
-      {
-        "title": "SPECIALZ",
-        "artist": "King Gnu",
-        "minutes": 27.283316666666668,
-        "plays": 7,
-        "percentageOfMinutes": 4.1
+        "minutes": 50.85666666666667,
+        "plays": 11,
+        "percentageOfMinutes": 7.3
       },
       {
         "title": "Second Nature",
         "artist": "Clairo",
-        "minutes": 18.95075,
-        "plays": 5,
-        "percentageOfMinutes": 2.9
+        "minutes": 30.3212,
+        "plays": 8,
+        "percentageOfMinutes": 4.3
       },
       {
-        "title": "Thank You",
-        "artist": "Clairo",
-        "minutes": 17.089083333333335,
-        "plays": 5,
-        "percentageOfMinutes": 2.6
-      },
-      {
-        "title": "Juna",
-        "artist": "Clairo",
-        "minutes": 16.259083333333333,
-        "plays": 5,
-        "percentageOfMinutes": 2.5
+        "title": "KICK BACK",
+        "artist": "Kenshi Yonezu",
+        "minutes": 29.02425,
+        "plays": 9,
+        "percentageOfMinutes": 4.2
       },
       {
         "title": "Slow Dance",
         "artist": "Clairo",
-        "minutes": 15.656866666666666,
-        "plays": 4,
-        "percentageOfMinutes": 2.4
+        "minutes": 27.399516666666667,
+        "plays": 7,
+        "percentageOfMinutes": 3.9
+      },
+      {
+        "title": "Thank You",
+        "artist": "Clairo",
+        "minutes": 27.342533333333332,
+        "plays": 8,
+        "percentageOfMinutes": 3.9
       },
       {
         "title": "Echo",
         "artist": "Clairo",
-        "minutes": 15.323533333333334,
-        "plays": 4,
-        "percentageOfMinutes": 2.3
+        "minutes": 26.816183333333335,
+        "plays": 7,
+        "percentageOfMinutes": 3.8
       },
       {
         "title": "Nomad",
         "artist": "Clairo",
-        "minutes": 15.038133333333333,
-        "plays": 4,
-        "percentageOfMinutes": 2.3
+        "minutes": 26.31673333333333,
+        "plays": 7,
+        "percentageOfMinutes": 3.8
       },
       {
-        "title": "Terrapin",
+        "title": "Juna",
         "artist": "Clairo",
-        "minutes": 15.024083333333333,
-        "plays": 5,
-        "percentageOfMinutes": 2.3
+        "minutes": 26.014533333333333,
+        "plays": 8,
+        "percentageOfMinutes": 3.7
       },
       {
         "title": "Sexy to Someone",
         "artist": "Clairo",
-        "minutes": 13.853,
+        "minutes": 24.24275,
+        "plays": 7,
+        "percentageOfMinutes": 3.5
+      },
+      {
+        "title": "Terrapin",
+        "artist": "Clairo",
+        "minutes": 24.038533333333334,
+        "plays": 8,
+        "percentageOfMinutes": 3.4
+      },
+      {
+        "title": "Add Up My Love",
+        "artist": "Clairo",
+        "minutes": 23.94735,
+        "plays": 7,
+        "percentageOfMinutes": 3.4
+      },
+      {
+        "title": "Glory of the Snow",
+        "artist": "Clairo",
+        "minutes": 22.7776,
+        "plays": 8,
+        "percentageOfMinutes": 3.3
+      },
+      {
+        "title": "LOST IN PARADISE",
+        "artist": "ALI",
+        "minutes": 21.8644,
         "plays": 4,
-        "percentageOfMinutes": 2.1
+        "percentageOfMinutes": 3.1
       },
       {
         "title": "Pier 4",
         "artist": "Clairo",
-        "minutes": 13.671466666666667,
+        "minutes": 20.5072,
+        "plays": 6,
+        "percentageOfMinutes": 2.9
+      },
+      {
+        "title": "IRIS OUT",
+        "artist": "Kenshi Yonezu",
+        "minutes": 20.209733333333332,
+        "plays": 8,
+        "percentageOfMinutes": 2.9
+      },
+      {
+        "title": "99",
+        "artist": "MOB CHOIR",
+        "minutes": 19.782166666666665,
+        "plays": 5,
+        "percentageOfMinutes": 2.8
+      },
+      {
+        "title": "Blouse",
+        "artist": "Clairo",
+        "minutes": 19.5376,
+        "plays": 6,
+        "percentageOfMinutes": 2.8
+      },
+      {
+        "title": "AIZO",
+        "artist": "King Gnu",
+        "minutes": 17.988166666666668,
+        "plays": 5,
+        "percentageOfMinutes": 2.6
+      },
+      {
+        "title": "departure!",
+        "artist": "Masatoshi Ono",
+        "minutes": 17.167933333333334,
         "plays": 4,
+        "percentageOfMinutes": 2.5
+      },
+      {
+        "title": "Wade",
+        "artist": "Clairo",
+        "minutes": 14.34895,
+        "plays": 3,
         "percentageOfMinutes": 2.1
       },
       {
@@ -8973,28 +8994,35 @@
         "artist": "Clairo",
         "minutes": 13.20055,
         "plays": 3,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 1.9
       },
       {
-        "title": "Glory of the Snow",
+        "title": "Management",
         "artist": "Clairo",
-        "minutes": 11.3888,
-        "plays": 4,
-        "percentageOfMinutes": 1.7
-      },
-      {
-        "title": "Add Up My Love",
-        "artist": "Clairo",
-        "minutes": 10.26315,
+        "minutes": 11.4364,
         "plays": 3,
         "percentageOfMinutes": 1.6
       },
       {
-        "title": "Blouse",
+        "title": "Just For Today",
         "artist": "Clairo",
-        "minutes": 9.7688,
+        "minutes": 10.85325,
         "plays": 3,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.6
+      },
+      {
+        "title": "Partridge",
+        "artist": "Clairo",
+        "minutes": 9.68385,
+        "plays": 3,
+        "percentageOfMinutes": 1.4
+      },
+      {
+        "title": "Joanie",
+        "artist": "Clairo",
+        "minutes": 9.523233333333334,
+        "plays": 2,
+        "percentageOfMinutes": 1.4
       },
       {
         "title": "Zinnias",
@@ -9004,265 +9032,237 @@
         "percentageOfMinutes": 1.3
       },
       {
-        "title": "Management",
-        "artist": "Clairo",
-        "minutes": 7.624266666666666,
-        "plays": 2,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Just For Today",
-        "artist": "Clairo",
-        "minutes": 7.2355,
+        "title": "SPECIALZ",
+        "artist": "King Gnu",
+        "minutes": 7.795233333333333,
         "plays": 2,
         "percentageOfMinutes": 1.1
       },
       {
-        "title": "Partridge",
-        "artist": "Clairo",
-        "minutes": 6.4559,
-        "plays": 2,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Wade",
-        "artist": "Clairo",
-        "minutes": 4.782983333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Joanie",
-        "artist": "Clairo",
-        "minutes": 4.761616666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.7
-      },
-      {
         "title": "Little Changes",
         "artist": "Clairo",
-        "minutes": 2.67575,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
+        "minutes": 5.3515,
+        "plays": 2,
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Reaper",
         "artist": "Clairo",
-        "minutes": 2.6640166666666665,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
+        "minutes": 5.328033333333333,
+        "plays": 2,
+        "percentageOfMinutes": 0.8
       }
     ],
     "month": [
       {
         "title": "Amoeba",
         "artist": "Clairo",
-        "minutes": 53.41513333333333,
-        "plays": 14,
-        "percentageOfMinutes": 12.4
+        "minutes": 125.9071,
+        "plays": 33,
+        "percentageOfMinutes": 18.5
       },
       {
         "title": "Bambi",
         "artist": "Clairo",
-        "minutes": 32.36333333333334,
-        "plays": 7,
+        "minutes": 50.85666666666667,
+        "plays": 11,
         "percentageOfMinutes": 7.5
+      },
+      {
+        "title": "Second Nature",
+        "artist": "Clairo",
+        "minutes": 30.3212,
+        "plays": 8,
+        "percentageOfMinutes": 4.5
+      },
+      {
+        "title": "Slow Dance",
+        "artist": "Clairo",
+        "minutes": 27.399516666666667,
+        "plays": 7,
+        "percentageOfMinutes": 4.0
+      },
+      {
+        "title": "Thank You",
+        "artist": "Clairo",
+        "minutes": 27.342533333333332,
+        "plays": 8,
+        "percentageOfMinutes": 4.0
+      },
+      {
+        "title": "Echo",
+        "artist": "Clairo",
+        "minutes": 26.816183333333335,
+        "plays": 7,
+        "percentageOfMinutes": 3.9
+      },
+      {
+        "title": "Nomad",
+        "artist": "Clairo",
+        "minutes": 26.31673333333333,
+        "plays": 7,
+        "percentageOfMinutes": 3.9
+      },
+      {
+        "title": "Juna",
+        "artist": "Clairo",
+        "minutes": 26.014533333333333,
+        "plays": 8,
+        "percentageOfMinutes": 3.8
+      },
+      {
+        "title": "Sexy to Someone",
+        "artist": "Clairo",
+        "minutes": 24.24275,
+        "plays": 7,
+        "percentageOfMinutes": 3.6
+      },
+      {
+        "title": "Terrapin",
+        "artist": "Clairo",
+        "minutes": 24.038533333333334,
+        "plays": 8,
+        "percentageOfMinutes": 3.5
+      },
+      {
+        "title": "Add Up My Love",
+        "artist": "Clairo",
+        "minutes": 23.94735,
+        "plays": 7,
+        "percentageOfMinutes": 3.5
+      },
+      {
+        "title": "Glory of the Snow",
+        "artist": "Clairo",
+        "minutes": 22.7776,
+        "plays": 8,
+        "percentageOfMinutes": 3.4
       },
       {
         "title": "KICK BACK",
         "artist": "Kenshi Yonezu",
         "minutes": 22.574416666666668,
         "plays": 7,
-        "percentageOfMinutes": 5.2
+        "percentageOfMinutes": 3.3
       },
       {
-        "title": "Second Nature",
+        "title": "Pier 4",
         "artist": "Clairo",
-        "minutes": 18.95075,
-        "plays": 5,
-        "percentageOfMinutes": 4.4
+        "minutes": 20.5072,
+        "plays": 6,
+        "percentageOfMinutes": 3.0
+      },
+      {
+        "title": "Blouse",
+        "artist": "Clairo",
+        "minutes": 19.5376,
+        "plays": 6,
+        "percentageOfMinutes": 2.9
       },
       {
         "title": "AIZO",
         "artist": "King Gnu",
         "minutes": 17.988166666666668,
         "plays": 5,
-        "percentageOfMinutes": 4.2
+        "percentageOfMinutes": 2.6
       },
       {
         "title": "IRIS OUT",
         "artist": "Kenshi Yonezu",
         "minutes": 17.683516666666666,
         "plays": 7,
-        "percentageOfMinutes": 4.1
+        "percentageOfMinutes": 2.6
       },
       {
         "title": "departure!",
         "artist": "Masatoshi Ono",
         "minutes": 17.167933333333334,
         "plays": 4,
-        "percentageOfMinutes": 4.0
-      },
-      {
-        "title": "Thank You",
-        "artist": "Clairo",
-        "minutes": 17.089083333333335,
-        "plays": 5,
-        "percentageOfMinutes": 4.0
+        "percentageOfMinutes": 2.5
       },
       {
         "title": "LOST IN PARADISE",
         "artist": "ALI",
         "minutes": 16.3983,
         "plays": 3,
-        "percentageOfMinutes": 3.8
-      },
-      {
-        "title": "Juna",
-        "artist": "Clairo",
-        "minutes": 16.259083333333333,
-        "plays": 5,
-        "percentageOfMinutes": 3.8
+        "percentageOfMinutes": 2.4
       },
       {
         "title": "99",
         "artist": "MOB CHOIR",
         "minutes": 15.825733333333334,
         "plays": 4,
-        "percentageOfMinutes": 3.7
+        "percentageOfMinutes": 2.3
       },
       {
-        "title": "Slow Dance",
+        "title": "Wade",
         "artist": "Clairo",
-        "minutes": 15.656866666666666,
-        "plays": 4,
-        "percentageOfMinutes": 3.6
-      },
-      {
-        "title": "Echo",
-        "artist": "Clairo",
-        "minutes": 15.323533333333334,
-        "plays": 4,
-        "percentageOfMinutes": 3.6
-      },
-      {
-        "title": "Nomad",
-        "artist": "Clairo",
-        "minutes": 15.038133333333333,
-        "plays": 4,
-        "percentageOfMinutes": 3.5
-      },
-      {
-        "title": "Terrapin",
-        "artist": "Clairo",
-        "minutes": 15.024083333333333,
-        "plays": 5,
-        "percentageOfMinutes": 3.5
-      },
-      {
-        "title": "Sexy to Someone",
-        "artist": "Clairo",
-        "minutes": 13.853,
-        "plays": 4,
-        "percentageOfMinutes": 3.2
-      },
-      {
-        "title": "Pier 4",
-        "artist": "Clairo",
-        "minutes": 13.671466666666667,
-        "plays": 4,
-        "percentageOfMinutes": 3.2
+        "minutes": 14.34895,
+        "plays": 3,
+        "percentageOfMinutes": 2.1
       },
       {
         "title": "Harbor",
         "artist": "Clairo",
         "minutes": 13.20055,
         "plays": 3,
-        "percentageOfMinutes": 3.1
+        "percentageOfMinutes": 1.9
       },
       {
-        "title": "Glory of the Snow",
+        "title": "Management",
         "artist": "Clairo",
-        "minutes": 11.3888,
-        "plays": 4,
-        "percentageOfMinutes": 2.6
-      },
-      {
-        "title": "Add Up My Love",
-        "artist": "Clairo",
-        "minutes": 10.26315,
+        "minutes": 11.4364,
         "plays": 3,
-        "percentageOfMinutes": 2.4
+        "percentageOfMinutes": 1.7
       },
       {
-        "title": "Blouse",
+        "title": "Just For Today",
         "artist": "Clairo",
-        "minutes": 9.7688,
+        "minutes": 10.85325,
         "plays": 3,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 1.6
+      },
+      {
+        "title": "Partridge",
+        "artist": "Clairo",
+        "minutes": 9.68385,
+        "plays": 3,
+        "percentageOfMinutes": 1.4
+      },
+      {
+        "title": "Joanie",
+        "artist": "Clairo",
+        "minutes": 9.523233333333334,
+        "plays": 2,
+        "percentageOfMinutes": 1.4
       },
       {
         "title": "Zinnias",
         "artist": "Clairo",
         "minutes": 8.73825,
         "plays": 3,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "SPECIALZ",
         "artist": "King Gnu",
         "minutes": 7.795233333333333,
         "plays": 2,
-        "percentageOfMinutes": 1.8
-      },
-      {
-        "title": "Management",
-        "artist": "Clairo",
-        "minutes": 7.624266666666666,
-        "plays": 2,
-        "percentageOfMinutes": 1.8
-      },
-      {
-        "title": "Just For Today",
-        "artist": "Clairo",
-        "minutes": 7.2355,
-        "plays": 2,
-        "percentageOfMinutes": 1.7
-      },
-      {
-        "title": "Partridge",
-        "artist": "Clairo",
-        "minutes": 6.4559,
-        "plays": 2,
-        "percentageOfMinutes": 1.5
-      },
-      {
-        "title": "Wade",
-        "artist": "Clairo",
-        "minutes": 4.782983333333333,
-        "plays": 1,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "Joanie",
-        "artist": "Clairo",
-        "minutes": 4.761616666666667,
-        "plays": 1,
         "percentageOfMinutes": 1.1
       },
       {
         "title": "Little Changes",
         "artist": "Clairo",
-        "minutes": 2.67575,
-        "plays": 1,
-        "percentageOfMinutes": 0.6
+        "minutes": 5.3515,
+        "plays": 2,
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Reaper",
         "artist": "Clairo",
-        "minutes": 2.6640166666666665,
-        "plays": 1,
-        "percentageOfMinutes": 0.6
+        "minutes": 5.328033333333333,
+        "plays": 2,
+        "percentageOfMinutes": 0.8
       }
     ],
     "year": [
@@ -9278,7 +9278,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 464.6404,
         "plays": 124,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "Arabella",
@@ -9292,7 +9292,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 338.11466666666666,
         "plays": 80,
-        "percentageOfMinutes": 1.7
+        "percentageOfMinutes": 1.6
       },
       {
         "title": "Snap Out Of It",
@@ -9344,11 +9344,18 @@
         "percentageOfMinutes": 1.1
       },
       {
+        "title": "Amoeba",
+        "artist": "Clairo",
+        "minutes": 221.29126666666667,
+        "plays": 58,
+        "percentageOfMinutes": 1.1
+      },
+      {
         "title": "Teddy Picker",
         "artist": "Arctic Monkeys",
         "minutes": 216.864,
         "plays": 81,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
@@ -9404,14 +9411,14 @@
         "artist": "The Long Faces",
         "minutes": 174.52026666666666,
         "plays": 56,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "If You Were There, Beware",
         "artist": "Arctic Monkeys",
         "minutes": 173.66,
         "plays": 38,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Why'd You Only Call Me When You're High?",
@@ -9467,7 +9474,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 154.5378,
         "plays": 36,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Potion Approaching",
@@ -9481,13 +9488,6 @@
         "artist": "The Fratellis",
         "minutes": 151.0971,
         "plays": 42,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Amoeba",
-        "artist": "Clairo",
-        "minutes": 148.7993,
-        "plays": 39,
         "percentageOfMinutes": 0.7
       },
       {
@@ -9524,6 +9524,13 @@
         "minutes": 134.36006666666665,
         "plays": 34,
         "percentageOfMinutes": 0.7
+      },
+      {
+        "title": "Add Up My Love",
+        "artist": "Clairo",
+        "minutes": 133.42095,
+        "plays": 39,
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Puppy Princess",
@@ -9572,13 +9579,6 @@
         "artist": "ALI",
         "minutes": 120.2542,
         "plays": 22,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Add Up My Love",
-        "artist": "Clairo",
-        "minutes": 119.73675,
-        "plays": 35,
         "percentageOfMinutes": 0.6
       },
       {
@@ -9638,6 +9638,13 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "Thank You",
+        "artist": "Clairo",
+        "minutes": 92.28105,
+        "plays": 27,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "99",
         "artist": "MOB CHOIR",
         "minutes": 90.99796666666667,
@@ -9670,13 +9677,6 @@
         "artist": "The Fratellis",
         "minutes": 86.35205,
         "plays": 31,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Thank You",
-        "artist": "Clairo",
-        "minutes": 82.0276,
-        "plays": 24,
         "percentageOfMinutes": 0.4
       },
       {
@@ -9736,6 +9736,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "Juna",
+        "artist": "Clairo",
+        "minutes": 74.79178333333333,
+        "plays": 23,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "My Girlfriend",
         "artist": "TV Girl",
         "minutes": 74.4666,
@@ -9778,10 +9785,10 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Juna",
+        "title": "Echo",
         "artist": "Clairo",
-        "minutes": 65.03633333333333,
-        "plays": 20,
+        "minutes": 65.12501666666667,
+        "plays": 17,
         "percentageOfMinutes": 0.3
       },
       {
@@ -9810,6 +9817,13 @@
         "artist": "Arctic Monkeys",
         "minutes": 63.20203333333333,
         "plays": 17,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Terrapin",
+        "artist": "Clairo",
+        "minutes": 63.10115,
+        "plays": 21,
         "percentageOfMinutes": 0.3
       },
       {
@@ -9869,6 +9883,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Second Nature",
+        "artist": "Clairo",
+        "minutes": 56.85225,
+        "plays": 15,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Words, Words, Words (Studio)",
         "artist": "Bo Burnham",
         "minutes": 56.17406666666667,
@@ -9911,6 +9932,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Sexy to Someone",
+        "artist": "Clairo",
+        "minutes": 55.412,
+        "plays": 16,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "The Fine Print",
         "artist": "The Stupendium",
         "minutes": 54.857,
@@ -9925,20 +9953,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Terrapin",
-        "artist": "Clairo",
-        "minutes": 54.0867,
-        "plays": 18,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Echo",
-        "artist": "Clairo",
-        "minutes": 53.63236666666667,
-        "plays": 14,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "Rock n Roll Will Break Your Heart",
         "artist": "The Fratellis",
         "minutes": 53.56666666666667,
@@ -9950,6 +9964,13 @@
         "artist": "TV Girl",
         "minutes": 53.23673333333333,
         "plays": 13,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Nomad",
+        "artist": "Clairo",
+        "minutes": 52.63346666666666,
+        "plays": 14,
         "percentageOfMinutes": 0.3
       },
       {
@@ -9986,6 +10007,20 @@
         "minutes": 51.7208,
         "plays": 16,
         "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Slow Dance",
+        "artist": "Clairo",
+        "minutes": 50.884816666666666,
+        "plays": 13,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Bambi",
+        "artist": "Clairo",
+        "minutes": 50.85666666666667,
+        "plays": 11,
+        "percentageOfMinutes": 0.2
       },
       {
         "title": "Safeword",
@@ -10093,17 +10128,10 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Second Nature",
+        "title": "Glory of the Snow",
         "artist": "Clairo",
-        "minutes": 45.4818,
-        "plays": 12,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Sexy to Someone",
-        "artist": "Clairo",
-        "minutes": 45.02225,
-        "plays": 13,
+        "minutes": 45.5552,
+        "plays": 16,
         "percentageOfMinutes": 0.2
       },
       {
@@ -10118,6 +10146,13 @@
         "artist": "The Happy Fits",
         "minutes": 44.568,
         "plays": 12,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Pier 4",
+        "artist": "Clairo",
+        "minutes": 44.43226666666666,
+        "plays": 13,
         "percentageOfMinutes": 0.2
       },
       {
@@ -10146,13 +10181,6 @@
         "artist": "Bo Burnham",
         "minutes": 41.39985,
         "plays": 9,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Nomad",
-        "artist": "Clairo",
-        "minutes": 41.354866666666666,
-        "plays": 11,
         "percentageOfMinutes": 0.2
       },
       {
@@ -10205,13 +10233,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Slow Dance",
-        "artist": "Clairo",
-        "minutes": 39.14216666666667,
-        "plays": 10,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "All The Way Through",
         "artist": "TV Girl",
         "minutes": 38.22173333333333,
@@ -10237,13 +10258,6 @@
         "artist": "TV Girl",
         "minutes": 37.6,
         "plays": 12,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Pier 4",
-        "artist": "Clairo",
-        "minutes": 37.59653333333333,
-        "plays": 11,
         "percentageOfMinutes": 0.2
       },
       {
@@ -10296,13 +10310,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Glory of the Snow",
-        "artist": "Clairo",
-        "minutes": 34.1664,
-        "plays": 12,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "broken cd",
         "artist": "beabadoobee",
         "minutes": 34.056,
@@ -10335,13 +10342,6 @@
         "artist": "TV Girl",
         "minutes": 33.213766666666665,
         "plays": 11,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Bambi",
-        "artist": "Clairo",
-        "minutes": 32.36333333333334,
-        "plays": 7,
         "percentageOfMinutes": 0.2
       },
       {
@@ -10384,28 +10384,28 @@
         "artist": "PinkPantheress",
         "minutes": 30.7935,
         "plays": 10,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Do Me a Favour",
         "artist": "Arctic Monkeys",
         "minutes": 30.786,
         "plays": 9,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Daughter of a Cop",
         "artist": "TV Girl",
         "minutes": 30.688,
         "plays": 12,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Lone Digger",
         "artist": "Caravan Palace",
         "minutes": 30.640533333333334,
         "plays": 8,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Baby Don't You Lie to Me!",
@@ -10849,6 +10849,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Blouse",
+        "artist": "Clairo",
+        "minutes": 19.5376,
+        "plays": 6,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Dancing Queen",
         "artist": "ABBA",
         "minutes": 19.2,
@@ -11192,6 +11199,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Wade",
+        "artist": "Clairo",
+        "minutes": 14.34895,
+        "plays": 3,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "New Gold (feat. Tame Impala and Bootie Brown)",
         "artist": "Gorillaz",
         "minutes": 14.343266666666667,
@@ -11458,6 +11472,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Management",
+        "artist": "Clairo",
+        "minutes": 11.4364,
+        "plays": 3,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "THE MOON ROSE",
         "artist": "Masayoshi Takanaka",
         "minutes": 11.3902,
@@ -11531,6 +11552,13 @@
         "title": "Assumptions",
         "artist": "Sam Gellaitry",
         "minutes": 11.0419,
+        "plays": 3,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Just For Today",
+        "artist": "Clairo",
+        "minutes": 10.85325,
         "plays": 3,
         "percentageOfMinutes": 0.1
       },
@@ -11609,35 +11637,35 @@
         "artist": "Redbone",
         "minutes": 10.29665,
         "plays": 3,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "JUST THE WAY YOU ARE",
         "artist": "Masayoshi Takanaka",
         "minutes": 10.2911,
         "plays": 2,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Possum Kingdom",
         "artist": "Toadies",
         "minutes": 10.277766666666666,
         "plays": 2,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "TAJ MAHAL",
         "artist": "Masayoshi Takanaka",
         "minutes": 10.277766666666666,
         "plays": 2,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "RADIO RIO",
         "artist": "Masayoshi Takanaka",
         "minutes": 10.2222,
         "plays": 2,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "AN INSATIABLE HIGH",
@@ -11703,17 +11731,17 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Blouse",
-        "artist": "Clairo",
-        "minutes": 9.7688,
-        "plays": 3,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "Prom Night",
         "artist": "Riovaz",
         "minutes": 9.7266,
         "plays": 4,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Partridge",
+        "artist": "Clairo",
+        "minutes": 9.68385,
+        "plays": 3,
         "percentageOfMinutes": 0.0
       },
       {
@@ -11728,6 +11756,13 @@
         "artist": "girl in red",
         "minutes": 9.6306,
         "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Joanie",
+        "artist": "Clairo",
+        "minutes": 9.523233333333334,
+        "plays": 2,
         "percentageOfMinutes": 0.0
       },
       {
@@ -12011,13 +12046,6 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Management",
-        "artist": "Clairo",
-        "minutes": 7.624266666666666,
-        "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "Back Against the Wall",
         "artist": "Cage The Elephant",
         "minutes": 7.610666666666667,
@@ -12063,13 +12091,6 @@
         "title": "Come When You Call",
         "artist": "TV Girl",
         "minutes": 7.284866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Just For Today",
-        "artist": "Clairo",
-        "minutes": 7.2355,
         "plays": 2,
         "percentageOfMinutes": 0.0
       },
@@ -12245,13 +12266,6 @@
         "title": "Close To You",
         "artist": "Dayglow",
         "minutes": 6.489766666666666,
-        "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Partridge",
-        "artist": "Clairo",
-        "minutes": 6.4559,
         "plays": 2,
         "percentageOfMinutes": 0.0
       },
@@ -12445,9 +12459,23 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Little Changes",
+        "artist": "Clairo",
+        "minutes": 5.3515,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Out Of Style",
         "artist": "The Wrecks",
         "minutes": 5.336,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Reaper",
+        "artist": "Clairo",
+        "minutes": 5.328033333333333,
         "plays": 2,
         "percentageOfMinutes": 0.0
       },
@@ -12561,20 +12589,6 @@
         "artist": "Softwilly",
         "minutes": 4.786233333333334,
         "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Wade",
-        "artist": "Clairo",
-        "minutes": 4.782983333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Joanie",
-        "artist": "Clairo",
-        "minutes": 4.761616666666667,
-        "plays": 1,
         "percentageOfMinutes": 0.0
       },
       {
@@ -13974,20 +13988,6 @@
         "title": "As the World Caves In",
         "artist": "Sarah Cothran",
         "minutes": 2.6935333333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Little Changes",
-        "artist": "Clairo",
-        "minutes": 2.67575,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Reaper",
-        "artist": "Clairo",
-        "minutes": 2.6640166666666665,
         "plays": 1,
         "percentageOfMinutes": 0.0
       },
