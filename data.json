@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-08-18T00:48:42.926530+00:00",
-    "lastUpdated": "August 18, 2026 - 12:48 AM UTC"
+    "generatedAt": "2026-08-19T00:49:01.165313+00:00",
+    "lastUpdated": "August 19, 2026 - 12:49 AM UTC"
   },
   "artists": {
     "total": [
@@ -25,9 +25,9 @@
       },
       {
         "name": "The Happy Fits",
-        "minutes": 2247.77,
-        "plays": 685,
-        "percentageOfMinutes": 8.5
+        "minutes": 2314.07,
+        "plays": 706,
+        "percentageOfMinutes": 8.7
       },
       {
         "name": "Clairo",
@@ -663,7 +663,7 @@
         "name": "girl in red",
         "minutes": 13.29,
         "plays": 4,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "name": "WILLOW",
@@ -1016,6 +1016,12 @@
       {
         "name": "King Harvest",
         "minutes": 6.04,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "name": "YENA",
+        "minutes": 6.0,
         "plays": 2,
         "percentageOfMinutes": 0.0
       },
@@ -1503,27 +1509,27 @@
     "lastWeek": [
       {
         "name": "The Happy Fits",
-        "minutes": 324.14,
-        "plays": 101,
-        "percentageOfMinutes": 51.3
+        "minutes": 390.44,
+        "plays": 122,
+        "percentageOfMinutes": 63.7
       },
       {
         "name": "beabadoobee",
-        "minutes": 167.17,
-        "plays": 53,
-        "percentageOfMinutes": 26.4
+        "minutes": 155.68,
+        "plays": 49,
+        "percentageOfMinutes": 25.4
       },
       {
         "name": "Clairo",
-        "minutes": 131.05,
-        "plays": 37,
-        "percentageOfMinutes": 20.7
+        "minutes": 54.46,
+        "plays": 15,
+        "percentageOfMinutes": 8.9
       },
       {
-        "name": "The Mar\u00edas",
-        "minutes": 3.95,
-        "plays": 1,
-        "percentageOfMinutes": 0.6
+        "name": "YENA",
+        "minutes": 6.0,
+        "plays": 2,
+        "percentageOfMinutes": 1.0
       },
       {
         "name": "Cage The Elephant",
@@ -1535,7 +1541,7 @@
         "name": "Laufey",
         "minutes": 2.83,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       }
     ],
     "month": [
@@ -1543,31 +1549,31 @@
         "name": "Clairo",
         "minutes": 984.27,
         "plays": 273,
-        "percentageOfMinutes": 58.3
+        "percentageOfMinutes": 55.9
       },
       {
         "name": "The Happy Fits",
-        "minutes": 324.14,
-        "plays": 101,
-        "percentageOfMinutes": 19.2
+        "minutes": 390.44,
+        "plays": 122,
+        "percentageOfMinutes": 22.2
       },
       {
         "name": "beabadoobee",
         "minutes": 167.17,
         "plays": 53,
-        "percentageOfMinutes": 9.9
+        "percentageOfMinutes": 9.5
       },
       {
         "name": "Kenshi Yonezu",
         "minutes": 66.49,
         "plays": 23,
-        "percentageOfMinutes": 3.9
+        "percentageOfMinutes": 3.8
       },
       {
         "name": "King Gnu",
         "minutes": 51.87,
         "plays": 14,
-        "percentageOfMinutes": 3.1
+        "percentageOfMinutes": 2.9
       },
       {
         "name": "ALI",
@@ -1585,13 +1591,19 @@
         "name": "MOB CHOIR",
         "minutes": 23.74,
         "plays": 6,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "name": "The Long Faces",
         "minutes": 6.23,
         "plays": 2,
         "percentageOfMinutes": 0.4
+      },
+      {
+        "name": "YENA",
+        "minutes": 6.0,
+        "plays": 2,
+        "percentageOfMinutes": 0.3
       },
       {
         "name": "The Mar\u00edas",
@@ -1617,7 +1629,7 @@
         "name": "Arctic Monkeys",
         "minutes": 6878.7,
         "plays": 2147,
-        "percentageOfMinutes": 31.7
+        "percentageOfMinutes": 31.6
       },
       {
         "name": "TV Girl",
@@ -1651,9 +1663,9 @@
       },
       {
         "name": "The Happy Fits",
-        "minutes": 663.65,
-        "plays": 204,
-        "percentageOfMinutes": 3.1
+        "minutes": 729.95,
+        "plays": 225,
+        "percentageOfMinutes": 3.4
       },
       {
         "name": "King Gnu",
@@ -2574,6 +2586,12 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "name": "YENA",
+        "minutes": 6.0,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "name": "Goose",
         "minutes": 5.93,
         "plays": 1,
@@ -3174,7 +3192,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 199.51695,
         "plays": 69,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "She's Not Gone Yet but She's Leaving",
@@ -3237,7 +3255,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 172.5162,
         "plays": 38,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Why'd You Only Call Me When You're High?",
@@ -3289,17 +3307,17 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "Cruel Power",
+        "artist": "The Happy Fits",
+        "minutes": 160.76036666666667,
+        "plays": 47,
+        "percentageOfMinutes": 0.6
+      },
+      {
         "title": "Knee Socks",
         "artist": "Arctic Monkeys",
         "minutes": 158.83051666666665,
         "plays": 37,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Cruel Power",
-        "artist": "The Happy Fits",
-        "minutes": 157.33993333333333,
-        "plays": 46,
         "percentageOfMinutes": 0.6
       },
       {
@@ -3328,7 +3346,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 145.96075,
         "plays": 65,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "While You Fade Away",
@@ -3534,6 +3552,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "Shake Me",
+        "artist": "The Happy Fits",
+        "minutes": 100.1363,
+        "plays": 33,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "99",
         "artist": "MOB CHOIR",
         "minutes": 98.91083333333333,
@@ -3552,13 +3577,6 @@
         "artist": "TV Girl",
         "minutes": 98.36666666666666,
         "plays": 26,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Shake Me",
-        "artist": "The Happy Fits",
-        "minutes": 97.10186666666667,
-        "plays": 32,
         "percentageOfMinutes": 0.4
       },
       {
@@ -3601,6 +3619,13 @@
         "artist": "beabadoobee",
         "minutes": 90.61406666666667,
         "plays": 28,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Black Hole",
+        "artist": "The Happy Fits",
+        "minutes": 89.914,
+        "plays": 33,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3653,17 +3678,17 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Black Hole",
-        "artist": "The Happy Fits",
-        "minutes": 87.18933333333334,
-        "plays": 32,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "Terrapin",
         "artist": "Clairo",
         "minutes": 87.13968333333334,
         "plays": 29,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Wild in Love",
+        "artist": "The Happy Fits",
+        "minutes": 87.09605,
+        "plays": 31,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3709,10 +3734,10 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Wild in Love",
+        "title": "Grow Back",
         "artist": "The Happy Fits",
-        "minutes": 81.47695,
-        "plays": 29,
+        "minutes": 81.45066666666666,
+        "plays": 16,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3786,13 +3811,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Grow Back",
-        "artist": "The Happy Fits",
-        "minutes": 76.36,
-        "plays": 15,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "The Blonde",
         "artist": "TV Girl",
         "minutes": 75.92,
@@ -3818,6 +3836,13 @@
         "artist": "TV Girl",
         "minutes": 72.74106666666667,
         "plays": 26,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Dirty Imbecile",
+        "artist": "The Happy Fits",
+        "minutes": 71.8836,
+        "plays": 18,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3898,6 +3923,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Mary",
+        "artist": "The Happy Fits",
+        "minutes": 64.911,
+        "plays": 20,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "I Can't Stand You Anymore",
         "artist": "Sleigh Bells",
         "minutes": 64.448,
@@ -3909,13 +3941,6 @@
         "artist": "The Rills",
         "minutes": 64.416,
         "plays": 22,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Dirty Imbecile",
-        "artist": "The Happy Fits",
-        "minutes": 63.89653333333333,
-        "plays": 16,
         "percentageOfMinutes": 0.2
       },
       {
@@ -3954,13 +3979,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Mary",
-        "artist": "The Happy Fits",
-        "minutes": 61.66545,
-        "plays": 19,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "Song About Me",
         "artist": "TV Girl",
         "minutes": 60.93175,
@@ -3979,6 +3997,13 @@
         "artist": "beabadoobee",
         "minutes": 60.7797,
         "plays": 27,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Too Late",
+        "artist": "The Happy Fits",
+        "minutes": 60.3771,
+        "plays": 18,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4014,13 +4039,6 @@
         "artist": "The Fratellis",
         "minutes": 57.379466666666666,
         "plays": 16,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Too Late",
-        "artist": "The Happy Fits",
-        "minutes": 57.022816666666664,
-        "plays": 17,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4108,6 +4126,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Go Dumb",
+        "artist": "The Happy Fits",
+        "minutes": 52.6482,
+        "plays": 22,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Pretty Boy",
         "artist": "TV Girl",
         "minutes": 52.56666666666667,
@@ -4175,13 +4200,6 @@
         "artist": "TV Girl",
         "minutes": 50.266666666666666,
         "plays": 26,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Go Dumb",
-        "artist": "The Happy Fits",
-        "minutes": 50.2551,
-        "plays": 21,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4297,6 +4315,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Moving",
+        "artist": "The Happy Fits",
+        "minutes": 46.064233333333334,
+        "plays": 19,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "It Almost Worked",
         "artist": "TV Girl",
         "minutes": 45.6,
@@ -4311,17 +4336,17 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Cold Turkey",
+        "artist": "The Happy Fits",
+        "minutes": 43.95803333333333,
+        "plays": 17,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Lonely Girls",
         "artist": "TV Girl",
         "minutes": 43.875,
         "plays": 15,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Moving",
-        "artist": "The Happy Fits",
-        "minutes": 43.6398,
-        "plays": 18,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4346,10 +4371,10 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Cold Turkey",
+        "title": "Dirty Imbecile - Revisited",
         "artist": "The Happy Fits",
-        "minutes": 41.37226666666667,
-        "plays": 16,
+        "minutes": 40.82576666666667,
+        "plays": 11,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4441,13 +4466,6 @@
         "artist": "TV Girl",
         "minutes": 37.1899,
         "plays": 11,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Dirty Imbecile - Revisited",
-        "artist": "The Happy Fits",
-        "minutes": 37.114333333333335,
-        "plays": 10,
         "percentageOfMinutes": 0.1
       },
       {
@@ -4661,6 +4679,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Two of Many",
+        "artist": "The Happy Fits",
+        "minutes": 28.144,
+        "plays": 12,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "robert patekson",
         "artist": "bbno$",
         "minutes": 28.07133333333333,
@@ -4749,13 +4774,6 @@
         "artist": "TV Girl",
         "minutes": 25.988,
         "plays": 8,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Two of Many",
-        "artist": "The Happy Fits",
-        "minutes": 25.798666666666666,
-        "plays": 11,
         "percentageOfMinutes": 0.1
       },
       {
@@ -5172,6 +5190,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Hungry People",
+        "artist": "The Happy Fits",
+        "minutes": 16.552666666666667,
+        "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "BLUE CURACAO",
         "artist": "Masayoshi Takanaka",
         "minutes": 16.4133,
@@ -5333,6 +5358,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "In The Lobby",
+        "artist": "The Happy Fits",
+        "minutes": 14.896666666666667,
+        "plays": 5,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Spiderhead",
         "artist": "Cage The Elephant",
         "minutes": 14.8542,
@@ -5407,13 +5439,6 @@
         "artist": "Cage The Elephant",
         "minutes": 14.2924,
         "plays": 4,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Hungry People",
-        "artist": "The Happy Fits",
-        "minutes": 14.188,
-        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
@@ -5651,13 +5676,6 @@
         "title": "Tell Em",
         "artist": "Cochise",
         "minutes": 12.025266666666667,
-        "plays": 4,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "In The Lobby",
-        "artist": "The Happy Fits",
-        "minutes": 11.917333333333334,
         "plays": 4,
         "percentageOfMinutes": 0.0
       },
@@ -6341,6 +6359,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Sweet Things",
+        "artist": "The Happy Fits",
+        "minutes": 8.236,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Yesterday's World",
         "artist": "TV Girl",
         "minutes": 8.220433333333334,
@@ -6456,6 +6481,13 @@
         "title": "Not Into You",
         "artist": "Brooksie",
         "minutes": 7.89,
+        "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Haunted Lust",
+        "artist": "The Happy Fits",
+        "minutes": 7.8313,
         "plays": 3,
         "percentageOfMinutes": 0.0
       },
@@ -6646,6 +6678,13 @@
         "artist": "Sarcastic Sounds",
         "minutes": 7.1046,
         "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "I'll Be Somewhere",
+        "artist": "The Happy Fits",
+        "minutes": 7.101766666666666,
+        "plays": 2,
         "percentageOfMinutes": 0.0
       },
       {
@@ -6915,6 +6954,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Catch Catch",
+        "artist": "YENA",
+        "minutes": 6.0,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Here It Goes Again",
         "artist": "OK Go",
         "minutes": 5.993766666666667,
@@ -7055,6 +7101,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Another Try",
+        "artist": "The Happy Fits",
+        "minutes": 5.477333333333333,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Van Horn",
         "artist": "Saint Motel",
         "minutes": 5.370666666666667,
@@ -7108,13 +7161,6 @@
         "artist": "Mindless Self Indulgence",
         "minutes": 5.244,
         "plays": 3,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Haunted Lust",
-        "artist": "The Happy Fits",
-        "minutes": 5.220866666666667,
-        "plays": 2,
         "percentageOfMinutes": 0.0
       },
       {
@@ -7500,13 +7546,6 @@
         "artist": "JAWNY",
         "minutes": 4.118533333333334,
         "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Sweet Things",
-        "artist": "The Happy Fits",
-        "minutes": 4.118,
-        "plays": 1,
         "percentageOfMinutes": 0.0
       },
       {
@@ -7961,13 +8000,6 @@
         "title": "Same Jeans",
         "artist": "The View",
         "minutes": 3.5513333333333335,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "I'll Be Somewhere",
-        "artist": "The Happy Fits",
-        "minutes": 3.550883333333333,
         "plays": 1,
         "percentageOfMinutes": 0.0
       },
@@ -8609,13 +8641,6 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Another Try",
-        "artist": "The Happy Fits",
-        "minutes": 2.7386666666666666,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "Sports",
         "artist": "Beach Bunny",
         "minutes": 2.736083333333333,
@@ -8975,80 +9000,73 @@
     ],
     "lastWeek": [
       {
-        "title": "Amoeba",
-        "artist": "Clairo",
-        "minutes": 34.3383,
-        "plays": 9,
-        "percentageOfMinutes": 5.4
-      },
-      {
         "title": "Dirty Imbecile - Revisited",
         "artist": "The Happy Fits",
-        "minutes": 33.4029,
+        "minutes": 37.114333333333335,
+        "plays": 10,
+        "percentageOfMinutes": 6.1
+      },
+      {
+        "title": "Amoeba",
+        "artist": "Clairo",
+        "minutes": 30.522933333333334,
+        "plays": 8,
+        "percentageOfMinutes": 5.0
+      },
+      {
+        "title": "Wild in Love",
+        "artist": "The Happy Fits",
+        "minutes": 25.28595,
         "plays": 9,
-        "percentageOfMinutes": 5.3
+        "percentageOfMinutes": 4.1
       },
       {
         "title": "Everything You Do",
         "artist": "The Happy Fits",
         "minutes": 21.276,
         "plays": 6,
-        "percentageOfMinutes": 3.4
-      },
-      {
-        "title": "Thank You",
-        "artist": "Clairo",
-        "minutes": 20.5069,
-        "plays": 6,
-        "percentageOfMinutes": 3.2
-      },
-      {
-        "title": "Wild in Love",
-        "artist": "The Happy Fits",
-        "minutes": 19.66685,
-        "plays": 7,
-        "percentageOfMinutes": 3.1
-      },
-      {
-        "title": "Add Up My Love",
-        "artist": "Clairo",
-        "minutes": 17.10525,
-        "plays": 5,
-        "percentageOfMinutes": 2.7
+        "percentageOfMinutes": 3.5
       },
       {
         "title": "Cruel Power",
         "artist": "The Happy Fits",
-        "minutes": 17.102166666666665,
-        "plays": 5,
-        "percentageOfMinutes": 2.7
+        "minutes": 20.5226,
+        "plays": 6,
+        "percentageOfMinutes": 3.3
       },
       {
         "title": "Shake Me",
         "artist": "The Happy Fits",
-        "minutes": 15.172166666666667,
-        "plays": 5,
-        "percentageOfMinutes": 2.4
+        "minutes": 18.2066,
+        "plays": 6,
+        "percentageOfMinutes": 3.0
       },
       {
         "title": "Lovesick #1 (Misery)",
         "artist": "The Happy Fits",
         "minutes": 14.856,
         "plays": 4,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.4
       },
       {
         "title": "While You Fade Away",
         "artist": "The Happy Fits",
         "minutes": 14.6486,
         "plays": 4,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.4
       },
       {
-        "title": "Sun Has Set",
-        "artist": "beabadoobee",
-        "minutes": 14.1804,
-        "plays": 6,
+        "title": "Thank You",
+        "artist": "Clairo",
+        "minutes": 13.671266666666666,
+        "plays": 4,
+        "percentageOfMinutes": 2.2
+      },
+      {
+        "title": "Black Hole",
+        "artist": "The Happy Fits",
+        "minutes": 13.623333333333333,
+        "plays": 5,
         "percentageOfMinutes": 2.2
       },
       {
@@ -9059,25 +9077,18 @@
         "percentageOfMinutes": 2.1
       },
       {
+        "title": "Mary",
+        "artist": "The Happy Fits",
+        "minutes": 12.9822,
+        "plays": 4,
+        "percentageOfMinutes": 2.1
+      },
+      {
         "title": "The Nerve",
         "artist": "The Happy Fits",
         "minutes": 12.5724,
         "plays": 4,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "title": "Switchblade",
-        "artist": "beabadoobee",
-        "minutes": 12.1284,
-        "plays": 4,
-        "percentageOfMinutes": 1.9
-      },
-      {
-        "title": "Black Hole",
-        "artist": "The Happy Fits",
-        "minutes": 10.898666666666667,
-        "plays": 4,
-        "percentageOfMinutes": 1.7
+        "percentageOfMinutes": 2.1
       },
       {
         "title": "Changes",
@@ -9087,9 +9098,44 @@
         "percentageOfMinutes": 1.7
       },
       {
-        "title": "Mary",
+        "title": "Add Up My Love",
+        "artist": "Clairo",
+        "minutes": 10.26315,
+        "plays": 3,
+        "percentageOfMinutes": 1.7
+      },
+      {
+        "title": "Grow Back",
         "artist": "The Happy Fits",
-        "minutes": 9.73665,
+        "minutes": 10.181333333333333,
+        "plays": 2,
+        "percentageOfMinutes": 1.7
+      },
+      {
+        "title": "Too Late",
+        "artist": "The Happy Fits",
+        "minutes": 10.06285,
+        "plays": 3,
+        "percentageOfMinutes": 1.6
+      },
+      {
+        "title": "Sun Has Set",
+        "artist": "beabadoobee",
+        "minutes": 9.4536,
+        "plays": 4,
+        "percentageOfMinutes": 1.5
+      },
+      {
+        "title": "Switchblade",
+        "artist": "beabadoobee",
+        "minutes": 9.0963,
+        "plays": 3,
+        "percentageOfMinutes": 1.5
+      },
+      {
+        "title": "In The Lobby",
+        "artist": "The Happy Fits",
+        "minutes": 8.938,
         "plays": 3,
         "percentageOfMinutes": 1.5
       },
@@ -9101,65 +9147,51 @@
         "percentageOfMinutes": 1.4
       },
       {
-        "title": "Slow Dance",
-        "artist": "Clairo",
-        "minutes": 7.828433333333333,
+        "title": "Sweet Things",
+        "artist": "The Happy Fits",
+        "minutes": 8.236,
         "plays": 2,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "Dirty Imbecile",
+        "artist": "The Happy Fits",
+        "minutes": 7.987066666666666,
+        "plays": 2,
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "Haunted Lust",
+        "artist": "The Happy Fits",
+        "minutes": 7.8313,
+        "plays": 3,
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "A Night To Remember",
         "artist": "beabadoobee",
         "minutes": 7.7796,
         "plays": 2,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Around and Around",
         "artist": "The Happy Fits",
         "minutes": 7.7053,
         "plays": 3,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Beaches",
         "artist": "beabadoobee",
         "minutes": 7.668433333333334,
         "plays": 2,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Echo",
-        "artist": "Clairo",
-        "minutes": 7.661766666666667,
-        "plays": 2,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Second Nature",
-        "artist": "Clairo",
-        "minutes": 7.5803,
-        "plays": 2,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Nomad",
-        "artist": "Clairo",
-        "minutes": 7.519066666666666,
-        "plays": 2,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Hold Me Down",
         "artist": "The Happy Fits",
         "minutes": 7.4604333333333335,
-        "plays": 2,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "All I Did Was Dream of You (feat. The Mar\u00edas)",
-        "artist": "beabadoobee",
-        "minutes": 7.4596,
         "plays": 2,
         "percentageOfMinutes": 1.2
       },
@@ -9171,30 +9203,51 @@
         "percentageOfMinutes": 1.2
       },
       {
+        "title": "Moving",
+        "artist": "The Happy Fits",
+        "minutes": 7.2733,
+        "plays": 3,
+        "percentageOfMinutes": 1.2
+      },
+      {
         "title": "Heart of a Dancer",
         "artist": "The Happy Fits",
         "minutes": 7.268866666666667,
         "plays": 2,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.2
       },
       {
-        "title": "Pier 4",
-        "artist": "Clairo",
-        "minutes": 6.835733333333334,
+        "title": "Go Dumb",
+        "artist": "The Happy Fits",
+        "minutes": 7.1793,
+        "plays": 3,
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "title": "I'll Be Somewhere",
+        "artist": "The Happy Fits",
+        "minutes": 7.101766666666666,
         "plays": 2,
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "title": "Hungry People",
+        "artist": "The Happy Fits",
+        "minutes": 7.094,
+        "plays": 3,
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "title": "Two of Many",
+        "artist": "The Happy Fits",
+        "minutes": 7.036,
+        "plays": 3,
         "percentageOfMinutes": 1.1
       },
       {
         "title": "Achey Bones",
         "artist": "The Happy Fits",
         "minutes": 6.7302,
-        "plays": 2,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "Too Late",
-        "artist": "The Happy Fits",
-        "minutes": 6.708566666666667,
         "plays": 2,
         "percentageOfMinutes": 1.1
       },
@@ -9206,13 +9259,6 @@
         "percentageOfMinutes": 1.1
       },
       {
-        "title": "Juna",
-        "artist": "Clairo",
-        "minutes": 6.503633333333333,
-        "plays": 2,
-        "percentageOfMinutes": 1.0
-      },
-      {
         "title": "So Alright, Cool, Whatever",
         "artist": "The Happy Fits",
         "minutes": 6.378666666666667,
@@ -9220,25 +9266,11 @@
         "percentageOfMinutes": 1.0
       },
       {
-        "title": "Terrapin",
-        "artist": "Clairo",
-        "minutes": 6.009633333333333,
+        "title": "Catch Catch",
+        "artist": "YENA",
+        "minutes": 6.0,
         "plays": 2,
         "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "In The Lobby",
-        "artist": "The Happy Fits",
-        "minutes": 5.958666666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "Glory of the Snow",
-        "artist": "Clairo",
-        "minutes": 5.6944,
-        "plays": 2,
-        "percentageOfMinutes": 0.9
       },
       {
         "title": "Horen Sarrison",
@@ -9255,60 +9287,32 @@
         "percentageOfMinutes": 0.9
       },
       {
+        "title": "Another Try",
+        "artist": "The Happy Fits",
+        "minutes": 5.477333333333333,
+        "plays": 2,
+        "percentageOfMinutes": 0.9
+      },
+      {
         "title": "Best Tears",
         "artist": "The Happy Fits",
         "minutes": 5.284433333333333,
         "plays": 2,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.9
       },
       {
-        "title": "Haunted Lust",
+        "title": "Cold Turkey",
         "artist": "The Happy Fits",
-        "minutes": 5.220866666666667,
+        "minutes": 5.1715333333333335,
         "plays": 2,
         "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Grow Back",
-        "artist": "The Happy Fits",
-        "minutes": 5.0906666666666665,
-        "plays": 1,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Moving",
-        "artist": "The Happy Fits",
-        "minutes": 4.848866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Go Dumb",
-        "artist": "The Happy Fits",
-        "minutes": 4.7862,
-        "plays": 2,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Hungry People",
-        "artist": "The Happy Fits",
-        "minutes": 4.729333333333333,
-        "plays": 2,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Two of Many",
-        "artist": "The Happy Fits",
-        "minutes": 4.690666666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.7
       },
       {
         "title": "Pictures of Us",
         "artist": "beabadoobee",
         "minutes": 4.6551,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "The Way I Spoke",
@@ -9318,32 +9322,18 @@
         "percentageOfMinutes": 0.7
       },
       {
-        "title": "Sweet Things",
-        "artist": "The Happy Fits",
-        "minutes": 4.118,
-        "plays": 1,
-        "percentageOfMinutes": 0.7
-      },
-      {
         "title": "Lovesong",
         "artist": "beabadoobee",
         "minutes": 4.090433333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Soren",
         "artist": "beabadoobee",
         "minutes": 4.0324,
         "plays": 1,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "No One Noticed",
-        "artist": "The Mar\u00edas",
-        "minutes": 3.9484333333333335,
-        "plays": 1,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Dance with Me",
@@ -9367,6 +9357,13 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "All I Did Was Dream of You (feat. The Mar\u00edas)",
+        "artist": "beabadoobee",
+        "minutes": 3.7298,
+        "plays": 1,
+        "percentageOfMinutes": 0.6
+      },
+      {
         "title": "If You Want To",
         "artist": "beabadoobee",
         "minutes": 3.7273,
@@ -9381,13 +9378,6 @@
         "percentageOfMinutes": 0.6
       },
       {
-        "title": "I'll Be Somewhere",
-        "artist": "The Happy Fits",
-        "minutes": 3.550883333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.6
-      },
-      {
         "title": "Little One",
         "artist": "The Happy Fits",
         "minutes": 3.4964333333333335,
@@ -9395,25 +9385,18 @@
         "percentageOfMinutes": 0.6
       },
       {
-        "title": "Sexy to Someone",
-        "artist": "Clairo",
-        "minutes": 3.46325,
-        "plays": 1,
-        "percentageOfMinutes": 0.5
-      },
-      {
         "title": "Yoshimi, Forest, Magdalene",
         "artist": "beabadoobee",
         "minutes": 3.4046666666666665,
         "plays": 1,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Ever Seen",
         "artist": "beabadoobee",
         "minutes": 3.396,
         "plays": 1,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Together",
@@ -9518,28 +9501,21 @@
         "artist": "beabadoobee",
         "minutes": 2.838,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "From The Start",
         "artist": "Laufey",
         "minutes": 2.826216666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "The Garden",
         "artist": "The Happy Fits",
         "minutes": 2.7628833333333334,
         "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Another Try",
-        "artist": "The Happy Fits",
-        "minutes": 2.7386666666666666,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Place In The World",
@@ -9573,13 +9549,6 @@
         "title": "Talk",
         "artist": "beabadoobee",
         "minutes": 2.6382166666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Cold Turkey",
-        "artist": "The Happy Fits",
-        "minutes": 2.5857666666666668,
         "plays": 1,
         "percentageOfMinutes": 0.4
       },
@@ -9632,112 +9601,112 @@
         "artist": "Clairo",
         "minutes": 198.39906666666667,
         "plays": 52,
-        "percentageOfMinutes": 11.8
+        "percentageOfMinutes": 11.3
       },
       {
         "title": "Thank You",
         "artist": "Clairo",
         "minutes": 71.77415,
         "plays": 21,
-        "percentageOfMinutes": 4.3
+        "percentageOfMinutes": 4.1
       },
       {
         "title": "Second Nature",
         "artist": "Clairo",
         "minutes": 64.43255,
         "plays": 17,
-        "percentageOfMinutes": 3.8
+        "percentageOfMinutes": 3.7
       },
       {
         "title": "Slow Dance",
         "artist": "Clairo",
         "minutes": 62.62746666666666,
         "plays": 16,
-        "percentageOfMinutes": 3.7
+        "percentageOfMinutes": 3.6
       },
       {
         "title": "Nomad",
         "artist": "Clairo",
         "minutes": 60.15253333333333,
         "plays": 16,
-        "percentageOfMinutes": 3.6
+        "percentageOfMinutes": 3.4
       },
       {
         "title": "Add Up My Love",
         "artist": "Clairo",
         "minutes": 58.15785,
         "plays": 17,
-        "percentageOfMinutes": 3.4
+        "percentageOfMinutes": 3.3
       },
       {
         "title": "Bambi",
         "artist": "Clairo",
         "minutes": 55.48,
         "plays": 12,
-        "percentageOfMinutes": 3.3
+        "percentageOfMinutes": 3.2
       },
       {
         "title": "Sexy to Someone",
         "artist": "Clairo",
         "minutes": 55.412,
         "plays": 16,
-        "percentageOfMinutes": 3.3
+        "percentageOfMinutes": 3.1
       },
       {
         "title": "Juna",
         "artist": "Clairo",
         "minutes": 52.029066666666665,
         "plays": 16,
-        "percentageOfMinutes": 3.1
+        "percentageOfMinutes": 3.0
       },
       {
         "title": "Echo",
         "artist": "Clairo",
         "minutes": 49.80148333333333,
         "plays": 13,
-        "percentageOfMinutes": 3.0
+        "percentageOfMinutes": 2.8
       },
       {
         "title": "Terrapin",
         "artist": "Clairo",
         "minutes": 48.07706666666667,
         "plays": 16,
-        "percentageOfMinutes": 2.8
+        "percentageOfMinutes": 2.7
       },
       {
         "title": "Pier 4",
         "artist": "Clairo",
         "minutes": 44.43226666666666,
         "plays": 13,
-        "percentageOfMinutes": 2.6
+        "percentageOfMinutes": 2.5
       },
       {
         "title": "Glory of the Snow",
         "artist": "Clairo",
         "minutes": 39.8608,
         "plays": 14,
-        "percentageOfMinutes": 2.4
+        "percentageOfMinutes": 2.3
       },
       {
         "title": "KICK BACK",
         "artist": "Kenshi Yonezu",
         "minutes": 38.699,
         "plays": 12,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "Dirty Imbecile - Revisited",
         "artist": "The Happy Fits",
-        "minutes": 33.4029,
-        "plays": 9,
-        "percentageOfMinutes": 2.0
+        "minutes": 37.114333333333335,
+        "plays": 10,
+        "percentageOfMinutes": 2.1
       },
       {
         "title": "AIZO",
         "artist": "King Gnu",
         "minutes": 32.3787,
         "plays": 9,
-        "percentageOfMinutes": 1.9
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "IRIS OUT",
@@ -9761,24 +9730,31 @@
         "percentageOfMinutes": 1.5
       },
       {
+        "title": "Wild in Love",
+        "artist": "The Happy Fits",
+        "minutes": 25.28595,
+        "plays": 9,
+        "percentageOfMinutes": 1.4
+      },
+      {
         "title": "99",
         "artist": "MOB CHOIR",
         "minutes": 23.7386,
         "plays": 6,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Everything You Do",
         "artist": "The Happy Fits",
         "minutes": 21.276,
         "plays": 6,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
       },
       {
-        "title": "Wild in Love",
+        "title": "Cruel Power",
         "artist": "The Happy Fits",
-        "minutes": 19.66685,
-        "plays": 7,
+        "minutes": 20.5226,
+        "plays": 6,
         "percentageOfMinutes": 1.2
       },
       {
@@ -9786,14 +9762,14 @@
         "artist": "Clairo",
         "minutes": 19.5376,
         "plays": 6,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "SPECIALZ",
         "artist": "King Gnu",
         "minutes": 19.488083333333332,
         "plays": 5,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Wade",
@@ -9810,38 +9786,38 @@
         "percentageOfMinutes": 1.1
       },
       {
-        "title": "Cruel Power",
-        "artist": "The Happy Fits",
-        "minutes": 17.102166666666665,
-        "plays": 5,
-        "percentageOfMinutes": 1.0
-      },
-      {
         "title": "Shake Me",
         "artist": "The Happy Fits",
-        "minutes": 15.172166666666667,
-        "plays": 5,
-        "percentageOfMinutes": 0.9
+        "minutes": 18.2066,
+        "plays": 6,
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "Lovesick #1 (Misery)",
         "artist": "The Happy Fits",
         "minutes": 14.856,
         "plays": 4,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "While You Fade Away",
         "artist": "The Happy Fits",
         "minutes": 14.6486,
         "plays": 4,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Sun Has Set",
         "artist": "beabadoobee",
         "minutes": 14.1804,
         "plays": 6,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "Black Hole",
+        "artist": "The Happy Fits",
+        "minutes": 13.623333333333333,
+        "plays": 5,
         "percentageOfMinutes": 0.8
       },
       {
@@ -9856,14 +9832,21 @@
         "artist": "The Happy Fits",
         "minutes": 13.066666666666666,
         "plays": 4,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
+      },
+      {
+        "title": "Mary",
+        "artist": "The Happy Fits",
+        "minutes": 12.9822,
+        "plays": 4,
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Partridge",
         "artist": "Clairo",
         "minutes": 12.9118,
         "plays": 4,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "The Nerve",
@@ -9880,13 +9863,6 @@
         "percentageOfMinutes": 0.7
       },
       {
-        "title": "Black Hole",
-        "artist": "The Happy Fits",
-        "minutes": 10.898666666666667,
-        "plays": 4,
-        "percentageOfMinutes": 0.6
-      },
-      {
         "title": "Just For Today",
         "artist": "Clairo",
         "minutes": 10.85325,
@@ -9901,9 +9877,16 @@
         "percentageOfMinutes": 0.6
       },
       {
-        "title": "Mary",
+        "title": "Grow Back",
         "artist": "The Happy Fits",
-        "minutes": 9.73665,
+        "minutes": 10.181333333333333,
+        "plays": 2,
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "Too Late",
+        "artist": "The Happy Fits",
+        "minutes": 10.06285,
         "plays": 3,
         "percentageOfMinutes": 0.6
       },
@@ -9912,7 +9895,14 @@
         "artist": "Clairo",
         "minutes": 9.523233333333334,
         "plays": 2,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "In The Lobby",
+        "artist": "The Happy Fits",
+        "minutes": 8.938,
+        "plays": 3,
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Zinnias",
@@ -9929,25 +9919,46 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "Sweet Things",
+        "artist": "The Happy Fits",
+        "minutes": 8.236,
+        "plays": 2,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "Dirty Imbecile",
+        "artist": "The Happy Fits",
+        "minutes": 7.987066666666666,
+        "plays": 2,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "Haunted Lust",
+        "artist": "The Happy Fits",
+        "minutes": 7.8313,
+        "plays": 3,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "A Night To Remember",
         "artist": "beabadoobee",
         "minutes": 7.7796,
         "plays": 2,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Around and Around",
         "artist": "The Happy Fits",
         "minutes": 7.7053,
         "plays": 3,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Beaches",
         "artist": "beabadoobee",
         "minutes": 7.668433333333334,
         "plays": 2,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Hold Me Down",
@@ -9971,6 +9982,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "Moving",
+        "artist": "The Happy Fits",
+        "minutes": 7.2733,
+        "plays": 3,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "Heart of a Dancer",
         "artist": "The Happy Fits",
         "minutes": 7.268866666666667,
@@ -9978,16 +9996,37 @@
         "percentageOfMinutes": 0.4
       },
       {
-        "title": "Achey Bones",
+        "title": "Go Dumb",
         "artist": "The Happy Fits",
-        "minutes": 6.7302,
+        "minutes": 7.1793,
+        "plays": 3,
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "title": "I'll Be Somewhere",
+        "artist": "The Happy Fits",
+        "minutes": 7.101766666666666,
         "plays": 2,
         "percentageOfMinutes": 0.4
       },
       {
-        "title": "Too Late",
+        "title": "Hungry People",
         "artist": "The Happy Fits",
-        "minutes": 6.708566666666667,
+        "minutes": 7.094,
+        "plays": 3,
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "title": "Two of Many",
+        "artist": "The Happy Fits",
+        "minutes": 7.036,
+        "plays": 3,
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "title": "Achey Bones",
+        "artist": "The Happy Fits",
+        "minutes": 6.7302,
         "plays": 2,
         "percentageOfMinutes": 0.4
       },
@@ -10013,11 +10052,11 @@
         "percentageOfMinutes": 0.4
       },
       {
-        "title": "In The Lobby",
-        "artist": "The Happy Fits",
-        "minutes": 5.958666666666667,
+        "title": "Catch Catch",
+        "artist": "YENA",
+        "minutes": 6.0,
         "plays": 2,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Horen Sarrison",
@@ -10030,6 +10069,13 @@
         "title": "Cologne",
         "artist": "beabadoobee",
         "minutes": 5.4896666666666665,
+        "plays": 2,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Another Try",
+        "artist": "The Happy Fits",
+        "minutes": 5.477333333333333,
         "plays": 2,
         "percentageOfMinutes": 0.3
       },
@@ -10055,44 +10101,9 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Haunted Lust",
+        "title": "Cold Turkey",
         "artist": "The Happy Fits",
-        "minutes": 5.220866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Grow Back",
-        "artist": "The Happy Fits",
-        "minutes": 5.0906666666666665,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Moving",
-        "artist": "The Happy Fits",
-        "minutes": 4.848866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Go Dumb",
-        "artist": "The Happy Fits",
-        "minutes": 4.7862,
-        "plays": 2,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Hungry People",
-        "artist": "The Happy Fits",
-        "minutes": 4.729333333333333,
-        "plays": 2,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Two of Many",
-        "artist": "The Happy Fits",
-        "minutes": 4.690666666666667,
+        "minutes": 5.1715333333333335,
         "plays": 2,
         "percentageOfMinutes": 0.3
       },
@@ -10107,13 +10118,6 @@
         "title": "The Way I Spoke",
         "artist": "beabadoobee",
         "minutes": 4.25035,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Sweet Things",
-        "artist": "The Happy Fits",
-        "minutes": 4.118,
         "plays": 1,
         "percentageOfMinutes": 0.2
       },
@@ -10170,13 +10174,6 @@
         "title": "No Instructions",
         "artist": "The Happy Fits",
         "minutes": 3.672,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "I'll Be Somewhere",
-        "artist": "The Happy Fits",
-        "minutes": 3.550883333333333,
         "plays": 1,
         "percentageOfMinutes": 0.2
       },
@@ -10321,13 +10318,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Another Try",
-        "artist": "The Happy Fits",
-        "minutes": 2.7386666666666666,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "Place In The World",
         "artist": "The Happy Fits",
         "minutes": 2.7051,
@@ -10360,21 +10350,14 @@
         "artist": "beabadoobee",
         "minutes": 2.6382166666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Cold Turkey",
-        "artist": "The Happy Fits",
-        "minutes": 2.5857666666666668,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "A Cruel Affair",
         "artist": "beabadoobee",
         "minutes": 2.534,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "Home Alone",
@@ -10929,7 +10912,7 @@
         "artist": "TV Girl",
         "minutes": 75.92,
         "plays": 20,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "My Girlfriend",
@@ -11086,10 +11069,24 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Wild in Love",
+        "artist": "The Happy Fits",
+        "minutes": 59.00055,
+        "plays": 21,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Take A Bite",
         "artist": "beabadoobee",
         "minutes": 58.25086666666667,
         "plays": 22,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Cruel Power",
+        "artist": "The Happy Fits",
+        "minutes": 58.14736666666667,
+        "plays": 17,
         "percentageOfMinutes": 0.3
       },
       {
@@ -11149,10 +11146,10 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Cruel Power",
+        "title": "Shake Me",
         "artist": "The Happy Fits",
-        "minutes": 54.726933333333335,
-        "plays": 16,
+        "minutes": 54.6198,
+        "plays": 18,
         "percentageOfMinutes": 0.3
       },
       {
@@ -11167,13 +11164,6 @@
         "artist": "The Fratellis",
         "minutes": 53.56666666666667,
         "plays": 10,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Wild in Love",
-        "artist": "The Happy Fits",
-        "minutes": 53.38145,
-        "plays": 19,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11209,13 +11199,6 @@
         "artist": "The Cardigans",
         "minutes": 51.7208,
         "plays": 16,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Shake Me",
-        "artist": "The Happy Fits",
-        "minutes": 51.585366666666665,
-        "plays": 17,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11401,6 +11384,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Dirty Imbecile - Revisited",
+        "artist": "The Happy Fits",
+        "minutes": 40.82576666666667,
+        "plays": 11,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Soren",
         "artist": "beabadoobee",
         "minutes": 40.324,
@@ -11478,13 +11468,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Dirty Imbecile - Revisited",
-        "artist": "The Happy Fits",
-        "minutes": 37.114333333333335,
-        "plays": 10,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "broken cd",
         "artist": "beabadoobee",
         "minutes": 36.894,
@@ -11538,7 +11521,7 @@
         "artist": "beabadoobee",
         "minutes": 32.5857,
         "plays": 7,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "The Night in Question",
@@ -11629,6 +11612,13 @@
         "artist": "Melanie Martinez",
         "minutes": 30.085333333333335,
         "plays": 8,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Black Hole",
+        "artist": "The Happy Fits",
+        "minutes": 29.971333333333334,
+        "plays": 11,
         "percentageOfMinutes": 0.1
       },
       {
@@ -11741,13 +11731,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 27.251083333333334,
         "plays": 5,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Black Hole",
-        "artist": "The Happy Fits",
-        "minutes": 27.246666666666666,
-        "plays": 10,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12241,6 +12224,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Mary",
+        "artist": "The Happy Fits",
+        "minutes": 16.22775,
+        "plays": 5,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Worth It",
         "artist": "beabadoobee",
         "minutes": 16.181083333333333,
@@ -12458,6 +12448,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Too Late",
+        "artist": "The Happy Fits",
+        "minutes": 13.417133333333334,
+        "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Real Man",
         "artist": "beabadoobee",
         "minutes": 13.383333333333333,
@@ -12525,13 +12522,6 @@
         "artist": "beabadoobee",
         "minutes": 13.0012,
         "plays": 3,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Mary",
-        "artist": "The Happy Fits",
-        "minutes": 12.9822,
-        "plays": 4,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12623,6 +12613,13 @@
         "artist": "Cochise",
         "minutes": 12.025266666666667,
         "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Dirty Imbecile",
+        "artist": "The Happy Fits",
+        "minutes": 11.9806,
+        "plays": 3,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12770,7 +12767,7 @@
         "artist": "Clairo",
         "minutes": 10.85325,
         "plays": 3,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Centerfold",
@@ -12885,6 +12882,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Grow Back",
+        "artist": "The Happy Fits",
+        "minutes": 10.181333333333333,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "AN INSATIABLE HIGH",
         "artist": "Masayoshi Takanaka",
         "minutes": 10.150216666666667,
@@ -12916,13 +12920,6 @@
         "title": "Holy Roller (Hallelujah)",
         "artist": "Portugal. The Man",
         "minutes": 10.072,
-        "plays": 3,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Too Late",
-        "artist": "The Happy Fits",
-        "minutes": 10.06285,
         "plays": 3,
         "percentageOfMinutes": 0.0
       },
@@ -12973,6 +12970,13 @@
         "artist": "girl in red",
         "minutes": 9.6306,
         "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Go Dumb",
+        "artist": "The Happy Fits",
+        "minutes": 9.5724,
+        "plays": 4,
         "percentageOfMinutes": 0.0
       },
       {
@@ -13063,6 +13067,13 @@
         "title": "Work All Day",
         "artist": "Portugal. The Man",
         "minutes": 8.9473,
+        "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "In The Lobby",
+        "artist": "The Happy Fits",
+        "minutes": 8.938,
         "plays": 3,
         "percentageOfMinutes": 0.0
       },
@@ -13172,6 +13183,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Sweet Things",
+        "artist": "The Happy Fits",
+        "minutes": 8.236,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Yesterday's World",
         "artist": "TV Girl",
         "minutes": 8.220433333333334,
@@ -13263,6 +13281,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Haunted Lust",
+        "artist": "The Happy Fits",
+        "minutes": 7.8313,
+        "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "California Gurls",
         "artist": "Katy Perry",
         "minutes": 7.821766666666667,
@@ -13326,17 +13351,17 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Moving",
+        "artist": "The Happy Fits",
+        "minutes": 7.2733,
+        "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "For You",
         "artist": "TV Girl",
         "minutes": 7.1795333333333335,
         "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Go Dumb",
-        "artist": "The Happy Fits",
-        "minutes": 7.1793,
-        "plays": 3,
         "percentageOfMinutes": 0.0
       },
       {
@@ -13396,6 +13421,20 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "I'll Be Somewhere",
+        "artist": "The Happy Fits",
+        "minutes": 7.101766666666666,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Hungry People",
+        "artist": "The Happy Fits",
+        "minutes": 7.094,
+        "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Little Monster",
         "artist": "Royal Blood",
         "minutes": 7.076966666666666,
@@ -13421,6 +13460,13 @@
         "artist": "Mother Mother",
         "minutes": 7.0484333333333336,
         "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Two of Many",
+        "artist": "The Happy Fits",
+        "minutes": 7.036,
+        "plays": 3,
         "percentageOfMinutes": 0.0
       },
       {
@@ -13585,9 +13631,9 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "In The Lobby",
-        "artist": "The Happy Fits",
-        "minutes": 5.958666666666667,
+        "title": "Catch Catch",
+        "artist": "YENA",
+        "minutes": 6.0,
         "plays": 2,
         "percentageOfMinutes": 0.0
       },
@@ -13676,6 +13722,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Another Try",
+        "artist": "The Happy Fits",
+        "minutes": 5.477333333333333,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Broken Boy",
         "artist": "Cage The Elephant",
         "minutes": 5.44,
@@ -13739,16 +13792,16 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Haunted Lust",
-        "artist": "The Happy Fits",
-        "minutes": 5.220866666666667,
+        "title": "backwards",
+        "artist": "bbno$",
+        "minutes": 5.2,
         "plays": 2,
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "backwards",
-        "artist": "bbno$",
-        "minutes": 5.2,
+        "title": "Cold Turkey",
+        "artist": "The Happy Fits",
+        "minutes": 5.1715333333333335,
         "plays": 2,
         "percentageOfMinutes": 0.0
       },
@@ -13764,13 +13817,6 @@
         "artist": "Surf Curse",
         "minutes": 5.092,
         "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Grow Back",
-        "artist": "The Happy Fits",
-        "minutes": 5.0906666666666665,
-        "plays": 1,
         "percentageOfMinutes": 0.0
       },
       {
@@ -13830,13 +13876,6 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Moving",
-        "artist": "The Happy Fits",
-        "minutes": 4.848866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "Dummy",
         "artist": "Portugal. The Man",
         "minutes": 4.836433333333333,
@@ -13865,24 +13904,10 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Hungry People",
-        "artist": "The Happy Fits",
-        "minutes": 4.729333333333333,
-        "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "Empire Ants (feat. Little Dragon)",
         "artist": "Gorillaz",
         "minutes": 4.726216666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Two of Many",
-        "artist": "The Happy Fits",
-        "minutes": 4.690666666666667,
-        "plays": 2,
         "percentageOfMinutes": 0.0
       },
       {
@@ -14131,13 +14156,6 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Sweet Things",
-        "artist": "The Happy Fits",
-        "minutes": 4.118,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "Heaven Over our Heads",
         "artist": "TV Girl",
         "minutes": 4.1125,
@@ -14232,13 +14250,6 @@
         "title": "Black Betty",
         "artist": "Ram Jam",
         "minutes": 4.005583333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Dirty Imbecile",
-        "artist": "The Happy Fits",
-        "minutes": 3.993533333333333,
         "plays": 1,
         "percentageOfMinutes": 0.0
       },
@@ -14561,13 +14572,6 @@
         "title": "Same Jeans",
         "artist": "The View",
         "minutes": 3.5513333333333335,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "I'll Be Somewhere",
-        "artist": "The Happy Fits",
-        "minutes": 3.550883333333333,
         "plays": 1,
         "percentageOfMinutes": 0.0
       },
@@ -15230,13 +15234,6 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Another Try",
-        "artist": "The Happy Fits",
-        "minutes": 2.7386666666666666,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "Sports",
         "artist": "Beach Bunny",
         "minutes": 2.736083333333333,
@@ -15331,13 +15328,6 @@
         "title": "MILLION DOLLAR BABY (VHS)",
         "artist": "Tommy Richman",
         "minutes": 2.58585,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Cold Turkey",
-        "artist": "The Happy Fits",
-        "minutes": 2.5857666666666668,
         "plays": 1,
         "percentageOfMinutes": 0.0
       },
