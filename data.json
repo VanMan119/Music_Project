@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-08-26T00:52:14.757817+00:00",
-    "lastUpdated": "August 26, 2026 - 12:52 AM UTC"
+    "generatedAt": "2026-08-27T06:32:04.825950+00:00",
+    "lastUpdated": "August 27, 2026 - 06:32 AM UTC"
   },
   "artists": {
     "total": [
@@ -55,9 +55,9 @@
       },
       {
         "name": "Royal Blood",
-        "minutes": 454.83,
-        "plays": 134,
-        "percentageOfMinutes": 1.7
+        "minutes": 496.93,
+        "plays": 146,
+        "percentageOfMinutes": 1.8
       },
       {
         "name": "Tame Impala",
@@ -1508,28 +1508,28 @@
     ],
     "lastWeek": [
       {
+        "name": "Royal Blood",
+        "minutes": 257.53,
+        "plays": 76,
+        "percentageOfMinutes": 38.2
+      },
+      {
         "name": "Masayoshi Takanaka",
         "minutes": 250.91,
         "plays": 45,
-        "percentageOfMinutes": 36.7
-      },
-      {
-        "name": "Royal Blood",
-        "minutes": 215.43,
-        "plays": 64,
-        "percentageOfMinutes": 31.5
-      },
-      {
-        "name": "The Happy Fits",
-        "minutes": 119.54,
-        "plays": 37,
-        "percentageOfMinutes": 17.5
+        "percentageOfMinutes": 37.2
       },
       {
         "name": "beabadoobee",
         "minutes": 79.3,
         "plays": 27,
-        "percentageOfMinutes": 11.6
+        "percentageOfMinutes": 11.8
+      },
+      {
+        "name": "The Happy Fits",
+        "minutes": 71.5,
+        "plays": 23,
+        "percentageOfMinutes": 10.6
       },
       {
         "name": "Clairo",
@@ -1538,16 +1538,16 @@
         "percentageOfMinutes": 1.1
       },
       {
-        "name": "YENA",
-        "minutes": 6.0,
-        "plays": 2,
-        "percentageOfMinutes": 0.9
-      },
-      {
         "name": "Queens of the Stone Age",
         "minutes": 4.86,
         "plays": 1,
         "percentageOfMinutes": 0.7
+      },
+      {
+        "name": "YENA",
+        "minutes": 3.0,
+        "plays": 1,
+        "percentageOfMinutes": 0.4
       }
     ],
     "month": [
@@ -1555,31 +1555,31 @@
         "name": "Clairo",
         "minutes": 991.51,
         "plays": 275,
-        "percentageOfMinutes": 40.6
+        "percentageOfMinutes": 39.9
       },
       {
         "name": "The Happy Fits",
         "minutes": 509.98,
         "plays": 159,
-        "percentageOfMinutes": 20.9
+        "percentageOfMinutes": 20.5
+      },
+      {
+        "name": "Royal Blood",
+        "minutes": 257.53,
+        "plays": 76,
+        "percentageOfMinutes": 10.4
       },
       {
         "name": "Masayoshi Takanaka",
         "minutes": 250.91,
         "plays": 45,
-        "percentageOfMinutes": 10.3
+        "percentageOfMinutes": 10.1
       },
       {
         "name": "beabadoobee",
         "minutes": 246.47,
         "plays": 80,
-        "percentageOfMinutes": 10.1
-      },
-      {
-        "name": "Royal Blood",
-        "minutes": 215.43,
-        "plays": 64,
-        "percentageOfMinutes": 8.8
+        "percentageOfMinutes": 9.9
       },
       {
         "name": "Kenshi Yonezu",
@@ -1603,7 +1603,7 @@
         "name": "Masatoshi Ono",
         "minutes": 25.75,
         "plays": 6,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
         "name": "MOB CHOIR",
@@ -1653,7 +1653,7 @@
         "name": "Arctic Monkeys",
         "minutes": 6878.7,
         "plays": 2147,
-        "percentageOfMinutes": 30.7
+        "percentageOfMinutes": 30.8
       },
       {
         "name": "TV Girl",
@@ -1665,7 +1665,7 @@
         "name": "Clairo",
         "minutes": 1554.77,
         "plays": 437,
-        "percentageOfMinutes": 6.9
+        "percentageOfMinutes": 7.0
       },
       {
         "name": "Masayoshi Takanaka",
@@ -1674,15 +1674,15 @@
         "percentageOfMinutes": 6.1
       },
       {
-        "name": "beabadoobee",
-        "minutes": 1353.0,
-        "plays": 436,
-        "percentageOfMinutes": 6.0
-      },
-      {
         "name": "The Fratellis",
         "minutes": 1253.62,
         "plays": 360,
+        "percentageOfMinutes": 5.6
+      },
+      {
+        "name": "beabadoobee",
+        "minutes": 1243.7,
+        "plays": 401,
         "percentageOfMinutes": 5.6
       },
       {
@@ -1693,9 +1693,9 @@
       },
       {
         "name": "Royal Blood",
-        "minutes": 270.15,
-        "plays": 79,
-        "percentageOfMinutes": 1.2
+        "minutes": 312.25,
+        "plays": 91,
+        "percentageOfMinutes": 1.4
       },
       {
         "name": "King Gnu",
@@ -1941,7 +1941,7 @@
         "name": "Lizz Robinett",
         "minutes": 33.63,
         "plays": 8,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.2
       },
       {
         "name": "The Living Tombstone",
@@ -2049,12 +2049,6 @@
         "name": "Bee Gees",
         "minutes": 23.04,
         "plays": 5,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "name": "Laufey",
-        "minutes": 22.61,
-        "plays": 8,
         "percentageOfMinutes": 0.1
       },
       {
@@ -2181,6 +2175,12 @@
         "name": "Styx",
         "minutes": 17.15,
         "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "name": "Laufey",
+        "minutes": 16.96,
+        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
@@ -4297,6 +4297,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Trouble\u2019s Coming",
+        "artist": "Royal Blood",
+        "minutes": 49.486666666666665,
+        "plays": 13,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Louise",
         "artist": "TV Girl",
         "minutes": 48.61325,
@@ -4364,13 +4371,6 @@
         "artist": "The Happy Fits",
         "minutes": 46.5438,
         "plays": 18,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Trouble\u2019s Coming",
-        "artist": "Royal Blood",
-        "minutes": 45.68,
-        "plays": 12,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4906,6 +4906,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "She's Creeping",
+        "artist": "Royal Blood",
+        "minutes": 23.789033333333332,
+        "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Bad Dream Baby",
         "artist": "Hippo Campus",
         "minutes": 23.753333333333334,
@@ -5043,6 +5050,13 @@
         "artist": "Poor Man's Poison",
         "minutes": 21.388266666666667,
         "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Hook, Line & Sinker",
+        "artist": "Royal Blood",
+        "minutes": 20.776,
+        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
@@ -5249,9 +5263,9 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Hook, Line & Sinker",
+        "title": "Shiner In The Dark",
         "artist": "Royal Blood",
-        "minutes": 17.313333333333333,
+        "minutes": 17.32075,
         "plays": 5,
         "percentageOfMinutes": 0.1
       },
@@ -5277,10 +5291,17 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "She's Creeping",
+        "title": "Sleep",
         "artist": "Royal Blood",
-        "minutes": 16.992166666666666,
-        "plays": 5,
+        "minutes": 17.133333333333333,
+        "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "I Only Lie When I Love You",
+        "artist": "Royal Blood",
+        "minutes": 16.972,
+        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
@@ -5330,6 +5351,20 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 15.85,
         "plays": 3,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Lights Out",
+        "artist": "Royal Blood",
+        "minutes": 15.761733333333334,
+        "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Pull Me Through",
+        "artist": "Royal Blood",
+        "minutes": 15.725666666666667,
+        "plays": 5,
         "percentageOfMinutes": 0.1
       },
       {
@@ -5536,13 +5571,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "I Only Lie When I Love You",
-        "artist": "Royal Blood",
-        "minutes": 14.143333333333333,
-        "plays": 5,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "O My Heart",
         "artist": "Mother Mother",
         "minutes": 14.096866666666667,
@@ -5560,13 +5588,6 @@
         "title": "Invincible",
         "artist": "OK Go",
         "minutes": 14.042666666666667,
-        "plays": 4,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Shiner In The Dark",
-        "artist": "Royal Blood",
-        "minutes": 13.8566,
         "plays": 4,
         "percentageOfMinutes": 0.1
       },
@@ -5589,7 +5610,7 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 13.65,
         "plays": 3,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Poser",
@@ -5732,13 +5753,6 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Pull Me Through",
-        "artist": "Royal Blood",
-        "minutes": 12.580533333333333,
-        "plays": 4,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "E. S. P.",
         "artist": "Masayoshi Takanaka",
         "minutes": 12.55,
@@ -5826,13 +5840,6 @@
         "title": "Fire And The Thud",
         "artist": "Arctic Monkeys",
         "minutes": 11.87665,
-        "plays": 3,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Lights Out",
-        "artist": "Royal Blood",
-        "minutes": 11.8213,
         "plays": 3,
         "percentageOfMinutes": 0.0
       },
@@ -6418,6 +6425,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Come on Over",
+        "artist": "Royal Blood",
+        "minutes": 8.6913,
+        "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Hooked On A Feeling",
         "artist": "Blue Swede",
         "minutes": 8.6433,
@@ -6449,13 +6463,6 @@
         "title": "Cry Baby Cry",
         "artist": "Masayoshi Takanaka",
         "minutes": 8.5902,
-        "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Sleep",
-        "artist": "Royal Blood",
-        "minutes": 8.566666666666666,
         "plays": 2,
         "percentageOfMinutes": 0.0
       },
@@ -6964,6 +6971,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "How Many More Times",
+        "artist": "Royal Blood",
+        "minutes": 6.3882666666666665,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Mexican Fender",
         "artist": "Weezer",
         "minutes": 6.3271,
@@ -7135,13 +7149,6 @@
         "title": "For The Wicked",
         "artist": "Friday Pilots Club",
         "minutes": 5.797766666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Come on Over",
-        "artist": "Royal Blood",
-        "minutes": 5.7942,
         "plays": 2,
         "percentageOfMinutes": 0.0
       },
@@ -8420,13 +8427,6 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "How Many More Times",
-        "artist": "Royal Blood",
-        "minutes": 3.1941333333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "Around My Head",
         "artist": "Cage The Elephant",
         "minutes": 3.1933333333333334,
@@ -9070,14 +9070,14 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 41.7013,
         "plays": 6,
-        "percentageOfMinutes": 6.1
+        "percentageOfMinutes": 6.2
       },
       {
         "title": "BELEZA PULA",
         "artist": "Masayoshi Takanaka",
         "minutes": 31.5342,
         "plays": 4,
-        "percentageOfMinutes": 4.6
+        "percentageOfMinutes": 4.7
       },
       {
         "title": "I REMEMBER YOU",
@@ -9108,6 +9108,13 @@
         "percentageOfMinutes": 2.6
       },
       {
+        "title": "Sleep",
+        "artist": "Royal Blood",
+        "minutes": 17.133333333333333,
+        "plays": 4,
+        "percentageOfMinutes": 2.5
+      },
+      {
         "title": "Typhoons",
         "artist": "Royal Blood",
         "minutes": 15.795533333333333,
@@ -9115,10 +9122,24 @@
         "percentageOfMinutes": 2.3
       },
       {
+        "title": "She's Creeping",
+        "artist": "Royal Blood",
+        "minutes": 13.593733333333333,
+        "plays": 4,
+        "percentageOfMinutes": 2.0
+      },
+      {
         "title": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ec\u30ae\u30fc",
         "artist": "Masayoshi Takanaka",
         "minutes": 13.01665,
         "plays": 3,
+        "percentageOfMinutes": 1.9
+      },
+      {
+        "title": "Pull Me Through",
+        "artist": "Royal Blood",
+        "minutes": 12.580533333333333,
+        "plays": 4,
         "percentageOfMinutes": 1.9
       },
       {
@@ -9129,6 +9150,13 @@
         "percentageOfMinutes": 1.8
       },
       {
+        "title": "Lights Out",
+        "artist": "Royal Blood",
+        "minutes": 11.8213,
+        "plays": 3,
+        "percentageOfMinutes": 1.8
+      },
+      {
         "title": "BRASILIAN SKIES",
         "artist": "Masayoshi Takanaka",
         "minutes": 11.7671,
@@ -9136,11 +9164,11 @@
         "percentageOfMinutes": 1.7
       },
       {
-        "title": "Dirty Imbecile - Revisited",
-        "artist": "The Happy Fits",
-        "minutes": 11.1343,
+        "title": "Trouble\u2019s Coming",
+        "artist": "Royal Blood",
+        "minutes": 11.42,
         "plays": 3,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.7
       },
       {
         "title": "Little Monster",
@@ -9154,6 +9182,13 @@
         "artist": "Royal Blood",
         "minutes": 10.474,
         "plays": 3,
+        "percentageOfMinutes": 1.6
+      },
+      {
+        "title": "Shiner In The Dark",
+        "artist": "Royal Blood",
+        "minutes": 10.39245,
+        "plays": 3,
         "percentageOfMinutes": 1.5
       },
       {
@@ -9164,23 +9199,9 @@
         "percentageOfMinutes": 1.4
       },
       {
-        "title": "So Alright, Cool, Whatever",
-        "artist": "The Happy Fits",
-        "minutes": 9.568,
-        "plays": 3,
-        "percentageOfMinutes": 1.4
-      },
-      {
         "title": "Mad Visions",
         "artist": "Royal Blood",
         "minutes": 9.4673,
-        "plays": 3,
-        "percentageOfMinutes": 1.4
-      },
-      {
-        "title": "Pull Me Through",
-        "artist": "Royal Blood",
-        "minutes": 9.4354,
         "plays": 3,
         "percentageOfMinutes": 1.4
       },
@@ -9199,10 +9220,10 @@
         "percentageOfMinutes": 1.3
       },
       {
-        "title": "Sleep",
+        "title": "I Only Lie When I Love You",
         "artist": "Royal Blood",
-        "minutes": 8.566666666666666,
-        "plays": 2,
+        "minutes": 8.486,
+        "plays": 3,
         "percentageOfMinutes": 1.3
       },
       {
@@ -9210,7 +9231,7 @@
         "artist": "beabadoobee",
         "minutes": 8.43665,
         "plays": 3,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Where Are You Now?",
@@ -9227,25 +9248,11 @@
         "percentageOfMinutes": 1.2
       },
       {
-        "title": "Lights Out",
-        "artist": "Royal Blood",
-        "minutes": 7.880866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 1.2
-      },
-      {
         "title": "A Night To Remember",
         "artist": "beabadoobee",
         "minutes": 7.7796,
         "plays": 2,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "Trouble\u2019s Coming",
-        "artist": "Royal Blood",
-        "minutes": 7.613333333333333,
-        "plays": 2,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Hole in Your Heart",
@@ -9255,9 +9262,9 @@
         "percentageOfMinutes": 1.1
       },
       {
-        "title": "Hold Me Down",
+        "title": "Dirty Imbecile - Revisited",
         "artist": "The Happy Fits",
-        "minutes": 7.4604333333333335,
+        "minutes": 7.422866666666667,
         "plays": 2,
         "percentageOfMinutes": 1.1
       },
@@ -9269,30 +9276,16 @@
         "percentageOfMinutes": 1.1
       },
       {
-        "title": "Do You See Me?",
-        "artist": "The Happy Fits",
-        "minutes": 7.396866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 1.1
-      },
-      {
         "title": "Sun Has Set",
         "artist": "beabadoobee",
         "minutes": 7.0902,
         "plays": 3,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 1.1
       },
       {
-        "title": "Shiner In The Dark",
+        "title": "Hook, Line & Sinker",
         "artist": "Royal Blood",
-        "minutes": 6.9283,
-        "plays": 2,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Cruel Power",
-        "artist": "The Happy Fits",
-        "minutes": 6.840866666666667,
+        "minutes": 6.925333333333334,
         "plays": 2,
         "percentageOfMinutes": 1.0
       },
@@ -9304,18 +9297,18 @@
         "percentageOfMinutes": 1.0
       },
       {
-        "title": "She's Creeping",
-        "artist": "Royal Blood",
-        "minutes": 6.796866666666666,
-        "plays": 2,
-        "percentageOfMinutes": 1.0
-      },
-      {
         "title": "How Did We Get So Dark?",
         "artist": "Royal Blood",
         "minutes": 6.597766666666667,
         "plays": 2,
         "percentageOfMinutes": 1.0
+      },
+      {
+        "title": "How Many More Times",
+        "artist": "Royal Blood",
+        "minutes": 6.3882666666666665,
+        "plays": 2,
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Who Needs Friends",
@@ -9339,13 +9332,6 @@
         "percentageOfMinutes": 0.9
       },
       {
-        "title": "Catch Catch",
-        "artist": "YENA",
-        "minutes": 6.0,
-        "plays": 2,
-        "percentageOfMinutes": 0.9
-      },
-      {
         "title": "Triggers",
         "artist": "Royal Blood",
         "minutes": 5.861066666666667,
@@ -9364,13 +9350,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 5.683333333333334,
         "plays": 1,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "I Only Lie When I Love You",
-        "artist": "Royal Blood",
-        "minutes": 5.657333333333334,
-        "plays": 2,
         "percentageOfMinutes": 0.8
       },
       {
@@ -9420,7 +9399,7 @@
         "artist": "The Happy Fits",
         "minutes": 5.0906666666666665,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "NIGHTS",
@@ -9493,11 +9472,11 @@
         "percentageOfMinutes": 0.6
       },
       {
-        "title": "Lovesick #1 (Misery)",
+        "title": "Hold Me Down",
         "artist": "The Happy Fits",
-        "minutes": 3.714,
+        "minutes": 3.7302166666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "\u30d0\u30fc\u30c9\u30a2\u30a4\u30e9\u30f3\u30c9\u6025\u884c",
@@ -9507,16 +9486,9 @@
         "percentageOfMinutes": 0.5
       },
       {
-        "title": "No Instructions",
+        "title": "Do You See Me?",
         "artist": "The Happy Fits",
-        "minutes": 3.672,
-        "plays": 1,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "While You Fade Away",
-        "artist": "The Happy Fits",
-        "minutes": 3.66215,
+        "minutes": 3.6984333333333335,
         "plays": 1,
         "percentageOfMinutes": 0.5
       },
@@ -9524,13 +9496,6 @@
         "title": "\u8703\u6c17\u697c\u306e\u5cf6\u3078",
         "artist": "Masayoshi Takanaka",
         "minutes": 3.6333333333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Everything You Do",
-        "artist": "The Happy Fits",
-        "minutes": 3.546,
         "plays": 1,
         "percentageOfMinutes": 0.5
       },
@@ -9549,9 +9514,9 @@
         "percentageOfMinutes": 0.5
       },
       {
-        "title": "Hook, Line & Sinker",
-        "artist": "Royal Blood",
-        "minutes": 3.462666666666667,
+        "title": "Cruel Power",
+        "artist": "The Happy Fits",
+        "minutes": 3.4204333333333334,
         "plays": 1,
         "percentageOfMinutes": 0.5
       },
@@ -9570,23 +9535,9 @@
         "percentageOfMinutes": 0.5
       },
       {
-        "title": "Achey Bones",
-        "artist": "The Happy Fits",
-        "minutes": 3.3651,
-        "plays": 1,
-        "percentageOfMinutes": 0.5
-      },
-      {
         "title": "You\u2019re here that\u2019s the thing",
         "artist": "beabadoobee",
         "minutes": 3.31,
-        "plays": 1,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Dance Alone",
-        "artist": "The Happy Fits",
-        "minutes": 3.2666666666666666,
         "plays": 1,
         "percentageOfMinutes": 0.5
       },
@@ -9612,9 +9563,9 @@
         "percentageOfMinutes": 0.5
       },
       {
-        "title": "How Many More Times",
-        "artist": "Royal Blood",
-        "minutes": 3.1941333333333333,
+        "title": "So Alright, Cool, Whatever",
+        "artist": "The Happy Fits",
+        "minutes": 3.1893333333333334,
         "plays": 1,
         "percentageOfMinutes": 0.5
       },
@@ -9622,13 +9573,6 @@
         "title": "Everything I Want",
         "artist": "beabadoobee",
         "minutes": 3.187333333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "The Nerve",
-        "artist": "The Happy Fits",
-        "minutes": 3.1431,
         "plays": 1,
         "percentageOfMinutes": 0.5
       },
@@ -9650,6 +9594,20 @@
         "title": "Figure It Out",
         "artist": "Royal Blood",
         "minutes": 3.060033333333333,
+        "plays": 1,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "Catch Catch",
+        "artist": "YENA",
+        "minutes": 3.0,
+        "plays": 1,
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "title": "Come on Over",
+        "artist": "Royal Blood",
+        "minutes": 2.8971,
         "plays": 1,
         "percentageOfMinutes": 0.4
       },
@@ -9678,13 +9636,6 @@
         "title": "Tell Me When It\u2019s Too Late",
         "artist": "Royal Blood",
         "minutes": 2.7369333333333334,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Black Hole",
-        "artist": "The Happy Fits",
-        "minutes": 2.724666666666667,
         "plays": 1,
         "percentageOfMinutes": 0.4
       },
@@ -9749,7 +9700,7 @@
         "artist": "The Happy Fits",
         "minutes": 2.3646666666666665,
         "plays": 1,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Home Alone",
@@ -9786,14 +9737,14 @@
         "artist": "Clairo",
         "minutes": 202.21443333333335,
         "plays": 53,
-        "percentageOfMinutes": 8.3
+        "percentageOfMinutes": 8.1
       },
       {
         "title": "Thank You",
         "artist": "Clairo",
         "minutes": 75.19196666666667,
         "plays": 22,
-        "percentageOfMinutes": 3.1
+        "percentageOfMinutes": 3.0
       },
       {
         "title": "Second Nature",
@@ -9807,35 +9758,35 @@
         "artist": "Clairo",
         "minutes": 62.62746666666666,
         "plays": 16,
-        "percentageOfMinutes": 2.6
+        "percentageOfMinutes": 2.5
       },
       {
         "title": "Nomad",
         "artist": "Clairo",
         "minutes": 60.15253333333333,
         "plays": 16,
-        "percentageOfMinutes": 2.5
+        "percentageOfMinutes": 2.4
       },
       {
         "title": "Add Up My Love",
         "artist": "Clairo",
         "minutes": 58.15785,
         "plays": 17,
-        "percentageOfMinutes": 2.4
+        "percentageOfMinutes": 2.3
       },
       {
         "title": "Bambi",
         "artist": "Clairo",
         "minutes": 55.48,
         "plays": 12,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "Sexy to Someone",
         "artist": "Clairo",
         "minutes": 55.412,
         "plays": 16,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "Juna",
@@ -9856,14 +9807,14 @@
         "artist": "The Happy Fits",
         "minutes": 48.24863333333333,
         "plays": 13,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 1.9
       },
       {
         "title": "Terrapin",
         "artist": "Clairo",
         "minutes": 48.07706666666667,
         "plays": 16,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 1.9
       },
       {
         "title": "Pier 4",
@@ -9912,7 +9863,7 @@
         "artist": "The Happy Fits",
         "minutes": 30.90505,
         "plays": 11,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "IRIS OUT",
@@ -9947,7 +9898,7 @@
         "artist": "Masatoshi Ono",
         "minutes": 25.7519,
         "plays": 6,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "OH! TENGO SUERTE",
@@ -10017,14 +9968,14 @@
         "artist": "The Happy Fits",
         "minutes": 18.57,
         "plays": 5,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "\u61a7\u308c\u306e\u30bb\u30fc\u30b7\u30a7\u30eb\u8af8\u5cf6",
         "artist": "Masayoshi Takanaka",
         "minutes": 18.40065,
         "plays": 3,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "While You Fade Away",
@@ -10045,6 +9996,13 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 17.60065,
         "plays": 3,
+        "percentageOfMinutes": 0.7
+      },
+      {
+        "title": "Sleep",
+        "artist": "Royal Blood",
+        "minutes": 17.133333333333333,
+        "plays": 4,
         "percentageOfMinutes": 0.7
       },
       {
@@ -10073,7 +10031,7 @@
         "artist": "The Happy Fits",
         "minutes": 15.946666666666667,
         "plays": 5,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Typhoons",
@@ -10125,6 +10083,13 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "She's Creeping",
+        "artist": "Royal Blood",
+        "minutes": 13.593733333333333,
+        "plays": 4,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "Harbor",
         "artist": "Clairo",
         "minutes": 13.20055,
@@ -10142,6 +10107,13 @@
         "title": "Partridge",
         "artist": "Clairo",
         "minutes": 12.9118,
+        "plays": 4,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "Pull Me Through",
+        "artist": "Royal Blood",
+        "minutes": 12.580533333333333,
         "plays": 4,
         "percentageOfMinutes": 0.5
       },
@@ -10167,6 +10139,13 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "Lights Out",
+        "artist": "Royal Blood",
+        "minutes": 11.8213,
+        "plays": 3,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "BRASILIAN SKIES",
         "artist": "Masayoshi Takanaka",
         "minutes": 11.7671,
@@ -10184,6 +10163,13 @@
         "title": "Beaches",
         "artist": "beabadoobee",
         "minutes": 11.50265,
+        "plays": 3,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "Trouble\u2019s Coming",
+        "artist": "Royal Blood",
+        "minutes": 11.42,
         "plays": 3,
         "percentageOfMinutes": 0.5
       },
@@ -10213,6 +10199,13 @@
         "artist": "The Happy Fits",
         "minutes": 10.441733333333334,
         "plays": 4,
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "title": "Shiner In The Dark",
+        "artist": "Royal Blood",
+        "minutes": 10.39245,
+        "plays": 3,
         "percentageOfMinutes": 0.4
       },
       {
@@ -10265,13 +10258,6 @@
         "percentageOfMinutes": 0.4
       },
       {
-        "title": "Pull Me Through",
-        "artist": "Royal Blood",
-        "minutes": 9.4354,
-        "plays": 3,
-        "percentageOfMinutes": 0.4
-      },
-      {
         "title": "Either You Want It",
         "artist": "Royal Blood",
         "minutes": 9.04,
@@ -10300,11 +10286,11 @@
         "percentageOfMinutes": 0.4
       },
       {
-        "title": "Sleep",
+        "title": "I Only Lie When I Love You",
         "artist": "Royal Blood",
-        "minutes": 8.566666666666666,
-        "plays": 2,
-        "percentageOfMinutes": 0.4
+        "minutes": 8.486,
+        "plays": 3,
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Memories",
@@ -10349,13 +10335,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Lights Out",
-        "artist": "Royal Blood",
-        "minutes": 7.880866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "Cold Turkey",
         "artist": "The Happy Fits",
         "minutes": 7.7573,
@@ -10367,13 +10346,6 @@
         "artist": "The Happy Fits",
         "minutes": 7.7053,
         "plays": 3,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Trouble\u2019s Coming",
-        "artist": "Royal Blood",
-        "minutes": 7.613333333333333,
-        "plays": 2,
         "percentageOfMinutes": 0.3
       },
       {
@@ -10433,9 +10405,9 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Shiner In The Dark",
+        "title": "Hook, Line & Sinker",
         "artist": "Royal Blood",
-        "minutes": 6.9283,
+        "minutes": 6.925333333333334,
         "plays": 2,
         "percentageOfMinutes": 0.3
       },
@@ -10444,13 +10416,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 6.816666666666666,
         "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "She's Creeping",
-        "artist": "Royal Blood",
-        "minutes": 6.796866666666666,
-        "plays": 2,
         "percentageOfMinutes": 0.3
       },
       {
@@ -10489,6 +10454,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "How Many More Times",
+        "artist": "Royal Blood",
+        "minutes": 6.3882666666666665,
+        "plays": 2,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Everything I Want",
         "artist": "beabadoobee",
         "minutes": 6.374666666666666,
@@ -10514,7 +10486,7 @@
         "artist": "beabadoobee",
         "minutes": 6.153333333333333,
         "plays": 2,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "title": "Triggers",
@@ -10541,13 +10513,6 @@
         "title": "broken cd",
         "artist": "beabadoobee",
         "minutes": 5.676,
-        "plays": 2,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "I Only Lie When I Love You",
-        "artist": "Royal Blood",
-        "minutes": 5.657333333333334,
         "plays": 2,
         "percentageOfMinutes": 0.2
       },
@@ -10787,7 +10752,7 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 3.7,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "The Man Who Left Too Soon",
@@ -10800,13 +10765,6 @@
         "title": "\u8703\u6c17\u697c\u306e\u5cf6\u3078",
         "artist": "Masayoshi Takanaka",
         "minutes": 3.6333333333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Hook, Line & Sinker",
-        "artist": "Royal Blood",
-        "minutes": 3.462666666666667,
         "plays": 1,
         "percentageOfMinutes": 0.1
       },
@@ -10849,13 +10807,6 @@
         "title": "Care",
         "artist": "beabadoobee",
         "minutes": 3.2499,
-        "plays": 1,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "How Many More Times",
-        "artist": "Royal Blood",
-        "minutes": 3.1941333333333333,
         "plays": 1,
         "percentageOfMinutes": 0.1
       },
@@ -10905,6 +10856,13 @@
         "title": "the perfect pair",
         "artist": "beabadoobee",
         "minutes": 2.9588833333333335,
+        "plays": 1,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Come on Over",
+        "artist": "Royal Blood",
+        "minutes": 2.8971,
         "plays": 1,
         "percentageOfMinutes": 0.1
       },
@@ -10985,7 +10943,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 369.7848666666667,
         "plays": 107,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.7
       },
       {
         "title": "505",
@@ -11328,7 +11286,7 @@
         "artist": "Clairo",
         "minutes": 100.80631666666666,
         "plays": 31,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "99",
@@ -11366,13 +11324,6 @@
         "percentageOfMinutes": 0.4
       },
       {
-        "title": "Beaches",
-        "artist": "beabadoobee",
-        "minutes": 92.0212,
-        "plays": 24,
-        "percentageOfMinutes": 0.4
-      },
-      {
         "title": "Second Nature",
         "artist": "Clairo",
         "minutes": 90.9636,
@@ -11398,6 +11349,13 @@
         "artist": "Arctic Monkeys",
         "minutes": 88.973,
         "plays": 30,
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "title": "Beaches",
+        "artist": "beabadoobee",
+        "minutes": 88.18698333333333,
+        "plays": 23,
         "percentageOfMinutes": 0.4
       },
       {
@@ -11454,7 +11412,7 @@
         "artist": "TV Girl",
         "minutes": 78.43733333333333,
         "plays": 22,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Harvey",
@@ -11590,13 +11548,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Everything I Want",
-        "artist": "beabadoobee",
-        "minutes": 63.74666666666667,
-        "plays": 20,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "Secret Door",
         "artist": "Arctic Monkeys",
         "minutes": 63.20203333333333,
@@ -11653,6 +11604,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Everything I Want",
+        "artist": "beabadoobee",
+        "minutes": 60.559333333333335,
+        "plays": 19,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Cigarettes out the Window",
         "artist": "TV Girl",
         "minutes": 59.688,
@@ -11678,13 +11636,6 @@
         "artist": "beabadoobee",
         "minutes": 59.085,
         "plays": 25,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Take A Bite",
-        "artist": "beabadoobee",
-        "minutes": 58.25086666666667,
-        "plays": 22,
         "percentageOfMinutes": 0.3
       },
       {
@@ -11737,6 +11688,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Take A Bite",
+        "artist": "beabadoobee",
+        "minutes": 55.6031,
+        "plays": 21,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Bambi",
         "artist": "Clairo",
         "minutes": 55.48,
@@ -11776,13 +11734,6 @@
         "artist": "TV Girl",
         "minutes": 53.23673333333333,
         "plays": 13,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "A Cruel Affair",
-        "artist": "beabadoobee",
-        "minutes": 53.214,
-        "plays": 21,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11863,6 +11814,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "A Cruel Affair",
+        "artist": "beabadoobee",
+        "minutes": 48.146,
+        "plays": 19,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Television / So Far So Good",
         "artist": "Rex Orange County",
         "minutes": 48.14333333333333,
@@ -11873,13 +11831,6 @@
         "title": "She Smokes in Bed",
         "artist": "TV Girl",
         "minutes": 47.707566666666665,
-        "plays": 14,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Ever Seen",
-        "artist": "beabadoobee",
-        "minutes": 47.544,
         "plays": 14,
         "percentageOfMinutes": 0.2
       },
@@ -11895,13 +11846,6 @@
         "artist": "TV Girl",
         "minutes": 47.083333333333336,
         "plays": 10,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "A Night To Remember",
-        "artist": "beabadoobee",
-        "minutes": 46.6776,
-        "plays": 12,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11968,6 +11912,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "A Night To Remember",
+        "artist": "beabadoobee",
+        "minutes": 42.7878,
+        "plays": 11,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "10:36",
         "artist": "beabadoobee",
         "minutes": 42.2643,
@@ -11982,10 +11933,10 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Soren",
+        "title": "Ever Seen",
         "artist": "beabadoobee",
-        "minutes": 40.324,
-        "plays": 10,
+        "minutes": 40.752,
+        "plays": 12,
         "percentageOfMinutes": 0.2
       },
       {
@@ -12024,6 +11975,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Trouble\u2019s Coming",
+        "artist": "Royal Blood",
+        "minutes": 38.06666666666667,
+        "plays": 10,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Grapes Upon the Vine",
         "artist": "TV Girl",
         "minutes": 37.6,
@@ -12059,17 +12017,17 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Soren",
+        "artist": "beabadoobee",
+        "minutes": 36.2916,
+        "plays": 9,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "SEXY DANCE",
         "artist": "Masayoshi Takanaka",
         "minutes": 35.2013,
         "plays": 6,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Dance with Me",
-        "artist": "beabadoobee",
-        "minutes": 35.1423,
-        "plays": 9,
         "percentageOfMinutes": 0.2
       },
       {
@@ -12087,13 +12045,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Trouble\u2019s Coming",
-        "artist": "Royal Blood",
-        "minutes": 34.26,
-        "plays": 9,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "\u2026con lentitud poderosa",
         "artist": "Chris Christodoulou",
         "minutes": 33.78118333333333,
@@ -12105,7 +12056,7 @@
         "artist": "Lizz Robinett",
         "minutes": 33.632,
         "plays": 8,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.2
       },
       {
         "title": "The Desolation Tango",
@@ -12147,6 +12098,13 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 31.266666666666666,
         "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Dance with Me",
+        "artist": "beabadoobee",
+        "minutes": 31.2376,
+        "plays": 8,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12224,13 +12182,6 @@
         "artist": "Kate Bush",
         "minutes": 29.8839,
         "plays": 9,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "the perfect pair",
-        "artist": "beabadoobee",
-        "minutes": 29.588833333333334,
-        "plays": 10,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12353,13 +12304,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "I Wish I Was Stephen Malkmus",
-        "artist": "beabadoobee",
-        "minutes": 27.050333333333334,
-        "plays": 7,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "Hard To Be God",
         "artist": "Dead Poet Society",
         "minutes": 26.8488,
@@ -12381,10 +12325,10 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "You\u2019re here that\u2019s the thing",
+        "title": "the perfect pair",
         "artist": "beabadoobee",
-        "minutes": 26.48,
-        "plays": 8,
+        "minutes": 26.62995,
+        "plays": 9,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12402,13 +12346,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "California",
-        "artist": "beabadoobee",
-        "minutes": 25.84395,
-        "plays": 9,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "SUNDROPS",
         "artist": "Masayoshi Takanaka",
         "minutes": 25.833333333333332,
@@ -12420,13 +12357,6 @@
         "artist": "MARINA",
         "minutes": 25.777666666666665,
         "plays": 10,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "The Way I Spoke",
-        "artist": "beabadoobee",
-        "minutes": 25.5021,
-        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12500,24 +12430,24 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "ALONE",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 22.733333333333334,
-        "plays": 4,
+        "title": "I Wish I Was Stephen Malkmus",
+        "artist": "beabadoobee",
+        "minutes": 23.186,
+        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "From The Start",
-        "artist": "Laufey",
-        "minutes": 22.609733333333335,
+        "title": "California",
+        "artist": "beabadoobee",
+        "minutes": 22.9724,
         "plays": 8,
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "If You Want To",
-        "artist": "beabadoobee",
-        "minutes": 22.3638,
-        "plays": 6,
+        "title": "ALONE",
+        "artist": "Masayoshi Takanaka",
+        "minutes": 22.733333333333334,
+        "plays": 4,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12570,6 +12500,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "The Way I Spoke",
+        "artist": "beabadoobee",
+        "minutes": 21.25175,
+        "plays": 5,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Bad Dream Baby",
         "artist": "Hippo Campus",
         "minutes": 20.784166666666668,
@@ -12598,9 +12535,9 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Tired",
+        "title": "You\u2019re here that\u2019s the thing",
         "artist": "beabadoobee",
-        "minutes": 19.9514,
+        "minutes": 19.86,
         "plays": 6,
         "percentageOfMinutes": 0.1
       },
@@ -12657,13 +12594,6 @@
         "title": "Mary",
         "artist": "The Happy Fits",
         "minutes": 19.4733,
-        "plays": 6,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Worth It",
-        "artist": "beabadoobee",
-        "minutes": 19.4173,
         "plays": 6,
         "percentageOfMinutes": 0.1
       },
@@ -12731,9 +12661,9 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Last Day On Earth",
+        "title": "If You Want To",
         "artist": "beabadoobee",
-        "minutes": 18.52975,
+        "minutes": 18.6365,
         "plays": 5,
         "percentageOfMinutes": 0.1
       },
@@ -12759,13 +12689,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "The Man Who Left Too Soon",
-        "artist": "beabadoobee",
-        "minutes": 18.206666666666667,
-        "plays": 10,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "Purple Turtleneck",
         "artist": "Kevin Creel",
         "minutes": 18.0922,
@@ -12777,13 +12700,6 @@
         "artist": "Red Hot Chili Peppers",
         "minutes": 17.933333333333334,
         "plays": 4,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Apple Cider",
-        "artist": "beabadoobee",
-        "minutes": 17.8918,
-        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12843,16 +12759,37 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Coffee",
-        "artist": "beabadoobee",
-        "minutes": 16.909866666666666,
-        "plays": 8,
+        "title": "Sleep",
+        "artist": "Royal Blood",
+        "minutes": 17.133333333333333,
+        "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "She's Creeping",
+        "artist": "Royal Blood",
+        "minutes": 16.992166666666666,
+        "plays": 5,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "From The Start",
+        "artist": "Laufey",
+        "minutes": 16.9573,
+        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
         "title": "Rhinestone Eyes",
         "artist": "Gorillaz",
         "minutes": 16.681083333333333,
+        "plays": 5,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Tired",
+        "artist": "beabadoobee",
+        "minutes": 16.626166666666666,
         "plays": 5,
         "percentageOfMinutes": 0.1
       },
@@ -12864,17 +12801,10 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Care",
+        "title": "Worth It",
         "artist": "beabadoobee",
-        "minutes": 16.2495,
+        "minutes": 16.181083333333333,
         "plays": 5,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Real Man",
-        "artist": "beabadoobee",
-        "minutes": 16.06,
-        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12899,20 +12829,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Coming Home",
-        "artist": "beabadoobee",
-        "minutes": 15.848,
-        "plays": 7,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Everest",
-        "artist": "beabadoobee",
-        "minutes": 15.8195,
-        "plays": 6,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "Estrelar",
         "artist": "Marcos Valle",
         "minutes": 15.67465,
@@ -12924,13 +12840,6 @@
         "artist": "Flight Facilities",
         "minutes": 15.6524,
         "plays": 4,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "the way things go",
-        "artist": "beabadoobee",
-        "minutes": 15.65,
-        "plays": 5,
         "percentageOfMinutes": 0.1
       },
       {
@@ -13018,6 +12927,20 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Coffee",
+        "artist": "beabadoobee",
+        "minutes": 14.796133333333334,
+        "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "The Man Who Left Too Soon",
+        "artist": "beabadoobee",
+        "minutes": 14.565333333333333,
+        "plays": 8,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Waves",
         "artist": "Portugal. The Man",
         "minutes": 14.55,
@@ -13067,6 +12990,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Coming Home",
+        "artist": "beabadoobee",
+        "minutes": 13.584,
+        "plays": 6,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "The Chain - 2004 Remaster",
         "artist": "Fleetwood Mac",
         "minutes": 13.51065,
@@ -13085,6 +13015,13 @@
         "artist": "The Happy Fits",
         "minutes": 13.417133333333334,
         "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Real Man",
+        "artist": "beabadoobee",
+        "minutes": 13.383333333333333,
+        "plays": 5,
         "percentageOfMinutes": 0.1
       },
       {
@@ -13123,6 +13060,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Everest",
+        "artist": "beabadoobee",
+        "minutes": 13.182916666666667,
+        "plays": 5,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Burning Pile",
         "artist": "Mother Mother",
         "minutes": 13.10865,
@@ -13151,10 +13095,10 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "How Was Your Day?",
+        "title": "Care",
         "artist": "beabadoobee",
-        "minutes": 13.0012,
-        "plays": 3,
+        "minutes": 12.9996,
+        "plays": 4,
         "percentageOfMinutes": 0.1
       },
       {
@@ -13200,6 +13144,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Pull Me Through",
+        "artist": "Royal Blood",
+        "minutes": 12.580533333333333,
+        "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "E. S. P.",
         "artist": "Masayoshi Takanaka",
         "minutes": 12.55,
@@ -13210,6 +13161,13 @@
         "title": "Ketamine Girl",
         "artist": "TV Girl",
         "minutes": 12.533333333333333,
+        "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "the way things go",
+        "artist": "beabadoobee",
+        "minutes": 12.52,
         "plays": 4,
         "percentageOfMinutes": 0.1
       },
@@ -13249,13 +13207,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "One Time",
-        "artist": "beabadoobee",
-        "minutes": 12.306666666666667,
-        "plays": 4,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "New Person, Same Old Mistakes",
         "artist": "Tame Impala",
         "minutes": 12.108,
@@ -13291,6 +13242,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Apple Cider",
+        "artist": "beabadoobee",
+        "minutes": 11.927866666666667,
+        "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Borderline",
         "artist": "Tame Impala",
         "minutes": 11.89,
@@ -13305,6 +13263,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Lights Out",
+        "artist": "Royal Blood",
+        "minutes": 11.8213,
+        "plays": 3,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Shut It",
         "artist": "1nonly",
         "minutes": 11.792333333333334,
@@ -13315,13 +13280,6 @@
         "title": "top gun",
         "artist": "bbno$",
         "minutes": 11.761083333333334,
-        "plays": 5,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Home Alone",
-        "artist": "beabadoobee",
-        "minutes": 11.694583333333334,
         "plays": 5,
         "percentageOfMinutes": 0.1
       },
@@ -13375,6 +13333,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "I Only Lie When I Love You",
+        "artist": "Royal Blood",
+        "minutes": 11.314666666666668,
+        "plays": 4,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Christmas Kids",
         "artist": "Roar",
         "minutes": 11.30775,
@@ -13386,13 +13351,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 11.2853,
         "plays": 3,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Glue Song",
-        "artist": "beabadoobee",
-        "minutes": 11.2555,
-        "plays": 5,
         "percentageOfMinutes": 0.1
       },
       {
@@ -13414,6 +13372,13 @@
         "artist": "Royal Blood",
         "minutes": 11.12,
         "plays": 4,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Last Day On Earth",
+        "artist": "beabadoobee",
+        "minutes": 11.11785,
+        "plays": 3,
         "percentageOfMinutes": 0.0
       },
       {
@@ -13508,6 +13473,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "Shiner In The Dark",
+        "artist": "Royal Blood",
+        "minutes": 10.39245,
+        "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Hip Hop Kids",
         "artist": "Portugal. The Man",
         "minutes": 10.3893,
@@ -13561,13 +13533,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 10.2222,
         "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "She's Creeping",
-        "artist": "Royal Blood",
-        "minutes": 10.1953,
-        "plays": 3,
         "percentageOfMinutes": 0.0
       },
       {
@@ -13697,10 +13662,10 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Pull Me Through",
-        "artist": "Royal Blood",
-        "minutes": 9.4354,
-        "plays": 3,
+        "title": "Home Alone",
+        "artist": "beabadoobee",
+        "minutes": 9.355666666666666,
+        "plays": 4,
         "percentageOfMinutes": 0.0
       },
       {
@@ -13715,6 +13680,13 @@
         "artist": "Tion Wayne",
         "minutes": 9.2695,
         "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "One Time",
+        "artist": "beabadoobee",
+        "minutes": 9.23,
+        "plays": 3,
         "percentageOfMinutes": 0.0
       },
       {
@@ -13750,6 +13722,13 @@
         "artist": "Tyler, The Creator",
         "minutes": 9.0193,
         "plays": 3,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Glue Song",
+        "artist": "beabadoobee",
+        "minutes": 9.0044,
+        "plays": 4,
         "percentageOfMinutes": 0.0
       },
       {
@@ -13809,6 +13788,13 @@
         "percentageOfMinutes": 0.0
       },
       {
+        "title": "How Was Your Day?",
+        "artist": "beabadoobee",
+        "minutes": 8.667466666666666,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
         "title": "Hooked On A Feeling",
         "artist": "Blue Swede",
         "minutes": 8.6433,
@@ -13834,20 +13820,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 8.5902,
         "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Sleep",
-        "artist": "Royal Blood",
-        "minutes": 8.566666666666666,
-        "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "I Only Lie When I Love You",
-        "artist": "Royal Blood",
-        "minutes": 8.486,
-        "plays": 3,
         "percentageOfMinutes": 0.0
       },
       {
@@ -13988,13 +13960,6 @@
         "artist": "Brooksie",
         "minutes": 7.89,
         "plays": 3,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Lights Out",
-        "artist": "Royal Blood",
-        "minutes": 7.880866666666667,
-        "plays": 2,
         "percentageOfMinutes": 0.0
       },
       {
@@ -14208,9 +14173,9 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Shiner In The Dark",
+        "title": "Hook, Line & Sinker",
         "artist": "Royal Blood",
-        "minutes": 6.9283,
+        "minutes": 6.925333333333334,
         "plays": 2,
         "percentageOfMinutes": 0.0
       },
@@ -14281,6 +14246,13 @@
         "title": "Bonfire",
         "artist": "Childish Gambino",
         "minutes": 6.431533333333333,
+        "plays": 2,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "How Many More Times",
+        "artist": "Royal Blood",
+        "minutes": 6.3882666666666665,
         "plays": 2,
         "percentageOfMinutes": 0.0
       },
@@ -15419,13 +15391,6 @@
         "percentageOfMinutes": 0.0
       },
       {
-        "title": "Hook, Line & Sinker",
-        "artist": "Royal Blood",
-        "minutes": 3.462666666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
         "title": "See you Soon",
         "artist": "beabadoobee",
         "minutes": 3.4433333333333334,
@@ -15653,13 +15618,6 @@
         "title": "FE!N (feat. Playboi Carti)",
         "artist": "Travis Scott",
         "minutes": 3.195,
-        "plays": 1,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "How Many More Times",
-        "artist": "Royal Blood",
-        "minutes": 3.1941333333333333,
         "plays": 1,
         "percentageOfMinutes": 0.0
       },
@@ -15905,6 +15863,13 @@
         "title": "Ain't No Rest for the Wicked",
         "artist": "Cage The Elephant",
         "minutes": 2.9248833333333333,
+        "plays": 1,
+        "percentageOfMinutes": 0.0
+      },
+      {
+        "title": "Come on Over",
+        "artist": "Royal Blood",
+        "minutes": 2.8971,
         "plays": 1,
         "percentageOfMinutes": 0.0
       },
