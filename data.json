@@ -1,44 +1,44 @@
 {
   "meta": {
-    "generatedAt": "2026-09-10T02:28:36.783448+00:00",
-    "lastUpdated": "September 10, 2026 - 02:28 AM UTC"
+    "generatedAt": "2026-09-11T02:22:56.277545+00:00",
+    "lastUpdated": "September 11, 2026 - 02:22 AM UTC"
   },
   "artists": {
     "total": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 6905.14,
-        "plays": 2154,
+        "minutes": 6914.71,
+        "plays": 2157,
         "percentageOfMinutes": 24.7
       },
       {
         "name": "beabadoobee",
-        "minutes": 3131.4,
-        "plays": 998,
+        "minutes": 3133.77,
+        "plays": 999,
         "percentageOfMinutes": 11.2
       },
       {
         "name": "TV Girl",
-        "minutes": 2850.48,
-        "plays": 834,
-        "percentageOfMinutes": 10.2
+        "minutes": 2881.87,
+        "plays": 843,
+        "percentageOfMinutes": 10.3
       },
       {
         "name": "The Happy Fits",
-        "minutes": 2603.48,
-        "plays": 795,
+        "minutes": 2612.86,
+        "plays": 798,
         "percentageOfMinutes": 9.3
       },
       {
         "name": "Clairo",
-        "minutes": 1565.78,
-        "plays": 440,
+        "minutes": 1573.02,
+        "plays": 442,
         "percentageOfMinutes": 5.6
       },
       {
         "name": "Masayoshi Takanaka",
-        "minutes": 1483.49,
-        "plays": 268,
+        "minutes": 1490.44,
+        "plays": 269,
         "percentageOfMinutes": 5.3
       },
       {
@@ -49,8 +49,8 @@
       },
       {
         "name": "Royal Blood",
-        "minutes": 805.24,
-        "plays": 236,
+        "minutes": 809.19,
+        "plays": 237,
         "percentageOfMinutes": 2.9
       },
       {
@@ -67,8 +67,8 @@
       },
       {
         "name": "King Gnu",
-        "minutes": 265.93,
-        "plays": 73,
+        "minutes": 269.52,
+        "plays": 74,
         "percentageOfMinutes": 1.0
       },
       {
@@ -78,15 +78,15 @@
         "percentageOfMinutes": 0.9
       },
       {
-        "name": "Portugal. The Man",
-        "minutes": 243.71,
-        "plays": 65,
+        "name": "Jordana",
+        "minutes": 245.04,
+        "plays": 83,
         "percentageOfMinutes": 0.9
       },
       {
-        "name": "Jordana",
-        "minutes": 241.33,
-        "plays": 82,
+        "name": "Portugal. The Man",
+        "minutes": 243.71,
+        "plays": 65,
         "percentageOfMinutes": 0.9
       },
       {
@@ -97,9 +97,9 @@
       },
       {
         "name": "The Long Faces",
-        "minutes": 180.75,
-        "plays": 58,
-        "percentageOfMinutes": 0.6
+        "minutes": 183.87,
+        "plays": 59,
+        "percentageOfMinutes": 0.7
       },
       {
         "name": "Sleigh Bells",
@@ -115,8 +115,8 @@
       },
       {
         "name": "Hot Freaks",
-        "minutes": 132.13,
-        "plays": 31,
+        "minutes": 136.39,
+        "plays": 32,
         "percentageOfMinutes": 0.5
       },
       {
@@ -139,8 +139,8 @@
       },
       {
         "name": "Mars Argo",
-        "minutes": 118.08,
-        "plays": 34,
+        "minutes": 121.55,
+        "plays": 35,
         "percentageOfMinutes": 0.4
       },
       {
@@ -1509,78 +1509,180 @@
     "lastWeek": [
       {
         "name": "Masayoshi Takanaka",
-        "minutes": 112.12,
-        "plays": 18,
-        "percentageOfMinutes": 44.0
+        "minutes": 119.08,
+        "plays": 19,
+        "percentageOfMinutes": 39.7
       },
       {
         "name": "Royal Blood",
-        "minutes": 97.12,
-        "plays": 28,
-        "percentageOfMinutes": 38.1
+        "minutes": 57.28,
+        "plays": 17,
+        "percentageOfMinutes": 19.1
       },
       {
         "name": "The Happy Fits",
-        "minutes": 45.71,
-        "plays": 15,
-        "percentageOfMinutes": 17.9
+        "minutes": 55.09,
+        "plays": 18,
+        "percentageOfMinutes": 18.4
+      },
+      {
+        "name": "TV Girl",
+        "minutes": 31.39,
+        "plays": 9,
+        "percentageOfMinutes": 10.5
+      },
+      {
+        "name": "Arctic Monkeys",
+        "minutes": 9.56,
+        "plays": 3,
+        "percentageOfMinutes": 3.2
+      },
+      {
+        "name": "Clairo",
+        "minutes": 7.24,
+        "plays": 2,
+        "percentageOfMinutes": 2.4
+      },
+      {
+        "name": "Hot Freaks",
+        "minutes": 4.26,
+        "plays": 1,
+        "percentageOfMinutes": 1.4
+      },
+      {
+        "name": "Jordana",
+        "minutes": 3.71,
+        "plays": 1,
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "name": "King Gnu",
+        "minutes": 3.6,
+        "plays": 1,
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "name": "Mars Argo",
+        "minutes": 3.47,
+        "plays": 1,
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "name": "The Long Faces",
+        "minutes": 3.12,
+        "plays": 1,
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "name": "beabadoobee",
+        "minutes": 2.36,
+        "plays": 1,
+        "percentageOfMinutes": 0.8
       }
     ],
     "month": [
       {
         "name": "Royal Blood",
-        "minutes": 147.92,
-        "plays": 43,
-        "percentageOfMinutes": 46.2
+        "minutes": 151.87,
+        "plays": 44,
+        "percentageOfMinutes": 37.1
       },
       {
         "name": "Masayoshi Takanaka",
-        "minutes": 112.12,
-        "plays": 18,
-        "percentageOfMinutes": 35.0
+        "minutes": 119.08,
+        "plays": 19,
+        "percentageOfMinutes": 29.1
       },
       {
         "name": "The Happy Fits",
-        "minutes": 49.07,
-        "plays": 16,
-        "percentageOfMinutes": 15.3
+        "minutes": 58.45,
+        "plays": 19,
+        "percentageOfMinutes": 14.3
+      },
+      {
+        "name": "TV Girl",
+        "minutes": 31.39,
+        "plays": 9,
+        "percentageOfMinutes": 7.7
       },
       {
         "name": "Clairo",
-        "minutes": 11.01,
+        "minutes": 18.25,
+        "plays": 5,
+        "percentageOfMinutes": 4.5
+      },
+      {
+        "name": "Arctic Monkeys",
+        "minutes": 9.56,
         "plays": 3,
-        "percentageOfMinutes": 3.4
+        "percentageOfMinutes": 2.3
+      },
+      {
+        "name": "Hot Freaks",
+        "minutes": 4.26,
+        "plays": 1,
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "name": "Jordana",
+        "minutes": 3.71,
+        "plays": 1,
+        "percentageOfMinutes": 0.9
+      },
+      {
+        "name": "King Gnu",
+        "minutes": 3.6,
+        "plays": 1,
+        "percentageOfMinutes": 0.9
+      },
+      {
+        "name": "Mars Argo",
+        "minutes": 3.47,
+        "plays": 1,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "name": "The Long Faces",
+        "minutes": 3.12,
+        "plays": 1,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "name": "beabadoobee",
+        "minutes": 2.36,
+        "plays": 1,
+        "percentageOfMinutes": 0.6
       }
     ],
     "year": [
       {
         "name": "Arctic Monkeys",
-        "minutes": 6878.7,
-        "plays": 2147,
-        "percentageOfMinutes": 29.8
+        "minutes": 6888.26,
+        "plays": 2150,
+        "percentageOfMinutes": 29.7
       },
       {
         "name": "TV Girl",
-        "minutes": 2850.48,
-        "plays": 834,
+        "minutes": 2881.87,
+        "plays": 843,
         "percentageOfMinutes": 12.4
       },
       {
         "name": "Clairo",
-        "minutes": 1565.78,
-        "plays": 440,
+        "minutes": 1573.02,
+        "plays": 442,
         "percentageOfMinutes": 6.8
       },
       {
         "name": "Masayoshi Takanaka",
-        "minutes": 1471.72,
-        "plays": 266,
+        "minutes": 1478.67,
+        "plays": 267,
         "percentageOfMinutes": 6.4
       },
       {
         "name": "beabadoobee",
-        "minutes": 1353.0,
-        "plays": 436,
+        "minutes": 1355.36,
+        "plays": 437,
         "percentageOfMinutes": 5.9
       },
       {
@@ -1591,20 +1693,20 @@
       },
       {
         "name": "The Happy Fits",
-        "minutes": 1019.36,
-        "plays": 314,
+        "minutes": 1028.74,
+        "plays": 317,
         "percentageOfMinutes": 4.4
       },
       {
         "name": "Royal Blood",
-        "minutes": 620.56,
-        "plays": 181,
+        "minutes": 624.51,
+        "plays": 182,
         "percentageOfMinutes": 2.7
       },
       {
         "name": "King Gnu",
-        "minutes": 265.93,
-        "plays": 73,
+        "minutes": 269.52,
+        "plays": 74,
         "percentageOfMinutes": 1.2
       },
       {
@@ -1615,9 +1717,9 @@
       },
       {
         "name": "Jordana",
-        "minutes": 241.33,
-        "plays": 82,
-        "percentageOfMinutes": 1.0
+        "minutes": 245.04,
+        "plays": 83,
+        "percentageOfMinutes": 1.1
       },
       {
         "name": "Bo Burnham",
@@ -1633,15 +1735,15 @@
       },
       {
         "name": "The Long Faces",
-        "minutes": 180.75,
-        "plays": 58,
+        "minutes": 183.87,
+        "plays": 59,
         "percentageOfMinutes": 0.8
       },
       {
         "name": "Sleigh Bells",
         "minutes": 173.59,
         "plays": 56,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "name": "Kenshi Yonezu",
@@ -1651,8 +1753,8 @@
       },
       {
         "name": "Hot Freaks",
-        "minutes": 132.13,
-        "plays": 31,
+        "minutes": 136.39,
+        "plays": 32,
         "percentageOfMinutes": 0.6
       },
       {
@@ -1671,7 +1773,7 @@
         "name": "Cage The Elephant",
         "minutes": 127.39,
         "plays": 38,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
         "name": "Masatoshi Ono",
@@ -1687,8 +1789,8 @@
       },
       {
         "name": "Mars Argo",
-        "minutes": 118.08,
-        "plays": 34,
+        "minutes": 121.55,
+        "plays": 35,
         "percentageOfMinutes": 0.5
       },
       {
@@ -1833,7 +1935,7 @@
         "name": "Monsieur Perin\u00e9",
         "minutes": 34.68,
         "plays": 8,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "name": "Fitz and The Tantrums",
@@ -3006,15 +3108,15 @@
       {
         "title": "Taking What's Not Yours",
         "artist": "TV Girl",
-        "minutes": 538.1175,
-        "plays": 157,
-        "percentageOfMinutes": 1.9
+        "minutes": 555.255,
+        "plays": 162,
+        "percentageOfMinutes": 2.0
       },
       {
         "title": "Crying Lightning",
         "artist": "Arctic Monkeys",
-        "minutes": 468.3875,
-        "plays": 125,
+        "minutes": 472.1346,
+        "plays": 126,
         "percentageOfMinutes": 1.7
       },
       {
@@ -3048,15 +3150,15 @@
       {
         "title": "Amoeba",
         "artist": "Clairo",
-        "minutes": 297.5986,
-        "plays": 78,
+        "minutes": 301.4139666666667,
+        "plays": 79,
         "percentageOfMinutes": 1.1
       },
       {
         "title": "Mardy Bum",
         "artist": "Arctic Monkeys",
-        "minutes": 260.236,
-        "plays": 89,
+        "minutes": 263.16,
+        "plays": 90,
         "percentageOfMinutes": 0.9
       },
       {
@@ -3083,8 +3185,15 @@
       {
         "title": "AIZO",
         "artist": "King Gnu",
-        "minutes": 223.05326666666667,
-        "plays": 62,
+        "minutes": 226.6509,
+        "plays": 63,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "Hate Yourself",
+        "artist": "TV Girl",
+        "minutes": 224.448,
+        "plays": 63,
         "percentageOfMinutes": 0.8
       },
       {
@@ -3116,24 +3225,17 @@
         "percentageOfMinutes": 0.8
       },
       {
-        "title": "Hate Yourself",
-        "artist": "TV Girl",
-        "minutes": 210.19733333333335,
-        "plays": 59,
-        "percentageOfMinutes": 0.8
-      },
-      {
         "title": "Fluorescent Adolescent",
         "artist": "Arctic Monkeys",
-        "minutes": 199.51695,
-        "plays": 69,
+        "minutes": 202.4085,
+        "plays": 70,
         "percentageOfMinutes": 0.7
       },
       {
         "title": "READY TO FLY",
         "artist": "Masayoshi Takanaka",
-        "minutes": 194.60606666666666,
-        "plays": 28,
+        "minutes": 201.55628333333334,
+        "plays": 29,
         "percentageOfMinutes": 0.7
       },
       {
@@ -3151,24 +3253,24 @@
         "percentageOfMinutes": 0.7
       },
       {
+        "title": "Jane!",
+        "artist": "The Long Faces",
+        "minutes": 183.86956666666666,
+        "plays": 59,
+        "percentageOfMinutes": 0.7
+      },
+      {
         "title": "My Propeller",
         "artist": "Arctic Monkeys",
         "minutes": 181.7423,
         "plays": 53,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Dracula",
         "artist": "Tame Impala",
         "minutes": 181.3554,
         "plays": 53,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Jane!",
-        "artist": "The Long Faces",
-        "minutes": 180.75313333333332,
-        "plays": 58,
         "percentageOfMinutes": 0.6
       },
       {
@@ -3214,6 +3316,13 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "Add Up My Love",
+        "artist": "Clairo",
+        "minutes": 171.0525,
+        "plays": 50,
+        "percentageOfMinutes": 0.6
+      },
+      {
         "title": "The View From The Afternoon",
         "artist": "Arctic Monkeys",
         "minutes": 170.92526666666666,
@@ -3232,13 +3341,6 @@
         "artist": "Arctic Monkeys",
         "minutes": 167.63586666666666,
         "plays": 52,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Add Up My Love",
-        "artist": "Clairo",
-        "minutes": 167.63145,
-        "plays": 49,
         "percentageOfMinutes": 0.6
       },
       {
@@ -3267,7 +3369,7 @@
         "artist": "The Happy Fits",
         "minutes": 153.8103,
         "plays": 42,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Potion Approaching",
@@ -3326,6 +3428,13 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "Puppy Princess",
+        "artist": "Hot Freaks",
+        "minutes": 136.39093333333332,
+        "plays": 32,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "This House Is a Circus",
         "artist": "Arctic Monkeys",
         "minutes": 135.93733333333333,
@@ -3337,13 +3446,6 @@
         "artist": "The Fratellis",
         "minutes": 134.36006666666665,
         "plays": 34,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Puppy Princess",
-        "artist": "Hot Freaks",
-        "minutes": 132.12871666666666,
-        "plays": 31,
         "percentageOfMinutes": 0.5
       },
       {
@@ -3382,17 +3484,17 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "Using You",
+        "artist": "Mars Argo",
+        "minutes": 121.55033333333333,
+        "plays": 35,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "A Certain Romance",
         "artist": "Arctic Monkeys",
         "minutes": 121.44,
         "plays": 22,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Using You",
-        "artist": "Mars Argo",
-        "minutes": 118.07746666666667,
-        "plays": 34,
         "percentageOfMinutes": 0.4
       },
       {
@@ -3767,6 +3869,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "She Wants Me (To Be Loved)",
+        "artist": "The Happy Fits",
+        "minutes": 76.44165,
+        "plays": 23,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Heart of a Dancer",
         "artist": "The Happy Fits",
         "minutes": 76.3231,
@@ -3802,10 +3911,10 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "She Wants Me (To Be Loved)",
+        "title": "Dirty Imbecile - Revisited",
         "artist": "The Happy Fits",
-        "minutes": 73.1181,
-        "plays": 22,
+        "minutes": 74.22866666666667,
+        "plays": 20,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3827,13 +3936,6 @@
         "artist": "beabadoobee",
         "minutes": 70.76333333333334,
         "plays": 23,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Dirty Imbecile - Revisited",
-        "artist": "The Happy Fits",
-        "minutes": 70.51723333333334,
-        "plays": 19,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3942,6 +4044,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Sun Has Set",
+        "artist": "beabadoobee",
+        "minutes": 61.4484,
+        "plays": 26,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Song About Me",
         "artist": "TV Girl",
         "minutes": 60.93175,
@@ -4005,17 +4114,17 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Jump the Turnstile",
+        "artist": "Jordana",
+        "minutes": 59.4,
+        "plays": 16,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Birds Dont Sing",
         "artist": "TV Girl",
         "minutes": 59.3147,
         "plays": 17,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Sun Has Set",
-        "artist": "beabadoobee",
-        "minutes": 59.085,
-        "plays": 25,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4072,13 +4181,6 @@
         "artist": "TV Girl",
         "minutes": 56.1,
         "plays": 12,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Jump the Turnstile",
-        "artist": "Jordana",
-        "minutes": 55.6875,
-        "plays": 15,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4390,6 +4492,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Typhoons",
+        "artist": "Royal Blood",
+        "minutes": 39.48883333333333,
+        "plays": 10,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Sleep",
         "artist": "Royal Blood",
         "minutes": 38.55,
@@ -4446,13 +4555,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Typhoons",
-        "artist": "Royal Blood",
-        "minutes": 35.53995,
-        "plays": 9,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "SEXY DANCE",
         "artist": "Masayoshi Takanaka",
         "minutes": 35.2013,
@@ -4506,6 +4608,13 @@
         "artist": "TV Girl",
         "minutes": 33.213766666666665,
         "plays": 11,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Two of Many",
+        "artist": "The Happy Fits",
+        "minutes": 32.834666666666664,
+        "plays": 14,
         "percentageOfMinutes": 0.1
       },
       {
@@ -4604,13 +4713,6 @@
         "artist": "Saint Motel",
         "minutes": 30.49995,
         "plays": 9,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Two of Many",
-        "artist": "The Happy Fits",
-        "minutes": 30.489333333333335,
-        "plays": 13,
         "percentageOfMinutes": 0.1
       },
       {
@@ -8988,61 +9090,61 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 39.41775,
         "plays": 5,
-        "percentageOfMinutes": 15.5
+        "percentageOfMinutes": 13.1
       },
       {
         "title": "READY TO FLY",
         "artist": "Masayoshi Takanaka",
-        "minutes": 27.800866666666668,
-        "plays": 4,
-        "percentageOfMinutes": 10.9
+        "minutes": 34.751083333333334,
+        "plays": 5,
+        "percentageOfMinutes": 11.6
       },
       {
         "title": "OH! TENGO SUERTE",
         "artist": "Masayoshi Takanaka",
         "minutes": 21.0555,
         "plays": 5,
-        "percentageOfMinutes": 8.3
+        "percentageOfMinutes": 7.0
       },
       {
         "title": "\u61a7\u308c\u306e\u30bb\u30fc\u30b7\u30a7\u30eb\u8af8\u5cf6",
         "artist": "Masayoshi Takanaka",
         "minutes": 18.40065,
         "plays": 3,
-        "percentageOfMinutes": 7.2
+        "percentageOfMinutes": 6.1
+      },
+      {
+        "title": "Taking What's Not Yours",
+        "artist": "TV Girl",
+        "minutes": 17.1375,
+        "plays": 5,
+        "percentageOfMinutes": 5.7
+      },
+      {
+        "title": "Hate Yourself",
+        "artist": "TV Girl",
+        "minutes": 14.250666666666667,
+        "plays": 4,
+        "percentageOfMinutes": 4.7
       },
       {
         "title": "Trouble\u2019s Coming",
         "artist": "Royal Blood",
-        "minutes": 15.226666666666667,
-        "plays": 4,
-        "percentageOfMinutes": 6.0
-      },
-      {
-        "title": "Sleep",
-        "artist": "Royal Blood",
-        "minutes": 8.566666666666666,
+        "minutes": 7.613333333333333,
         "plays": 2,
-        "percentageOfMinutes": 3.4
+        "percentageOfMinutes": 2.5
       },
       {
-        "title": "Out of the Black",
-        "artist": "Royal Blood",
-        "minutes": 8.019066666666667,
+        "title": "Dirty Imbecile - Revisited",
+        "artist": "The Happy Fits",
+        "minutes": 7.422866666666667,
         "plays": 2,
-        "percentageOfMinutes": 3.1
+        "percentageOfMinutes": 2.5
       },
       {
-        "title": "Lights Out",
-        "artist": "Royal Blood",
-        "minutes": 7.880866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 3.1
-      },
-      {
-        "title": "Where Are You Now?",
-        "artist": "Royal Blood",
-        "minutes": 5.56,
+        "title": "She Wants Me (To Be Loved)",
+        "artist": "The Happy Fits",
+        "minutes": 6.6471,
         "plays": 2,
         "percentageOfMinutes": 2.2
       },
@@ -9051,224 +9153,287 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 5.450216666666667,
         "plays": 1,
-        "percentageOfMinutes": 2.1
+        "percentageOfMinutes": 1.8
       },
       {
-        "title": "Million and One",
+        "title": "Sleep",
         "artist": "Royal Blood",
-        "minutes": 4.312883333333334,
+        "minutes": 4.283333333333333,
         "plays": 1,
-        "percentageOfMinutes": 1.7
+        "percentageOfMinutes": 1.4
       },
       {
-        "title": "Hole in Your Heart",
-        "artist": "Royal Blood",
-        "minutes": 3.7682166666666665,
+        "title": "Puppy Princess",
+        "artist": "Hot Freaks",
+        "minutes": 4.262216666666666,
         "plays": 1,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.4
+      },
+      {
+        "title": "Out of the Black",
+        "artist": "Royal Blood",
+        "minutes": 4.009533333333334,
+        "plays": 1,
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "Typhoons",
+        "artist": "Royal Blood",
+        "minutes": 3.9488833333333333,
+        "plays": 1,
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "Amoeba",
+        "artist": "Clairo",
+        "minutes": 3.815366666666667,
+        "plays": 1,
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "Crying Lightning",
+        "artist": "Arctic Monkeys",
+        "minutes": 3.7471,
+        "plays": 1,
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Hold Me Down",
         "artist": "The Happy Fits",
         "minutes": 3.7302166666666667,
         "plays": 1,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.2
       },
       {
-        "title": "Dirty Imbecile - Revisited",
-        "artist": "The Happy Fits",
-        "minutes": 3.7114333333333334,
+        "title": "Jump the Turnstile",
+        "artist": "Jordana",
+        "minutes": 3.7125,
         "plays": 1,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Heart of a Dancer",
         "artist": "The Happy Fits",
         "minutes": 3.6344333333333334,
         "plays": 1,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "title": "AIZO",
+        "artist": "King Gnu",
+        "minutes": 3.5976333333333335,
+        "plays": 1,
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Little Monster",
         "artist": "Royal Blood",
         "minutes": 3.538483333333333,
         "plays": 1,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Little One",
         "artist": "The Happy Fits",
         "minutes": 3.4964333333333335,
         "plays": 1,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "title": "Using You",
+        "artist": "Mars Argo",
+        "minutes": 3.4728666666666665,
+        "plays": 1,
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Shiner In The Dark",
         "artist": "Royal Blood",
         "minutes": 3.46415,
         "plays": 1,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "title": "Add Up My Love",
+        "artist": "Clairo",
+        "minutes": 3.42105,
+        "plays": 1,
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Cruel Power",
         "artist": "The Happy Fits",
         "minutes": 3.4204333333333334,
         "plays": 1,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "She's Creeping",
         "artist": "Royal Blood",
         "minutes": 3.398433333333333,
         "plays": 1,
-        "percentageOfMinutes": 1.3
-      },
-      {
-        "title": "She Wants Me (To Be Loved)",
-        "artist": "The Happy Fits",
-        "minutes": 3.32355,
-        "plays": 1,
-        "percentageOfMinutes": 1.3
-      },
-      {
-        "title": "How Did We Get So Dark?",
-        "artist": "Royal Blood",
-        "minutes": 3.2988833333333334,
-        "plays": 1,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Mary",
         "artist": "The Happy Fits",
         "minutes": 3.24555,
         "plays": 1,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Hold On",
         "artist": "Royal Blood",
         "minutes": 3.23755,
         "plays": 1,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "How Many More Times",
         "artist": "Royal Blood",
         "minutes": 3.1941333333333333,
         "plays": 1,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "So Alright, Cool, Whatever",
         "artist": "The Happy Fits",
         "minutes": 3.1893333333333334,
         "plays": 1,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Who Needs Friends",
         "artist": "Royal Blood",
         "minutes": 3.1688833333333335,
         "plays": 1,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Mad Visions",
         "artist": "Royal Blood",
         "minutes": 3.1557666666666666,
         "plays": 1,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.1
+      },
+      {
+        "title": "Jane!",
+        "artist": "The Long Faces",
+        "minutes": 3.116433333333333,
+        "plays": 1,
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "Figure It Out",
         "artist": "Royal Blood",
         "minutes": 3.060033333333333,
         "plays": 1,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Either You Want It",
-        "artist": "Royal Blood",
-        "minutes": 3.013333333333333,
-        "plays": 1,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "Triggers",
         "artist": "Royal Blood",
         "minutes": 2.9305333333333334,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "title": "Mardy Bum",
+        "artist": "Arctic Monkeys",
+        "minutes": 2.924,
+        "plays": 1,
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "Come on Over",
         "artist": "Royal Blood",
         "minutes": 2.8971,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
-        "title": "I Only Lie When I Love You",
-        "artist": "Royal Blood",
-        "minutes": 2.828666666666667,
+        "title": "Fluorescent Adolescent",
+        "artist": "Arctic Monkeys",
+        "minutes": 2.89155,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "Wild in Love",
         "artist": "The Happy Fits",
         "minutes": 2.80955,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 0.9
+      },
+      {
+        "title": "Where Are You Now?",
+        "artist": "Royal Blood",
+        "minutes": 2.78,
+        "plays": 1,
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Another Try",
         "artist": "The Happy Fits",
         "minutes": 2.7386666666666666,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Best Tears",
         "artist": "The Happy Fits",
         "minutes": 2.6422166666666667,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Loose Change",
         "artist": "Royal Blood",
         "minutes": 2.5997666666666666,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Cold Turkey",
         "artist": "The Happy Fits",
         "minutes": 2.5857666666666668,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Moving",
         "artist": "The Happy Fits",
         "minutes": 2.4244333333333334,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Go Dumb",
         "artist": "The Happy Fits",
         "minutes": 2.3931,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Hungry People",
         "artist": "The Happy Fits",
         "minutes": 2.3646666666666665,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "Sun Has Set",
+        "artist": "beabadoobee",
+        "minutes": 2.3634,
+        "plays": 1,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "Two of Many",
+        "artist": "The Happy Fits",
+        "minutes": 2.3453333333333335,
+        "plays": 1,
+        "percentageOfMinutes": 0.8
       }
     ],
     "month": [
@@ -9277,365 +9442,470 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 39.41775,
         "plays": 5,
-        "percentageOfMinutes": 12.3
+        "percentageOfMinutes": 9.6
       },
       {
         "title": "READY TO FLY",
         "artist": "Masayoshi Takanaka",
-        "minutes": 27.800866666666668,
-        "plays": 4,
-        "percentageOfMinutes": 8.7
+        "minutes": 34.751083333333334,
+        "plays": 5,
+        "percentageOfMinutes": 8.5
       },
       {
         "title": "OH! TENGO SUERTE",
         "artist": "Masayoshi Takanaka",
         "minutes": 21.0555,
         "plays": 5,
-        "percentageOfMinutes": 6.6
+        "percentageOfMinutes": 5.1
       },
       {
         "title": "\u61a7\u308c\u306e\u30bb\u30fc\u30b7\u30a7\u30eb\u8af8\u5cf6",
         "artist": "Masayoshi Takanaka",
         "minutes": 18.40065,
         "plays": 3,
-        "percentageOfMinutes": 5.7
+        "percentageOfMinutes": 4.5
+      },
+      {
+        "title": "Taking What's Not Yours",
+        "artist": "TV Girl",
+        "minutes": 17.1375,
+        "plays": 5,
+        "percentageOfMinutes": 4.2
       },
       {
         "title": "Trouble\u2019s Coming",
         "artist": "Royal Blood",
         "minutes": 15.226666666666667,
         "plays": 4,
-        "percentageOfMinutes": 4.8
+        "percentageOfMinutes": 3.7
+      },
+      {
+        "title": "Hate Yourself",
+        "artist": "TV Girl",
+        "minutes": 14.250666666666667,
+        "plays": 4,
+        "percentageOfMinutes": 3.5
       },
       {
         "title": "Lights Out",
         "artist": "Royal Blood",
         "minutes": 11.8213,
         "plays": 3,
-        "percentageOfMinutes": 3.7
+        "percentageOfMinutes": 2.9
       },
       {
         "title": "Figure It Out",
         "artist": "Royal Blood",
         "minutes": 9.1801,
         "plays": 3,
-        "percentageOfMinutes": 2.9
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "Million and One",
         "artist": "Royal Blood",
         "minutes": 8.625766666666667,
         "plays": 2,
-        "percentageOfMinutes": 2.7
+        "percentageOfMinutes": 2.1
       },
       {
         "title": "Sleep",
         "artist": "Royal Blood",
         "minutes": 8.566666666666666,
         "plays": 2,
-        "percentageOfMinutes": 2.7
+        "percentageOfMinutes": 2.1
       },
       {
         "title": "Out of the Black",
         "artist": "Royal Blood",
         "minutes": 8.019066666666667,
         "plays": 2,
-        "percentageOfMinutes": 2.5
+        "percentageOfMinutes": 2.0
+      },
+      {
+        "title": "Dirty Imbecile - Revisited",
+        "artist": "The Happy Fits",
+        "minutes": 7.422866666666667,
+        "plays": 2,
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "Shiner In The Dark",
         "artist": "Royal Blood",
         "minutes": 6.9283,
         "plays": 2,
-        "percentageOfMinutes": 2.2
+        "percentageOfMinutes": 1.7
       },
       {
         "title": "She's Creeping",
         "artist": "Royal Blood",
         "minutes": 6.796866666666666,
         "plays": 2,
-        "percentageOfMinutes": 2.1
+        "percentageOfMinutes": 1.7
+      },
+      {
+        "title": "She Wants Me (To Be Loved)",
+        "artist": "The Happy Fits",
+        "minutes": 6.6471,
+        "plays": 2,
+        "percentageOfMinutes": 1.6
       },
       {
         "title": "Hold On",
         "artist": "Royal Blood",
         "minutes": 6.4751,
         "plays": 2,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 1.6
       },
       {
         "title": "How Many More Times",
         "artist": "Royal Blood",
         "minutes": 6.3882666666666665,
         "plays": 2,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 1.6
       },
       {
         "title": "Mad Visions",
         "artist": "Royal Blood",
         "minutes": 6.311533333333333,
         "plays": 2,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "Where Are You Now?",
         "artist": "Royal Blood",
         "minutes": 5.56,
         "plays": 2,
-        "percentageOfMinutes": 1.7
+        "percentageOfMinutes": 1.4
       },
       {
         "title": "I REMEMBER YOU",
         "artist": "Masayoshi Takanaka",
         "minutes": 5.450216666666667,
         "plays": 1,
-        "percentageOfMinutes": 1.7
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Loose Change",
         "artist": "Royal Blood",
         "minutes": 5.199533333333333,
         "plays": 2,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Limbo",
         "artist": "Royal Blood",
         "minutes": 4.884883333333334,
         "plays": 1,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "title": "Puppy Princess",
+        "artist": "Hot Freaks",
+        "minutes": 4.262216666666666,
+        "plays": 1,
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "title": "Typhoons",
+        "artist": "Royal Blood",
+        "minutes": 3.9488833333333333,
+        "plays": 1,
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "title": "Amoeba",
+        "artist": "Clairo",
+        "minutes": 3.815366666666667,
+        "plays": 1,
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Second Nature",
         "artist": "Clairo",
         "minutes": 3.79015,
         "plays": 1,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Hole in Your Heart",
         "artist": "Royal Blood",
         "minutes": 3.7682166666666665,
         "plays": 1,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Nomad",
         "artist": "Clairo",
         "minutes": 3.759533333333333,
         "plays": 1,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 0.9
+      },
+      {
+        "title": "Crying Lightning",
+        "artist": "Arctic Monkeys",
+        "minutes": 3.7471,
+        "plays": 1,
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Hold Me Down",
         "artist": "The Happy Fits",
         "minutes": 3.7302166666666667,
         "plays": 1,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 0.9
       },
       {
-        "title": "Dirty Imbecile - Revisited",
-        "artist": "The Happy Fits",
-        "minutes": 3.7114333333333334,
+        "title": "Jump the Turnstile",
+        "artist": "Jordana",
+        "minutes": 3.7125,
         "plays": 1,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Heart of a Dancer",
         "artist": "The Happy Fits",
         "minutes": 3.6344333333333334,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 0.9
+      },
+      {
+        "title": "AIZO",
+        "artist": "King Gnu",
+        "minutes": 3.5976333333333335,
+        "plays": 1,
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Little Monster",
         "artist": "Royal Blood",
         "minutes": 3.538483333333333,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Little One",
         "artist": "The Happy Fits",
         "minutes": 3.4964333333333335,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 0.9
+      },
+      {
+        "title": "Using You",
+        "artist": "Mars Argo",
+        "minutes": 3.4728666666666665,
+        "plays": 1,
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Sexy to Someone",
         "artist": "Clairo",
         "minutes": 3.46325,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Hook, Line & Sinker",
         "artist": "Royal Blood",
         "minutes": 3.462666666666667,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "Add Up My Love",
+        "artist": "Clairo",
+        "minutes": 3.42105,
+        "plays": 1,
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Cruel Power",
         "artist": "The Happy Fits",
         "minutes": 3.4204333333333334,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Too Late - Re-mastered",
         "artist": "The Happy Fits",
         "minutes": 3.3580666666666668,
         "plays": 1,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "She Wants Me (To Be Loved)",
-        "artist": "The Happy Fits",
-        "minutes": 3.32355,
-        "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "How Did We Get So Dark?",
         "artist": "Royal Blood",
         "minutes": 3.2988833333333334,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Mary",
         "artist": "The Happy Fits",
         "minutes": 3.24555,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "So Alright, Cool, Whatever",
         "artist": "The Happy Fits",
         "minutes": 3.1893333333333334,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Who Needs Friends",
         "artist": "Royal Blood",
         "minutes": 3.1688833333333335,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Pull Me Through",
         "artist": "Royal Blood",
         "minutes": 3.1451333333333333,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "Jane!",
+        "artist": "The Long Faces",
+        "minutes": 3.116433333333333,
+        "plays": 1,
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Honeybrains",
         "artist": "Royal Blood",
         "minutes": 3.114116666666667,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Either You Want It",
         "artist": "Royal Blood",
         "minutes": 3.013333333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Triggers",
         "artist": "Royal Blood",
         "minutes": 2.9305333333333334,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.7
+      },
+      {
+        "title": "Mardy Bum",
+        "artist": "Arctic Monkeys",
+        "minutes": 2.924,
+        "plays": 1,
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Come on Over",
         "artist": "Royal Blood",
         "minutes": 2.8971,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.7
+      },
+      {
+        "title": "Fluorescent Adolescent",
+        "artist": "Arctic Monkeys",
+        "minutes": 2.89155,
+        "plays": 1,
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "I Only Lie When I Love You",
         "artist": "Royal Blood",
         "minutes": 2.828666666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Wild in Love",
         "artist": "The Happy Fits",
         "minutes": 2.80955,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "High Waters",
         "artist": "Royal Blood",
         "minutes": 2.7664166666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Another Try",
         "artist": "The Happy Fits",
         "minutes": 2.7386666666666666,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Best Tears",
         "artist": "The Happy Fits",
         "minutes": 2.6422166666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Cold Turkey",
         "artist": "The Happy Fits",
         "minutes": 2.5857666666666668,
         "plays": 1,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Moving",
         "artist": "The Happy Fits",
         "minutes": 2.4244333333333334,
         "plays": 1,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Go Dumb",
         "artist": "The Happy Fits",
         "minutes": 2.3931,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Hungry People",
         "artist": "The Happy Fits",
         "minutes": 2.3646666666666665,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "Sun Has Set",
+        "artist": "beabadoobee",
+        "minutes": 2.3634,
+        "plays": 1,
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "Two of Many",
+        "artist": "The Happy Fits",
+        "minutes": 2.3453333333333335,
+        "plays": 1,
+        "percentageOfMinutes": 0.6
       }
     ],
     "year": [
       {
         "title": "Taking What's Not Yours",
         "artist": "TV Girl",
-        "minutes": 538.1175,
-        "plays": 157,
-        "percentageOfMinutes": 2.3
+        "minutes": 555.255,
+        "plays": 162,
+        "percentageOfMinutes": 2.4
       },
       {
         "title": "Crying Lightning",
         "artist": "Arctic Monkeys",
-        "minutes": 464.6404,
-        "plays": 124,
+        "minutes": 468.3875,
+        "plays": 125,
         "percentageOfMinutes": 2.0
       },
       {
@@ -9657,7 +9927,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 312.06516666666664,
         "plays": 97,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Brianstorm",
@@ -9669,15 +9939,15 @@
       {
         "title": "Amoeba",
         "artist": "Clairo",
-        "minutes": 297.5986,
-        "plays": 78,
+        "minutes": 301.4139666666667,
+        "plays": 79,
         "percentageOfMinutes": 1.3
       },
       {
         "title": "Mardy Bum",
         "artist": "Arctic Monkeys",
-        "minutes": 260.236,
-        "plays": 89,
+        "minutes": 263.16,
+        "plays": 90,
         "percentageOfMinutes": 1.1
       },
       {
@@ -9704,8 +9974,15 @@
       {
         "title": "AIZO",
         "artist": "King Gnu",
-        "minutes": 223.05326666666667,
-        "plays": 62,
+        "minutes": 226.6509,
+        "plays": 63,
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "title": "Hate Yourself",
+        "artist": "TV Girl",
+        "minutes": 224.448,
+        "plays": 63,
         "percentageOfMinutes": 1.0
       },
       {
@@ -9737,25 +10014,18 @@
         "percentageOfMinutes": 0.9
       },
       {
-        "title": "Hate Yourself",
-        "artist": "TV Girl",
-        "minutes": 210.19733333333335,
-        "plays": 59,
+        "title": "READY TO FLY",
+        "artist": "Masayoshi Takanaka",
+        "minutes": 201.55628333333334,
+        "plays": 29,
         "percentageOfMinutes": 0.9
       },
       {
         "title": "Fluorescent Adolescent",
         "artist": "Arctic Monkeys",
-        "minutes": 196.6254,
-        "plays": 68,
+        "minutes": 199.51695,
+        "plays": 69,
         "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "READY TO FLY",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 194.60606666666666,
-        "plays": 28,
-        "percentageOfMinutes": 0.8
       },
       {
         "title": "She's Not Gone Yet but She's Leaving",
@@ -9765,17 +10035,17 @@
         "percentageOfMinutes": 0.8
       },
       {
+        "title": "Jane!",
+        "artist": "The Long Faces",
+        "minutes": 183.86956666666666,
+        "plays": 59,
+        "percentageOfMinutes": 0.8
+      },
+      {
         "title": "My Propeller",
         "artist": "Arctic Monkeys",
         "minutes": 181.7423,
         "plays": 53,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Jane!",
-        "artist": "The Long Faces",
-        "minutes": 180.75313333333332,
-        "plays": 58,
         "percentageOfMinutes": 0.8
       },
       {
@@ -9790,13 +10060,20 @@
         "artist": "Arctic Monkeys",
         "minutes": 173.66,
         "plays": 38,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Why'd You Only Call Me When You're High?",
         "artist": "Arctic Monkeys",
         "minutes": 171.86453333333333,
         "plays": 64,
+        "percentageOfMinutes": 0.7
+      },
+      {
+        "title": "Add Up My Love",
+        "artist": "Clairo",
+        "minutes": 171.0525,
+        "plays": 50,
         "percentageOfMinutes": 0.7
       },
       {
@@ -9818,13 +10095,6 @@
         "artist": "Arctic Monkeys",
         "minutes": 167.63586666666666,
         "plays": 52,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Add Up My Love",
-        "artist": "Clairo",
-        "minutes": 167.63145,
-        "plays": 49,
         "percentageOfMinutes": 0.7
       },
       {
@@ -9891,6 +10161,13 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "Puppy Princess",
+        "artist": "Hot Freaks",
+        "minutes": 136.39093333333332,
+        "plays": 32,
+        "percentageOfMinutes": 0.6
+      },
+      {
         "title": "This House Is a Circus",
         "artist": "Arctic Monkeys",
         "minutes": 135.93733333333333,
@@ -9909,13 +10186,6 @@
         "artist": "The Fratellis",
         "minutes": 134.36006666666665,
         "plays": 34,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Puppy Princess",
-        "artist": "Hot Freaks",
-        "minutes": 132.12871666666666,
-        "plays": 31,
         "percentageOfMinutes": 0.6
       },
       {
@@ -9947,17 +10217,17 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "Using You",
+        "artist": "Mars Argo",
+        "minutes": 121.55033333333333,
+        "plays": 35,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "A Certain Romance",
         "artist": "Arctic Monkeys",
         "minutes": 121.44,
         "plays": 22,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Using You",
-        "artist": "Mars Argo",
-        "minutes": 118.07746666666667,
-        "plays": 34,
         "percentageOfMinutes": 0.5
       },
       {
@@ -10171,6 +10441,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Dirty Imbecile - Revisited",
+        "artist": "The Happy Fits",
+        "minutes": 74.22866666666667,
+        "plays": 20,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Wild in Love",
         "artist": "The Happy Fits",
         "minutes": 73.0483,
@@ -10189,13 +10466,6 @@
         "artist": "The Happy Fits",
         "minutes": 71.8291,
         "plays": 21,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Dirty Imbecile - Revisited",
-        "artist": "The Happy Fits",
-        "minutes": 70.51723333333334,
-        "plays": 19,
         "percentageOfMinutes": 0.3
       },
       {
@@ -10311,6 +10581,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Sun Has Set",
+        "artist": "beabadoobee",
+        "minutes": 61.4484,
+        "plays": 26,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Song About Me",
         "artist": "TV Girl",
         "minutes": 60.93175,
@@ -10353,17 +10630,17 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Jump the Turnstile",
+        "artist": "Jordana",
+        "minutes": 59.4,
+        "plays": 16,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Birds Dont Sing",
         "artist": "TV Girl",
         "minutes": 59.3147,
         "plays": 17,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Sun Has Set",
-        "artist": "beabadoobee",
-        "minutes": 59.085,
-        "plays": 25,
         "percentageOfMinutes": 0.3
       },
       {
@@ -10399,13 +10676,6 @@
         "artist": "TV Girl",
         "minutes": 56.1,
         "plays": 12,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Jump the Turnstile",
-        "artist": "Jordana",
-        "minutes": 55.6875,
-        "plays": 15,
         "percentageOfMinutes": 0.2
       },
       {
@@ -10465,6 +10735,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "She Wants Me (To Be Loved)",
+        "artist": "The Happy Fits",
+        "minutes": 53.1768,
+        "plays": 16,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Pretty Boy",
         "artist": "TV Girl",
         "minutes": 52.56666666666667,
@@ -10504,13 +10781,6 @@
         "artist": "TV Girl",
         "minutes": 50.266666666666666,
         "plays": 26,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "She Wants Me (To Be Loved)",
-        "artist": "The Happy Fits",
-        "minutes": 49.85325,
-        "plays": 15,
         "percentageOfMinutes": 0.2
       },
       {
@@ -10763,7 +11033,7 @@
         "artist": "Monsieur Perin\u00e9",
         "minutes": 34.6772,
         "plays": 8,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.1
       },
       {
         "title": "She's Creeping",
@@ -11004,6 +11274,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Typhoons",
+        "artist": "Royal Blood",
+        "minutes": 27.64218333333333,
+        "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Lights Out",
         "artist": "Royal Blood",
         "minutes": 27.583033333333333,
@@ -11190,13 +11467,6 @@
         "artist": "Saint Motel",
         "minutes": 23.722183333333334,
         "plays": 7,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Typhoons",
-        "artist": "Royal Blood",
-        "minutes": 23.6933,
-        "plays": 6,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12173,6 +12443,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Two of Many",
+        "artist": "The Happy Fits",
+        "minutes": 11.726666666666667,
+        "plays": 5,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Triggers",
         "artist": "Royal Blood",
         "minutes": 11.722133333333334,
@@ -12198,7 +12475,7 @@
         "artist": "Queen",
         "minutes": 11.544866666666667,
         "plays": 4,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "The Jeweller's Hands",
@@ -12520,13 +12797,6 @@
         "artist": "Bee Gees",
         "minutes": 9.4382,
         "plays": 2,
-        "percentageOfMinutes": 0.0
-      },
-      {
-        "title": "Two of Many",
-        "artist": "The Happy Fits",
-        "minutes": 9.381333333333334,
-        "plays": 4,
         "percentageOfMinutes": 0.0
       },
       {
