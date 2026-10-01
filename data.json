@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-09-30T03:22:26.043986+00:00",
-    "lastUpdated": "September 30, 2026 - 03:22 AM UTC"
+    "generatedAt": "2026-10-01T03:28:17.198464+00:00",
+    "lastUpdated": "October 01, 2026 - 03:28 AM UTC"
   },
   "artists": {
     "total": [
@@ -19,15 +19,15 @@
       },
       {
         "name": "TV Girl",
-        "minutes": 2895.85,
-        "plays": 847,
+        "minutes": 2902.84,
+        "plays": 849,
         "percentageOfMinutes": 9.9
       },
       {
         "name": "The Happy Fits",
         "minutes": 2637.99,
         "plays": 806,
-        "percentageOfMinutes": 9.1
+        "percentageOfMinutes": 9.0
       },
       {
         "name": "Masayoshi Takanaka",
@@ -37,9 +37,9 @@
       },
       {
         "name": "Clairo",
-        "minutes": 1584.47,
-        "plays": 445,
-        "percentageOfMinutes": 5.4
+        "minutes": 1637.46,
+        "plays": 459,
+        "percentageOfMinutes": 5.6
       },
       {
         "name": "The Fratellis",
@@ -96,21 +96,21 @@
         "percentageOfMinutes": 0.8
       },
       {
+        "name": "Waterflame",
+        "minutes": 216.51,
+        "plays": 78,
+        "percentageOfMinutes": 0.7
+      },
+      {
         "name": "The Long Faces",
-        "minutes": 183.87,
-        "plays": 59,
+        "minutes": 186.99,
+        "plays": 60,
         "percentageOfMinutes": 0.6
       },
       {
         "name": "Sleigh Bells",
         "minutes": 173.59,
         "plays": 56,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "name": "Waterflame",
-        "minutes": 165.27,
-        "plays": 59,
         "percentageOfMinutes": 0.6
       },
       {
@@ -129,7 +129,7 @@
         "name": "ALI",
         "minutes": 131.19,
         "plays": 24,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.4
       },
       {
         "name": "Masatoshi Ono",
@@ -159,7 +159,7 @@
         "name": "MOB CHOIR",
         "minutes": 102.04,
         "plays": 26,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "name": "Miki Matsubara",
@@ -1515,163 +1515,72 @@
     "lastWeek": [
       {
         "name": "Waterflame",
-        "minutes": 165.27,
-        "plays": 59,
-        "percentageOfMinutes": 55.4
+        "minutes": 216.51,
+        "plays": 78,
+        "percentageOfMinutes": 60.7
+      },
+      {
+        "name": "Clairo",
+        "minutes": 64.44,
+        "plays": 17,
+        "percentageOfMinutes": 18.1
       },
       {
         "name": "beabadoobee",
-        "minutes": 81.42,
-        "plays": 28,
-        "percentageOfMinutes": 27.3
+        "minutes": 25.6,
+        "plays": 9,
+        "percentageOfMinutes": 7.2
+      },
+      {
+        "name": "TV Girl",
+        "minutes": 20.97,
+        "plays": 6,
+        "percentageOfMinutes": 5.9
       },
       {
         "name": "Wilco",
         "minutes": 17.74,
         "plays": 4,
-        "percentageOfMinutes": 6.0
-      },
-      {
-        "name": "TV Girl",
-        "minutes": 13.98,
-        "plays": 4,
-        "percentageOfMinutes": 4.7
-      },
-      {
-        "name": "Clairo",
-        "minutes": 11.45,
-        "plays": 3,
-        "percentageOfMinutes": 3.8
+        "percentageOfMinutes": 5.0
       },
       {
         "name": "Liana Flores",
         "minutes": 5.4,
         "plays": 2,
-        "percentageOfMinutes": 1.8
-      },
-      {
-        "name": "LE SSERAFIM",
-        "minutes": 2.87,
-        "plays": 1,
-        "percentageOfMinutes": 1.0
-      }
-    ],
-    "month": [
-      {
-        "name": "Royal Blood",
-        "minutes": 447.42,
-        "plays": 131,
-        "percentageOfMinutes": 29.7
-      },
-      {
-        "name": "Masayoshi Takanaka",
-        "minutes": 377.67,
-        "plays": 67,
-        "percentageOfMinutes": 25.0
-      },
-      {
-        "name": "beabadoobee",
-        "minutes": 305.45,
-        "plays": 104,
-        "percentageOfMinutes": 20.3
-      },
-      {
-        "name": "Waterflame",
-        "minutes": 165.27,
-        "plays": 59,
-        "percentageOfMinutes": 11.0
-      },
-      {
-        "name": "The Happy Fits",
-        "minutes": 83.58,
-        "plays": 27,
-        "percentageOfMinutes": 5.5
-      },
-      {
-        "name": "TV Girl",
-        "minutes": 45.37,
-        "plays": 13,
-        "percentageOfMinutes": 3.0
-      },
-      {
-        "name": "Clairo",
-        "minutes": 29.7,
-        "plays": 8,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "name": "Wilco",
-        "minutes": 17.74,
-        "plays": 4,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "name": "Arctic Monkeys",
-        "minutes": 9.56,
-        "plays": 3,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "name": "Liana Flores",
-        "minutes": 5.4,
-        "plays": 2,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "name": "Hot Freaks",
-        "minutes": 4.26,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "name": "Jordana",
-        "minutes": 3.71,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "name": "King Gnu",
-        "minutes": 3.6,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "name": "Mars Argo",
-        "minutes": 3.47,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 1.5
       },
       {
         "name": "The Long Faces",
         "minutes": 3.12,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.9
       },
       {
         "name": "LE SSERAFIM",
         "minutes": 2.87,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.8
       }
     ],
+    "month": [],
     "year": [
       {
         "name": "Arctic Monkeys",
         "minutes": 6888.26,
         "plays": 2150,
-        "percentageOfMinutes": 28.4
+        "percentageOfMinutes": 28.3
       },
       {
         "name": "TV Girl",
-        "minutes": 2895.85,
-        "plays": 847,
+        "minutes": 2902.84,
+        "plays": 849,
         "percentageOfMinutes": 11.9
       },
       {
         "name": "Masayoshi Takanaka",
         "minutes": 1737.27,
         "plays": 315,
-        "percentageOfMinutes": 7.2
+        "percentageOfMinutes": 7.1
       },
       {
         "name": "beabadoobee",
@@ -1681,15 +1590,15 @@
       },
       {
         "name": "Clairo",
-        "minutes": 1584.47,
-        "plays": 445,
-        "percentageOfMinutes": 6.5
+        "minutes": 1637.46,
+        "plays": 459,
+        "percentageOfMinutes": 6.7
       },
       {
         "name": "The Fratellis",
         "minutes": 1253.62,
         "plays": 360,
-        "percentageOfMinutes": 5.2
+        "percentageOfMinutes": 5.1
       },
       {
         "name": "The Happy Fits",
@@ -1734,21 +1643,21 @@
         "percentageOfMinutes": 0.9
       },
       {
+        "name": "Waterflame",
+        "minutes": 216.51,
+        "plays": 78,
+        "percentageOfMinutes": 0.9
+      },
+      {
         "name": "The Long Faces",
-        "minutes": 183.87,
-        "plays": 59,
+        "minutes": 186.99,
+        "plays": 60,
         "percentageOfMinutes": 0.8
       },
       {
         "name": "Sleigh Bells",
         "minutes": 173.59,
         "plays": 56,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "name": "Waterflame",
-        "minutes": 165.27,
-        "plays": 59,
         "percentageOfMinutes": 0.7
       },
       {
@@ -1857,7 +1766,7 @@
         "name": "Franz Ferdinand",
         "minutes": 60.83,
         "plays": 16,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "name": "Gorillaz",
@@ -3114,8 +3023,8 @@
       {
         "title": "Taking What's Not Yours",
         "artist": "TV Girl",
-        "minutes": 562.11,
-        "plays": 164,
+        "minutes": 565.5375,
+        "plays": 165,
         "percentageOfMinutes": 1.9
       },
       {
@@ -3133,6 +3042,13 @@
         "percentageOfMinutes": 1.3
       },
       {
+        "title": "Amoeba",
+        "artist": "Clairo",
+        "minutes": 358.6444666666667,
+        "plays": 94,
+        "percentageOfMinutes": 1.2
+      },
+      {
         "title": "505",
         "artist": "Arctic Monkeys",
         "minutes": 338.11466666666666,
@@ -3147,18 +3063,11 @@
         "percentageOfMinutes": 1.1
       },
       {
-        "title": "Amoeba",
-        "artist": "Clairo",
-        "minutes": 312.8600666666667,
-        "plays": 82,
-        "percentageOfMinutes": 1.1
-      },
-      {
         "title": "Brianstorm",
         "artist": "Arctic Monkeys",
         "minutes": 306.4554,
         "plays": 108,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "Mardy Bum",
@@ -3198,8 +3107,8 @@
       {
         "title": "Hate Yourself",
         "artist": "TV Girl",
-        "minutes": 231.57333333333332,
-        "plays": 65,
+        "minutes": 235.136,
+        "plays": 66,
         "percentageOfMinutes": 0.8
       },
       {
@@ -3252,17 +3161,17 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "Jane!",
+        "artist": "The Long Faces",
+        "minutes": 186.986,
+        "plays": 60,
+        "percentageOfMinutes": 0.6
+      },
+      {
         "title": "She's Not Gone Yet but She's Leaving",
         "artist": "The Fratellis",
         "minutes": 184.16,
         "plays": 48,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Jane!",
-        "artist": "The Long Faces",
-        "minutes": 183.86956666666666,
-        "plays": 59,
         "percentageOfMinutes": 0.6
       },
       {
@@ -3301,6 +3210,13 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "Add Up My Love",
+        "artist": "Clairo",
+        "minutes": 174.47355,
+        "plays": 51,
+        "percentageOfMinutes": 0.6
+      },
+      {
         "title": "If You Were There, Beware",
         "artist": "Arctic Monkeys",
         "minutes": 173.66,
@@ -3319,13 +3235,6 @@
         "artist": "Arctic Monkeys",
         "minutes": 171.86453333333333,
         "plays": 64,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Add Up My Love",
-        "artist": "Clairo",
-        "minutes": 171.0525,
-        "plays": 50,
         "percentageOfMinutes": 0.6
       },
       {
@@ -3459,7 +3368,7 @@
         "artist": "ALI",
         "minutes": 131.1864,
         "plays": 24,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Loser",
@@ -3630,6 +3539,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Second Nature",
+        "artist": "Clairo",
+        "minutes": 98.5439,
+        "plays": 26,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Loving Machine",
         "artist": "TV Girl",
         "minutes": 98.36666666666666,
@@ -3669,13 +3585,6 @@
         "artist": "The Happy Fits",
         "minutes": 95.36333333333333,
         "plays": 35,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Second Nature",
-        "artist": "Clairo",
-        "minutes": 94.75375,
-        "plays": 25,
         "percentageOfMinutes": 0.3
       },
       {
@@ -4330,6 +4239,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "The Race Around the World",
+        "artist": "Waterflame",
+        "minutes": 50.6175,
+        "plays": 18,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Safeword",
         "artist": "TV Girl",
         "minutes": 50.5778,
@@ -4369,6 +4285,13 @@
         "artist": "Dazey and the Scouts",
         "minutes": 48.61291666666666,
         "plays": 17,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Final Battle",
+        "artist": "Waterflame",
+        "minutes": 48.44415,
+        "plays": 9,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4442,6 +4365,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Space Pirates",
+        "artist": "Waterflame",
+        "minutes": 44.91125,
+        "plays": 15,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Where Are You Now?",
         "artist": "Royal Blood",
         "minutes": 44.48,
@@ -4474,13 +4404,6 @@
         "artist": "Jordana",
         "minutes": 43.25,
         "plays": 15,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Final Battle",
-        "artist": "Waterflame",
-        "minutes": 43.06146666666667,
-        "plays": 8,
         "percentageOfMinutes": 0.1
       },
       {
@@ -4614,13 +4537,6 @@
         "artist": "TV Girl",
         "minutes": 37.1899,
         "plays": 11,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "The Race Around the World",
-        "artist": "Waterflame",
-        "minutes": 36.55708333333333,
-        "plays": 13,
         "percentageOfMinutes": 0.1
       },
       {
@@ -4862,10 +4778,10 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Space Pirates",
+        "title": "Glorious Morning",
         "artist": "Waterflame",
-        "minutes": 29.940833333333334,
-        "plays": 10,
+        "minutes": 29.9048,
+        "plays": 16,
         "percentageOfMinutes": 0.1
       },
       {
@@ -5079,6 +4995,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Electroman Adventures",
+        "artist": "Waterflame",
+        "minutes": 25.43016666666667,
+        "plays": 10,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Who Needs Friends",
         "artist": "Royal Blood",
         "minutes": 25.351066666666668,
@@ -5209,13 +5132,6 @@
         "artist": "Cage The Elephant",
         "minutes": 22.932,
         "plays": 7,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Glorious Morning",
-        "artist": "Waterflame",
-        "minutes": 22.4286,
-        "plays": 12,
         "percentageOfMinutes": 0.1
       },
       {
@@ -5527,13 +5443,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Electroman Adventures",
-        "artist": "Waterflame",
-        "minutes": 17.801116666666665,
-        "plays": 7,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "Talk to Strangers",
         "artist": "TV Girl",
         "minutes": 17.7693,
@@ -5580,6 +5489,13 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 17.23,
         "plays": 3,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Jumper",
+        "artist": "Waterflame",
+        "minutes": 17.205833333333334,
+        "plays": 10,
         "percentageOfMinutes": 0.1
       },
       {
@@ -5685,13 +5601,6 @@
         "artist": "Cage The Elephant",
         "minutes": 15.539083333333334,
         "plays": 5,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Jumper",
-        "artist": "Waterflame",
-        "minutes": 15.48525,
-        "plays": 9,
         "percentageOfMinutes": 0.1
       },
       {
@@ -5811,7 +5720,7 @@
         "artist": "Cage The Elephant",
         "minutes": 14.603533333333333,
         "plays": 4,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Waves",
@@ -9211,1085 +9120,174 @@
     ],
     "lastWeek": [
       {
-        "title": "Final Battle",
-        "artist": "Waterflame",
-        "minutes": 43.06146666666667,
-        "plays": 8,
-        "percentageOfMinutes": 14.4
+        "title": "Amoeba",
+        "artist": "Clairo",
+        "minutes": 57.2305,
+        "plays": 15,
+        "percentageOfMinutes": 16.0
       },
       {
         "title": "The Race Around the World",
         "artist": "Waterflame",
-        "minutes": 36.55708333333333,
-        "plays": 13,
-        "percentageOfMinutes": 12.3
+        "minutes": 50.6175,
+        "plays": 18,
+        "percentageOfMinutes": 14.2
+      },
+      {
+        "title": "Final Battle",
+        "artist": "Waterflame",
+        "minutes": 48.44415,
+        "plays": 9,
+        "percentageOfMinutes": 13.6
       },
       {
         "title": "Space Pirates",
         "artist": "Waterflame",
-        "minutes": 29.940833333333334,
-        "plays": 10,
-        "percentageOfMinutes": 10.0
+        "minutes": 44.91125,
+        "plays": 15,
+        "percentageOfMinutes": 12.6
       },
       {
         "title": "Glorious Morning",
         "artist": "Waterflame",
-        "minutes": 22.4286,
-        "plays": 12,
-        "percentageOfMinutes": 7.5
+        "minutes": 29.9048,
+        "plays": 16,
+        "percentageOfMinutes": 8.4
       },
       {
         "title": "Electroman Adventures",
         "artist": "Waterflame",
-        "minutes": 17.801116666666665,
-        "plays": 7,
-        "percentageOfMinutes": 6.0
+        "minutes": 25.43016666666667,
+        "plays": 10,
+        "percentageOfMinutes": 7.1
       },
       {
         "title": "Walken",
         "artist": "Wilco",
         "minutes": 17.744,
         "plays": 4,
-        "percentageOfMinutes": 6.0
+        "percentageOfMinutes": 5.0
       },
       {
         "title": "Jumper",
         "artist": "Waterflame",
-        "minutes": 15.48525,
-        "plays": 9,
-        "percentageOfMinutes": 5.2
+        "minutes": 17.205833333333334,
+        "plays": 10,
+        "percentageOfMinutes": 4.8
       },
       {
-        "title": "Amoeba",
-        "artist": "Clairo",
-        "minutes": 11.4461,
-        "plays": 3,
-        "percentageOfMinutes": 3.8
-      },
-      {
-        "title": "Write Me A Letter",
-        "artist": "beabadoobee",
-        "minutes": 9.70515,
-        "plays": 3,
-        "percentageOfMinutes": 3.3
-      },
-      {
-        "title": "Sun Has Set",
-        "artist": "beabadoobee",
-        "minutes": 9.4536,
-        "plays": 4,
-        "percentageOfMinutes": 3.2
-      },
-      {
-        "title": "In Motion",
-        "artist": "beabadoobee",
-        "minutes": 9.3996,
-        "plays": 3,
-        "percentageOfMinutes": 3.2
-      },
-      {
-        "title": "Switchblade",
-        "artist": "beabadoobee",
-        "minutes": 9.0963,
-        "plays": 3,
-        "percentageOfMinutes": 3.1
-      },
-      {
-        "title": "Estranged",
-        "artist": "beabadoobee",
-        "minutes": 8.91405,
+        "title": "Hate Yourself",
+        "artist": "TV Girl",
+        "minutes": 10.688,
         "plays": 3,
         "percentageOfMinutes": 3.0
       },
       {
-        "title": "Hate Yourself",
-        "artist": "TV Girl",
-        "minutes": 7.125333333333334,
-        "plays": 2,
-        "percentageOfMinutes": 2.4
-      },
-      {
         "title": "Taking What's Not Yours",
         "artist": "TV Girl",
-        "minutes": 6.855,
-        "plays": 2,
-        "percentageOfMinutes": 2.3
-      },
-      {
-        "title": "Powerlines",
-        "artist": "beabadoobee",
-        "minutes": 5.946366666666667,
-        "plays": 2,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "title": "It's Alright",
-        "artist": "beabadoobee",
-        "minutes": 5.710266666666667,
-        "plays": 2,
-        "percentageOfMinutes": 1.9
+        "minutes": 10.2825,
+        "plays": 3,
+        "percentageOfMinutes": 2.9
       },
       {
         "title": "rises the moon",
         "artist": "Liana Flores",
         "minutes": 5.397633333333333,
         "plays": 2,
-        "percentageOfMinutes": 1.8
-      },
-      {
-        "title": "Radio",
-        "artist": "beabadoobee",
-        "minutes": 5.341,
-        "plays": 2,
-        "percentageOfMinutes": 1.8
-      },
-      {
-        "title": "Satellite",
-        "artist": "beabadoobee",
-        "minutes": 4.757083333333333,
-        "plays": 1,
-        "percentageOfMinutes": 1.6
-      },
-      {
-        "title": "Pylon",
-        "artist": "beabadoobee",
-        "minutes": 3.5876,
-        "plays": 1,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "SPAGHETTI",
-        "artist": "LE SSERAFIM",
-        "minutes": 2.8718833333333333,
-        "plays": 1,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Memories",
-        "artist": "beabadoobee",
-        "minutes": 2.8122166666666666,
-        "plays": 1,
-        "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "Spark",
-        "artist": "beabadoobee",
-        "minutes": 2.79665,
-        "plays": 1,
-        "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "Nothing To Prove",
-        "artist": "beabadoobee",
-        "minutes": 2.405266666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Despite That",
-        "artist": "beabadoobee",
-        "minutes": 1.4946333333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.5
-      }
-    ],
-    "month": [
-      {
-        "title": "BELEZA PULA",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 63.0684,
-        "plays": 8,
-        "percentageOfMinutes": 4.2
-      },
-      {
-        "title": "READY TO FLY",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 48.651516666666666,
-        "plays": 7,
-        "percentageOfMinutes": 3.2
-      },
-      {
-        "title": "Final Battle",
-        "artist": "Waterflame",
-        "minutes": 43.06146666666667,
-        "plays": 8,
-        "percentageOfMinutes": 2.9
-      },
-      {
-        "title": "The Race Around the World",
-        "artist": "Waterflame",
-        "minutes": 36.55708333333333,
-        "plays": 13,
-        "percentageOfMinutes": 2.4
-      },
-      {
-        "title": "OH! TENGO SUERTE",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 33.6888,
-        "plays": 8,
-        "percentageOfMinutes": 2.2
-      },
-      {
-        "title": "\u61a7\u308c\u306e\u30bb\u30fc\u30b7\u30a7\u30eb\u8af8\u5cf6",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 30.66775,
-        "plays": 5,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "title": "Trouble\u2019s Coming",
-        "artist": "Royal Blood",
-        "minutes": 30.453333333333333,
-        "plays": 8,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "title": "Space Pirates",
-        "artist": "Waterflame",
-        "minutes": 29.940833333333334,
-        "plays": 10,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "title": "Estranged",
-        "artist": "beabadoobee",
-        "minutes": 29.7135,
-        "plays": 10,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "title": "Write Me A Letter",
-        "artist": "beabadoobee",
-        "minutes": 29.11545,
-        "plays": 9,
-        "percentageOfMinutes": 1.9
-      },
-      {
-        "title": "Satellite",
-        "artist": "beabadoobee",
-        "minutes": 28.5425,
-        "plays": 6,
-        "percentageOfMinutes": 1.9
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "Sun Has Set",
         "artist": "beabadoobee",
-        "minutes": 28.3608,
-        "plays": 12,
-        "percentageOfMinutes": 1.9
-      },
-      {
-        "title": "Switchblade",
-        "artist": "beabadoobee",
-        "minutes": 27.2889,
-        "plays": 9,
-        "percentageOfMinutes": 1.8
-      },
-      {
-        "title": "Sleep",
-        "artist": "Royal Blood",
-        "minutes": 25.7,
-        "plays": 6,
-        "percentageOfMinutes": 1.7
-      },
-      {
-        "title": "Pylon",
-        "artist": "beabadoobee",
-        "minutes": 25.1132,
-        "plays": 7,
-        "percentageOfMinutes": 1.7
-      },
-      {
-        "title": "In Motion",
-        "artist": "beabadoobee",
-        "minutes": 25.0656,
-        "plays": 8,
-        "percentageOfMinutes": 1.7
-      },
-      {
-        "title": "Taking What's Not Yours",
-        "artist": "TV Girl",
-        "minutes": 23.9925,
-        "plays": 7,
-        "percentageOfMinutes": 1.6
-      },
-      {
-        "title": "Lights Out",
-        "artist": "Royal Blood",
-        "minutes": 23.6426,
-        "plays": 6,
-        "percentageOfMinutes": 1.6
-      },
-      {
-        "title": "Glorious Morning",
-        "artist": "Waterflame",
-        "minutes": 22.4286,
-        "plays": 12,
-        "percentageOfMinutes": 1.5
-      },
-      {
-        "title": "Figure It Out",
-        "artist": "Royal Blood",
-        "minutes": 21.420233333333332,
-        "plays": 7,
-        "percentageOfMinutes": 1.4
-      },
-      {
-        "title": "Hate Yourself",
-        "artist": "TV Girl",
-        "minutes": 21.376,
-        "plays": 6,
-        "percentageOfMinutes": 1.4
-      },
-      {
-        "title": "Powerlines",
-        "artist": "beabadoobee",
-        "minutes": 20.812283333333333,
-        "plays": 7,
-        "percentageOfMinutes": 1.4
-      },
-      {
-        "title": "She's Creeping",
-        "artist": "Royal Blood",
-        "minutes": 20.3906,
-        "plays": 6,
-        "percentageOfMinutes": 1.4
-      },
-      {
-        "title": "It's Alright",
-        "artist": "beabadoobee",
-        "minutes": 19.98593333333333,
-        "plays": 7,
+        "minutes": 4.7268,
+        "plays": 2,
         "percentageOfMinutes": 1.3
-      },
-      {
-        "title": "Typhoons",
-        "artist": "Royal Blood",
-        "minutes": 19.744416666666666,
-        "plays": 5,
-        "percentageOfMinutes": 1.3
-      },
-      {
-        "title": "Radio",
-        "artist": "beabadoobee",
-        "minutes": 18.6935,
-        "plays": 7,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Electroman Adventures",
-        "artist": "Waterflame",
-        "minutes": 17.801116666666665,
-        "plays": 7,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Walken",
-        "artist": "Wilco",
-        "minutes": 17.744,
-        "plays": 4,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Little Monster",
-        "artist": "Royal Blood",
-        "minutes": 17.692416666666666,
-        "plays": 5,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Hook, Line & Sinker",
-        "artist": "Royal Blood",
-        "minutes": 17.313333333333333,
-        "plays": 5,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "Million and One",
-        "artist": "Royal Blood",
-        "minutes": 17.251533333333334,
-        "plays": 4,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "Memories",
-        "artist": "beabadoobee",
-        "minutes": 16.8733,
-        "plays": 6,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "I REMEMBER YOU",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 16.35065,
-        "plays": 3,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "Out of the Black",
-        "artist": "Royal Blood",
-        "minutes": 16.038133333333334,
-        "plays": 4,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "Mad Visions",
-        "artist": "Royal Blood",
-        "minutes": 15.778833333333333,
-        "plays": 5,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Honeybrains",
-        "artist": "Royal Blood",
-        "minutes": 15.570583333333333,
-        "plays": 5,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Jumper",
-        "artist": "Waterflame",
-        "minutes": 15.48525,
-        "plays": 9,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Amoeba",
-        "artist": "Clairo",
-        "minutes": 15.261466666666667,
-        "plays": 4,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Hole in Your Heart",
-        "artist": "Royal Blood",
-        "minutes": 15.072866666666666,
-        "plays": 4,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Limbo",
-        "artist": "Royal Blood",
-        "minutes": 14.65465,
-        "plays": 3,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Nothing To Prove",
-        "artist": "beabadoobee",
-        "minutes": 14.4316,
-        "plays": 6,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Spark",
-        "artist": "beabadoobee",
-        "minutes": 13.98325,
-        "plays": 5,
-        "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "Where Are You Now?",
-        "artist": "Royal Blood",
-        "minutes": 13.9,
-        "plays": 5,
-        "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "High Waters",
-        "artist": "Royal Blood",
-        "minutes": 13.832083333333333,
-        "plays": 5,
-        "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "Hold On",
-        "artist": "Royal Blood",
-        "minutes": 12.9502,
-        "plays": 4,
-        "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "How Many More Times",
-        "artist": "Royal Blood",
-        "minutes": 12.776533333333333,
-        "plays": 4,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Who Needs Friends",
-        "artist": "Royal Blood",
-        "minutes": 12.675533333333334,
-        "plays": 4,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "MALIBU",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 12.5,
-        "plays": 2,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Either You Want It",
-        "artist": "Royal Blood",
-        "minutes": 12.053333333333333,
-        "plays": 4,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "SEXY DANCE",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 11.733766666666666,
-        "plays": 2,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "BREEZIN'",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 11.666666666666666,
-        "plays": 2,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Come on Over",
-        "artist": "Royal Blood",
-        "minutes": 11.5884,
-        "plays": 4,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Loose Change",
-        "artist": "Royal Blood",
-        "minutes": 10.399066666666666,
-        "plays": 4,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Shiner In The Dark",
-        "artist": "Royal Blood",
-        "minutes": 10.39245,
-        "plays": 3,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "AN INSATIABLE HIGH",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 10.150216666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "How Did We Get So Dark?",
-        "artist": "Royal Blood",
-        "minutes": 9.89665,
-        "plays": 3,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Pull Me Through",
-        "artist": "Royal Blood",
-        "minutes": 9.4354,
-        "plays": 3,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "I Only Lie When I Love You",
-        "artist": "Royal Blood",
-        "minutes": 8.486,
-        "plays": 3,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Better Strangers",
-        "artist": "Royal Blood",
-        "minutes": 8.407533333333333,
-        "plays": 2,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Despite That",
-        "artist": "beabadoobee",
-        "minutes": 7.473166666666667,
-        "plays": 5,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Dirty Imbecile - Revisited",
-        "artist": "The Happy Fits",
-        "minutes": 7.422866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "\u30d0\u30fc\u30c9\u30a2\u30a4\u30e9\u30f3\u30c9\u6025\u884c",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 7.4,
-        "plays": 2,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "\u8703\u6c17\u697c\u306e\u5cf6\u3078",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 7.266666666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Boilermaker",
-        "artist": "Royal Blood",
-        "minutes": 6.982666666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Cruel Power",
-        "artist": "The Happy Fits",
-        "minutes": 6.840866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "\u4f0a\u8c46\u7518\u590f\u7d0d\u8c46\u58f2\u308a",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 6.816666666666666,
-        "plays": 1,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Too Late - Re-mastered",
-        "artist": "The Happy Fits",
-        "minutes": 6.7161333333333335,
-        "plays": 2,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "She Wants Me (To Be Loved)",
-        "artist": "The Happy Fits",
-        "minutes": 6.6471,
-        "plays": 2,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "THAT'S THE WAY OF THE WORLD",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 6.243333333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "RAINBOW",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 6.226666666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Mountains At Midnight",
-        "artist": "Royal Blood",
-        "minutes": 6.206533333333334,
-        "plays": 2,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "MAMBO MAGIC",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 6.016883333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "BRASILIAN SKIES",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 5.88355,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Triggers",
-        "artist": "Royal Blood",
-        "minutes": 5.861066666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "THE MOON ROSE",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 5.6951,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "ALONE",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 5.683333333333334,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Tell Me When It\u2019s Too Late",
-        "artist": "Royal Blood",
-        "minutes": 5.473866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "BLUE CURACAO",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 5.4711,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "I REMEMBER CLIFFORD",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 5.416883333333334,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "rises the moon",
-        "artist": "Liana Flores",
-        "minutes": 5.397633333333333,
-        "plays": 2,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Oblivion",
-        "artist": "Royal Blood",
-        "minutes": 5.3751,
-        "plays": 2,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "SPEED OF LOVE",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 5.283333333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Cold Turkey",
-        "artist": "The Happy Fits",
-        "minutes": 5.1715333333333335,
-        "plays": 2,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "SUNDROPS",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 5.166666666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "JUST THE WAY YOU ARE",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 5.14555,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "TAJ MAHAL",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 5.138883333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "BLUE LAGOON",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 5.083333333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "NIGHTS",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 4.900216666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Moving",
-        "artist": "The Happy Fits",
-        "minutes": 4.848866666666667,
-        "plays": 2,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "SWEET AGNES",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 4.666883333333334,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "\u30b5\u30e8\u30ca\u30e9\u30fb\u30fb\u30fb\u30fb\u30fb\u30fbFUJI\u3055\u3093",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 4.466666666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ec\u30ae\u30fc",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 4.338883333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Puppy Princess",
-        "artist": "Hot Freaks",
-        "minutes": 4.262216666666666,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "E. S. P.",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 4.183333333333334,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Sweet Things",
-        "artist": "The Happy Fits",
-        "minutes": 4.118,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "PALM STREET",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 4.0,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "MAMBO NO. 5 (DISCO DANGO)",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 3.98355,
-        "plays": 1,
-        "percentageOfMinutes": 0.3
       },
       {
         "title": "Second Nature",
         "artist": "Clairo",
         "minutes": 3.79015,
         "plays": 1,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Nomad",
-        "artist": "Clairo",
-        "minutes": 3.759533333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "STAR WARS SAMBA",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 3.7502166666666668,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Crying Lightning",
-        "artist": "Arctic Monkeys",
-        "minutes": 3.7471,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Hold Me Down",
-        "artist": "The Happy Fits",
-        "minutes": 3.7302166666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "GASCON COCKTAIL",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 3.716666666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Jump the Turnstile",
-        "artist": "Jordana",
-        "minutes": 3.7125,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "STRAIGHTFROMYOURHEART",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 3.6988833333333333,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Heart of a Dancer",
-        "artist": "The Happy Fits",
-        "minutes": 3.6344333333333334,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "AIZO",
-        "artist": "King Gnu",
-        "minutes": 3.5976333333333335,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "PLASTIC TEARS",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 3.546666666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Little One",
-        "artist": "The Happy Fits",
-        "minutes": 3.4964333333333335,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Using You",
-        "artist": "Mars Argo",
-        "minutes": 3.4728666666666665,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Sexy to Someone",
-        "artist": "Clairo",
-        "minutes": 3.46325,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Add Up My Love",
         "artist": "Clairo",
         "minutes": 3.42105,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 1.0
       },
       {
-        "title": "Achey Bones",
-        "artist": "The Happy Fits",
-        "minutes": 3.3651,
+        "title": "Write Me A Letter",
+        "artist": "beabadoobee",
+        "minutes": 3.23505,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.9
       },
       {
-        "title": "Mary",
-        "artist": "The Happy Fits",
-        "minutes": 3.24555,
+        "title": "In Motion",
+        "artist": "beabadoobee",
+        "minutes": 3.1332,
         "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "So Alright, Cool, Whatever",
-        "artist": "The Happy Fits",
-        "minutes": 3.1893333333333334,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Jane!",
         "artist": "The Long Faces",
         "minutes": 3.116433333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.9
       },
       {
-        "title": "In The Lobby",
-        "artist": "The Happy Fits",
-        "minutes": 2.9793333333333334,
+        "title": "Switchblade",
+        "artist": "beabadoobee",
+        "minutes": 3.0321,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.9
       },
       {
-        "title": "Mardy Bum",
-        "artist": "Arctic Monkeys",
-        "minutes": 2.924,
+        "title": "Powerlines",
+        "artist": "beabadoobee",
+        "minutes": 2.9731833333333335,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.8
       },
       {
-        "title": "Fluorescent Adolescent",
-        "artist": "Arctic Monkeys",
-        "minutes": 2.89155,
+        "title": "Estranged",
+        "artist": "beabadoobee",
+        "minutes": 2.97135,
         "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "What Could Be Better",
-        "artist": "The Happy Fits",
-        "minutes": 2.882216666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "SPAGHETTI",
         "artist": "LE SSERAFIM",
         "minutes": 2.8718833333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.8
       },
       {
-        "title": "Wild in Love",
-        "artist": "The Happy Fits",
-        "minutes": 2.80955,
+        "title": "It's Alright",
+        "artist": "beabadoobee",
+        "minutes": 2.8551333333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.8
       },
       {
-        "title": "Another Try",
-        "artist": "The Happy Fits",
-        "minutes": 2.7386666666666666,
+        "title": "Radio",
+        "artist": "beabadoobee",
+        "minutes": 2.6705,
         "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Best Tears",
-        "artist": "The Happy Fits",
-        "minutes": 2.6422166666666667,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Go Dumb",
-        "artist": "The Happy Fits",
-        "minutes": 2.3931,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Hungry People",
-        "artist": "The Happy Fits",
-        "minutes": 2.3646666666666665,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Two of Many",
-        "artist": "The Happy Fits",
-        "minutes": 2.3453333333333335,
-        "plays": 1,
-        "percentageOfMinutes": 0.2
+        "percentageOfMinutes": 0.7
       }
     ],
+    "month": [],
     "year": [
       {
         "title": "Taking What's Not Yours",
         "artist": "TV Girl",
-        "minutes": 562.11,
-        "plays": 164,
+        "minutes": 565.5375,
+        "plays": 165,
         "percentageOfMinutes": 2.3
       },
       {
@@ -10307,18 +9305,18 @@
         "percentageOfMinutes": 1.5
       },
       {
+        "title": "Amoeba",
+        "artist": "Clairo",
+        "minutes": 358.6444666666667,
+        "plays": 94,
+        "percentageOfMinutes": 1.5
+      },
+      {
         "title": "505",
         "artist": "Arctic Monkeys",
         "minutes": 338.11466666666666,
         "plays": 80,
         "percentageOfMinutes": 1.4
-      },
-      {
-        "title": "Amoeba",
-        "artist": "Clairo",
-        "minutes": 312.8600666666667,
-        "plays": 82,
-        "percentageOfMinutes": 1.3
       },
       {
         "title": "Snap Out Of It",
@@ -10372,8 +9370,8 @@
       {
         "title": "Hate Yourself",
         "artist": "TV Girl",
-        "minutes": 231.57333333333332,
-        "plays": 65,
+        "minutes": 235.136,
+        "plays": 66,
         "percentageOfMinutes": 1.0
       },
       {
@@ -10419,17 +9417,17 @@
         "percentageOfMinutes": 0.8
       },
       {
+        "title": "Jane!",
+        "artist": "The Long Faces",
+        "minutes": 186.986,
+        "plays": 60,
+        "percentageOfMinutes": 0.8
+      },
+      {
         "title": "She's Not Gone Yet but She's Leaving",
         "artist": "The Fratellis",
         "minutes": 184.16,
         "plays": 48,
-        "percentageOfMinutes": 0.8
-      },
-      {
-        "title": "Jane!",
-        "artist": "The Long Faces",
-        "minutes": 183.86956666666666,
-        "plays": 59,
         "percentageOfMinutes": 0.8
       },
       {
@@ -10447,6 +9445,13 @@
         "percentageOfMinutes": 0.7
       },
       {
+        "title": "Add Up My Love",
+        "artist": "Clairo",
+        "minutes": 174.47355,
+        "plays": 51,
+        "percentageOfMinutes": 0.7
+      },
+      {
         "title": "If You Were There, Beware",
         "artist": "Arctic Monkeys",
         "minutes": 173.66,
@@ -10458,13 +9463,6 @@
         "artist": "Arctic Monkeys",
         "minutes": 171.86453333333333,
         "plays": 64,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Add Up My Love",
-        "artist": "Clairo",
-        "minutes": 171.0525,
-        "plays": 50,
         "percentageOfMinutes": 0.7
       },
       {
@@ -10671,6 +9669,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "Second Nature",
+        "artist": "Clairo",
+        "minutes": 98.5439,
+        "plays": 26,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "Loving Machine",
         "artist": "TV Girl",
         "minutes": 98.36666666666666,
@@ -10689,13 +9694,6 @@
         "artist": "Kenshi Yonezu",
         "minutes": 96.7475,
         "plays": 30,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Second Nature",
-        "artist": "Clairo",
-        "minutes": 94.75375,
-        "plays": 25,
         "percentageOfMinutes": 0.4
       },
       {
@@ -11004,14 +10002,14 @@
         "artist": "TV Girl",
         "minutes": 60.93175,
         "plays": 15,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "title": "Wanna Start A Band?",
         "artist": "Sleigh Bells",
         "minutes": 60.8251,
         "plays": 21,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "title": "Everything You Do",
@@ -11168,6 +10166,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "The Race Around the World",
+        "artist": "Waterflame",
+        "minutes": 50.6175,
+        "plays": 18,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Safeword",
         "artist": "TV Girl",
         "minutes": 50.5778,
@@ -11200,6 +10205,13 @@
         "artist": "Dazey and the Scouts",
         "minutes": 48.61291666666666,
         "plays": 17,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Final Battle",
+        "artist": "Waterflame",
+        "minutes": 48.44415,
+        "plays": 9,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11280,6 +10292,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Space Pirates",
+        "artist": "Waterflame",
+        "minutes": 44.91125,
+        "plays": 15,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Loser",
         "artist": "Tame Impala",
         "minutes": 44.6138,
@@ -11319,13 +10338,6 @@
         "artist": "Jordana",
         "minutes": 43.25,
         "plays": 15,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Final Battle",
-        "artist": "Waterflame",
-        "minutes": 43.06146666666667,
-        "plays": 8,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11445,13 +10457,6 @@
         "artist": "TV Girl",
         "minutes": 37.1899,
         "plays": 11,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "The Race Around the World",
-        "artist": "Waterflame",
-        "minutes": 36.55708333333333,
-        "plays": 13,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11658,10 +10663,10 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Space Pirates",
+        "title": "Glorious Morning",
         "artist": "Waterflame",
-        "minutes": 29.940833333333334,
-        "plays": 10,
+        "minutes": 29.9048,
+        "plays": 16,
         "percentageOfMinutes": 0.1
       },
       {
@@ -11959,6 +10964,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "Electroman Adventures",
+        "artist": "Waterflame",
+        "minutes": 25.43016666666667,
+        "plays": 10,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Memories",
         "artist": "beabadoobee",
         "minutes": 25.30995,
@@ -12089,13 +11101,6 @@
         "artist": "Laufey",
         "minutes": 22.609733333333335,
         "plays": 8,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Glorious Morning",
-        "artist": "Waterflame",
-        "minutes": 22.4286,
-        "plays": 12,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12435,13 +11440,6 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Electroman Adventures",
-        "artist": "Waterflame",
-        "minutes": 17.801116666666665,
-        "plays": 7,
-        "percentageOfMinutes": 0.1
-      },
-      {
         "title": "Talk to Strangers",
         "artist": "TV Girl",
         "minutes": 17.7693,
@@ -12495,6 +11493,13 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 17.23,
         "plays": 3,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Jumper",
+        "artist": "Waterflame",
+        "minutes": 17.205833333333334,
+        "plays": 10,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12642,13 +11647,6 @@
         "artist": "The Happy Fits",
         "minutes": 15.5146,
         "plays": 6,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Jumper",
-        "artist": "Waterflame",
-        "minutes": 15.48525,
-        "plays": 9,
         "percentageOfMinutes": 0.1
       },
       {
