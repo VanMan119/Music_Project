@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-10-17T02:27:37.464652+00:00",
-    "lastUpdated": "October 17, 2026 - 02:27 AM UTC"
+    "generatedAt": "2026-10-18T02:27:38.793575+00:00",
+    "lastUpdated": "October 18, 2026 - 02:27 AM UTC"
   },
   "artists": {
     "total": [
@@ -9,13 +9,13 @@
         "name": "Arctic Monkeys",
         "minutes": 6914.71,
         "plays": 2157,
-        "percentageOfMinutes": 22.2
+        "percentageOfMinutes": 22.1
       },
       {
         "name": "TV Girl",
-        "minutes": 3885.51,
-        "plays": 1136,
-        "percentageOfMinutes": 12.5
+        "minutes": 3984.51,
+        "plays": 1164,
+        "percentageOfMinutes": 12.7
       },
       {
         "name": "beabadoobee",
@@ -27,7 +27,7 @@
         "name": "The Happy Fits",
         "minutes": 2637.99,
         "plays": 806,
-        "percentageOfMinutes": 8.5
+        "percentageOfMinutes": 8.4
       },
       {
         "name": "Clairo",
@@ -1515,53 +1515,53 @@
     "lastWeek": [
       {
         "name": "TV Girl",
-        "minutes": 705.88,
-        "plays": 206,
-        "percentageOfMinutes": 67.7
+        "minutes": 748.74,
+        "plays": 217,
+        "percentageOfMinutes": 69.2
       },
       {
         "name": "Clairo",
         "minutes": 275.06,
         "plays": 76,
-        "percentageOfMinutes": 26.4
+        "percentageOfMinutes": 25.4
       },
       {
         "name": "Jordana",
-        "minutes": 45.45,
-        "plays": 16,
-        "percentageOfMinutes": 4.4
+        "minutes": 43.09,
+        "plays": 15,
+        "percentageOfMinutes": 4.0
       },
       {
         "name": "The Long Faces",
         "minutes": 15.58,
         "plays": 5,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.4
       }
     ],
     "month": [
       {
         "name": "TV Girl",
-        "minutes": 982.67,
-        "plays": 287,
-        "percentageOfMinutes": 50.8
+        "minutes": 1081.66,
+        "plays": 315,
+        "percentageOfMinutes": 53.2
       },
       {
         "name": "Clairo",
         "minutes": 734.23,
         "plays": 203,
-        "percentageOfMinutes": 38.0
+        "percentageOfMinutes": 36.1
       },
       {
         "name": "Waterflame",
         "minutes": 131.62,
         "plays": 49,
-        "percentageOfMinutes": 6.8
+        "percentageOfMinutes": 6.5
       },
       {
         "name": "Jordana",
         "minutes": 68.55,
         "plays": 24,
-        "percentageOfMinutes": 3.5
+        "percentageOfMinutes": 3.4
       },
       {
         "name": "The Long Faces",
@@ -1575,13 +1575,13 @@
         "name": "Arctic Monkeys",
         "minutes": 6888.26,
         "plays": 2150,
-        "percentageOfMinutes": 26.2
+        "percentageOfMinutes": 26.1
       },
       {
         "name": "TV Girl",
-        "minutes": 3885.51,
-        "plays": 1136,
-        "percentageOfMinutes": 14.8
+        "minutes": 3984.51,
+        "plays": 1164,
+        "percentageOfMinutes": 15.1
       },
       {
         "name": "Clairo",
@@ -1605,7 +1605,7 @@
         "name": "The Fratellis",
         "minutes": 1253.62,
         "plays": 360,
-        "percentageOfMinutes": 4.8
+        "percentageOfMinutes": 4.7
       },
       {
         "name": "The Happy Fits",
@@ -3070,17 +3070,17 @@
         "percentageOfMinutes": 1.0
       },
       {
+        "title": "Hate Yourself",
+        "artist": "TV Girl",
+        "minutes": 309.952,
+        "plays": 87,
+        "percentageOfMinutes": 1.0
+      },
+      {
         "title": "Brianstorm",
         "artist": "Arctic Monkeys",
         "minutes": 306.4554,
         "plays": 108,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Hate Yourself",
-        "artist": "TV Girl",
-        "minutes": 306.38933333333335,
-        "plays": 86,
         "percentageOfMinutes": 1.0
       },
       {
@@ -3249,7 +3249,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 171.86453333333333,
         "plays": 64,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "The View From The Afternoon",
@@ -3357,18 +3357,18 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "Natalie Wood",
+        "artist": "TV Girl",
+        "minutes": 144.0738,
+        "plays": 36,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "Sexy to Someone",
         "artist": "Clairo",
         "minutes": 141.99325,
         "plays": 41,
         "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Natalie Wood",
-        "artist": "TV Girl",
-        "minutes": 140.07175,
-        "plays": 35,
-        "percentageOfMinutes": 0.4
       },
       {
         "title": "A Night To Remember",
@@ -3413,6 +3413,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "Loving Machine",
+        "artist": "TV Girl",
+        "minutes": 132.41666666666666,
+        "plays": 35,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "LOST IN PARADISE",
         "artist": "ALI",
         "minutes": 131.1864,
@@ -3424,13 +3431,6 @@
         "artist": "Tame Impala",
         "minutes": 130.12358333333333,
         "plays": 35,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Loving Machine",
-        "artist": "TV Girl",
-        "minutes": 128.63333333333333,
-        "plays": 34,
         "percentageOfMinutes": 0.4
       },
       {
@@ -3466,6 +3466,13 @@
         "artist": "Clairo",
         "minutes": 124.0646,
         "plays": 33,
+        "percentageOfMinutes": 0.4
+      },
+      {
+        "title": "Laura",
+        "artist": "TV Girl",
+        "minutes": 122.0566,
+        "plays": 34,
         "percentageOfMinutes": 0.4
       },
       {
@@ -3609,10 +3616,24 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "The Blonde",
+        "artist": "TV Girl",
+        "minutes": 98.696,
+        "plays": 26,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "\u61a7\u308c\u306e\u30bb\u30fc\u30b7\u30a7\u30eb\u8af8\u5cf6",
         "artist": "Masayoshi Takanaka",
         "minutes": 98.1368,
         "plays": 16,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Birds Dont Sing",
+        "artist": "TV Girl",
+        "minutes": 97.6948,
+        "plays": 28,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3641,20 +3662,6 @@
         "artist": "The Happy Fits",
         "minutes": 95.36333333333333,
         "plays": 35,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "The Blonde",
-        "artist": "TV Girl",
-        "minutes": 94.9,
-        "plays": 25,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Birds Dont Sing",
-        "artist": "TV Girl",
-        "minutes": 94.2057,
-        "plays": 27,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3714,13 +3721,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Laura",
-        "artist": "TV Girl",
-        "minutes": 89.7475,
-        "plays": 25,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "Dancing Shoes",
         "artist": "Arctic Monkeys",
         "minutes": 89.38423333333333,
@@ -3760,6 +3760,13 @@
         "artist": "Waterflame",
         "minutes": 87.17458333333333,
         "plays": 31,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "My Girlfriend",
+        "artist": "TV Girl",
+        "minutes": 86.8777,
+        "plays": 21,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3826,13 +3833,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "My Girlfriend",
-        "artist": "TV Girl",
-        "minutes": 82.74066666666667,
-        "plays": 20,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "Shame",
         "artist": "TV Girl",
         "minutes": 82.16666666666667,
@@ -3861,9 +3861,23 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Cigarettes out the Window",
+        "artist": "TV Girl",
+        "minutes": 79.584,
+        "plays": 24,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Stay Away (It's Like That)",
         "artist": "TV Girl",
         "minutes": 79.475,
+        "plays": 17,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Melanie",
+        "artist": "TV Girl",
+        "minutes": 78.83126666666666,
         "plays": 17,
         "percentageOfMinutes": 0.3
       },
@@ -3886,7 +3900,7 @@
         "artist": "beabadoobee",
         "minutes": 77.9976,
         "plays": 24,
-        "percentageOfMinutes": 0.3
+        "percentageOfMinutes": 0.2
       },
       {
         "title": "Harvey",
@@ -3931,13 +3945,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Cigarettes out the Window",
-        "artist": "TV Girl",
-        "minutes": 76.268,
-        "plays": 23,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "Blue Hair",
         "artist": "TV Girl",
         "minutes": 75.95,
@@ -3952,6 +3959,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Valerie",
+        "artist": "TV Girl",
+        "minutes": 75.33333333333333,
+        "plays": 16,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Mary",
         "artist": "The Happy Fits",
         "minutes": 74.64765,
@@ -3963,13 +3977,6 @@
         "artist": "The Happy Fits",
         "minutes": 74.22866666666667,
         "plays": 20,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Melanie",
-        "artist": "TV Girl",
-        "minutes": 74.19413333333334,
-        "plays": 16,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4001,6 +4008,20 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "She Smokes in Bed",
+        "artist": "TV Girl",
+        "minutes": 71.56135,
+        "plays": 21,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Louise",
+        "artist": "TV Girl",
+        "minutes": 71.29943333333334,
+        "plays": 22,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "I REMEMBER YOU",
         "artist": "Masayoshi Takanaka",
         "minutes": 70.85281666666667,
@@ -4012,13 +4033,6 @@
         "artist": "beabadoobee",
         "minutes": 70.76333333333334,
         "plays": 23,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Valerie",
-        "artist": "TV Girl",
-        "minutes": 70.625,
-        "plays": 15,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4043,24 +4057,17 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Pretty Boy",
+        "artist": "TV Girl",
+        "minutes": 69.16666666666667,
+        "plays": 25,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Everest",
         "artist": "beabadoobee",
         "minutes": 68.55116666666666,
         "plays": 26,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "She Smokes in Bed",
-        "artist": "TV Girl",
-        "minutes": 68.15366666666667,
-        "plays": 20,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Louise",
-        "artist": "TV Girl",
-        "minutes": 68.05855,
-        "plays": 21,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4082,13 +4089,6 @@
         "artist": "TV Girl",
         "minutes": 66.86666666666666,
         "plays": 17,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Pretty Boy",
-        "artist": "TV Girl",
-        "minutes": 66.4,
-        "plays": 24,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4141,6 +4141,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "It Almost Worked",
+        "artist": "TV Girl",
+        "minutes": 63.333333333333336,
+        "plays": 25,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Secret Door",
         "artist": "Arctic Monkeys",
         "minutes": 63.20203333333333,
@@ -4173,13 +4180,6 @@
         "artist": "Sleigh Bells",
         "minutes": 60.8251,
         "plays": 21,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "It Almost Worked",
-        "artist": "TV Girl",
-        "minutes": 60.8,
-        "plays": 24,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4239,10 +4239,24 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Cynical One",
+        "artist": "TV Girl",
+        "minutes": 57.4753,
+        "plays": 17,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Chelsea Dagger",
         "artist": "The Fratellis",
         "minutes": 57.379466666666666,
         "plays": 16,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Grapes Upon the Vine",
+        "artist": "TV Girl",
+        "minutes": 56.4,
+        "plays": 18,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4337,13 +4351,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Cynical One",
-        "artist": "TV Girl",
-        "minutes": 54.0944,
-        "plays": 16,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "Home Alone",
         "artist": "beabadoobee",
         "minutes": 53.79508333333333,
@@ -4355,13 +4362,6 @@
         "artist": "The Fratellis",
         "minutes": 53.56666666666667,
         "plays": 10,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Grapes Upon the Vine",
-        "artist": "TV Girl",
-        "minutes": 53.266666666666666,
-        "plays": 17,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4390,6 +4390,13 @@
         "artist": "Clairo",
         "minutes": 51.6472,
         "plays": 16,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Monday, Monday",
+        "artist": "TV Girl",
+        "minutes": 49.7,
+        "plays": 14,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4449,10 +4456,10 @@
         "percentageOfMinutes": 0.1
       },
       {
-        "title": "Monday, Monday",
+        "title": "Daughter of a Cop",
         "artist": "TV Girl",
-        "minutes": 46.15,
-        "plays": 13,
+        "minutes": 46.032,
+        "plays": 18,
         "percentageOfMinutes": 0.1
       },
       {
@@ -4488,13 +4495,6 @@
         "artist": "Royal Blood",
         "minutes": 44.48,
         "plays": 16,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Daughter of a Cop",
-        "artist": "TV Girl",
-        "minutes": 43.474666666666664,
-        "plays": 17,
         "percentageOfMinutes": 0.1
       },
       {
@@ -4561,6 +4561,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "The Getaway",
+        "artist": "TV Girl",
+        "minutes": 41.07876666666667,
+        "plays": 11,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Electroman Adventures",
         "artist": "Waterflame",
         "minutes": 40.688266666666664,
@@ -4614,13 +4621,6 @@
         "artist": "Kesha",
         "minutes": 37.368,
         "plays": 12,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "The Getaway",
-        "artist": "TV Girl",
-        "minutes": 37.34433333333333,
-        "plays": 10,
         "percentageOfMinutes": 0.1
       },
       {
@@ -4726,6 +4726,13 @@
         "artist": "beabadoobee",
         "minutes": 32.5857,
         "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Pantyhose",
+        "artist": "TV Girl",
+        "minutes": 32.45238333333333,
+        "plays": 11,
         "percentageOfMinutes": 0.1
       },
       {
@@ -4865,13 +4872,6 @@
         "title": "Estranged",
         "artist": "beabadoobee",
         "minutes": 29.7135,
-        "plays": 10,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Pantyhose",
-        "artist": "TV Girl",
-        "minutes": 29.502166666666668,
         "plays": 10,
         "percentageOfMinutes": 0.1
       },
@@ -9131,76 +9131,62 @@
         "artist": "TV Girl",
         "minutes": 84.04305,
         "plays": 21,
-        "percentageOfMinutes": 8.1
+        "percentageOfMinutes": 7.8
+      },
+      {
+        "title": "Laura",
+        "artist": "TV Girl",
+        "minutes": 75.3879,
+        "plays": 21,
+        "percentageOfMinutes": 7.0
       },
       {
         "title": "Taking What's Not Yours",
         "artist": "TV Girl",
         "minutes": 54.84,
         "plays": 16,
-        "percentageOfMinutes": 5.3
+        "percentageOfMinutes": 5.1
+      },
+      {
+        "title": "Hate Yourself",
+        "artist": "TV Girl",
+        "minutes": 53.44,
+        "plays": 15,
+        "percentageOfMinutes": 4.9
       },
       {
         "title": "Amoeba",
         "artist": "Clairo",
         "minutes": 53.41513333333333,
         "plays": 14,
-        "percentageOfMinutes": 5.1
-      },
-      {
-        "title": "Hate Yourself",
-        "artist": "TV Girl",
-        "minutes": 49.87733333333333,
-        "plays": 14,
-        "percentageOfMinutes": 4.8
-      },
-      {
-        "title": "Laura",
-        "artist": "TV Girl",
-        "minutes": 43.0788,
-        "plays": 12,
-        "percentageOfMinutes": 4.1
-      },
-      {
-        "title": "99.5",
-        "artist": "TV Girl",
-        "minutes": 26.2968,
-        "plays": 9,
-        "percentageOfMinutes": 2.5
+        "percentageOfMinutes": 4.9
       },
       {
         "title": "Birds Dont Sing",
         "artist": "TV Girl",
-        "minutes": 24.4237,
-        "plays": 7,
-        "percentageOfMinutes": 2.3
+        "minutes": 27.9128,
+        "plays": 8,
+        "percentageOfMinutes": 2.6
       },
       {
         "title": "Slow Dance",
         "artist": "Clairo",
         "minutes": 23.4853,
         "plays": 6,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.2
+      },
+      {
+        "title": "99.5",
+        "artist": "TV Girl",
+        "minutes": 23.374933333333335,
+        "plays": 8,
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "Sexy to Someone",
         "artist": "Clairo",
         "minutes": 20.7795,
         "plays": 6,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "title": "Song About Me",
-        "artist": "TV Girl",
-        "minutes": 20.310583333333334,
-        "plays": 5,
-        "percentageOfMinutes": 1.9
-      },
-      {
-        "title": "I'll Be Faithful",
-        "artist": "TV Girl",
-        "minutes": 19.666666666666668,
-        "plays": 5,
         "percentageOfMinutes": 1.9
       },
       {
@@ -9215,27 +9201,27 @@
         "artist": "TV Girl",
         "minutes": 18.833333333333332,
         "plays": 4,
-        "percentageOfMinutes": 1.8
+        "percentageOfMinutes": 1.7
       },
       {
         "title": "Nomad",
         "artist": "Clairo",
         "minutes": 18.797666666666668,
         "plays": 5,
-        "percentageOfMinutes": 1.8
+        "percentageOfMinutes": 1.7
+      },
+      {
+        "title": "Melanie",
+        "artist": "TV Girl",
+        "minutes": 18.548533333333335,
+        "plays": 4,
+        "percentageOfMinutes": 1.7
       },
       {
         "title": "Bambi",
         "artist": "Clairo",
         "minutes": 18.493333333333332,
         "plays": 4,
-        "percentageOfMinutes": 1.8
-      },
-      {
-        "title": "Safeword",
-        "artist": "TV Girl",
-        "minutes": 18.0635,
-        "plays": 5,
         "percentageOfMinutes": 1.7
       },
       {
@@ -9246,11 +9232,25 @@
         "percentageOfMinutes": 1.6
       },
       {
+        "title": "She Smokes in Bed",
+        "artist": "TV Girl",
+        "minutes": 17.038416666666667,
+        "plays": 5,
+        "percentageOfMinutes": 1.6
+      },
+      {
         "title": "Juna",
         "artist": "Clairo",
         "minutes": 16.259083333333333,
         "plays": 5,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.5
+      },
+      {
+        "title": "Song About Me",
+        "artist": "TV Girl",
+        "minutes": 16.248466666666666,
+        "plays": 4,
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "Partridge",
@@ -9260,32 +9260,53 @@
         "percentageOfMinutes": 1.5
       },
       {
+        "title": "I'll Be Faithful",
+        "artist": "TV Girl",
+        "minutes": 15.733333333333333,
+        "plays": 4,
+        "percentageOfMinutes": 1.5
+      },
+      {
         "title": "Jane!",
         "artist": "The Long Faces",
         "minutes": 15.582166666666666,
         "plays": 5,
-        "percentageOfMinutes": 1.5
-      },
-      {
-        "title": "Messy Hair",
-        "artist": "TV Girl",
-        "minutes": 15.466666666666667,
-        "plays": 8,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.4
       },
       {
         "title": "Echo",
         "artist": "Clairo",
         "minutes": 15.323533333333334,
         "plays": 4,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.4
       },
       {
         "title": "Management",
         "artist": "Clairo",
         "minutes": 15.248533333333333,
         "plays": 4,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.4
+      },
+      {
+        "title": "The Blonde",
+        "artist": "TV Girl",
+        "minutes": 15.184,
+        "plays": 4,
+        "percentageOfMinutes": 1.4
+      },
+      {
+        "title": "Loving Machine",
+        "artist": "TV Girl",
+        "minutes": 15.133333333333333,
+        "plays": 4,
+        "percentageOfMinutes": 1.4
+      },
+      {
+        "title": "The Getaway",
+        "artist": "TV Girl",
+        "minutes": 14.937733333333334,
+        "plays": 4,
+        "percentageOfMinutes": 1.4
       },
       {
         "title": "Jump the Turnstile",
@@ -9295,23 +9316,23 @@
         "percentageOfMinutes": 1.4
       },
       {
-        "title": "Lo on the Hi-Way",
-        "artist": "Jordana",
-        "minutes": 14.175,
-        "plays": 6,
-        "percentageOfMinutes": 1.4
+        "title": "Safeword",
+        "artist": "TV Girl",
+        "minutes": 14.4508,
+        "plays": 4,
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "Monday, Monday",
+        "artist": "TV Girl",
+        "minutes": 14.2,
+        "plays": 4,
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Stay Away (It's Like That)",
         "artist": "TV Girl",
         "minutes": 14.025,
-        "plays": 3,
-        "percentageOfMinutes": 1.3
-      },
-      {
-        "title": "Melanie",
-        "artist": "TV Girl",
-        "minutes": 13.9114,
         "plays": 3,
         "percentageOfMinutes": 1.3
       },
@@ -9330,46 +9351,46 @@
         "percentageOfMinutes": 1.3
       },
       {
-        "title": "She Smokes in Bed",
+        "title": "Messy Hair",
         "artist": "TV Girl",
-        "minutes": 13.630733333333334,
-        "plays": 4,
+        "minutes": 13.533333333333333,
+        "plays": 7,
         "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "Cynical One",
+        "artist": "TV Girl",
+        "minutes": 13.5236,
+        "plays": 4,
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Cigarettes out the Window",
         "artist": "TV Girl",
         "minutes": 13.264,
         "plays": 4,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
+      },
+      {
+        "title": "Louise",
+        "artist": "TV Girl",
+        "minutes": 12.963533333333332,
+        "plays": 4,
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Shame",
         "artist": "TV Girl",
         "minutes": 12.325,
         "plays": 3,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "King of Echo Park",
-        "artist": "TV Girl",
-        "minutes": 12.2854,
-        "plays": 3,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "The Desolation Tango",
-        "artist": "TV Girl",
-        "minutes": 12.077733333333333,
-        "plays": 4,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Terrapin",
         "artist": "Clairo",
         "minutes": 12.019266666666667,
         "plays": 4,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Talk to Strangers",
@@ -9379,16 +9400,16 @@
         "percentageOfMinutes": 1.1
       },
       {
-        "title": "Pantyhose",
-        "artist": "TV Girl",
-        "minutes": 11.800866666666666,
-        "plays": 4,
+        "title": "Lo on the Hi-Way",
+        "artist": "Jordana",
+        "minutes": 11.8125,
+        "plays": 5,
         "percentageOfMinutes": 1.1
       },
       {
-        "title": "All The Way Through",
+        "title": "Pantyhose",
         "artist": "TV Girl",
-        "minutes": 11.760533333333333,
+        "minutes": 11.800866666666666,
         "plays": 4,
         "percentageOfMinutes": 1.1
       },
@@ -9400,51 +9421,23 @@
         "percentageOfMinutes": 1.1
       },
       {
-        "title": "The Blonde",
-        "artist": "TV Girl",
-        "minutes": 11.388,
-        "plays": 3,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "Loving Machine",
-        "artist": "TV Girl",
-        "minutes": 11.35,
-        "plays": 3,
-        "percentageOfMinutes": 1.1
-      },
-      {
         "title": "Sleeping with the Enemy",
         "artist": "TV Girl",
         "minutes": 11.246,
         "plays": 5,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
-        "title": "The Getaway",
+        "title": "Pretty Boy",
         "artist": "TV Girl",
-        "minutes": 11.2033,
-        "plays": 3,
-        "percentageOfMinutes": 1.1
-      },
-      {
-        "title": "Not Allowed",
-        "artist": "TV Girl",
-        "minutes": 11.190933333333334,
+        "minutes": 11.066666666666666,
         "plays": 4,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "7 Days Til Sunday",
         "artist": "TV Girl",
         "minutes": 10.75,
-        "plays": 3,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Monday, Monday",
-        "artist": "TV Girl",
-        "minutes": 10.65,
         "plays": 3,
         "percentageOfMinutes": 1.0
       },
@@ -9460,27 +9453,13 @@
         "artist": "TV Girl",
         "minutes": 10.229333333333333,
         "plays": 4,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Cynical One",
-        "artist": "TV Girl",
-        "minutes": 10.1427,
-        "plays": 3,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "It Almost Worked",
         "artist": "TV Girl",
         "minutes": 10.133333333333333,
         "plays": 4,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "Louise",
-        "artist": "TV Girl",
-        "minutes": 9.72265,
-        "plays": 3,
         "percentageOfMinutes": 0.9
       },
       {
@@ -9489,6 +9468,20 @@
         "minutes": 9.4,
         "plays": 3,
         "percentageOfMinutes": 0.9
+      },
+      {
+        "title": "The Desolation Tango",
+        "artist": "TV Girl",
+        "minutes": 9.0583,
+        "plays": 3,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "All The Way Through",
+        "artist": "TV Girl",
+        "minutes": 8.8204,
+        "plays": 3,
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "Summer's Over",
@@ -9505,10 +9498,24 @@
         "percentageOfMinutes": 0.8
       },
       {
-        "title": "Pretty Boy",
+        "title": "Not Allowed",
         "artist": "TV Girl",
-        "minutes": 8.3,
+        "minutes": 8.3932,
         "plays": 3,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "My Girlfriend",
+        "artist": "TV Girl",
+        "minutes": 8.274066666666666,
+        "plays": 2,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "King of Echo Park",
+        "artist": "TV Girl",
+        "minutes": 8.190266666666666,
+        "plays": 2,
         "percentageOfMinutes": 0.8
       },
       {
@@ -9516,20 +9523,13 @@
         "artist": "TV Girl",
         "minutes": 8.080333333333334,
         "plays": 2,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Better in the Dark",
         "artist": "Jordana",
         "minutes": 7.775,
         "plays": 3,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Blue Hair",
-        "artist": "TV Girl",
-        "minutes": 7.233333333333333,
-        "plays": 2,
         "percentageOfMinutes": 0.7
       },
       {
@@ -9544,21 +9544,21 @@
         "artist": "Clairo",
         "minutes": 6.835733333333334,
         "plays": 2,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Lonely Girls",
         "artist": "TV Girl",
         "minutes": 5.85,
         "plays": 2,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
-        "title": "My Girlfriend",
+        "title": "Blue Hair",
         "artist": "TV Girl",
-        "minutes": 4.137033333333333,
+        "minutes": 3.6166666666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       }
     ],
     "month": [
@@ -9567,34 +9567,41 @@
         "artist": "Clairo",
         "minutes": 129.72246666666666,
         "plays": 34,
-        "percentageOfMinutes": 6.7
+        "percentageOfMinutes": 6.4
       },
       {
         "title": "Natalie Wood",
         "artist": "TV Girl",
-        "minutes": 96.0492,
-        "plays": 24,
-        "percentageOfMinutes": 5.0
+        "minutes": 100.05125,
+        "plays": 25,
+        "percentageOfMinutes": 4.9
+      },
+      {
+        "title": "Laura",
+        "artist": "TV Girl",
+        "minutes": 82.5677,
+        "plays": 23,
+        "percentageOfMinutes": 4.1
       },
       {
         "title": "Taking What's Not Yours",
         "artist": "TV Girl",
         "minutes": 78.8325,
         "plays": 23,
-        "percentageOfMinutes": 4.1
+        "percentageOfMinutes": 3.9
+      },
+      {
+        "title": "Hate Yourself",
+        "artist": "TV Girl",
+        "minutes": 74.816,
+        "plays": 21,
+        "percentageOfMinutes": 3.7
       },
       {
         "title": "Slow Dance",
         "artist": "Clairo",
         "minutes": 74.37011666666666,
         "plays": 19,
-        "percentageOfMinutes": 3.8
-      },
-      {
-        "title": "Hate Yourself",
-        "artist": "TV Girl",
-        "minutes": 71.25333333333333,
-        "plays": 20,
         "percentageOfMinutes": 3.7
       },
       {
@@ -9602,147 +9609,154 @@
         "artist": "Clairo",
         "minutes": 64.43255,
         "plays": 17,
-        "percentageOfMinutes": 3.3
+        "percentageOfMinutes": 3.2
       },
       {
         "title": "Sexy to Someone",
         "artist": "Clairo",
         "minutes": 51.94875,
         "plays": 15,
-        "percentageOfMinutes": 2.7
+        "percentageOfMinutes": 2.6
       },
       {
         "title": "Bambi",
         "artist": "Clairo",
         "minutes": 50.85666666666667,
         "plays": 11,
-        "percentageOfMinutes": 2.6
-      },
-      {
-        "title": "Laura",
-        "artist": "TV Girl",
-        "minutes": 50.2586,
-        "plays": 14,
-        "percentageOfMinutes": 2.6
+        "percentageOfMinutes": 2.5
       },
       {
         "title": "Add Up My Love",
         "artist": "Clairo",
         "minutes": 47.8947,
         "plays": 14,
-        "percentageOfMinutes": 2.5
+        "percentageOfMinutes": 2.4
       },
       {
         "title": "Echo",
         "artist": "Clairo",
         "minutes": 45.9706,
         "plays": 12,
-        "percentageOfMinutes": 2.4
+        "percentageOfMinutes": 2.3
       },
       {
         "title": "Thank You",
         "artist": "Clairo",
         "minutes": 44.43161666666666,
         "plays": 13,
-        "percentageOfMinutes": 2.3
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "Terrapin",
         "artist": "Clairo",
         "minutes": 39.06261666666666,
         "plays": 13,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 1.9
       },
       {
         "title": "Partridge",
         "artist": "Clairo",
         "minutes": 38.7354,
         "plays": 12,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 1.9
+      },
+      {
+        "title": "Birds Dont Sing",
+        "artist": "TV Girl",
+        "minutes": 38.3801,
+        "plays": 11,
+        "percentageOfMinutes": 1.9
       },
       {
         "title": "The Race Around the World",
         "artist": "Waterflame",
         "minutes": 36.55708333333333,
         "plays": 13,
-        "percentageOfMinutes": 1.9
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "Juna",
         "artist": "Clairo",
         "minutes": 35.769983333333336,
         "plays": 11,
-        "percentageOfMinutes": 1.9
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "99.5",
         "artist": "TV Girl",
         "minutes": 35.0624,
         "plays": 12,
-        "percentageOfMinutes": 1.8
+        "percentageOfMinutes": 1.7
       },
       {
-        "title": "Birds Dont Sing",
+        "title": "Loving Machine",
         "artist": "TV Girl",
-        "minutes": 34.891,
-        "plays": 10,
-        "percentageOfMinutes": 1.8
+        "minutes": 34.05,
+        "plays": 9,
+        "percentageOfMinutes": 1.7
       },
       {
         "title": "Nomad",
         "artist": "Clairo",
         "minutes": 33.8358,
         "plays": 9,
-        "percentageOfMinutes": 1.8
+        "percentageOfMinutes": 1.7
       },
       {
         "title": "Management",
         "artist": "Clairo",
         "minutes": 30.497066666666665,
         "plays": 8,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.5
       },
       {
-        "title": "Loving Machine",
+        "title": "Valerie",
         "artist": "TV Girl",
-        "minutes": 30.266666666666666,
-        "plays": 8,
-        "percentageOfMinutes": 1.6
+        "minutes": 28.25,
+        "plays": 6,
+        "percentageOfMinutes": 1.4
       },
       {
         "title": "Space Pirates",
         "artist": "Waterflame",
         "minutes": 26.94675,
         "plays": 9,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Glorious Morning",
         "artist": "Waterflame",
         "minutes": 26.1667,
         "plays": 14,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "The Getaway",
+        "artist": "TV Girl",
+        "minutes": 26.141033333333333,
+        "plays": 7,
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "Safeword",
         "artist": "TV Girl",
         "minutes": 25.2889,
         "plays": 7,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Shame",
         "artist": "TV Girl",
         "minutes": 24.65,
         "plays": 6,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Song About Me",
         "artist": "TV Girl",
         "minutes": 24.3727,
         "plays": 6,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Pier 4",
@@ -9752,10 +9766,10 @@
         "percentageOfMinutes": 1.2
       },
       {
-        "title": "Valerie",
+        "title": "She Smokes in Bed",
         "artist": "TV Girl",
-        "minutes": 23.541666666666668,
-        "plays": 5,
+        "minutes": 23.853783333333332,
+        "plays": 7,
         "percentageOfMinutes": 1.2
       },
       {
@@ -9770,28 +9784,42 @@
         "artist": "TV Girl",
         "minutes": 23.2,
         "plays": 12,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.1
+      },
+      {
+        "title": "Melanie",
+        "artist": "TV Girl",
+        "minutes": 23.185666666666666,
+        "plays": 5,
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Glory of the Snow",
         "artist": "Clairo",
         "minutes": 22.7776,
         "plays": 8,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.1
       },
       {
-        "title": "The Getaway",
+        "title": "The Blonde",
         "artist": "TV Girl",
-        "minutes": 22.4066,
+        "minutes": 22.776,
         "plays": 6,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.1
+      },
+      {
+        "title": "Louise",
+        "artist": "TV Girl",
+        "minutes": 22.686183333333332,
+        "plays": 7,
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Jump the Turnstile",
         "artist": "Jordana",
         "minutes": 22.275,
         "plays": 6,
-        "percentageOfMinutes": 1.2
+        "percentageOfMinutes": 1.1
       },
       {
         "title": "Final Battle",
@@ -9801,11 +9829,25 @@
         "percentageOfMinutes": 1.1
       },
       {
-        "title": "She Smokes in Bed",
+        "title": "Monday, Monday",
         "artist": "TV Girl",
-        "minutes": 20.4461,
+        "minutes": 21.3,
         "plays": 6,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "title": "Cynical One",
+        "artist": "TV Girl",
+        "minutes": 20.2854,
+        "plays": 6,
+        "percentageOfMinutes": 1.0
+      },
+      {
+        "title": "Cigarettes out the Window",
+        "artist": "TV Girl",
+        "minutes": 19.896,
+        "plays": 6,
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "I'll Be Faithful",
@@ -9815,32 +9857,18 @@
         "percentageOfMinutes": 1.0
       },
       {
-        "title": "Louise",
-        "artist": "TV Girl",
-        "minutes": 19.4453,
-        "plays": 6,
-        "percentageOfMinutes": 1.0
-      },
-      {
-        "title": "The Blonde",
-        "artist": "TV Girl",
-        "minutes": 18.98,
-        "plays": 5,
-        "percentageOfMinutes": 1.0
-      },
-      {
         "title": "Lo on the Hi-Way",
         "artist": "Jordana",
         "minutes": 18.9,
         "plays": 8,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
-        "title": "Melanie",
+        "title": "Grapes Upon the Vine",
         "artist": "TV Girl",
-        "minutes": 18.548533333333335,
-        "plays": 4,
-        "percentageOfMinutes": 1.0
+        "minutes": 18.8,
+        "plays": 6,
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "7 Days Til Sunday",
@@ -9857,10 +9885,10 @@
         "percentageOfMinutes": 0.9
       },
       {
-        "title": "Monday, Monday",
+        "title": "It Almost Worked",
         "artist": "TV Girl",
-        "minutes": 17.75,
-        "plays": 5,
+        "minutes": 17.733333333333334,
+        "plays": 7,
         "percentageOfMinutes": 0.9
       },
       {
@@ -9871,18 +9899,11 @@
         "percentageOfMinutes": 0.9
       },
       {
-        "title": "Cynical One",
+        "title": "Pretty Boy",
         "artist": "TV Girl",
-        "minutes": 16.9045,
-        "plays": 5,
-        "percentageOfMinutes": 0.9
-      },
-      {
-        "title": "Cigarettes out the Window",
-        "artist": "TV Girl",
-        "minutes": 16.58,
-        "plays": 5,
-        "percentageOfMinutes": 0.9
+        "minutes": 16.6,
+        "plays": 6,
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "King of Echo Park",
@@ -9899,17 +9920,17 @@
         "percentageOfMinutes": 0.8
       },
       {
-        "title": "Grapes Upon the Vine",
-        "artist": "TV Girl",
-        "minutes": 15.666666666666666,
-        "plays": 5,
-        "percentageOfMinutes": 0.8
-      },
-      {
         "title": "Jane!",
         "artist": "The Long Faces",
         "minutes": 15.582166666666666,
         "plays": 5,
+        "percentageOfMinutes": 0.8
+      },
+      {
+        "title": "Daughter of a Cop",
+        "artist": "TV Girl",
+        "minutes": 15.344,
+        "plays": 6,
         "percentageOfMinutes": 0.8
       },
       {
@@ -9920,37 +9941,30 @@
         "percentageOfMinutes": 0.8
       },
       {
-        "title": "It Almost Worked",
+        "title": "Pantyhose",
         "artist": "TV Girl",
-        "minutes": 15.2,
-        "plays": 6,
-        "percentageOfMinutes": 0.8
+        "minutes": 14.751083333333334,
+        "plays": 5,
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "All The Way Through",
         "artist": "TV Girl",
         "minutes": 14.700666666666667,
         "plays": 5,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "The Night in Question",
         "artist": "TV Girl",
         "minutes": 14.604166666666666,
         "plays": 5,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "Summer's Over",
         "artist": "Jordana",
         "minutes": 14.416666666666666,
-        "plays": 5,
-        "percentageOfMinutes": 0.7
-      },
-      {
-        "title": "Pretty Boy",
-        "artist": "TV Girl",
-        "minutes": 13.833333333333334,
         "plays": 5,
         "percentageOfMinutes": 0.7
       },
@@ -9966,14 +9980,14 @@
         "artist": "Jordana",
         "minutes": 12.958333333333334,
         "plays": 5,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
-        "title": "Daughter of a Cop",
+        "title": "My Girlfriend",
         "artist": "TV Girl",
-        "minutes": 12.786666666666667,
-        "plays": 5,
-        "percentageOfMinutes": 0.7
+        "minutes": 12.4111,
+        "plays": 3,
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Summer 2000 Baby",
@@ -9986,13 +10000,6 @@
         "title": "The Desolation Tango",
         "artist": "TV Girl",
         "minutes": 12.077733333333333,
-        "plays": 4,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "Pantyhose",
-        "artist": "TV Girl",
-        "minutes": 11.800866666666666,
         "plays": 4,
         "percentageOfMinutes": 0.6
       },
@@ -10015,14 +10022,7 @@
         "artist": "TV Girl",
         "minutes": 10.696,
         "plays": 3,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "My Girlfriend",
-        "artist": "TV Girl",
-        "minutes": 8.274066666666666,
-        "plays": 2,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Blue Hair",
@@ -10052,7 +10052,7 @@
         "artist": "Clairo",
         "minutes": 488.36693333333335,
         "plays": 128,
-        "percentageOfMinutes": 1.9
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "Crying Lightning",
@@ -10083,17 +10083,17 @@
         "percentageOfMinutes": 1.2
       },
       {
+        "title": "Hate Yourself",
+        "artist": "TV Girl",
+        "minutes": 309.952,
+        "plays": 87,
+        "percentageOfMinutes": 1.2
+      },
+      {
         "title": "Brianstorm",
         "artist": "Arctic Monkeys",
         "minutes": 306.4554,
         "plays": 108,
-        "percentageOfMinutes": 1.2
-      },
-      {
-        "title": "Hate Yourself",
-        "artist": "TV Girl",
-        "minutes": 306.38933333333335,
-        "plays": 86,
         "percentageOfMinutes": 1.2
       },
       {
@@ -10108,7 +10108,7 @@
         "artist": "Arctic Monkeys",
         "minutes": 250.62275,
         "plays": 105,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "Still Take You Home",
@@ -10321,6 +10321,13 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "Natalie Wood",
+        "artist": "TV Girl",
+        "minutes": 144.0738,
+        "plays": 36,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "Sexy to Someone",
         "artist": "Clairo",
         "minutes": 141.99325,
@@ -10332,13 +10339,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 141.2052,
         "plays": 24,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Natalie Wood",
-        "artist": "TV Girl",
-        "minutes": 140.07175,
-        "plays": 35,
         "percentageOfMinutes": 0.5
       },
       {
@@ -10377,17 +10377,17 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "Loving Machine",
+        "artist": "TV Girl",
+        "minutes": 132.41666666666666,
+        "plays": 35,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "LOST IN PARADISE",
         "artist": "ALI",
         "minutes": 131.1864,
         "plays": 24,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "Loving Machine",
-        "artist": "TV Girl",
-        "minutes": 128.63333333333333,
-        "plays": 34,
         "percentageOfMinutes": 0.5
       },
       {
@@ -10423,6 +10423,13 @@
         "artist": "Clairo",
         "minutes": 124.0646,
         "plays": 33,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "Laura",
+        "artist": "TV Girl",
+        "minutes": 122.0566,
+        "plays": 34,
         "percentageOfMinutes": 0.5
       },
       {
@@ -10489,6 +10496,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "The Blonde",
+        "artist": "TV Girl",
+        "minutes": 98.696,
+        "plays": 26,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "\u61a7\u308c\u306e\u30bb\u30fc\u30b7\u30a7\u30eb\u8af8\u5cf6",
         "artist": "Masayoshi Takanaka",
         "minutes": 98.1368,
@@ -10496,24 +10510,17 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "Birds Dont Sing",
+        "artist": "TV Girl",
+        "minutes": 97.6948,
+        "plays": 28,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "KICK BACK",
         "artist": "Kenshi Yonezu",
         "minutes": 96.7475,
         "plays": 30,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "The Blonde",
-        "artist": "TV Girl",
-        "minutes": 94.9,
-        "plays": 25,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Birds Dont Sing",
-        "artist": "TV Girl",
-        "minutes": 94.2057,
-        "plays": 27,
         "percentageOfMinutes": 0.4
       },
       {
@@ -10528,7 +10535,7 @@
         "artist": "Clairo",
         "minutes": 92.2824,
         "plays": 27,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Beaches",
@@ -10542,13 +10549,6 @@
         "artist": "Arctic Monkeys",
         "minutes": 89.77278333333334,
         "plays": 19,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Laura",
-        "artist": "TV Girl",
-        "minutes": 89.7475,
-        "plays": 25,
         "percentageOfMinutes": 0.3
       },
       {
@@ -10584,6 +10584,13 @@
         "artist": "Waterflame",
         "minutes": 87.17458333333333,
         "plays": 31,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "My Girlfriend",
+        "artist": "TV Girl",
+        "minutes": 86.8777,
+        "plays": 21,
         "percentageOfMinutes": 0.3
       },
       {
@@ -10636,13 +10643,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "My Girlfriend",
-        "artist": "TV Girl",
-        "minutes": 82.74066666666667,
-        "plays": 20,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "Shame",
         "artist": "TV Girl",
         "minutes": 82.16666666666667,
@@ -10664,9 +10664,23 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Cigarettes out the Window",
+        "artist": "TV Girl",
+        "minutes": 79.584,
+        "plays": 24,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Stay Away (It's Like That)",
         "artist": "TV Girl",
         "minutes": 79.475,
+        "plays": 17,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Melanie",
+        "artist": "TV Girl",
+        "minutes": 78.83126666666666,
         "plays": 17,
         "percentageOfMinutes": 0.3
       },
@@ -10699,13 +10713,6 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "Cigarettes out the Window",
-        "artist": "TV Girl",
-        "minutes": 76.268,
-        "plays": 23,
-        "percentageOfMinutes": 0.3
-      },
-      {
         "title": "Blue Hair",
         "artist": "TV Girl",
         "minutes": 75.95,
@@ -10720,6 +10727,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "Valerie",
+        "artist": "TV Girl",
+        "minutes": 75.33333333333333,
+        "plays": 16,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Cruel Power",
         "artist": "The Happy Fits",
         "minutes": 75.24953333333333,
@@ -10731,13 +10745,6 @@
         "artist": "The Happy Fits",
         "minutes": 74.22866666666667,
         "plays": 20,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Melanie",
-        "artist": "TV Girl",
-        "minutes": 74.19413333333334,
-        "plays": 16,
         "percentageOfMinutes": 0.3
       },
       {
@@ -10769,17 +10776,24 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "She Smokes in Bed",
+        "artist": "TV Girl",
+        "minutes": 71.56135,
+        "plays": 21,
+        "percentageOfMinutes": 0.3
+      },
+      {
+        "title": "Louise",
+        "artist": "TV Girl",
+        "minutes": 71.29943333333334,
+        "plays": 22,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "I REMEMBER YOU",
         "artist": "Masayoshi Takanaka",
         "minutes": 70.85281666666667,
         "plays": 13,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Valerie",
-        "artist": "TV Girl",
-        "minutes": 70.625,
-        "plays": 15,
         "percentageOfMinutes": 0.3
       },
       {
@@ -10804,17 +10818,10 @@
         "percentageOfMinutes": 0.3
       },
       {
-        "title": "She Smokes in Bed",
+        "title": "Pretty Boy",
         "artist": "TV Girl",
-        "minutes": 68.15366666666667,
-        "plays": 20,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Louise",
-        "artist": "TV Girl",
-        "minutes": 68.05855,
-        "plays": 21,
+        "minutes": 69.16666666666667,
+        "plays": 25,
         "percentageOfMinutes": 0.3
       },
       {
@@ -10836,13 +10843,6 @@
         "artist": "The Happy Fits",
         "minutes": 66.75753333333333,
         "plays": 22,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Pretty Boy",
-        "artist": "TV Girl",
-        "minutes": 66.4,
-        "plays": 24,
         "percentageOfMinutes": 0.3
       },
       {
@@ -10902,6 +10902,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "It Almost Worked",
+        "artist": "TV Girl",
+        "minutes": 63.333333333333336,
+        "plays": 25,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "Secret Door",
         "artist": "Arctic Monkeys",
         "minutes": 63.20203333333333,
@@ -10937,13 +10944,6 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "It Almost Worked",
-        "artist": "TV Girl",
-        "minutes": 60.8,
-        "plays": 24,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "Everything You Do",
         "artist": "The Happy Fits",
         "minutes": 60.282,
@@ -10969,6 +10969,20 @@
         "artist": "Jordana",
         "minutes": 57.666666666666664,
         "plays": 20,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Cynical One",
+        "artist": "TV Girl",
+        "minutes": 57.4753,
+        "plays": 17,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Grapes Upon the Vine",
+        "artist": "TV Girl",
+        "minutes": 56.4,
+        "plays": 18,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11014,24 +11028,10 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Cynical One",
-        "artist": "TV Girl",
-        "minutes": 54.0944,
-        "plays": 16,
-        "percentageOfMinutes": 0.2
-      },
-      {
         "title": "Rock n Roll Will Break Your Heart",
         "artist": "The Fratellis",
         "minutes": 53.56666666666667,
         "plays": 10,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Grapes Upon the Vine",
-        "artist": "TV Girl",
-        "minutes": 53.266666666666666,
-        "plays": 17,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11067,6 +11067,13 @@
         "artist": "Clairo",
         "minutes": 51.6472,
         "plays": 16,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "Monday, Monday",
+        "artist": "TV Girl",
+        "minutes": 49.7,
+        "plays": 14,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11133,10 +11140,10 @@
         "percentageOfMinutes": 0.2
       },
       {
-        "title": "Monday, Monday",
+        "title": "Daughter of a Cop",
         "artist": "TV Girl",
-        "minutes": 46.15,
-        "plays": 13,
+        "minutes": 46.032,
+        "plays": 18,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11172,13 +11179,6 @@
         "artist": "The Happy Fits",
         "minutes": 43.9458,
         "plays": 12,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Daughter of a Cop",
-        "artist": "TV Girl",
-        "minutes": 43.474666666666664,
-        "plays": 17,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11221,6 +11221,13 @@
         "artist": "Bo Burnham",
         "minutes": 41.39985,
         "plays": 9,
+        "percentageOfMinutes": 0.2
+      },
+      {
+        "title": "The Getaway",
+        "artist": "TV Girl",
+        "minutes": 41.07876666666667,
+        "plays": 11,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11284,13 +11291,6 @@
         "artist": "Kesha",
         "minutes": 37.368,
         "plays": 12,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "The Getaway",
-        "artist": "TV Girl",
-        "minutes": 37.34433333333333,
-        "plays": 10,
         "percentageOfMinutes": 0.1
       },
       {
@@ -11368,6 +11368,13 @@
         "artist": "beabadoobee",
         "minutes": 32.5857,
         "plays": 7,
+        "percentageOfMinutes": 0.1
+      },
+      {
+        "title": "Pantyhose",
+        "artist": "TV Girl",
+        "minutes": 32.45238333333333,
+        "plays": 11,
         "percentageOfMinutes": 0.1
       },
       {
@@ -11515,13 +11522,6 @@
         "artist": "The Happy Fits",
         "minutes": 29.587466666666668,
         "plays": 8,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "Pantyhose",
-        "artist": "TV Girl",
-        "minutes": 29.502166666666668,
-        "plays": 10,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12600,35 +12600,35 @@
         "artist": "Clairo",
         "minutes": 13.20055,
         "plays": 3,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Poison Ooze",
         "artist": "TV Girl",
         "minutes": 13.2,
         "plays": 3,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Everything Machine",
         "artist": "half\u2022alive",
         "minutes": 13.194666666666667,
         "plays": 4,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Talk",
         "artist": "beabadoobee",
         "minutes": 13.191083333333333,
         "plays": 5,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Hot on My Heels",
         "artist": "teeawgo",
         "minutes": 13.187916666666666,
         "plays": 5,
-        "percentageOfMinutes": 0.1
+        "percentageOfMinutes": 0.0
       },
       {
         "title": "Burning Pile",
