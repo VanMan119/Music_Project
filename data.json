@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-11-08T03:44:40.593960+00:00",
-    "lastUpdated": "November 08, 2026 - 03:44 AM UTC"
+    "generatedAt": "2026-11-09T03:57:17.660030+00:00",
+    "lastUpdated": "November 09, 2026 - 03:57 AM UTC"
   },
   "artists": {
     "total": [
@@ -27,25 +27,25 @@
         "name": "The Happy Fits",
         "minutes": 2637.99,
         "plays": 806,
-        "percentageOfMinutes": 7.9
+        "percentageOfMinutes": 7.8
       },
       {
         "name": "Clairo",
         "minutes": 2371.69,
         "plays": 662,
-        "percentageOfMinutes": 7.1
+        "percentageOfMinutes": 7.0
       },
       {
         "name": "Masayoshi Takanaka",
-        "minutes": 2130.81,
-        "plays": 394,
+        "minutes": 2134.99,
+        "plays": 395,
         "percentageOfMinutes": 6.3
       },
       {
         "name": "The Fratellis",
-        "minutes": 1285.66,
-        "plays": 369,
-        "percentageOfMinutes": 3.8
+        "minutes": 1305.79,
+        "plays": 375,
+        "percentageOfMinutes": 3.9
       },
       {
         "name": "Royal Blood",
@@ -97,8 +97,8 @@
       },
       {
         "name": "The Long Faces",
-        "minutes": 227.5,
-        "plays": 73,
+        "minutes": 230.62,
+        "plays": 74,
         "percentageOfMinutes": 0.7
       },
       {
@@ -109,8 +109,8 @@
       },
       {
         "name": "The Rills",
-        "minutes": 193.47,
-        "plays": 66,
+        "minutes": 196.39,
+        "plays": 67,
         "percentageOfMinutes": 0.6
       },
       {
@@ -210,6 +210,12 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "name": "Wilco",
+        "minutes": 70.98,
+        "plays": 16,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "name": "Sidney Gish",
         "minutes": 63.76,
         "plays": 13,
@@ -225,12 +231,6 @@
         "name": "Franz Ferdinand",
         "minutes": 60.83,
         "plays": 16,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "name": "Wilco",
-        "minutes": 57.67,
-        "plays": 13,
         "percentageOfMinutes": 0.2
       },
       {
@@ -1515,39 +1515,45 @@
     "lastWeek": [
       {
         "name": "Masayoshi Takanaka",
-        "minutes": 381.77,
-        "plays": 77,
-        "percentageOfMinutes": 66.7
+        "minutes": 385.96,
+        "plays": 78,
+        "percentageOfMinutes": 66.2
       },
       {
         "name": "TV Girl",
-        "minutes": 125.63,
-        "plays": 37,
-        "percentageOfMinutes": 22.0
+        "minutes": 104.92,
+        "plays": 31,
+        "percentageOfMinutes": 18.0
       },
       {
         "name": "Wilco",
-        "minutes": 31.05,
-        "plays": 7,
-        "percentageOfMinutes": 5.4
+        "minutes": 44.36,
+        "plays": 10,
+        "percentageOfMinutes": 7.6
       },
       {
-        "name": "The Rills",
-        "minutes": 11.71,
-        "plays": 4,
-        "percentageOfMinutes": 2.0
-      },
-      {
-        "name": "Arctic Monkeys",
-        "minutes": 10.09,
-        "plays": 3,
-        "percentageOfMinutes": 1.8
+        "name": "The Fratellis",
+        "minutes": 20.13,
+        "plays": 6,
+        "percentageOfMinutes": 3.5
       },
       {
         "name": "The Long Faces",
         "minutes": 9.35,
         "plays": 3,
         "percentageOfMinutes": 1.6
+      },
+      {
+        "name": "The Rills",
+        "minutes": 8.78,
+        "plays": 3,
+        "percentageOfMinutes": 1.5
+      },
+      {
+        "name": "Arctic Monkeys",
+        "minutes": 7.2,
+        "plays": 2,
+        "percentageOfMinutes": 1.2
       },
       {
         "name": "Jordana",
@@ -1559,37 +1565,43 @@
     "month": [
       {
         "name": "Masayoshi Takanaka",
-        "minutes": 381.77,
-        "plays": 77,
-        "percentageOfMinutes": 66.7
+        "minutes": 385.96,
+        "plays": 78,
+        "percentageOfMinutes": 62.7
       },
       {
         "name": "TV Girl",
         "minutes": 125.63,
         "plays": 37,
-        "percentageOfMinutes": 22.0
+        "percentageOfMinutes": 20.4
       },
       {
         "name": "Wilco",
-        "minutes": 31.05,
-        "plays": 7,
-        "percentageOfMinutes": 5.4
+        "minutes": 44.36,
+        "plays": 10,
+        "percentageOfMinutes": 7.2
+      },
+      {
+        "name": "The Fratellis",
+        "minutes": 20.13,
+        "plays": 6,
+        "percentageOfMinutes": 3.3
       },
       {
         "name": "The Rills",
-        "minutes": 11.71,
+        "minutes": 14.64,
+        "plays": 5,
+        "percentageOfMinutes": 2.4
+      },
+      {
+        "name": "The Long Faces",
+        "minutes": 12.47,
         "plays": 4,
         "percentageOfMinutes": 2.0
       },
       {
         "name": "Arctic Monkeys",
         "minutes": 10.09,
-        "plays": 3,
-        "percentageOfMinutes": 1.8
-      },
-      {
-        "name": "The Long Faces",
-        "minutes": 9.35,
         "plays": 3,
         "percentageOfMinutes": 1.6
       },
@@ -1611,18 +1623,18 @@
         "name": "TV Girl",
         "minutes": 5648.95,
         "plays": 1645,
-        "percentageOfMinutes": 19.7
+        "percentageOfMinutes": 19.6
       },
       {
         "name": "Clairo",
         "minutes": 2371.69,
         "plays": 662,
-        "percentageOfMinutes": 8.3
+        "percentageOfMinutes": 8.2
       },
       {
         "name": "Masayoshi Takanaka",
-        "minutes": 2119.04,
-        "plays": 392,
+        "minutes": 2123.22,
+        "plays": 393,
         "percentageOfMinutes": 7.4
       },
       {
@@ -1633,8 +1645,8 @@
       },
       {
         "name": "The Fratellis",
-        "minutes": 1253.62,
-        "plays": 360,
+        "minutes": 1273.75,
+        "plays": 366,
         "percentageOfMinutes": 4.4
       },
       {
@@ -1675,8 +1687,8 @@
       },
       {
         "name": "The Long Faces",
-        "minutes": 227.5,
-        "plays": 73,
+        "minutes": 230.62,
+        "plays": 74,
         "percentageOfMinutes": 0.8
       },
       {
@@ -1693,8 +1705,8 @@
       },
       {
         "name": "The Rills",
-        "minutes": 193.47,
-        "plays": 66,
+        "minutes": 196.39,
+        "plays": 67,
         "percentageOfMinutes": 0.7
       },
       {
@@ -1782,6 +1794,12 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "name": "Wilco",
+        "minutes": 70.98,
+        "plays": 16,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "name": "Friday Pilots Club",
         "minutes": 66.47,
         "plays": 23,
@@ -1809,12 +1827,6 @@
         "name": "Gorillaz",
         "minutes": 58.04,
         "plays": 16,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "name": "Wilco",
-        "minutes": 57.67,
-        "plays": 13,
         "percentageOfMinutes": 0.2
       },
       {
@@ -3125,7 +3137,7 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 252.2736,
         "plays": 32,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "The Bad Thing",
@@ -3151,8 +3163,8 @@
       {
         "title": "Jane!",
         "artist": "The Long Faces",
-        "minutes": 227.49963333333332,
-        "plays": 73,
+        "minutes": 230.61606666666665,
+        "plays": 74,
         "percentageOfMinutes": 0.7
       },
       {
@@ -3221,8 +3233,15 @@
       {
         "title": "Bones",
         "artist": "The Rills",
-        "minutes": 190.32,
-        "plays": 65,
+        "minutes": 193.248,
+        "plays": 66,
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "She's Not Gone Yet but She's Leaving",
+        "artist": "The Fratellis",
+        "minutes": 191.83333333333334,
+        "plays": 50,
         "percentageOfMinutes": 0.6
       },
       {
@@ -3244,13 +3263,6 @@
         "artist": "Clairo",
         "minutes": 184.5621,
         "plays": 54,
-        "percentageOfMinutes": 0.5
-      },
-      {
-        "title": "She's Not Gone Yet but She's Leaving",
-        "artist": "The Fratellis",
-        "minutes": 184.16,
-        "plays": 48,
         "percentageOfMinutes": 0.5
       },
       {
@@ -3326,8 +3338,8 @@
       {
         "title": "Creepin Up The Backstairs",
         "artist": "The Fratellis",
-        "minutes": 167.6394,
-        "plays": 54,
+        "minutes": 170.74383333333333,
+        "plays": 55,
         "percentageOfMinutes": 0.5
       },
       {
@@ -3562,6 +3574,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "Henrietta",
+        "artist": "The Fratellis",
+        "minutes": 119.9214,
+        "plays": 34,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "Song About Me",
         "artist": "TV Girl",
         "minutes": 117.80138333333333,
@@ -3573,7 +3592,7 @@
         "artist": "TV Girl",
         "minutes": 117.70833333333333,
         "plays": 25,
-        "percentageOfMinutes": 0.4
+        "percentageOfMinutes": 0.3
       },
       {
         "title": "Soren",
@@ -3594,13 +3613,6 @@
         "artist": "TV Girl",
         "minutes": 116.6718,
         "plays": 36,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "Henrietta",
-        "artist": "The Fratellis",
-        "minutes": 116.3943,
-        "plays": 33,
         "percentageOfMinutes": 0.3
       },
       {
@@ -3926,6 +3938,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "For The Girl",
+        "artist": "The Fratellis",
+        "minutes": 89.1376,
+        "plays": 32,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Fake Tales Of San Francisco",
         "artist": "Arctic Monkeys",
         "minutes": 88.973,
@@ -3957,13 +3976,6 @@
         "title": "The Race Around the World",
         "artist": "Waterflame",
         "minutes": 87.17458333333333,
-        "plays": 31,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "For The Girl",
-        "artist": "The Fratellis",
-        "minutes": 86.35205,
         "plays": 31,
         "percentageOfMinutes": 0.3
       },
@@ -4199,6 +4211,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Walken",
+        "artist": "Wilco",
+        "minutes": 70.976,
+        "plays": 16,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "One Time",
         "artist": "beabadoobee",
         "minutes": 70.76333333333334,
@@ -4378,13 +4397,6 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 58.66883333333333,
         "plays": 10,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Walken",
-        "artist": "Wilco",
-        "minutes": 57.668,
-        "plays": 13,
         "percentageOfMinutes": 0.2
       },
       {
@@ -4934,6 +4946,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "My Friend John",
+        "artist": "The Fratellis",
+        "minutes": 30.3955,
+        "plays": 10,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Baby Don't You Lie to Me!",
         "artist": "The Fratellis",
         "minutes": 30.371466666666667,
@@ -5092,13 +5111,6 @@
         "artist": "Bo Burnham",
         "minutes": 27.5714,
         "plays": 4,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "My Friend John",
-        "artist": "The Fratellis",
-        "minutes": 27.35595,
-        "plays": 9,
         "percentageOfMinutes": 0.1
       },
       {
@@ -5417,6 +5429,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "E. S. P.",
+        "artist": "Masayoshi Takanaka",
+        "minutes": 20.916666666666668,
+        "plays": 5,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "In The Lobby",
         "artist": "The Happy Fits",
         "minutes": 20.855333333333334,
@@ -5686,13 +5705,6 @@
         "title": "Better Strangers",
         "artist": "Royal Blood",
         "minutes": 16.815066666666667,
-        "plays": 4,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "E. S. P.",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 16.733333333333334,
         "plays": 4,
         "percentageOfMinutes": 0.0
       },
@@ -9164,74 +9176,60 @@
     ],
     "lastWeek": [
       {
+        "title": "Walken",
+        "artist": "Wilco",
+        "minutes": 44.36,
+        "plays": 10,
+        "percentageOfMinutes": 7.6
+      },
+      {
         "title": "THUNDER STORM",
         "artist": "Masayoshi Takanaka",
         "minutes": 32.0955,
         "plays": 10,
-        "percentageOfMinutes": 5.6
-      },
-      {
-        "title": "Walken",
-        "artist": "Wilco",
-        "minutes": 31.052,
-        "plays": 7,
-        "percentageOfMinutes": 5.4
+        "percentageOfMinutes": 5.5
       },
       {
         "title": "BREEZIN'",
         "artist": "Masayoshi Takanaka",
         "minutes": 17.5,
         "plays": 3,
-        "percentageOfMinutes": 3.1
+        "percentageOfMinutes": 3.0
       },
       {
         "title": "BELEZA PULA",
         "artist": "Masayoshi Takanaka",
         "minutes": 15.7671,
         "plays": 2,
-        "percentageOfMinutes": 2.8
+        "percentageOfMinutes": 2.7
       },
       {
         "title": "BLUE LAGOON",
         "artist": "Masayoshi Takanaka",
         "minutes": 15.25,
         "plays": 3,
-        "percentageOfMinutes": 2.7
-      },
-      {
-        "title": "Anjela",
-        "artist": "TV Girl",
-        "minutes": 14.939533333333333,
-        "plays": 4,
         "percentageOfMinutes": 2.6
-      },
-      {
-        "title": "Laura",
-        "artist": "TV Girl",
-        "minutes": 14.3596,
-        "plays": 4,
-        "percentageOfMinutes": 2.5
       },
       {
         "title": "\u4f0a\u8c46\u7518\u590f\u7d0d\u8c46\u58f2\u308a",
         "artist": "Masayoshi Takanaka",
         "minutes": 13.633333333333333,
         "plays": 2,
-        "percentageOfMinutes": 2.4
+        "percentageOfMinutes": 2.3
       },
       {
         "title": "MALIBU",
         "artist": "Masayoshi Takanaka",
         "minutes": 12.5,
         "plays": 2,
-        "percentageOfMinutes": 2.2
+        "percentageOfMinutes": 2.1
       },
       {
         "title": "RAINBOW",
         "artist": "Masayoshi Takanaka",
         "minutes": 12.453333333333333,
         "plays": 2,
-        "percentageOfMinutes": 2.2
+        "percentageOfMinutes": 2.1
       },
       {
         "title": "\u61a7\u308c\u306e\u30bb\u30fc\u30b7\u30a7\u30eb\u8af8\u5cf6",
@@ -9252,20 +9250,13 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 11.7671,
         "plays": 2,
-        "percentageOfMinutes": 2.1
+        "percentageOfMinutes": 2.0
       },
       {
         "title": "SEXY DANCE",
         "artist": "Masayoshi Takanaka",
         "minutes": 11.733766666666666,
         "plays": 2,
-        "percentageOfMinutes": 2.1
-      },
-      {
-        "title": "Bones",
-        "artist": "The Rills",
-        "minutes": 11.712,
-        "plays": 4,
         "percentageOfMinutes": 2.0
       },
       {
@@ -9283,13 +9274,6 @@
         "percentageOfMinutes": 2.0
       },
       {
-        "title": "Not Allowed",
-        "artist": "TV Girl",
-        "minutes": 11.190933333333334,
-        "plays": 4,
-        "percentageOfMinutes": 2.0
-      },
-      {
         "title": "BLUE CURACAO",
         "artist": "Masayoshi Takanaka",
         "minutes": 10.9422,
@@ -9304,17 +9288,17 @@
         "percentageOfMinutes": 1.9
       },
       {
+        "title": "Laura",
+        "artist": "TV Girl",
+        "minutes": 10.7697,
+        "plays": 3,
+        "percentageOfMinutes": 1.8
+      },
+      {
         "title": "SPEED OF LOVE",
         "artist": "Masayoshi Takanaka",
         "minutes": 10.566666666666666,
         "plays": 2,
-        "percentageOfMinutes": 1.8
-      },
-      {
-        "title": "Taking What's Not Yours",
-        "artist": "TV Girl",
-        "minutes": 10.2825,
-        "plays": 3,
         "percentageOfMinutes": 1.8
       },
       {
@@ -9329,7 +9313,7 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 10.150216666666667,
         "plays": 1,
-        "percentageOfMinutes": 1.8
+        "percentageOfMinutes": 1.7
       },
       {
         "title": "Jane!",
@@ -9360,6 +9344,13 @@
         "percentageOfMinutes": 1.6
       },
       {
+        "title": "Bones",
+        "artist": "The Rills",
+        "minutes": 8.784,
+        "plays": 3,
+        "percentageOfMinutes": 1.5
+      },
+      {
         "title": "Cry Baby Cry",
         "artist": "Masayoshi Takanaka",
         "minutes": 8.5902,
@@ -9367,11 +9358,25 @@
         "percentageOfMinutes": 1.5
       },
       {
+        "title": "Not Allowed",
+        "artist": "TV Girl",
+        "minutes": 8.3932,
+        "plays": 3,
+        "percentageOfMinutes": 1.4
+      },
+      {
         "title": "PALM STREET",
         "artist": "Masayoshi Takanaka",
         "minutes": 8.0,
         "plays": 2,
         "percentageOfMinutes": 1.4
+      },
+      {
+        "title": "She's Not Gone Yet but She's Leaving",
+        "artist": "The Fratellis",
+        "minutes": 7.673333333333333,
+        "plays": 2,
+        "percentageOfMinutes": 1.3
       },
       {
         "title": "The Blonde",
@@ -9384,6 +9389,13 @@
         "title": "FINGER DANCIN\u2019",
         "artist": "Masayoshi Takanaka",
         "minutes": 7.523533333333333,
+        "plays": 2,
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "Anjela",
+        "artist": "TV Girl",
+        "minutes": 7.469766666666667,
         "plays": 2,
         "percentageOfMinutes": 1.3
       },
@@ -9420,7 +9432,7 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 6.016883333333333,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "ALONE",
@@ -9434,7 +9446,7 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 5.450216666666667,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "GOOD (BAD?) OLD DAYS",
@@ -9469,7 +9481,7 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 4.900216666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "\u30b5\u30e8\u30ca\u30e9\u30fb\u30fb\u30fb\u30fb\u30fb\u30fbFUJI\u3055\u3093",
@@ -9483,12 +9495,19 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 4.338883333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "OH! TENGO SUERTE",
         "artist": "Masayoshi Takanaka",
         "minutes": 4.2111,
+        "plays": 1,
+        "percentageOfMinutes": 0.7
+      },
+      {
+        "title": "E. S. P.",
+        "artist": "Masayoshi Takanaka",
+        "minutes": 4.183333333333334,
         "plays": 1,
         "percentageOfMinutes": 0.7
       },
@@ -9525,21 +9544,21 @@
         "artist": "TV Girl",
         "minutes": 3.783333333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "STAR WARS SAMBA",
         "artist": "Masayoshi Takanaka",
         "minutes": 3.7502166666666668,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Crying Lightning",
         "artist": "Arctic Monkeys",
         "minutes": 3.7471,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "GASCON COCKTAIL",
@@ -9577,6 +9596,13 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "Henrietta",
+        "artist": "The Fratellis",
+        "minutes": 3.5271,
+        "plays": 1,
+        "percentageOfMinutes": 0.6
+      },
+      {
         "title": "Birds Dont Sing",
         "artist": "TV Girl",
         "minutes": 3.4891,
@@ -9594,6 +9620,13 @@
         "title": "Till You Tell Me to Leave",
         "artist": "TV Girl",
         "minutes": 3.4437166666666665,
+        "plays": 1,
+        "percentageOfMinutes": 0.6
+      },
+      {
+        "title": "Taking What's Not Yours",
+        "artist": "TV Girl",
+        "minutes": 3.4275,
         "plays": 1,
         "percentageOfMinutes": 0.6
       },
@@ -9619,6 +9652,20 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "Creepin Up The Backstairs",
+        "artist": "The Fratellis",
+        "minutes": 3.104433333333333,
+        "plays": 1,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "My Friend John",
+        "artist": "The Fratellis",
+        "minutes": 3.03955,
+        "plays": 1,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "Pantyhose",
         "artist": "TV Girl",
         "minutes": 2.9502166666666665,
@@ -9626,9 +9673,9 @@
         "percentageOfMinutes": 0.5
       },
       {
-        "title": "Fluorescent Adolescent",
-        "artist": "Arctic Monkeys",
-        "minutes": 2.89155,
+        "title": "For The Girl",
+        "artist": "The Fratellis",
+        "minutes": 2.78555,
         "plays": 1,
         "percentageOfMinutes": 0.5
       },
@@ -9670,178 +9717,178 @@
     ],
     "month": [
       {
+        "title": "Walken",
+        "artist": "Wilco",
+        "minutes": 44.36,
+        "plays": 10,
+        "percentageOfMinutes": 7.2
+      },
+      {
         "title": "THUNDER STORM",
         "artist": "Masayoshi Takanaka",
         "minutes": 32.0955,
         "plays": 10,
-        "percentageOfMinutes": 5.6
-      },
-      {
-        "title": "Walken",
-        "artist": "Wilco",
-        "minutes": 31.052,
-        "plays": 7,
-        "percentageOfMinutes": 5.4
+        "percentageOfMinutes": 5.2
       },
       {
         "title": "BREEZIN'",
         "artist": "Masayoshi Takanaka",
         "minutes": 17.5,
         "plays": 3,
-        "percentageOfMinutes": 3.1
+        "percentageOfMinutes": 2.8
       },
       {
         "title": "BELEZA PULA",
         "artist": "Masayoshi Takanaka",
         "minutes": 15.7671,
         "plays": 2,
-        "percentageOfMinutes": 2.8
+        "percentageOfMinutes": 2.6
       },
       {
         "title": "BLUE LAGOON",
         "artist": "Masayoshi Takanaka",
         "minutes": 15.25,
         "plays": 3,
-        "percentageOfMinutes": 2.7
+        "percentageOfMinutes": 2.5
       },
       {
         "title": "Anjela",
         "artist": "TV Girl",
         "minutes": 14.939533333333333,
         "plays": 4,
-        "percentageOfMinutes": 2.6
+        "percentageOfMinutes": 2.4
+      },
+      {
+        "title": "Bones",
+        "artist": "The Rills",
+        "minutes": 14.64,
+        "plays": 5,
+        "percentageOfMinutes": 2.4
       },
       {
         "title": "Laura",
         "artist": "TV Girl",
         "minutes": 14.3596,
         "plays": 4,
-        "percentageOfMinutes": 2.5
+        "percentageOfMinutes": 2.3
       },
       {
         "title": "\u4f0a\u8c46\u7518\u590f\u7d0d\u8c46\u58f2\u308a",
         "artist": "Masayoshi Takanaka",
         "minutes": 13.633333333333333,
         "plays": 2,
-        "percentageOfMinutes": 2.4
+        "percentageOfMinutes": 2.2
       },
       {
         "title": "MALIBU",
         "artist": "Masayoshi Takanaka",
         "minutes": 12.5,
         "plays": 2,
-        "percentageOfMinutes": 2.2
+        "percentageOfMinutes": 2.0
+      },
+      {
+        "title": "Jane!",
+        "artist": "The Long Faces",
+        "minutes": 12.465733333333333,
+        "plays": 4,
+        "percentageOfMinutes": 2.0
       },
       {
         "title": "RAINBOW",
         "artist": "Masayoshi Takanaka",
         "minutes": 12.453333333333333,
         "plays": 2,
-        "percentageOfMinutes": 2.2
+        "percentageOfMinutes": 2.0
       },
       {
         "title": "\u61a7\u308c\u306e\u30bb\u30fc\u30b7\u30a7\u30eb\u8af8\u5cf6",
         "artist": "Masayoshi Takanaka",
         "minutes": 12.2671,
         "plays": 2,
-        "percentageOfMinutes": 2.1
+        "percentageOfMinutes": 2.0
       },
       {
         "title": "Natalie Wood",
         "artist": "TV Girl",
         "minutes": 12.00615,
         "plays": 3,
-        "percentageOfMinutes": 2.1
+        "percentageOfMinutes": 2.0
       },
       {
         "title": "BRASILIAN SKIES",
         "artist": "Masayoshi Takanaka",
         "minutes": 11.7671,
         "plays": 2,
-        "percentageOfMinutes": 2.1
+        "percentageOfMinutes": 1.9
       },
       {
         "title": "SEXY DANCE",
         "artist": "Masayoshi Takanaka",
         "minutes": 11.733766666666666,
         "plays": 2,
-        "percentageOfMinutes": 2.1
-      },
-      {
-        "title": "Bones",
-        "artist": "The Rills",
-        "minutes": 11.712,
-        "plays": 4,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 1.9
       },
       {
         "title": "SAMBA PATI",
         "artist": "Masayoshi Takanaka",
         "minutes": 11.486666666666666,
         "plays": 2,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 1.9
       },
       {
         "title": "THE MOON ROSE",
         "artist": "Masayoshi Takanaka",
         "minutes": 11.3902,
         "plays": 2,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 1.9
       },
       {
         "title": "Not Allowed",
         "artist": "TV Girl",
         "minutes": 11.190933333333334,
         "plays": 4,
-        "percentageOfMinutes": 2.0
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "BLUE CURACAO",
         "artist": "Masayoshi Takanaka",
         "minutes": 10.9422,
         "plays": 2,
-        "percentageOfMinutes": 1.9
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "I REMEMBER CLIFFORD",
         "artist": "Masayoshi Takanaka",
         "minutes": 10.833766666666667,
         "plays": 2,
-        "percentageOfMinutes": 1.9
+        "percentageOfMinutes": 1.8
       },
       {
         "title": "SPEED OF LOVE",
         "artist": "Masayoshi Takanaka",
         "minutes": 10.566666666666666,
         "plays": 2,
-        "percentageOfMinutes": 1.8
+        "percentageOfMinutes": 1.7
       },
       {
         "title": "Taking What's Not Yours",
         "artist": "TV Girl",
         "minutes": 10.2825,
         "plays": 3,
-        "percentageOfMinutes": 1.8
+        "percentageOfMinutes": 1.7
       },
       {
         "title": "RADIO RIO",
         "artist": "Masayoshi Takanaka",
         "minutes": 10.2222,
         "plays": 2,
-        "percentageOfMinutes": 1.8
+        "percentageOfMinutes": 1.7
       },
       {
         "title": "AN INSATIABLE HIGH",
         "artist": "Masayoshi Takanaka",
         "minutes": 10.150216666666667,
         "plays": 1,
-        "percentageOfMinutes": 1.8
-      },
-      {
-        "title": "Jane!",
-        "artist": "The Long Faces",
-        "minutes": 9.3493,
-        "plays": 3,
         "percentageOfMinutes": 1.6
       },
       {
@@ -9849,56 +9896,63 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 9.333766666666667,
         "plays": 2,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "Chill Me Out",
         "artist": "Masayoshi Takanaka",
         "minutes": 9.233333333333333,
         "plays": 2,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "A Fair Wind",
         "artist": "Masayoshi Takanaka",
         "minutes": 9.1,
         "plays": 2,
-        "percentageOfMinutes": 1.6
+        "percentageOfMinutes": 1.5
       },
       {
         "title": "Cry Baby Cry",
         "artist": "Masayoshi Takanaka",
         "minutes": 8.5902,
         "plays": 2,
-        "percentageOfMinutes": 1.5
+        "percentageOfMinutes": 1.4
       },
       {
         "title": "PALM STREET",
         "artist": "Masayoshi Takanaka",
         "minutes": 8.0,
         "plays": 2,
-        "percentageOfMinutes": 1.4
+        "percentageOfMinutes": 1.3
+      },
+      {
+        "title": "She's Not Gone Yet but She's Leaving",
+        "artist": "The Fratellis",
+        "minutes": 7.673333333333333,
+        "plays": 2,
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "The Blonde",
         "artist": "TV Girl",
         "minutes": 7.592,
         "plays": 2,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "FINGER DANCIN\u2019",
         "artist": "Masayoshi Takanaka",
         "minutes": 7.523533333333333,
         "plays": 2,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "STRAIGHTFROMYOURHEART",
         "artist": "Masayoshi Takanaka",
         "minutes": 7.397766666666667,
         "plays": 2,
-        "percentageOfMinutes": 1.3
+        "percentageOfMinutes": 1.2
       },
       {
         "title": "Hate Yourself",
@@ -9919,28 +9973,28 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 6.243333333333333,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "MAMBO MAGIC",
         "artist": "Masayoshi Takanaka",
         "minutes": 6.016883333333333,
         "plays": 1,
-        "percentageOfMinutes": 1.1
+        "percentageOfMinutes": 1.0
       },
       {
         "title": "ALONE",
         "artist": "Masayoshi Takanaka",
         "minutes": 5.683333333333334,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "I REMEMBER YOU",
         "artist": "Masayoshi Takanaka",
         "minutes": 5.450216666666667,
         "plays": 1,
-        "percentageOfMinutes": 1.0
+        "percentageOfMinutes": 0.9
       },
       {
         "title": "GOOD (BAD?) OLD DAYS",
@@ -9954,47 +10008,54 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 5.166666666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "JUST THE WAY YOU ARE",
         "artist": "Masayoshi Takanaka",
         "minutes": 5.14555,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "TAJ MAHAL",
         "artist": "Masayoshi Takanaka",
         "minutes": 5.138883333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "NIGHTS",
         "artist": "Masayoshi Takanaka",
         "minutes": 4.900216666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.9
+        "percentageOfMinutes": 0.8
       },
       {
         "title": "\u30b5\u30e8\u30ca\u30e9\u30fb\u30fb\u30fb\u30fb\u30fb\u30fbFUJI\u3055\u3093",
         "artist": "Masayoshi Takanaka",
         "minutes": 4.466666666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ec\u30ae\u30fc",
         "artist": "Masayoshi Takanaka",
         "minutes": 4.338883333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.8
+        "percentageOfMinutes": 0.7
       },
       {
         "title": "OH! TENGO SUERTE",
         "artist": "Masayoshi Takanaka",
         "minutes": 4.2111,
+        "plays": 1,
+        "percentageOfMinutes": 0.7
+      },
+      {
+        "title": "E. S. P.",
+        "artist": "Masayoshi Takanaka",
+        "minutes": 4.183333333333334,
         "plays": 1,
         "percentageOfMinutes": 0.7
       },
@@ -10010,42 +10071,42 @@
         "artist": "Masayoshi Takanaka",
         "minutes": 3.98355,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "MY SECRET BEACH",
         "artist": "Masayoshi Takanaka",
         "minutes": 3.963766666666667,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "I'll Be Faithful",
         "artist": "TV Girl",
         "minutes": 3.933333333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Loving Machine",
         "artist": "TV Girl",
         "minutes": 3.783333333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "STAR WARS SAMBA",
         "artist": "Masayoshi Takanaka",
         "minutes": 3.7502166666666668,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "Crying Lightning",
         "artist": "Arctic Monkeys",
         "minutes": 3.7471,
         "plays": 1,
-        "percentageOfMinutes": 0.7
+        "percentageOfMinutes": 0.6
       },
       {
         "title": "GASCON COCKTAIL",
@@ -10083,6 +10144,13 @@
         "percentageOfMinutes": 0.6
       },
       {
+        "title": "Henrietta",
+        "artist": "The Fratellis",
+        "minutes": 3.5271,
+        "plays": 1,
+        "percentageOfMinutes": 0.6
+      },
+      {
         "title": "Birds Dont Sing",
         "artist": "TV Girl",
         "minutes": 3.4891,
@@ -10115,12 +10183,26 @@
         "artist": "TV Girl",
         "minutes": 3.240883333333333,
         "plays": 1,
-        "percentageOfMinutes": 0.6
+        "percentageOfMinutes": 0.5
       },
       {
         "title": "Grapes Upon the Vine",
         "artist": "TV Girl",
         "minutes": 3.1333333333333333,
+        "plays": 1,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "Creepin Up The Backstairs",
+        "artist": "The Fratellis",
+        "minutes": 3.104433333333333,
+        "plays": 1,
+        "percentageOfMinutes": 0.5
+      },
+      {
+        "title": "My Friend John",
+        "artist": "The Fratellis",
+        "minutes": 3.03955,
         "plays": 1,
         "percentageOfMinutes": 0.5
       },
@@ -10139,11 +10221,18 @@
         "percentageOfMinutes": 0.5
       },
       {
+        "title": "For The Girl",
+        "artist": "The Fratellis",
+        "minutes": 2.78555,
+        "plays": 1,
+        "percentageOfMinutes": 0.5
+      },
+      {
         "title": "Pretty Boy",
         "artist": "TV Girl",
         "minutes": 2.7666666666666666,
         "plays": 1,
-        "percentageOfMinutes": 0.5
+        "percentageOfMinutes": 0.4
       },
       {
         "title": "Daughter of a Cop",
@@ -10269,8 +10358,8 @@
       {
         "title": "Jane!",
         "artist": "The Long Faces",
-        "minutes": 227.49963333333332,
-        "plays": 73,
+        "minutes": 230.61606666666665,
+        "plays": 74,
         "percentageOfMinutes": 0.8
       },
       {
@@ -10339,8 +10428,15 @@
       {
         "title": "Bones",
         "artist": "The Rills",
-        "minutes": 190.32,
-        "plays": 65,
+        "minutes": 193.248,
+        "plays": 66,
+        "percentageOfMinutes": 0.7
+      },
+      {
+        "title": "She's Not Gone Yet but She's Leaving",
+        "artist": "The Fratellis",
+        "minutes": 191.83333333333334,
+        "plays": 50,
         "percentageOfMinutes": 0.7
       },
       {
@@ -10355,13 +10451,6 @@
         "artist": "Clairo",
         "minutes": 184.5621,
         "plays": 54,
-        "percentageOfMinutes": 0.6
-      },
-      {
-        "title": "She's Not Gone Yet but She's Leaving",
-        "artist": "The Fratellis",
-        "minutes": 184.16,
-        "plays": 48,
         "percentageOfMinutes": 0.6
       },
       {
@@ -10409,8 +10498,8 @@
       {
         "title": "Creepin Up The Backstairs",
         "artist": "The Fratellis",
-        "minutes": 167.6394,
-        "plays": 54,
+        "minutes": 170.74383333333333,
+        "plays": 55,
         "percentageOfMinutes": 0.6
       },
       {
@@ -10715,6 +10804,13 @@
         "percentageOfMinutes": 0.4
       },
       {
+        "title": "Henrietta",
+        "artist": "The Fratellis",
+        "minutes": 105.813,
+        "plays": 30,
+        "percentageOfMinutes": 0.4
+      },
+      {
         "title": "99.5",
         "artist": "TV Girl",
         "minutes": 105.1872,
@@ -10726,13 +10822,6 @@
         "artist": "The Fratellis",
         "minutes": 103.64426666666667,
         "plays": 32,
-        "percentageOfMinutes": 0.4
-      },
-      {
-        "title": "Henrietta",
-        "artist": "The Fratellis",
-        "minutes": 102.2859,
-        "plays": 29,
         "percentageOfMinutes": 0.4
       },
       {
@@ -10855,6 +10944,13 @@
         "percentageOfMinutes": 0.3
       },
       {
+        "title": "For The Girl",
+        "artist": "The Fratellis",
+        "minutes": 89.1376,
+        "plays": 32,
+        "percentageOfMinutes": 0.3
+      },
+      {
         "title": "Fake Tales Of San Francisco",
         "artist": "Arctic Monkeys",
         "minutes": 88.973,
@@ -10886,13 +10982,6 @@
         "title": "The Race Around the World",
         "artist": "Waterflame",
         "minutes": 87.17458333333333,
-        "plays": 31,
-        "percentageOfMinutes": 0.3
-      },
-      {
-        "title": "For The Girl",
-        "artist": "The Fratellis",
-        "minutes": 86.35205,
         "plays": 31,
         "percentageOfMinutes": 0.3
       },
@@ -11072,6 +11161,13 @@
         "percentageOfMinutes": 0.2
       },
       {
+        "title": "Walken",
+        "artist": "Wilco",
+        "minutes": 70.976,
+        "plays": 16,
+        "percentageOfMinutes": 0.2
+      },
+      {
         "title": "The Night in Question",
         "artist": "TV Girl",
         "minutes": 70.1,
@@ -11216,13 +11312,6 @@
         "artist": "beabadoobee",
         "minutes": 58.25086666666667,
         "plays": 22,
-        "percentageOfMinutes": 0.2
-      },
-      {
-        "title": "Walken",
-        "artist": "Wilco",
-        "minutes": 57.668,
-        "plays": 13,
         "percentageOfMinutes": 0.2
       },
       {
@@ -11674,6 +11763,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "My Friend John",
+        "artist": "The Fratellis",
+        "minutes": 30.3955,
+        "plays": 10,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Baby Don't You Lie to Me!",
         "artist": "The Fratellis",
         "minutes": 30.371466666666667,
@@ -11874,13 +11970,6 @@
         "artist": "Tame Impala",
         "minutes": 27.3744,
         "plays": 8,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "My Friend John",
-        "artist": "The Fratellis",
-        "minutes": 27.35595,
-        "plays": 9,
         "percentageOfMinutes": 0.1
       },
       {
@@ -12234,6 +12323,13 @@
         "percentageOfMinutes": 0.1
       },
       {
+        "title": "E. S. P.",
+        "artist": "Masayoshi Takanaka",
+        "minutes": 20.916666666666668,
+        "plays": 5,
+        "percentageOfMinutes": 0.1
+      },
+      {
         "title": "Powerlines",
         "artist": "beabadoobee",
         "minutes": 20.812283333333333,
@@ -12560,13 +12656,6 @@
         "artist": "beabadoobee",
         "minutes": 16.909866666666666,
         "plays": 8,
-        "percentageOfMinutes": 0.1
-      },
-      {
-        "title": "E. S. P.",
-        "artist": "Masayoshi Takanaka",
-        "minutes": 16.733333333333334,
-        "plays": 4,
         "percentageOfMinutes": 0.1
       },
       {
